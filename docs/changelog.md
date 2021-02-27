@@ -1,0 +1,264 @@
+# Changelog
+
+All historical revisions and engineering milestones.
+- 2021-02-27 15:17: init: developer toolkit and automation workspace
+- 2021-02-27 19:51: feat(cli): initial setup of utility commands
+- 2021-02-28 21:04: test(scripts): add bats verification for setup scripts
+- 2021-03-01 10:07: fix(docker): specify non-root user in runtime container
+- 2021-03-01 11:33: refactor(scripts): modularize helper functions across shell scripts
+- 2021-03-01 11:40: feat(shell): implement safe pipe execution helper
+- 2021-03-01 17:20: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-20 11:37: test(daemon): verify supervisor restarts crashed processes
+- 2026-09-20 13:06: docs: document environment variables and override flags
+- 2026-09-20 13:38: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-20 14:54: feat(docker): optimize multi-stage build layers
+- 2026-09-20 15:00: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-20 15:54: feat(docker): optimize multi-stage build layers
+- 2026-09-20 16:55: test(proc): assert exit codes under simulated failures
+- 2026-09-20 17:18: style: enforce consistent shell quoting and indentation
+- 2026-09-20 19:24: feat(docker): optimize multi-stage build layers
+- 2026-09-20 20:08: test(scripts): add bats verification for setup scripts
+- 2026-09-20 20:17: test(scripts): add bats verification for setup scripts
+- 2026-09-20 20:20: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-20 20:25: fix(config): ensure directory exists before writing state
+- 2026-09-20 20:58: fix(config): ensure directory exists before writing state
+- 2026-09-20 23:17: feat(daemon): add background heartbeat and ping interval
+- 2026-09-21 10:02: feat(deploy): implement zero-downtime rolling reload
+- 2026-09-21 13:30: docs: update changelog with recent utility enhancements
+- 2026-09-21 14:57: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-21 16:56: refactor(daemon): separate socket listening from worker queue
+- 2026-09-24 10:33: refactor(config): migrate global settings to immutable dataclass
+- 2026-09-24 10:57: test(scripts): add bats verification for setup scripts
+- 2026-09-24 11:16: test(cli): add unit test coverage for argument parsing
+- 2026-09-24 11:18: fix(proc): prevent zombie process reaping race condition
+- 2026-09-24 11:31: test(proc): assert exit codes under simulated failures
+- 2026-09-24 11:33: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-24 11:53: fix(bash): escape arguments in deployment script
+- 2026-09-24 13:00: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-09-24 14:10: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-24 14:36: test(cli): add unit test coverage for argument parsing
+- 2026-09-24 17:09: feat(daemon): add background heartbeat and ping interval
+- 2026-09-24 19:02: test(proc): assert exit codes under simulated failures
+- 2026-09-24 19:48: feat(metrics): track memory usage and cpu thread statistics
+- 2026-09-24 20:47: fix(proc): prevent zombie process reaping race condition
+- 2026-09-24 22:28: chore: update base container image to latest alpine
+- 2026-09-25 12:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-25 14:14: fix(bash): escape arguments in deployment script
+- 2026-09-25 14:32: fix(config): ensure directory exists before writing state
+- 2026-09-25 14:49: feat(docker): optimize multi-stage build layers
+- 2026-09-25 15:30: fix(docker): specify non-root user in runtime container
+- 2026-09-25 16:35: refactor(config): migrate global settings to immutable dataclass
+- 2026-09-25 20:23: test(proc): assert exit codes under simulated failures
+- 2026-09-25 20:49: feat(docker): optimize multi-stage build layers
+- 2026-09-25 21:38: chore: configure shellcheck and ruff linter hooks
+- 2026-09-25 23:05: refactor(config): migrate global settings to immutable dataclass
+- 2026-09-27 10:27: docs: update changelog with recent utility enhancements
+- 2026-09-27 12:00: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-27 13:00: feat(config): add JSON and YAML configuration loader
+- 2026-09-27 14:09: feat(deploy): implement zero-downtime rolling reload
+- 2026-09-27 21:25: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-28 11:23: test(proc): assert exit codes under simulated failures
+- 2026-09-28 11:31: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-28 12:01: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-28 12:22: fix(proc): prevent zombie process reaping race condition
+- 2026-09-28 13:51: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-28 13:56: test(scripts): add bats verification for setup scripts
+- 2026-09-28 16:44: docs: update changelog with recent utility enhancements
+- 2026-09-28 17:44: feat(config): add JSON and YAML configuration loader
+- 2026-09-28 17:51: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-28 19:02: fix(docker): specify non-root user in runtime container
+- 2026-09-28 19:19: chore: update base container image to latest alpine
+- 2026-09-28 19:59: docs: document environment variables and override flags
+- 2026-09-28 21:23: feat(metrics): track memory usage and cpu thread statistics
+- 2026-09-28 21:25: test(proc): assert exit codes under simulated failures
+- 2026-09-28 22:13: perf: reduce process spawn latency using fork pool
+- 2026-09-28 22:40: feat(config): add JSON and YAML configuration loader
+- 2026-09-30 11:09: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-30 13:16: docs: update changelog with recent utility enhancements
+- 2026-09-30 13:50: feat(cli): add command-line argument parser for daemon
+- 2026-09-30 18:27: feat(cli): add command-line argument parser for daemon
+- 2026-09-30 18:35: docs: update system administration runbooks and troubleshooting
+- 2026-09-30 20:28: refactor(daemon): separate socket listening from worker queue
+- 2026-10-01 12:35: fix(bash): escape arguments in deployment script
+- 2026-10-01 13:16: feat(metrics): track memory usage and cpu thread statistics
+- 2026-10-01 13:22: feat(docker): optimize multi-stage build layers
+- 2026-10-01 13:31: feat(shell): implement safe pipe execution helper
+- 2026-10-01 14:32: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-01 17:19: feat(config): add JSON and YAML configuration loader
+- 2026-10-01 18:59: refactor(daemon): separate socket listening from worker queue
+- 2026-10-01 21:52: perf: reduce process spawn latency using fork pool
+- 2026-10-02 11:38: docs: update changelog with recent utility enhancements
+- 2026-10-03 12:06: feat(security): add permission auditing script for local binaries
+- 2026-10-03 16:05: feat(metrics): track memory usage and cpu thread statistics
+- 2026-10-03 16:15: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-04 11:51: feat(monitor): implement system resource tracking utility
+- 2026-10-04 13:25: feat(monitor): implement system resource tracking utility
+- 2026-10-04 13:42: feat(shell): implement safe pipe execution helper
+- 2026-10-04 19:08: fix(docker): specify non-root user in runtime container
+- 2026-10-04 22:01: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-06 16:16: feat(metrics): track memory usage and cpu thread statistics
+- 2026-10-06 17:31: feat(shell): implement safe pipe execution helper
+- 2026-10-06 19:20: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-06 20:19: docs: update system administration runbooks and troubleshooting
+- 2026-10-08 10:44: fix(docker): specify non-root user in runtime container
+- 2026-10-08 17:00: feat(shell): implement safe pipe execution helper
+- 2026-10-08 19:58: fix(proc): prevent zombie process reaping race condition
+- 2026-10-08 23:08: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-09 10:30: fix(docker): specify non-root user in runtime container
+- 2026-10-09 15:11: test(proc): assert exit codes under simulated failures
+- 2026-10-09 16:33: refactor(daemon): separate socket listening from worker queue
+- 2026-10-09 19:10: test(proc): assert exit codes under simulated failures
+- 2026-10-09 20:28: refactor(daemon): separate socket listening from worker queue
+- 2026-10-09 23:02: feat(config): add JSON and YAML configuration loader
+- 2026-10-10 11:29: docs: document environment variables and override flags
+- 2026-10-10 14:39: style: enforce consistent shell quoting and indentation
+- 2026-10-10 15:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-10-10 19:02: fix(proc): prevent zombie process reaping race condition
+- 2026-10-10 19:12: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-10 23:04: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-11 10:31: fix(proc): prevent zombie process reaping race condition
+- 2026-10-11 10:33: fix(docker): specify non-root user in runtime container
+- 2026-10-11 13:14: docs: update system administration runbooks and troubleshooting
+- 2026-10-11 13:35: fix(bash): escape arguments in deployment script
+- 2026-10-11 14:06: feat(cli): add command-line argument parser for daemon
+- 2026-10-11 14:26: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-11 15:44: feat(env): add automated dotfiles symlink manager
+- 2026-10-11 16:27: refactor(daemon): separate socket listening from worker queue
+- 2026-10-11 17:38: fix(config): ensure directory exists before writing state
+- 2026-10-11 18:00: fix(bash): escape arguments in deployment script
+- 2026-10-11 20:17: fix(proc): prevent zombie process reaping race condition
+- 2026-10-11 20:31: feat(deploy): implement zero-downtime rolling reload
+- 2026-10-11 23:08: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-12 12:28: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-10-12 17:22: feat(daemon): add background heartbeat and ping interval
+- 2026-10-12 17:33: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-13 10:30: feat(docker): optimize multi-stage build layers
+- 2026-10-13 11:20: test(proc): assert exit codes under simulated failures
+- 2026-10-13 11:36: feat(cli): add command-line argument parser for daemon
+- 2026-10-13 12:02: feat(security): add permission auditing script for local binaries
+- 2026-10-13 12:38: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-13 14:34: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-13 16:02: refactor(daemon): separate socket listening from worker queue
+- 2026-10-13 20:23: feat(daemon): add background heartbeat and ping interval
+- 2026-10-13 20:33: test(scripts): add bats verification for setup scripts
+- 2026-10-13 20:43: test(cli): add unit test coverage for argument parsing
+- 2026-10-13 21:53: fix(docker): specify non-root user in runtime container
+- 2026-10-14 12:36: refactor(cli): simplify command dispatch loop
+- 2026-10-14 13:40: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-14 14:22: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-10-14 16:15: feat(security): add permission auditing script for local binaries
+- 2026-10-14 18:06: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-14 19:41: feat(cli): add command-line argument parser for daemon
+- 2026-10-14 20:11: docs: add architecture specification for daemon supervisor
+- 2026-10-15 11:37: fix(docker): specify non-root user in runtime container
+- 2026-10-15 15:17: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-15 16:13: fix(proc): prevent zombie process reaping race condition
+- 2026-10-15 18:18: fix(proc): prevent zombie process reaping race condition
+- 2026-10-15 20:26: fix(config): ensure directory exists before writing state
+- 2026-10-15 21:08: test(proc): assert exit codes under simulated failures
+- 2026-10-17 12:03: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-17 12:46: fix(proc): prevent zombie process reaping race condition
+- 2026-10-17 16:08: refactor(config): migrate global settings to immutable dataclass
+- 2026-10-17 16:29: refactor(config): migrate global settings to immutable dataclass
+- 2026-10-17 16:31: feat(metrics): track memory usage and cpu thread statistics
+- 2026-10-17 18:54: perf: reduce process spawn latency using fork pool
+- 2026-10-17 19:09: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-18 13:20: test(scripts): add bats verification for setup scripts
+- 2026-10-18 14:26: feat(shell): implement safe pipe execution helper
+- 2026-10-18 17:13: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-18 18:03: fix(bash): escape arguments in deployment script
+- 2026-10-18 19:25: feat(daemon): add background heartbeat and ping interval
+- 2026-10-18 20:04: test(cli): add unit test coverage for argument parsing
+- 2026-10-18 20:54: refactor(config): migrate global settings to immutable dataclass
+- 2026-10-19 10:02: refactor(config): migrate global settings to immutable dataclass
+- 2026-10-19 10:44: fix(config): ensure directory exists before writing state
+- 2026-10-19 12:50: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-19 16:33: chore: update base container image to latest alpine
+- 2026-10-19 19:53: feat(monitor): implement system resource tracking utility
+- 2026-10-19 19:59: fix(proc): prevent zombie process reaping race condition
+- 2026-10-20 10:34: fix(proc): prevent zombie process reaping race condition
+- 2026-10-20 12:38: feat(proc): add process supervisor with automatic restart
+- 2026-10-20 17:28: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-20 17:30: feat(cli): add command-line argument parser for daemon
+- 2026-10-20 17:50: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-20 19:55: feat(docker): optimize multi-stage build layers
+- 2026-10-20 21:40: feat(config): add JSON and YAML configuration loader
+- 2026-10-20 22:22: feat(env): add automated dotfiles symlink manager
+- 2026-10-21 15:30: test(proc): assert exit codes under simulated failures
+- 2026-10-21 18:30: style: enforce consistent shell quoting and indentation
+- 2026-10-21 21:52: docs: update system administration runbooks and troubleshooting
+- 2026-10-22 10:47: test(scripts): add bats verification for setup scripts
+- 2026-10-22 11:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-22 13:03: feat(env): add automated dotfiles symlink manager
+- 2026-10-22 15:46: feat(deploy): implement zero-downtime rolling reload
+- 2026-10-22 18:48: feat(config): add JSON and YAML configuration loader
+- 2026-10-22 19:22: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-22 19:59: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-24 10:44: docs: update system administration runbooks and troubleshooting
+- 2026-10-24 16:12: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-10-24 22:16: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-25 10:04: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-10-25 20:12: feat(proc): add process supervisor with automatic restart
+- 2026-10-25 20:51: feat(daemon): add background heartbeat and ping interval
+- 2026-10-25 21:09: feat(daemon): add background heartbeat and ping interval
+- 2026-10-25 21:12: fix(docker): specify non-root user in runtime container
+- 2026-10-26 12:46: feat(security): add permission auditing script for local binaries
+- 2026-10-26 13:44: refactor(cli): simplify command dispatch loop
+- 2026-10-26 15:41: feat(config): add JSON and YAML configuration loader
+- 2026-10-26 15:56: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-26 19:22: test(scripts): add bats verification for setup scripts
+- 2026-10-26 20:16: feat(docker): optimize multi-stage build layers
+- 2026-10-26 23:07: feat(env): add automated dotfiles symlink manager
+- 2026-10-26 23:28: docs: update changelog with recent utility enhancements
+- 2026-10-28 10:06: feat(deploy): implement zero-downtime rolling reload
+- 2026-10-28 10:12: test(cli): add unit test coverage for argument parsing
+- 2026-10-28 11:09: test(proc): assert exit codes under simulated failures
+- 2026-10-28 11:10: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-28 14:35: feat(env): add automated dotfiles symlink manager
+- 2026-10-28 16:03: perf: reduce process spawn latency using fork pool
+- 2026-10-28 17:33: refactor(daemon): separate socket listening from worker queue
+- 2026-10-28 21:49: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-28 21:50: docs: document environment variables and override flags
+- 2026-10-28 22:03: fix(bash): escape arguments in deployment script
+- 2026-10-28 22:44: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-29 15:04: feat(env): add automated dotfiles symlink manager
+- 2026-10-29 16:44: refactor(daemon): separate socket listening from worker queue
+- 2026-10-29 19:51: refactor(cli): simplify command dispatch loop
+- 2026-10-29 21:17: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 11:23: feat(config): add JSON and YAML configuration loader
+- 2026-10-31 13:01: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 13:02: chore: configure shellcheck and ruff linter hooks
+- 2026-10-31 13:14: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 16:57: chore: update base container image to latest alpine
+- 2026-10-31 17:46: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-31 18:15: fix(config): ensure directory exists before writing state
+- 2026-10-31 20:38: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 21:09: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-31 21:20: feat(security): add permission auditing script for local binaries
+- 2026-10-31 23:03: feat(daemon): add background heartbeat and ping interval
+- 2026-11-01 10:53: test(proc): assert exit codes under simulated failures
+- 2026-11-01 12:57: feat(cli): add command-line argument parser for daemon
+- 2026-11-01 13:31: docs: update system administration runbooks and troubleshooting
+- 2026-11-01 14:10: feat(env): add automated dotfiles symlink manager
+- 2026-11-01 17:56: test(daemon): verify supervisor restarts crashed processes
+- 2026-11-01 22:07: feat(security): add permission auditing script for local binaries
+- 2026-11-01 23:05: feat(metrics): track memory usage and cpu thread statistics
+- 2026-11-02 13:37: feat(sync): add rsync-based remote directory mirror utility
+- 2026-11-02 14:51: refactor(config): migrate global settings to immutable dataclass
+- 2026-11-02 16:03: feat(deploy): implement zero-downtime rolling reload
+- 2026-11-02 20:55: perf: reduce process spawn latency using fork pool
+- 2026-11-03 16:40: test(scripts): add bats verification for setup scripts
+- 2026-11-03 17:41: fix(docker): specify non-root user in runtime container
+- 2026-11-03 20:01: docs: add architecture specification for daemon supervisor
+- 2026-11-03 21:31: feat(metrics): track memory usage and cpu thread statistics
+- 2026-11-06 10:02: feat(docker): optimize multi-stage build layers
+- 2026-11-06 11:52: feat(config): add JSON and YAML configuration loader
+- 2026-11-06 12:37: feat(sync): add rsync-based remote directory mirror utility
+- 2026-11-06 12:46: feat(monitor): implement system resource tracking utility
+- 2026-11-06 18:07: test(proc): assert exit codes under simulated failures
+- 2026-11-06 18:39: fix(cli): exit with non-zero status code on unknown command
+- 2026-11-06 19:16: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-11-06 20:02: refactor(daemon): separate socket listening from worker queue
+- 2026-11-06 21:04: feat(sync): add rsync-based remote directory mirror utility
+- 2026-11-06 22:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-11-06 23:08: chore: update base container image to latest alpine
