@@ -6,3 +6,4 @@ All historical revisions and engineering milestones.
 - 2021-02-28 21:04: test(scripts): add bats verification for setup scripts
 - 2021-03-01 10:07: fix(docker): specify non-root user in runtime container
 - 2021-03-01 11:33: refactor(scripts): modularize helper functions across shell scripts
+- 2021-03-01 11:40: feat(shell): implement safe pipe execution helper
