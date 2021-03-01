@@ -9,3 +9,4 @@ All historical revisions and engineering milestones.
 - 2021-03-01 11:40: feat(shell): implement safe pipe execution helper
 - 2021-03-01 17:20: refactor(scripts): modularize helper functions across shell scripts
 - 2021-03-01 17:48: feat(cli): add command-line argument parser for daemon
+- 2021-03-01 20:09: feat(config): add JSON and YAML configuration loader
