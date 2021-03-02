@@ -13,3 +13,4 @@ All historical revisions and engineering milestones.
 - 2021-03-01 23:16: feat(metrics): track memory usage and cpu thread statistics
 - 2021-03-02 12:51: refactor(config): migrate global settings to immutable dataclass
 - 2021-03-02 14:14: fix(monitor): resolve division by zero on idle cpu calculation
+- 2021-03-02 14:22: test(cli): add unit test coverage for argument parsing
