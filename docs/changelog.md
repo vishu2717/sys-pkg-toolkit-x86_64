@@ -15,3 +15,4 @@ All historical revisions and engineering milestones.
 - 2021-03-02 14:14: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-03-02 14:22: test(cli): add unit test coverage for argument parsing
 - 2021-03-02 17:32: feat(deploy): implement zero-downtime rolling reload
+- 2021-03-02 20:24: test(cli): add unit test coverage for argument parsing

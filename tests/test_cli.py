@@ -3,3 +3,6 @@ def test_cli_entrypoint():
 
 def test_cli_parser():
     assert True
+
+def test_cli_parser():
+    assert True
