@@ -11,3 +11,4 @@ All historical revisions and engineering milestones.
 - 2021-03-01 17:48: feat(cli): add command-line argument parser for daemon
 - 2021-03-01 20:09: feat(config): add JSON and YAML configuration loader
 - 2021-03-01 23:16: feat(metrics): track memory usage and cpu thread statistics
+- 2021-03-02 12:51: refactor(config): migrate global settings to immutable dataclass
