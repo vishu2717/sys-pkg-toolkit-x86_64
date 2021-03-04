@@ -17,3 +17,4 @@ All historical revisions and engineering milestones.
 - 2021-03-02 17:32: feat(deploy): implement zero-downtime rolling reload
 - 2021-03-02 20:24: test(cli): add unit test coverage for argument parsing
 - 2021-03-04 21:21: feat(proc): add process supervisor with automatic restart
+- 2021-03-04 22:17: refactor(daemon): separate socket listening from worker queue
