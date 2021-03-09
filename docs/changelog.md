@@ -21,3 +21,4 @@ All historical revisions and engineering milestones.
 - 2021-03-07 15:13: fix(config): ensure directory exists before writing state
 - 2021-03-07 22:55: feat(config): add JSON and YAML configuration loader
 - 2021-03-07 23:14: feat(docker): optimize multi-stage build layers
+- 2021-03-09 10:22: test(cli): add unit test coverage for argument parsing
