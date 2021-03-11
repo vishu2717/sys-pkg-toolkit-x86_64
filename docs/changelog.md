@@ -25,3 +25,4 @@ All historical revisions and engineering milestones.
 - 2021-03-09 15:09: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-03-09 22:13: fix(proc): prevent zombie process reaping race condition
 - 2021-03-11 13:31: test(cli): add unit test coverage for argument parsing
+- 2021-03-11 19:37: feat(metrics): track memory usage and cpu thread statistics
