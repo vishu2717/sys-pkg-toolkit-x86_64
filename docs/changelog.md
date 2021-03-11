@@ -28,3 +28,4 @@ All historical revisions and engineering milestones.
 - 2021-03-11 19:37: feat(metrics): track memory usage and cpu thread statistics
 - 2021-03-11 20:54: feat(proc): add process supervisor with automatic restart
 - 2021-03-11 21:26: refactor(cli): simplify command dispatch loop
+- 2021-03-11 21:37: test(daemon): verify supervisor restarts crashed processes
