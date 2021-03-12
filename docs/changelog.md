@@ -40,3 +40,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 14:55: chore: update base container image to latest alpine
 - 2021-03-12 15:47: feat(security): add permission auditing script for local binaries
 - 2021-03-12 17:27: feat(deploy): implement zero-downtime rolling reload
+- 2021-03-12 17:50: fix(cli): exit with non-zero status code on unknown command
