@@ -34,3 +34,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 11:15: test(cli): add unit test coverage for argument parsing
 - 2021-03-12 11:25: refactor(config): migrate global settings to immutable dataclass
 - 2021-03-12 12:04: feat(env): add automated dotfiles symlink manager
+- 2021-03-12 12:28: feat(metrics): track memory usage and cpu thread statistics
