@@ -41,3 +41,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 15:47: feat(security): add permission auditing script for local binaries
 - 2021-03-12 17:27: feat(deploy): implement zero-downtime rolling reload
 - 2021-03-12 17:50: fix(cli): exit with non-zero status code on unknown command
+- 2021-03-12 20:33: fix(monitor): resolve division by zero on idle cpu calculation
