@@ -33,3 +33,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 10:38: fix(bash): escape arguments in deployment script
 - 2021-03-12 11:15: test(cli): add unit test coverage for argument parsing
 - 2021-03-12 11:25: refactor(config): migrate global settings to immutable dataclass
+- 2021-03-12 12:04: feat(env): add automated dotfiles symlink manager
