@@ -36,3 +36,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 12:04: feat(env): add automated dotfiles symlink manager
 - 2021-03-12 12:28: feat(metrics): track memory usage and cpu thread statistics
 - 2021-03-12 12:33: refactor(scripts): modularize helper functions across shell scripts
+- 2021-03-12 12:48: refactor(daemon): separate socket listening from worker queue
