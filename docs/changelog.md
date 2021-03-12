@@ -38,3 +38,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 12:33: refactor(scripts): modularize helper functions across shell scripts
 - 2021-03-12 12:48: refactor(daemon): separate socket listening from worker queue
 - 2021-03-12 14:55: chore: update base container image to latest alpine
+- 2021-03-12 15:47: feat(security): add permission auditing script for local binaries
