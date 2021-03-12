@@ -31,3 +31,4 @@ All historical revisions and engineering milestones.
 - 2021-03-11 21:37: test(daemon): verify supervisor restarts crashed processes
 - 2021-03-11 22:07: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-03-12 10:38: fix(bash): escape arguments in deployment script
+- 2021-03-12 11:15: test(cli): add unit test coverage for argument parsing
