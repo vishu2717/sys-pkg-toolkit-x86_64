@@ -55,3 +55,4 @@ All historical revisions and engineering milestones.
 - 2021-03-13 21:08: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-03-13 21:37: feat(security): add permission auditing script for local binaries
 - 2021-03-13 22:24: refactor(cli): simplify command dispatch loop
+- 2021-03-13 23:14: fix(daemon): gracefully handle sigterm during log rotation
