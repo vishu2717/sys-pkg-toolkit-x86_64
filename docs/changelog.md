@@ -46,3 +46,4 @@ All historical revisions and engineering milestones.
 - 2021-03-12 22:44: refactor(config): migrate global settings to immutable dataclass
 - 2021-03-12 22:57: test(daemon): verify supervisor restarts crashed processes
 - 2021-03-13 10:05: fix(docker): specify non-root user in runtime container
+- 2021-03-13 10:29: feat(security): add permission auditing script for local binaries
