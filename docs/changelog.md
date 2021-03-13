@@ -53,3 +53,4 @@ All historical revisions and engineering milestones.
 - 2021-03-13 18:31: refactor(daemon): separate socket listening from worker queue
 - 2021-03-13 21:04: test(scripts): add bats verification for setup scripts
 - 2021-03-13 21:08: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-03-13 21:37: feat(security): add permission auditing script for local binaries
