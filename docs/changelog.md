@@ -51,3 +51,4 @@ All historical revisions and engineering milestones.
 - 2021-03-13 12:45: feat(metrics): track memory usage and cpu thread statistics
 - 2021-03-13 14:06: fix(cli): exit with non-zero status code on unknown command
 - 2021-03-13 18:31: refactor(daemon): separate socket listening from worker queue
+- 2021-03-13 21:04: test(scripts): add bats verification for setup scripts
