@@ -61,3 +61,4 @@ All historical revisions and engineering milestones.
 - 2021-03-14 12:21: feat(security): add permission auditing script for local binaries
 - 2021-03-14 12:38: feat(shell): implement safe pipe execution helper
 - 2021-03-14 15:02: feat(deploy): implement zero-downtime rolling reload
+- 2021-03-14 16:19: fix(cli): exit with non-zero status code on unknown command
