@@ -64,3 +64,4 @@ All historical revisions and engineering milestones.
 - 2021-03-14 16:19: fix(cli): exit with non-zero status code on unknown command
 - 2021-03-14 18:38: feat(config): add JSON and YAML configuration loader
 - 2021-03-14 19:16: fix(config): ensure directory exists before writing state
+- 2021-03-14 20:16: feat(sync): add rsync-based remote directory mirror utility
