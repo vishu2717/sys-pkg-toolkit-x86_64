@@ -70,3 +70,4 @@ All historical revisions and engineering milestones.
 - 2021-03-14 21:29: docs: update system administration runbooks and troubleshooting
 - 2021-03-14 22:37: style: enforce consistent shell quoting and indentation
 - 2021-03-14 22:55: feat(config): add JSON and YAML configuration loader
+- 2021-03-14 23:04: refactor(scripts): modularize helper functions across shell scripts
