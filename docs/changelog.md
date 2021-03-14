@@ -58,3 +58,4 @@ All historical revisions and engineering milestones.
 - 2021-03-13 23:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-03-14 11:40: fix(proc): prevent zombie process reaping race condition
 - 2021-03-14 11:49: feat(daemon): add background heartbeat and ping interval
+- 2021-03-14 12:21: feat(security): add permission auditing script for local binaries
