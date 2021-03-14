@@ -59,3 +59,4 @@ All historical revisions and engineering milestones.
 - 2021-03-14 11:40: fix(proc): prevent zombie process reaping race condition
 - 2021-03-14 11:49: feat(daemon): add background heartbeat and ping interval
 - 2021-03-14 12:21: feat(security): add permission auditing script for local binaries
+- 2021-03-14 12:38: feat(shell): implement safe pipe execution helper
