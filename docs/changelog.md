@@ -76,3 +76,4 @@ All historical revisions and engineering milestones.
 - 2021-03-24 16:20: refactor(config): migrate global settings to immutable dataclass
 - 2021-03-24 18:09: refactor(daemon): separate socket listening from worker queue
 - 2021-03-24 18:42: style: enforce consistent shell quoting and indentation
+- 2021-03-24 21:07: feat(metrics): track memory usage and cpu thread statistics
