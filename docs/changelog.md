@@ -81,3 +81,4 @@ All historical revisions and engineering milestones.
 - 2021-03-25 15:50: test(scripts): add bats verification for setup scripts
 - 2021-03-25 19:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-03-25 22:21: fix(proc): prevent zombie process reaping race condition
+- 2021-03-25 22:59: feat(docker): optimize multi-stage build layers
