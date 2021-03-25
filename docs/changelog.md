@@ -78,3 +78,4 @@ All historical revisions and engineering milestones.
 - 2021-03-24 18:42: style: enforce consistent shell quoting and indentation
 - 2021-03-24 21:07: feat(metrics): track memory usage and cpu thread statistics
 - 2021-03-24 23:29: refactor(scripts): modularize helper functions across shell scripts
+- 2021-03-25 15:50: test(scripts): add bats verification for setup scripts
