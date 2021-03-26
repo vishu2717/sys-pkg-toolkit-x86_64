@@ -92,3 +92,4 @@ All historical revisions and engineering milestones.
 - 2021-03-26 16:39: refactor(cli): simplify command dispatch loop
 - 2021-03-26 16:51: feat(daemon): add background heartbeat and ping interval
 - 2021-03-26 17:03: feat(env): add automated dotfiles symlink manager
+- 2021-03-26 18:10: refactor(config): migrate global settings to immutable dataclass
