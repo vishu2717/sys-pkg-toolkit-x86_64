@@ -87,3 +87,4 @@ All historical revisions and engineering milestones.
 - 2021-03-26 11:02: refactor(scripts): modularize helper functions across shell scripts
 - 2021-03-26 11:06: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-03-26 12:44: fix(config): ensure directory exists before writing state
+- 2021-03-26 14:15: docs: update system administration runbooks and troubleshooting
