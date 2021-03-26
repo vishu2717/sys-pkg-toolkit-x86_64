@@ -83,3 +83,4 @@ All historical revisions and engineering milestones.
 - 2021-03-25 22:21: fix(proc): prevent zombie process reaping race condition
 - 2021-03-25 22:59: feat(docker): optimize multi-stage build layers
 - 2021-03-25 23:19: chore: update base container image to latest alpine
+- 2021-03-26 10:07: test(daemon): verify supervisor restarts crashed processes
