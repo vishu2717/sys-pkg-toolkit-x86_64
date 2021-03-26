@@ -96,3 +96,4 @@ All historical revisions and engineering milestones.
 - 2021-03-26 18:44: test(daemon): verify supervisor restarts crashed processes
 - 2021-03-26 20:29: feat(shell): implement safe pipe execution helper
 - 2021-03-26 20:43: fix(bash): escape arguments in deployment script
+- 2021-03-26 22:11: test(proc): assert exit codes under simulated failures
