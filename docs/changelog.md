@@ -104,3 +104,4 @@ All historical revisions and engineering milestones.
 - 2021-03-27 17:35: feat(security): add permission auditing script for local binaries
 - 2021-03-27 19:36: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-03-27 21:36: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-03-27 21:42: perf: reduce process spawn latency using fork pool
