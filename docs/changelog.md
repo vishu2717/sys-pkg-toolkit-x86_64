@@ -99,3 +99,4 @@ All historical revisions and engineering milestones.
 - 2021-03-26 22:11: test(proc): assert exit codes under simulated failures
 - 2021-03-27 13:28: feat(cli): add command-line argument parser for daemon
 - 2021-03-27 14:20: test(daemon): verify supervisor restarts crashed processes
+- 2021-03-27 14:54: feat(config): add JSON and YAML configuration loader
