@@ -101,3 +101,4 @@ All historical revisions and engineering milestones.
 - 2021-03-27 14:20: test(daemon): verify supervisor restarts crashed processes
 - 2021-03-27 14:54: feat(config): add JSON and YAML configuration loader
 - 2021-03-27 15:54: fix(monitor): resolve division by zero on idle cpu calculation
+- 2021-03-27 17:35: feat(security): add permission auditing script for local binaries
