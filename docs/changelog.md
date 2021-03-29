@@ -106,3 +106,4 @@ All historical revisions and engineering milestones.
 - 2021-03-27 21:36: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-03-27 21:42: perf: reduce process spawn latency using fork pool
 - 2021-03-27 22:47: feat(security): add permission auditing script for local binaries
+- 2021-03-29 12:17: feat(deploy): implement zero-downtime rolling reload
