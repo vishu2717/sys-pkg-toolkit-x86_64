@@ -109,3 +109,4 @@ All historical revisions and engineering milestones.
 - 2021-03-29 12:17: feat(deploy): implement zero-downtime rolling reload
 - 2021-03-29 12:53: test(cli): add unit test coverage for argument parsing
 - 2021-03-29 17:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-03-29 19:38: fix(docker): specify non-root user in runtime container
