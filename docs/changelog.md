@@ -112,3 +112,4 @@ All historical revisions and engineering milestones.
 - 2021-03-29 19:38: fix(docker): specify non-root user in runtime container
 - 2021-03-30 11:15: docs: update system administration runbooks and troubleshooting
 - 2021-03-30 11:35: refactor(scripts): modularize helper functions across shell scripts
+- 2021-03-30 11:46: fix(bash): escape arguments in deployment script
