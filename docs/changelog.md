@@ -118,3 +118,4 @@ All historical revisions and engineering milestones.
 - 2021-03-30 17:28: test(proc): assert exit codes under simulated failures
 - 2021-03-30 18:32: feat(shell): implement safe pipe execution helper
 - 2021-03-30 18:58: feat(sync): add rsync-based remote directory mirror utility
+- 2021-03-30 19:40: fix(monitor): resolve division by zero on idle cpu calculation
