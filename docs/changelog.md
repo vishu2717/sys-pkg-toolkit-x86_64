@@ -115,3 +115,4 @@ All historical revisions and engineering milestones.
 - 2021-03-30 11:46: fix(bash): escape arguments in deployment script
 - 2021-03-30 13:30: feat(deploy): implement zero-downtime rolling reload
 - 2021-03-30 13:32: feat(daemon): add background heartbeat and ping interval
+- 2021-03-30 17:28: test(proc): assert exit codes under simulated failures
