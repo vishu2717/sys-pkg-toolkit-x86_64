@@ -126,3 +126,4 @@ All historical revisions and engineering milestones.
 - 2021-04-02 11:05: feat(monitor): implement system resource tracking utility
 - 2021-04-02 11:37: docs: add architecture specification for daemon supervisor
 - 2021-04-02 11:56: docs: update system administration runbooks and troubleshooting
+- 2021-04-02 12:49: docs: add architecture specification for daemon supervisor
