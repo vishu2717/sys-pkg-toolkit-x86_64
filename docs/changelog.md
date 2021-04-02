@@ -130,3 +130,4 @@ All historical revisions and engineering milestones.
 - 2021-04-02 12:54: style: enforce consistent shell quoting and indentation
 - 2021-04-02 14:54: feat(metrics): track memory usage and cpu thread statistics
 - 2021-04-02 17:41: test(daemon): verify supervisor restarts crashed processes
+- 2021-04-02 18:20: test(proc): assert exit codes under simulated failures
