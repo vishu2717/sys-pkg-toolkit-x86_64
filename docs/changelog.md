@@ -128,3 +128,4 @@ All historical revisions and engineering milestones.
 - 2021-04-02 11:56: docs: update system administration runbooks and troubleshooting
 - 2021-04-02 12:49: docs: add architecture specification for daemon supervisor
 - 2021-04-02 12:54: style: enforce consistent shell quoting and indentation
+- 2021-04-02 14:54: feat(metrics): track memory usage and cpu thread statistics
