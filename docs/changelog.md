@@ -123,3 +123,4 @@ All historical revisions and engineering milestones.
 - 2021-03-30 21:08: feat(deploy): implement zero-downtime rolling reload
 - 2021-03-30 22:11: docs: update system administration runbooks and troubleshooting
 - 2021-03-30 22:43: fix(bash): escape arguments in deployment script
+- 2021-04-02 11:05: feat(monitor): implement system resource tracking utility
