@@ -132,3 +132,4 @@ All historical revisions and engineering milestones.
 - 2021-04-02 17:41: test(daemon): verify supervisor restarts crashed processes
 - 2021-04-02 18:20: test(proc): assert exit codes under simulated failures
 - 2021-04-02 18:56: chore: configure shellcheck and ruff linter hooks
+- 2021-04-02 19:02: fix(proc): prevent zombie process reaping race condition
