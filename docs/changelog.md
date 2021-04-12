@@ -136,3 +136,4 @@ All historical revisions and engineering milestones.
 - 2021-04-02 21:32: docs: document environment variables and override flags
 - 2021-04-02 21:37: feat(shell): implement safe pipe execution helper
 - 2021-04-02 21:41: refactor(daemon): separate socket listening from worker queue
+- 2021-04-12 13:47: feat(deploy): implement zero-downtime rolling reload
