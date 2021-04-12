@@ -142,3 +142,4 @@ All historical revisions and engineering milestones.
 - 2021-04-12 18:00: docs: update changelog with recent utility enhancements
 - 2021-04-12 21:14: style: enforce consistent shell quoting and indentation
 - 2021-04-12 21:48: refactor(scripts): modularize helper functions across shell scripts
+- 2021-04-12 22:07: refactor(cli): simplify command dispatch loop
