@@ -139,3 +139,4 @@ All historical revisions and engineering milestones.
 - 2021-04-12 13:47: feat(deploy): implement zero-downtime rolling reload
 - 2021-04-12 15:28: test(proc): assert exit codes under simulated failures
 - 2021-04-12 17:44: docs: update system administration runbooks and troubleshooting
+- 2021-04-12 18:00: docs: update changelog with recent utility enhancements
