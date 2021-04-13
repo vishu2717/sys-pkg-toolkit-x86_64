@@ -147,3 +147,4 @@ All historical revisions and engineering milestones.
 - 2021-04-13 12:07: feat(daemon): add background heartbeat and ping interval
 - 2021-04-13 13:00: feat(monitor): implement system resource tracking utility
 - 2021-04-13 13:15: refactor(daemon): separate socket listening from worker queue
+- 2021-04-13 14:33: feat(config): add JSON and YAML configuration loader
