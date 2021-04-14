@@ -149,3 +149,4 @@ All historical revisions and engineering milestones.
 - 2021-04-13 13:15: refactor(daemon): separate socket listening from worker queue
 - 2021-04-13 14:33: feat(config): add JSON and YAML configuration loader
 - 2021-04-13 23:12: fix(config): ensure directory exists before writing state
+- 2021-04-14 10:13: fix(daemon): gracefully handle sigterm during log rotation
