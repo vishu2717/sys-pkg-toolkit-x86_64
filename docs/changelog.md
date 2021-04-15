@@ -152,3 +152,4 @@ All historical revisions and engineering milestones.
 - 2021-04-14 10:13: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-04-15 12:38: fix(proc): prevent zombie process reaping race condition
 - 2021-04-15 13:14: feat(env): add automated dotfiles symlink manager
+- 2021-04-15 14:58: feat(proc): add process supervisor with automatic restart
