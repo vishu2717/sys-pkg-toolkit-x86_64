@@ -156,3 +156,4 @@ All historical revisions and engineering milestones.
 - 2021-04-15 15:41: fix(docker): specify non-root user in runtime container
 - 2021-04-15 18:37: fix(cli): exit with non-zero status code on unknown command
 - 2021-04-15 19:07: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-04-15 21:11: perf: reduce process spawn latency using fork pool
