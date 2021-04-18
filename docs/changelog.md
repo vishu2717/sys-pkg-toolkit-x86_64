@@ -160,3 +160,4 @@ All historical revisions and engineering milestones.
 - 2021-04-15 22:33: chore: update base container image to latest alpine
 - 2021-04-15 23:29: feat(cli): add command-line argument parser for daemon
 - 2021-04-18 12:49: feat(security): add permission auditing script for local binaries
+- 2021-04-18 15:03: docs: document environment variables and override flags
