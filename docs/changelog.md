@@ -163,3 +163,4 @@ All historical revisions and engineering milestones.
 - 2021-04-18 15:03: docs: document environment variables and override flags
 - 2021-04-18 16:01: feat(cli): add command-line argument parser for daemon
 - 2021-04-18 17:44: feat(sync): add rsync-based remote directory mirror utility
+- 2021-04-21 13:13: feat(security): add permission auditing script for local binaries
