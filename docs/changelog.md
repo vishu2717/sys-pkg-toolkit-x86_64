@@ -173,3 +173,4 @@ All historical revisions and engineering milestones.
 - 2021-04-25 17:51: fix(proc): prevent zombie process reaping race condition
 - 2021-04-25 20:41: feat(shell): implement safe pipe execution helper
 - 2021-04-25 21:56: feat(config): add JSON and YAML configuration loader
+- 2021-04-25 23:13: docs: update system administration runbooks and troubleshooting
