@@ -169,3 +169,4 @@ All historical revisions and engineering milestones.
 - 2021-04-25 14:30: feat(env): add automated dotfiles symlink manager
 - 2021-04-25 14:40: fix(config): ensure directory exists before writing state
 - 2021-04-25 15:38: feat(proc): add process supervisor with automatic restart
+- 2021-04-25 15:43: chore: configure shellcheck and ruff linter hooks
