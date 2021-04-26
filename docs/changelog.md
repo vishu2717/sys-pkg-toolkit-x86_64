@@ -178,3 +178,4 @@ All historical revisions and engineering milestones.
 - 2021-04-26 12:16: fix(bash): escape arguments in deployment script
 - 2021-04-26 12:44: feat(daemon): add background heartbeat and ping interval
 - 2021-04-26 13:42: feat(proc): add process supervisor with automatic restart
+- 2021-04-26 14:20: refactor(scripts): modularize helper functions across shell scripts
