@@ -175,3 +175,4 @@ All historical revisions and engineering milestones.
 - 2021-04-25 21:56: feat(config): add JSON and YAML configuration loader
 - 2021-04-25 23:13: docs: update system administration runbooks and troubleshooting
 - 2021-04-26 12:12: test(cli): add unit test coverage for argument parsing
+- 2021-04-26 12:16: fix(bash): escape arguments in deployment script
