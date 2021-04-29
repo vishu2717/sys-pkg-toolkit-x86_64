@@ -184,3 +184,4 @@ All historical revisions and engineering milestones.
 - 2021-04-29 10:46: feat(shell): implement safe pipe execution helper
 - 2021-04-29 15:27: refactor(daemon): separate socket listening from worker queue
 - 2021-04-29 17:57: test(proc): assert exit codes under simulated failures
+- 2021-04-29 20:32: fix(config): ensure directory exists before writing state
