@@ -181,3 +181,4 @@ All historical revisions and engineering milestones.
 - 2021-04-26 14:20: refactor(scripts): modularize helper functions across shell scripts
 - 2021-04-26 16:00: feat(monitor): implement system resource tracking utility
 - 2021-04-26 19:26: chore: configure shellcheck and ruff linter hooks
+- 2021-04-29 10:46: feat(shell): implement safe pipe execution helper
