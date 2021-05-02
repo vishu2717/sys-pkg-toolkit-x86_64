@@ -195,3 +195,4 @@ All historical revisions and engineering milestones.
 - 2021-05-02 16:32: test(daemon): verify supervisor restarts crashed processes
 - 2021-05-02 17:58: feat(monitor): implement system resource tracking utility
 - 2021-05-02 20:45: fix(config): ensure directory exists before writing state
+- 2021-05-02 21:01: test(scripts): add bats verification for setup scripts
