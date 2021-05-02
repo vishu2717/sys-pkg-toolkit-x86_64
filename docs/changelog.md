@@ -191,3 +191,4 @@ All historical revisions and engineering milestones.
 - 2021-05-02 12:32: feat(env): add automated dotfiles symlink manager
 - 2021-05-02 13:38: feat(env): add automated dotfiles symlink manager
 - 2021-05-02 16:07: feat(deploy): implement zero-downtime rolling reload
+- 2021-05-02 16:13: refactor(cli): simplify command dispatch loop
