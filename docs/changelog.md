@@ -186,3 +186,4 @@ All historical revisions and engineering milestones.
 - 2021-04-29 17:57: test(proc): assert exit codes under simulated failures
 - 2021-04-29 20:32: fix(config): ensure directory exists before writing state
 - 2021-04-29 22:31: docs: update system administration runbooks and troubleshooting
+- 2021-05-02 10:11: feat(deploy): implement zero-downtime rolling reload
