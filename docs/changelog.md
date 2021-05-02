@@ -197,3 +197,4 @@ All historical revisions and engineering milestones.
 - 2021-05-02 20:45: fix(config): ensure directory exists before writing state
 - 2021-05-02 21:01: test(scripts): add bats verification for setup scripts
 - 2021-05-02 21:56: feat(cli): add command-line argument parser for daemon
+- 2021-05-02 22:17: test(proc): assert exit codes under simulated failures
