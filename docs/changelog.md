@@ -188,3 +188,4 @@ All historical revisions and engineering milestones.
 - 2021-04-29 22:31: docs: update system administration runbooks and troubleshooting
 - 2021-05-02 10:11: feat(deploy): implement zero-downtime rolling reload
 - 2021-05-02 12:28: feat(env): add automated dotfiles symlink manager
+- 2021-05-02 12:32: feat(env): add automated dotfiles symlink manager
