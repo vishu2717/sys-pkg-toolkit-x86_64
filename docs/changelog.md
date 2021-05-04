@@ -200,3 +200,4 @@ All historical revisions and engineering milestones.
 - 2021-05-02 22:17: test(proc): assert exit codes under simulated failures
 - 2021-05-04 10:40: fix(cli): exit with non-zero status code on unknown command
 - 2021-05-04 12:06: fix(docker): specify non-root user in runtime container
+- 2021-05-04 13:27: refactor(daemon): separate socket listening from worker queue
