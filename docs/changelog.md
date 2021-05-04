@@ -202,3 +202,4 @@ All historical revisions and engineering milestones.
 - 2021-05-04 12:06: fix(docker): specify non-root user in runtime container
 - 2021-05-04 13:27: refactor(daemon): separate socket listening from worker queue
 - 2021-05-04 13:58: fix(bash): escape arguments in deployment script
+- 2021-05-04 15:21: refactor(daemon): separate socket listening from worker queue
