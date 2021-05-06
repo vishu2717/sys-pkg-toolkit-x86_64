@@ -207,3 +207,4 @@ All historical revisions and engineering milestones.
 - 2021-05-04 20:46: fix(cli): exit with non-zero status code on unknown command
 - 2021-05-06 10:47: feat(cli): add command-line argument parser for daemon
 - 2021-05-06 14:51: feat(metrics): track memory usage and cpu thread statistics
+- 2021-05-06 17:32: test(daemon): verify supervisor restarts crashed processes
