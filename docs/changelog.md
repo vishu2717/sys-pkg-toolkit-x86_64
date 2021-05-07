@@ -219,3 +219,4 @@ All historical revisions and engineering milestones.
 - 2021-05-07 19:14: refactor(config): migrate global settings to immutable dataclass
 - 2021-05-07 20:47: refactor(config): migrate global settings to immutable dataclass
 - 2021-05-07 22:29: feat(shell): implement safe pipe execution helper
+- 2021-05-07 22:55: test(proc): assert exit codes under simulated failures
