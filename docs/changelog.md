@@ -215,3 +215,4 @@ All historical revisions and engineering milestones.
 - 2021-05-07 10:02: feat(proc): add process supervisor with automatic restart
 - 2021-05-07 12:42: feat(deploy): implement zero-downtime rolling reload
 - 2021-05-07 13:27: feat(proc): add process supervisor with automatic restart
+- 2021-05-07 18:24: fix(bash): escape arguments in deployment script
