@@ -213,3 +213,4 @@ All historical revisions and engineering milestones.
 - 2021-05-06 22:05: feat(shell): implement safe pipe execution helper
 - 2021-05-06 22:44: refactor(scripts): modularize helper functions across shell scripts
 - 2021-05-07 10:02: feat(proc): add process supervisor with automatic restart
+- 2021-05-07 12:42: feat(deploy): implement zero-downtime rolling reload
