@@ -223,3 +223,4 @@ All historical revisions and engineering milestones.
 - 2021-05-08 18:19: test(scripts): add bats verification for setup scripts
 - 2021-05-08 19:20: docs: update system administration runbooks and troubleshooting
 - 2021-05-08 22:18: feat(shell): implement safe pipe execution helper
+- 2021-05-08 22:41: feat(metrics): track memory usage and cpu thread statistics
