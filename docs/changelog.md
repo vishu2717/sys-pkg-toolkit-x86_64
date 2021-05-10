@@ -226,3 +226,4 @@ All historical revisions and engineering milestones.
 - 2021-05-08 22:41: feat(metrics): track memory usage and cpu thread statistics
 - 2021-05-10 11:16: feat(deploy): implement zero-downtime rolling reload
 - 2021-05-10 15:59: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-05-10 19:15: test(cli): add unit test coverage for argument parsing
