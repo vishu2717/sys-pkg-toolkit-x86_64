@@ -26,3 +26,5 @@ USER appuser
 # Updated base image
 
 USER appuser
+
+# Updated base image
