@@ -228,3 +228,4 @@ All historical revisions and engineering milestones.
 - 2021-05-10 15:59: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-05-10 19:15: test(cli): add unit test coverage for argument parsing
 - 2021-05-10 22:23: chore: update base container image to latest alpine
+- 2021-05-11 17:08: refactor(cli): simplify command dispatch loop
