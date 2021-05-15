@@ -237,3 +237,4 @@ All historical revisions and engineering milestones.
 - 2021-05-15 10:07: feat(proc): add process supervisor with automatic restart
 - 2021-05-15 11:17: test(proc): assert exit codes under simulated failures
 - 2021-05-15 13:45: fix(proc): prevent zombie process reaping race condition
+- 2021-05-15 17:26: test(daemon): verify supervisor restarts crashed processes
