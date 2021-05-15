@@ -234,3 +234,4 @@ All historical revisions and engineering milestones.
 - 2021-05-14 14:15: feat(cli): add command-line argument parser for daemon
 - 2021-05-14 16:24: chore: update base container image to latest alpine
 - 2021-05-14 22:30: feat(proc): add process supervisor with automatic restart
+- 2021-05-15 10:07: feat(proc): add process supervisor with automatic restart
