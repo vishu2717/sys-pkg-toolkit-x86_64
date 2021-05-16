@@ -242,3 +242,4 @@ All historical revisions and engineering milestones.
 - 2021-05-16 12:01: docs: add architecture specification for daemon supervisor
 - 2021-05-16 14:15: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-05-16 14:16: feat(docker): optimize multi-stage build layers
+- 2021-05-16 15:55: fix(daemon): gracefully handle sigterm during log rotation
