@@ -239,3 +239,4 @@ All historical revisions and engineering milestones.
 - 2021-05-15 13:45: fix(proc): prevent zombie process reaping race condition
 - 2021-05-15 17:26: test(daemon): verify supervisor restarts crashed processes
 - 2021-05-16 11:00: feat(deploy): implement zero-downtime rolling reload
+- 2021-05-16 12:01: docs: add architecture specification for daemon supervisor
