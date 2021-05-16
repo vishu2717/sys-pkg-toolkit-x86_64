@@ -245,3 +245,4 @@ All historical revisions and engineering milestones.
 - 2021-05-16 15:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-05-16 16:07: docs: update system administration runbooks and troubleshooting
 - 2021-05-16 16:36: feat(config): add JSON and YAML configuration loader
+- 2021-05-16 18:06: test(proc): assert exit codes under simulated failures
