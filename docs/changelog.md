@@ -250,3 +250,4 @@ All historical revisions and engineering milestones.
 - 2021-05-16 22:04: feat(shell): implement safe pipe execution helper
 - 2021-05-16 22:15: feat(daemon): add background heartbeat and ping interval
 - 2021-05-16 22:51: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-05-17 12:37: refactor(config): migrate global settings to immutable dataclass
