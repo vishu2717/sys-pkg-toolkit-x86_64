@@ -253,3 +253,4 @@ All historical revisions and engineering milestones.
 - 2021-05-17 12:37: refactor(config): migrate global settings to immutable dataclass
 - 2021-05-17 23:04: fix(proc): prevent zombie process reaping race condition
 - 2021-05-19 10:21: feat(deploy): implement zero-downtime rolling reload
+- 2021-05-19 13:23: test(proc): assert exit codes under simulated failures
