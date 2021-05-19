@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2021-05-19 18:19: test(proc): assert exit codes under simulated failures
 - 2021-05-19 19:39: fix(proc): prevent zombie process reaping race condition
 - 2021-05-19 19:49: test(cli): add unit test coverage for argument parsing
+- 2021-05-19 21:11: fix(cli): exit with non-zero status code on unknown command
