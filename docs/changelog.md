@@ -255,3 +255,4 @@ All historical revisions and engineering milestones.
 - 2021-05-19 10:21: feat(deploy): implement zero-downtime rolling reload
 - 2021-05-19 13:23: test(proc): assert exit codes under simulated failures
 - 2021-05-19 13:36: test(daemon): verify supervisor restarts crashed processes
+- 2021-05-19 16:06: feat(docker): optimize multi-stage build layers
