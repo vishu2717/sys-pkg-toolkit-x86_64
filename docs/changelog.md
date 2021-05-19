@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2021-05-19 16:06: feat(docker): optimize multi-stage build layers
 - 2021-05-19 18:19: test(proc): assert exit codes under simulated failures
 - 2021-05-19 19:39: fix(proc): prevent zombie process reaping race condition
+- 2021-05-19 19:49: test(cli): add unit test coverage for argument parsing
