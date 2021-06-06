@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 10:13: feat(proc): add process supervisor with automatic restart
 - 2021-06-06 10:39: chore: configure shellcheck and ruff linter hooks
 - 2021-06-06 12:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-06-06 13:23: fix(config): ensure directory exists before writing state
