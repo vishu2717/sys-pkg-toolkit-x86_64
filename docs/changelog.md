@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 19:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-06-06 21:32: feat(sync): add rsync-based remote directory mirror utility
 - 2021-06-06 23:14: feat(cli): add command-line argument parser for daemon
+- 2021-06-06 23:24: chore: update base container image to latest alpine
