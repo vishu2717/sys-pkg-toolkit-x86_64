@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 15:48: docs: document environment variables and override flags
 - 2021-06-06 15:48: refactor(daemon): separate socket listening from worker queue
 - 2021-06-06 17:01: feat(deploy): implement zero-downtime rolling reload
+- 2021-06-06 17:27: feat(config): add JSON and YAML configuration loader
