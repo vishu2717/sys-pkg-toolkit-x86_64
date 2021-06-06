@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2021-05-19 19:49: test(cli): add unit test coverage for argument parsing
 - 2021-05-19 21:11: fix(cli): exit with non-zero status code on unknown command
 - 2021-05-19 21:25: test(scripts): add bats verification for setup scripts
+- 2021-06-06 10:13: feat(proc): add process supervisor with automatic restart
