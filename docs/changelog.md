@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 17:01: feat(deploy): implement zero-downtime rolling reload
 - 2021-06-06 17:27: feat(config): add JSON and YAML configuration loader
 - 2021-06-06 17:36: feat(metrics): track memory usage and cpu thread statistics
+- 2021-06-06 19:32: fix(daemon): gracefully handle sigterm during log rotation
