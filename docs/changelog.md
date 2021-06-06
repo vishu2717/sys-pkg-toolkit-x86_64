@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 13:23: fix(config): ensure directory exists before writing state
 - 2021-06-06 13:54: feat(cli): add command-line argument parser for daemon
 - 2021-06-06 14:06: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-06-06 15:29: refactor(scripts): modularize helper functions across shell scripts
