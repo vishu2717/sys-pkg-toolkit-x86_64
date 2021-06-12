@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2021-06-10 13:58: docs: update system administration runbooks and troubleshooting
 - 2021-06-10 17:06: perf: reduce process spawn latency using fork pool
 - 2021-06-12 13:01: fix(bash): escape arguments in deployment script
+- 2021-06-12 15:27: feat(docker): optimize multi-stage build layers
