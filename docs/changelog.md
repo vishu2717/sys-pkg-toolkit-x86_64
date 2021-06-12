@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2021-06-06 23:24: chore: update base container image to latest alpine
 - 2021-06-10 13:58: docs: update system administration runbooks and troubleshooting
 - 2021-06-10 17:06: perf: reduce process spawn latency using fork pool
+- 2021-06-12 13:01: fix(bash): escape arguments in deployment script
