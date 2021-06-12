@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2021-06-12 19:18: feat(metrics): track memory usage and cpu thread statistics
 - 2021-06-12 19:41: fix(bash): escape arguments in deployment script
 - 2021-06-12 19:46: refactor(cli): simplify command dispatch loop
+- 2021-06-12 20:10: feat(proc): add process supervisor with automatic restart
