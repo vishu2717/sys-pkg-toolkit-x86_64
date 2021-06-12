@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2021-06-10 17:06: perf: reduce process spawn latency using fork pool
 - 2021-06-12 13:01: fix(bash): escape arguments in deployment script
 - 2021-06-12 15:27: feat(docker): optimize multi-stage build layers
+- 2021-06-12 16:54: feat(security): add permission auditing script for local binaries
