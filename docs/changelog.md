@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2021-06-13 11:10: feat(env): add automated dotfiles symlink manager
 - 2021-06-13 13:00: feat(shell): implement safe pipe execution helper
 - 2021-06-13 13:42: feat(deploy): implement zero-downtime rolling reload
+- 2021-06-13 14:14: feat(shell): implement safe pipe execution helper
