@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2021-06-13 14:14: feat(shell): implement safe pipe execution helper
 - 2021-06-13 19:59: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-06-13 20:07: test(scripts): add bats verification for setup scripts
+- 2021-06-13 21:17: feat(sync): add rsync-based remote directory mirror utility
