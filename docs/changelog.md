@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2021-06-12 22:09: feat(security): add permission auditing script for local binaries
 - 2021-06-13 10:20: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-06-13 11:07: refactor(cli): simplify command dispatch loop
+- 2021-06-13 11:10: feat(env): add automated dotfiles symlink manager
