@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2021-06-14 11:29: feat(deploy): implement zero-downtime rolling reload
 - 2021-06-14 13:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-06-14 13:51: docs: update changelog with recent utility enhancements
+- 2021-06-14 14:30: fix(proc): prevent zombie process reaping race condition
