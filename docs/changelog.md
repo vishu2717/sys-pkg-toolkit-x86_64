@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2021-06-14 16:18: feat(security): add permission auditing script for local binaries
 - 2021-06-14 16:28: fix(config): ensure directory exists before writing state
 - 2021-06-14 18:58: refactor(cli): simplify command dispatch loop
+- 2021-06-14 18:58: feat(metrics): track memory usage and cpu thread statistics
