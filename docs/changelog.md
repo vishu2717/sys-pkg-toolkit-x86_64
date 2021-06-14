@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2021-06-13 22:56: refactor(daemon): separate socket listening from worker queue
 - 2021-06-14 10:30: feat(env): add automated dotfiles symlink manager
 - 2021-06-14 11:29: feat(deploy): implement zero-downtime rolling reload
+- 2021-06-14 13:44: fix(monitor): resolve division by zero on idle cpu calculation
