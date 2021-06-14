@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2021-06-13 20:07: test(scripts): add bats verification for setup scripts
 - 2021-06-13 21:17: feat(sync): add rsync-based remote directory mirror utility
 - 2021-06-13 22:56: refactor(daemon): separate socket listening from worker queue
+- 2021-06-14 10:30: feat(env): add automated dotfiles symlink manager
