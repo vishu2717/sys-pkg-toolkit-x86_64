@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2021-06-14 13:51: docs: update changelog with recent utility enhancements
 - 2021-06-14 14:30: fix(proc): prevent zombie process reaping race condition
 - 2021-06-14 15:27: refactor(daemon): separate socket listening from worker queue
+- 2021-06-14 16:18: feat(security): add permission auditing script for local binaries
