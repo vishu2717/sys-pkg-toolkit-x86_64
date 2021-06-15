@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2021-06-14 22:31: refactor(config): migrate global settings to immutable dataclass
 - 2021-06-14 22:39: feat(daemon): add background heartbeat and ping interval
 - 2021-06-15 14:01: fix(monitor): resolve division by zero on idle cpu calculation
+- 2021-06-15 21:29: feat(env): add automated dotfiles symlink manager
