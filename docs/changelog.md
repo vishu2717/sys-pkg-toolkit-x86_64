@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2021-06-18 12:23: docs: update changelog with recent utility enhancements
 - 2021-06-18 14:49: test(daemon): verify supervisor restarts crashed processes
 - 2021-06-18 17:49: fix(config): ensure directory exists before writing state
+- 2021-06-18 19:06: fix(config): ensure directory exists before writing state
