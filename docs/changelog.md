@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2021-06-18 20:49: test(proc): assert exit codes under simulated failures
 - 2021-06-18 21:42: test(proc): assert exit codes under simulated failures
 - 2021-06-19 17:35: docs: add architecture specification for daemon supervisor
+- 2021-06-19 17:47: feat(shell): implement safe pipe execution helper
