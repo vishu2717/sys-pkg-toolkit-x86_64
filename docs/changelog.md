@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2021-06-18 20:23: feat(proc): add process supervisor with automatic restart
 - 2021-06-18 20:49: test(proc): assert exit codes under simulated failures
 - 2021-06-18 21:42: test(proc): assert exit codes under simulated failures
+- 2021-06-19 17:35: docs: add architecture specification for daemon supervisor
