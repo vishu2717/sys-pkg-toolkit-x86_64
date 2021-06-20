@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2021-06-20 10:25: docs: add architecture specification for daemon supervisor
 - 2021-06-20 13:28: perf: reduce process spawn latency using fork pool
 - 2021-06-20 13:32: fix(cli): exit with non-zero status code on unknown command
+- 2021-06-20 13:37: docs: update changelog with recent utility enhancements
