@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2021-06-19 17:47: feat(shell): implement safe pipe execution helper
 - 2021-06-19 22:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-06-20 10:25: docs: add architecture specification for daemon supervisor
+- 2021-06-20 13:28: perf: reduce process spawn latency using fork pool
