@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2021-06-20 13:32: fix(cli): exit with non-zero status code on unknown command
 - 2021-06-20 13:37: docs: update changelog with recent utility enhancements
 - 2021-06-20 17:23: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-06-20 19:07: fix(cli): exit with non-zero status code on unknown command
