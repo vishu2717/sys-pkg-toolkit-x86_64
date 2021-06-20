@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2021-06-20 17:23: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-06-20 19:07: fix(cli): exit with non-zero status code on unknown command
 - 2021-06-20 19:41: refactor(config): migrate global settings to immutable dataclass
+- 2021-06-20 23:17: refactor(daemon): separate socket listening from worker queue
