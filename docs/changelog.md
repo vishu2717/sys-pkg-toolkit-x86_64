@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2021-06-22 15:28: refactor(config): migrate global settings to immutable dataclass
 - 2021-06-22 19:18: fix(config): ensure directory exists before writing state
 - 2021-06-22 19:50: fix(bash): escape arguments in deployment script
+- 2021-06-22 20:19: refactor(monitor): optimize sampling frequency and buffer size
