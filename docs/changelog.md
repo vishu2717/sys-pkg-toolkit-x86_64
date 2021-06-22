@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2021-06-22 20:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-06-22 21:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-06-22 23:23: docs: add architecture specification for daemon supervisor
+- 2021-06-22 23:28: refactor(config): migrate global settings to immutable dataclass
