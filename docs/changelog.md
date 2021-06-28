@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2021-06-28 14:12: feat(monitor): implement system resource tracking utility
 - 2021-06-28 14:16: perf: reduce process spawn latency using fork pool
 - 2021-06-28 16:14: fix(cli): exit with non-zero status code on unknown command
+- 2021-06-28 16:29: fix(daemon): gracefully handle sigterm during log rotation
