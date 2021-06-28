@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2021-06-22 23:28: refactor(config): migrate global settings to immutable dataclass
 - 2021-06-25 19:30: feat(sync): add rsync-based remote directory mirror utility
 - 2021-06-28 13:28: docs: add architecture specification for daemon supervisor
+- 2021-06-28 14:12: feat(monitor): implement system resource tracking utility
