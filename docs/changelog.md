@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2021-06-28 20:49: feat(monitor): implement system resource tracking utility
 - 2021-06-30 11:12: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-06-30 11:55: test(cli): add unit test coverage for argument parsing
+- 2021-06-30 15:22: docs: document environment variables and override flags
