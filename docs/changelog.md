@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2021-06-30 17:05: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-06-30 17:33: test(cli): add unit test coverage for argument parsing
 - 2021-06-30 20:07: feat(config): add JSON and YAML configuration loader
+- 2021-07-01 10:54: refactor(config): migrate global settings to immutable dataclass
