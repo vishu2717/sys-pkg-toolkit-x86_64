@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2021-06-30 20:07: feat(config): add JSON and YAML configuration loader
 - 2021-07-01 10:54: refactor(config): migrate global settings to immutable dataclass
 - 2021-07-02 16:34: refactor(cli): simplify command dispatch loop
+- 2021-07-02 17:18: feat(monitor): implement system resource tracking utility

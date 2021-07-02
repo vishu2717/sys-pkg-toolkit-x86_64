@@ -74,3 +74,6 @@ check_cpu() { uptime | awk '{print $NF}'; }
 # Optimized sampling rate
 
 # Optimized sampling rate
+
+# Resource monitor utility
+check_cpu() { uptime | awk '{print $NF}'; }
