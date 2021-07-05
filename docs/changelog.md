@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2021-07-02 21:22: feat(metrics): track memory usage and cpu thread statistics
 - 2021-07-05 11:15: refactor(config): migrate global settings to immutable dataclass
 - 2021-07-05 14:18: test(daemon): verify supervisor restarts crashed processes
+- 2021-07-05 21:47: feat(cli): add command-line argument parser for daemon
