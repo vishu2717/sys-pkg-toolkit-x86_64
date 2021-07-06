@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2021-07-05 21:47: feat(cli): add command-line argument parser for daemon
 - 2021-07-05 23:11: docs: update changelog with recent utility enhancements
 - 2021-07-06 11:03: test(daemon): verify supervisor restarts crashed processes
+- 2021-07-06 14:31: feat(docker): optimize multi-stage build layers
