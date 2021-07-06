@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2021-07-06 11:03: test(daemon): verify supervisor restarts crashed processes
 - 2021-07-06 14:31: feat(docker): optimize multi-stage build layers
 - 2021-07-06 22:32: fix(proc): prevent zombie process reaping race condition
+- 2021-07-06 22:50: feat(cli): add command-line argument parser for daemon
