@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2021-07-08 13:26: fix(cli): exit with non-zero status code on unknown command
 - 2021-07-08 13:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-07-08 15:35: feat(docker): optimize multi-stage build layers
+- 2021-07-08 20:17: feat(monitor): implement system resource tracking utility
