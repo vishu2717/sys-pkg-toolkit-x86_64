@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2021-07-08 10:45: refactor(daemon): separate socket listening from worker queue
 - 2021-07-08 11:43: fix(cli): exit with non-zero status code on unknown command
 - 2021-07-08 12:53: feat(cli): add command-line argument parser for daemon
+- 2021-07-08 13:26: fix(cli): exit with non-zero status code on unknown command
