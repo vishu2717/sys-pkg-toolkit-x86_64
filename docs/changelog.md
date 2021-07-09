@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2021-07-08 13:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-07-08 15:35: feat(docker): optimize multi-stage build layers
 - 2021-07-08 20:17: feat(monitor): implement system resource tracking utility
+- 2021-07-09 13:10: chore: update base container image to latest alpine
