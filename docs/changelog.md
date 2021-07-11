@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2021-07-09 13:10: chore: update base container image to latest alpine
 - 2021-07-09 16:56: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-07-09 20:53: docs: document environment variables and override flags
+- 2021-07-11 11:40: test(daemon): verify supervisor restarts crashed processes
