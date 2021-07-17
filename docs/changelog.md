@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2021-07-17 17:12: docs: document environment variables and override flags
 - 2021-07-17 18:25: docs: update changelog with recent utility enhancements
 - 2021-07-17 20:16: fix(proc): prevent zombie process reaping race condition
+- 2021-07-17 22:32: docs: document environment variables and override flags
