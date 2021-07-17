@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2021-07-17 11:07: test(scripts): add bats verification for setup scripts
 - 2021-07-17 13:27: refactor(cli): simplify command dispatch loop
 - 2021-07-17 13:38: feat(proc): add process supervisor with automatic restart
+- 2021-07-17 14:57: fix(proc): prevent zombie process reaping race condition
