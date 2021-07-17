@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2021-07-17 13:38: feat(proc): add process supervisor with automatic restart
 - 2021-07-17 14:57: fix(proc): prevent zombie process reaping race condition
 - 2021-07-17 16:07: docs: add architecture specification for daemon supervisor
+- 2021-07-17 16:15: chore: configure shellcheck and ruff linter hooks
