@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2021-07-11 21:26: feat(security): add permission auditing script for local binaries
 - 2021-07-11 22:41: chore: update base container image to latest alpine
 - 2021-07-11 22:56: refactor(scripts): modularize helper functions across shell scripts
+- 2021-07-17 10:27: fix(docker): specify non-root user in runtime container
