@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2021-07-18 13:56: fix(docker): specify non-root user in runtime container
 - 2021-07-18 14:43: feat(metrics): track memory usage and cpu thread statistics
 - 2021-07-18 15:55: feat(monitor): implement system resource tracking utility
+- 2021-07-18 18:49: test(daemon): verify supervisor restarts crashed processes
