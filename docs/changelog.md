@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2021-07-17 22:32: docs: document environment variables and override flags
 - 2021-07-18 11:03: style: enforce consistent shell quoting and indentation
 - 2021-07-18 12:03: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-07-18 13:56: fix(docker): specify non-root user in runtime container
