@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2021-07-18 21:59: fix(config): ensure directory exists before writing state
 - 2021-07-19 10:20: docs: add architecture specification for daemon supervisor
 - 2021-07-19 11:23: feat(metrics): track memory usage and cpu thread statistics
+- 2021-07-19 15:33: feat(cli): add command-line argument parser for daemon
