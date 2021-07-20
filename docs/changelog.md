@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2021-07-20 13:28: fix(bash): escape arguments in deployment script
 - 2021-07-20 14:13: feat(daemon): add background heartbeat and ping interval
 - 2021-07-20 17:14: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-07-20 19:00: docs: add architecture specification for daemon supervisor
