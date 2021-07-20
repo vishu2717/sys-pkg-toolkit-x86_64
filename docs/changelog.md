@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2021-07-19 20:46: feat(monitor): implement system resource tracking utility
 - 2021-07-19 21:09: feat(docker): optimize multi-stage build layers
 - 2021-07-20 12:29: fix(proc): prevent zombie process reaping race condition
+- 2021-07-20 13:28: fix(bash): escape arguments in deployment script
