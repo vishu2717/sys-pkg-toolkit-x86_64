@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2021-07-28 12:07: fix(cli): exit with non-zero status code on unknown command
 - 2021-07-28 12:35: fix(config): ensure directory exists before writing state
 - 2021-07-28 13:06: feat(env): add automated dotfiles symlink manager
+- 2021-07-28 23:23: feat(env): add automated dotfiles symlink manager
