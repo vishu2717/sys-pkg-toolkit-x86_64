@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2021-07-23 17:25: refactor(cli): simplify command dispatch loop
 - 2021-07-26 20:57: feat(docker): optimize multi-stage build layers
 - 2021-07-28 12:07: fix(cli): exit with non-zero status code on unknown command
+- 2021-07-28 12:35: fix(config): ensure directory exists before writing state
