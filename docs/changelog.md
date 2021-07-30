@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2021-07-28 12:35: fix(config): ensure directory exists before writing state
 - 2021-07-28 13:06: feat(env): add automated dotfiles symlink manager
 - 2021-07-28 23:23: feat(env): add automated dotfiles symlink manager
+- 2021-07-30 15:30: feat(config): add JSON and YAML configuration loader
