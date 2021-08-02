@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2021-08-02 16:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-08-02 18:19: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-08-02 18:55: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-08-02 20:55: fix(config): ensure directory exists before writing state
