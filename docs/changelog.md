@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2021-08-02 14:11: feat(env): add automated dotfiles symlink manager
 - 2021-08-02 15:54: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-08-02 15:57: refactor(cli): simplify command dispatch loop
+- 2021-08-02 16:29: fix(monitor): resolve division by zero on idle cpu calculation
