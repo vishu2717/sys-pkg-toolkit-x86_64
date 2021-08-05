@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2021-08-02 18:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-08-02 20:55: fix(config): ensure directory exists before writing state
 - 2021-08-02 22:03: docs: update changelog with recent utility enhancements
+- 2021-08-05 10:04: feat(shell): implement safe pipe execution helper
