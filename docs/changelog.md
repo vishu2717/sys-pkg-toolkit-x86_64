@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2021-08-02 20:55: fix(config): ensure directory exists before writing state
 - 2021-08-02 22:03: docs: update changelog with recent utility enhancements
 - 2021-08-05 10:04: feat(shell): implement safe pipe execution helper
+- 2021-08-05 10:57: fix(proc): prevent zombie process reaping race condition
