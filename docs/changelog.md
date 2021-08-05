@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2021-08-05 15:19: docs: update changelog with recent utility enhancements
 - 2021-08-05 16:54: feat(docker): optimize multi-stage build layers
 - 2021-08-05 18:43: refactor(scripts): modularize helper functions across shell scripts
+- 2021-08-05 20:54: docs: document environment variables and override flags
