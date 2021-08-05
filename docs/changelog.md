@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2021-08-05 10:04: feat(shell): implement safe pipe execution helper
 - 2021-08-05 10:57: fix(proc): prevent zombie process reaping race condition
 - 2021-08-05 11:29: feat(sync): add rsync-based remote directory mirror utility
+- 2021-08-05 14:50: feat(docker): optimize multi-stage build layers
