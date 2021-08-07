@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2021-08-07 13:19: fix(bash): escape arguments in deployment script
 - 2021-08-07 14:30: refactor(config): migrate global settings to immutable dataclass
 - 2021-08-07 17:34: docs: update changelog with recent utility enhancements
+- 2021-08-07 18:50: refactor(monitor): optimize sampling frequency and buffer size
