@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2021-08-05 18:43: refactor(scripts): modularize helper functions across shell scripts
 - 2021-08-05 20:54: docs: document environment variables and override flags
 - 2021-08-05 21:37: feat(cli): add command-line argument parser for daemon
+- 2021-08-07 10:39: feat(deploy): implement zero-downtime rolling reload
