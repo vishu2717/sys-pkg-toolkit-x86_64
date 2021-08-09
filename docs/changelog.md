@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2021-08-09 14:42: feat(sync): add rsync-based remote directory mirror utility
 - 2021-08-09 15:47: feat(deploy): implement zero-downtime rolling reload
 - 2021-08-09 21:13: feat(config): add JSON and YAML configuration loader
+- 2021-08-09 23:26: feat(sync): add rsync-based remote directory mirror utility
