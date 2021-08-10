@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2021-08-09 23:26: feat(sync): add rsync-based remote directory mirror utility
 - 2021-08-10 10:18: fix(config): ensure directory exists before writing state
 - 2021-08-10 11:23: feat(docker): optimize multi-stage build layers
+- 2021-08-10 13:00: feat(env): add automated dotfiles symlink manager
