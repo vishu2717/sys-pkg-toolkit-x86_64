@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2021-08-10 13:00: feat(env): add automated dotfiles symlink manager
 - 2021-08-10 15:53: test(proc): assert exit codes under simulated failures
 - 2021-08-10 17:32: feat(config): add JSON and YAML configuration loader
+- 2021-08-10 18:10: refactor(scripts): modularize helper functions across shell scripts
