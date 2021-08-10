@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2021-08-10 10:18: fix(config): ensure directory exists before writing state
 - 2021-08-10 11:23: feat(docker): optimize multi-stage build layers
 - 2021-08-10 13:00: feat(env): add automated dotfiles symlink manager
+- 2021-08-10 15:53: test(proc): assert exit codes under simulated failures
