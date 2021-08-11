@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2021-08-11 13:42: feat(monitor): implement system resource tracking utility
 - 2021-08-11 14:22: docs: document environment variables and override flags
 - 2021-08-11 15:32: feat(shell): implement safe pipe execution helper
+- 2021-08-11 15:35: chore: configure shellcheck and ruff linter hooks
