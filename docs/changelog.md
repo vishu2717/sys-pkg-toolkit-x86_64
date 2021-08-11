@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2021-08-10 18:10: refactor(scripts): modularize helper functions across shell scripts
 - 2021-08-10 21:49: feat(env): add automated dotfiles symlink manager
 - 2021-08-11 13:42: feat(monitor): implement system resource tracking utility
+- 2021-08-11 14:22: docs: document environment variables and override flags
