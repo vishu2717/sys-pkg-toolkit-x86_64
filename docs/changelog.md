@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2021-08-11 19:16: feat(daemon): add background heartbeat and ping interval
 - 2021-08-11 20:50: fix(bash): escape arguments in deployment script
 - 2021-08-11 22:53: feat(docker): optimize multi-stage build layers
+- 2021-08-12 12:47: fix(daemon): gracefully handle sigterm during log rotation
