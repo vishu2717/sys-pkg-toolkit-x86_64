@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2021-08-12 15:17: fix(config): ensure directory exists before writing state
 - 2021-08-12 19:04: refactor(scripts): modularize helper functions across shell scripts
 - 2021-08-12 19:15: chore: update base container image to latest alpine
+- 2021-08-12 19:25: test(daemon): verify supervisor restarts crashed processes
