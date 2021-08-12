@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2021-08-12 12:47: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-08-12 14:08: perf: reduce process spawn latency using fork pool
 - 2021-08-12 15:17: fix(config): ensure directory exists before writing state
+- 2021-08-12 19:04: refactor(scripts): modularize helper functions across shell scripts
