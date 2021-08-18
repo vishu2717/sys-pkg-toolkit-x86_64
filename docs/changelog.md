@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2021-08-18 11:41: docs: document environment variables and override flags
 - 2021-08-18 11:42: feat(sync): add rsync-based remote directory mirror utility
 - 2021-08-18 13:26: test(daemon): verify supervisor restarts crashed processes
+- 2021-08-18 14:36: feat(security): add permission auditing script for local binaries
