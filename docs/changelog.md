@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2021-08-18 13:26: test(daemon): verify supervisor restarts crashed processes
 - 2021-08-18 14:36: feat(security): add permission auditing script for local binaries
 - 2021-08-18 14:36: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-08-18 19:38: fix(monitor): resolve division by zero on idle cpu calculation
