@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2021-08-12 19:25: test(daemon): verify supervisor restarts crashed processes
 - 2021-08-13 13:50: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-08-13 20:09: test(scripts): add bats verification for setup scripts
+- 2021-08-18 10:12: refactor(monitor): optimize sampling frequency and buffer size
