@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2021-08-18 14:36: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-08-18 19:38: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-08-18 21:32: feat(docker): optimize multi-stage build layers
+- 2021-08-18 22:52: fix(bash): escape arguments in deployment script
