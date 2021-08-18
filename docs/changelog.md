@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2021-08-13 20:09: test(scripts): add bats verification for setup scripts
 - 2021-08-18 10:12: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-08-18 11:41: docs: document environment variables and override flags
+- 2021-08-18 11:42: feat(sync): add rsync-based remote directory mirror utility
