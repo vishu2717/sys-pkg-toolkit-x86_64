@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2021-08-20 10:18: test(scripts): add bats verification for setup scripts
 - 2021-08-20 12:09: chore: configure shellcheck and ruff linter hooks
 - 2021-08-20 12:14: feat(cli): add command-line argument parser for daemon
+- 2021-08-20 13:27: fix(docker): specify non-root user in runtime container
