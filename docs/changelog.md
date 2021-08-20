@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2021-08-20 12:09: chore: configure shellcheck and ruff linter hooks
 - 2021-08-20 12:14: feat(cli): add command-line argument parser for daemon
 - 2021-08-20 13:27: fix(docker): specify non-root user in runtime container
+- 2021-08-20 14:23: feat(env): add automated dotfiles symlink manager
