@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2021-08-18 21:32: feat(docker): optimize multi-stage build layers
 - 2021-08-18 22:52: fix(bash): escape arguments in deployment script
 - 2021-08-20 10:18: test(scripts): add bats verification for setup scripts
+- 2021-08-20 12:09: chore: configure shellcheck and ruff linter hooks
