@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2021-08-20 22:08: test(proc): assert exit codes under simulated failures
 - 2021-08-20 23:24: feat(config): add JSON and YAML configuration loader
 - 2021-08-25 14:49: feat(sync): add rsync-based remote directory mirror utility
+- 2021-08-25 17:04: test(daemon): verify supervisor restarts crashed processes
