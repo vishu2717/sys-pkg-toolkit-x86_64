@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2021-08-20 18:38: docs: update changelog with recent utility enhancements
 - 2021-08-20 22:08: test(proc): assert exit codes under simulated failures
 - 2021-08-20 23:24: feat(config): add JSON and YAML configuration loader
+- 2021-08-25 14:49: feat(sync): add rsync-based remote directory mirror utility
