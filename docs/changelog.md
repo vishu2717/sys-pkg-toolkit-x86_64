@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2021-08-25 19:51: docs: update changelog with recent utility enhancements
 - 2021-08-25 20:01: fix(bash): escape arguments in deployment script
 - 2021-08-25 22:09: fix(docker): specify non-root user in runtime container
+- 2021-08-26 13:48: test(cli): add unit test coverage for argument parsing
