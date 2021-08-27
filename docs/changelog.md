@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2021-08-26 18:37: test(proc): assert exit codes under simulated failures
 - 2021-08-27 10:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-08-27 13:17: feat(cli): add command-line argument parser for daemon
+- 2021-08-27 14:17: test(cli): add unit test coverage for argument parsing
