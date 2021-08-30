@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2021-08-27 14:38: feat(monitor): implement system resource tracking utility
 - 2021-08-27 14:38: refactor(config): migrate global settings to immutable dataclass
 - 2021-08-27 16:29: feat(sync): add rsync-based remote directory mirror utility
+- 2021-08-30 10:31: docs: update changelog with recent utility enhancements
