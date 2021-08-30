@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2021-08-30 11:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-08-30 11:53: fix(bash): escape arguments in deployment script
 - 2021-08-30 13:44: test(proc): assert exit codes under simulated failures
+- 2021-08-30 14:40: refactor(daemon): separate socket listening from worker queue
