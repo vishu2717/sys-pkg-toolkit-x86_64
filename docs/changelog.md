@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2021-08-30 19:40: feat(monitor): implement system resource tracking utility
 - 2021-08-30 21:42: fix(cli): exit with non-zero status code on unknown command
 - 2021-08-30 22:04: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-08-30 22:43: test(proc): assert exit codes under simulated failures
