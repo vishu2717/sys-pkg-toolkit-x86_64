@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2021-08-30 13:44: test(proc): assert exit codes under simulated failures
 - 2021-08-30 14:40: refactor(daemon): separate socket listening from worker queue
 - 2021-08-30 19:31: refactor(daemon): separate socket listening from worker queue
+- 2021-08-30 19:40: feat(monitor): implement system resource tracking utility
