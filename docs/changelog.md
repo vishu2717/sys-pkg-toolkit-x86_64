@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2021-08-30 22:04: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-08-30 22:43: test(proc): assert exit codes under simulated failures
 - 2021-09-02 13:27: refactor(cli): simplify command dispatch loop
+- 2021-09-02 14:14: fix(daemon): gracefully handle sigterm during log rotation
