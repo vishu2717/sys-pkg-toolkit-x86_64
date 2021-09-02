@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2021-08-30 22:43: test(proc): assert exit codes under simulated failures
 - 2021-09-02 13:27: refactor(cli): simplify command dispatch loop
 - 2021-09-02 14:14: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-09-02 15:28: fix(proc): prevent zombie process reaping race condition
