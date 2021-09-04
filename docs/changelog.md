@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2021-09-03 19:48: style: enforce consistent shell quoting and indentation
 - 2021-09-03 19:48: refactor(cli): simplify command dispatch loop
 - 2021-09-04 10:42: test(daemon): verify supervisor restarts crashed processes
+- 2021-09-04 11:43: feat(metrics): track memory usage and cpu thread statistics
