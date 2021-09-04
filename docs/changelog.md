@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2021-09-04 10:42: test(daemon): verify supervisor restarts crashed processes
 - 2021-09-04 11:43: feat(metrics): track memory usage and cpu thread statistics
 - 2021-09-04 16:51: test(scripts): add bats verification for setup scripts
+- 2021-09-04 17:51: fix(monitor): resolve division by zero on idle cpu calculation
