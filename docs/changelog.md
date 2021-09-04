@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2021-09-04 17:51: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-09-04 18:14: docs: update changelog with recent utility enhancements
 - 2021-09-04 19:16: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-09-04 19:19: test(daemon): verify supervisor restarts crashed processes
