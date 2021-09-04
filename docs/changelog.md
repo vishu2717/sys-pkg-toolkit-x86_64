@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2021-09-04 19:36: feat(monitor): implement system resource tracking utility
 - 2021-09-04 20:02: feat(deploy): implement zero-downtime rolling reload
 - 2021-09-04 20:21: fix(docker): specify non-root user in runtime container
+- 2021-09-04 22:34: refactor(config): migrate global settings to immutable dataclass
