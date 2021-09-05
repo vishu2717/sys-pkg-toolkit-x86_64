@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2021-09-05 11:02: feat(shell): implement safe pipe execution helper
 - 2021-09-05 11:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-09-05 12:53: fix(docker): specify non-root user in runtime container
+- 2021-09-05 22:17: test(cli): add unit test coverage for argument parsing
