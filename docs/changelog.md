@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2021-09-05 22:17: test(cli): add unit test coverage for argument parsing
 - 2021-09-05 22:34: test(proc): assert exit codes under simulated failures
 - 2021-09-05 23:11: feat(metrics): track memory usage and cpu thread statistics
+- 2021-09-06 16:45: refactor(scripts): modularize helper functions across shell scripts
