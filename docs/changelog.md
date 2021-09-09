@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2021-09-06 18:21: refactor(scripts): modularize helper functions across shell scripts
 - 2021-09-06 19:58: feat(env): add automated dotfiles symlink manager
 - 2021-09-06 22:34: feat(shell): implement safe pipe execution helper
+- 2021-09-09 10:47: fix(daemon): gracefully handle sigterm during log rotation
