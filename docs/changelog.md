@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2021-09-06 19:58: feat(env): add automated dotfiles symlink manager
 - 2021-09-06 22:34: feat(shell): implement safe pipe execution helper
 - 2021-09-09 10:47: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-09-09 10:50: refactor(daemon): separate socket listening from worker queue
