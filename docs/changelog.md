@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2021-09-09 10:50: refactor(daemon): separate socket listening from worker queue
 - 2021-09-09 11:22: feat(cli): add command-line argument parser for daemon
 - 2021-09-09 16:32: feat(shell): implement safe pipe execution helper
+- 2021-09-09 21:29: feat(metrics): track memory usage and cpu thread statistics
