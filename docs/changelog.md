@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2021-09-10 10:09: feat(docker): optimize multi-stage build layers
 - 2021-09-10 12:26: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-09-10 13:55: feat(sync): add rsync-based remote directory mirror utility
+- 2021-09-10 16:04: fix(config): ensure directory exists before writing state
