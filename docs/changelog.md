@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2021-09-09 21:46: feat(docker): optimize multi-stage build layers
 - 2021-09-09 22:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-09-10 10:09: feat(docker): optimize multi-stage build layers
+- 2021-09-10 12:26: fix(daemon): gracefully handle sigterm during log rotation
