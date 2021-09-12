@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2021-09-10 13:55: feat(sync): add rsync-based remote directory mirror utility
 - 2021-09-10 16:04: fix(config): ensure directory exists before writing state
 - 2021-09-10 16:52: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-09-12 12:41: feat(config): add JSON and YAML configuration loader
