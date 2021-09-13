@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2021-09-12 21:00: docs: update changelog with recent utility enhancements
 - 2021-09-13 15:52: docs: update system administration runbooks and troubleshooting
 - 2021-09-13 21:25: test(daemon): verify supervisor restarts crashed processes
+- 2021-09-13 22:33: fix(cli): exit with non-zero status code on unknown command
