@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2021-09-12 17:03: feat(security): add permission auditing script for local binaries
 - 2021-09-12 21:00: docs: update changelog with recent utility enhancements
 - 2021-09-13 15:52: docs: update system administration runbooks and troubleshooting
+- 2021-09-13 21:25: test(daemon): verify supervisor restarts crashed processes
