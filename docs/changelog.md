@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2021-09-19 11:39: feat(config): add JSON and YAML configuration loader
 - 2021-09-19 12:12: feat(daemon): add background heartbeat and ping interval
 - 2021-09-19 12:44: fix(cli): exit with non-zero status code on unknown command
+- 2021-09-19 13:37: fix(config): ensure directory exists before writing state
