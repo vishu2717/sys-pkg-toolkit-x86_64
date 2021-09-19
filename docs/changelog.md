@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2021-09-19 12:44: fix(cli): exit with non-zero status code on unknown command
 - 2021-09-19 13:37: fix(config): ensure directory exists before writing state
 - 2021-09-19 14:03: refactor(monitor): optimize sampling frequency and buffer size
+- 2021-09-19 17:29: feat(deploy): implement zero-downtime rolling reload
