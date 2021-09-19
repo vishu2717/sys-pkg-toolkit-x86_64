@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2021-09-13 21:25: test(daemon): verify supervisor restarts crashed processes
 - 2021-09-13 22:33: fix(cli): exit with non-zero status code on unknown command
 - 2021-09-14 19:50: refactor(config): migrate global settings to immutable dataclass
+- 2021-09-19 10:34: refactor(daemon): separate socket listening from worker queue
