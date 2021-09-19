@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2021-09-19 10:34: refactor(daemon): separate socket listening from worker queue
 - 2021-09-19 11:39: feat(config): add JSON and YAML configuration loader
 - 2021-09-19 12:12: feat(daemon): add background heartbeat and ping interval
+- 2021-09-19 12:44: fix(cli): exit with non-zero status code on unknown command
