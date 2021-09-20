@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2021-09-20 15:46: test(proc): assert exit codes under simulated failures
 - 2021-09-20 17:17: docs: update system administration runbooks and troubleshooting
 - 2021-09-20 19:06: docs: document environment variables and override flags
+- 2021-09-20 20:12: fix(proc): prevent zombie process reaping race condition
