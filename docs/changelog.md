@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2021-09-19 18:49: refactor(config): migrate global settings to immutable dataclass
 - 2021-09-19 20:55: docs: update changelog with recent utility enhancements
 - 2021-09-19 22:38: test(cli): add unit test coverage for argument parsing
+- 2021-09-20 10:13: docs: update system administration runbooks and troubleshooting
