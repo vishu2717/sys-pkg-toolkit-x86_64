@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2021-09-20 15:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-09-20 15:46: test(proc): assert exit codes under simulated failures
 - 2021-09-20 17:17: docs: update system administration runbooks and troubleshooting
+- 2021-09-20 19:06: docs: document environment variables and override flags
