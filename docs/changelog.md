@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2021-09-20 12:39: feat(daemon): add background heartbeat and ping interval
 - 2021-09-20 13:41: feat(config): add JSON and YAML configuration loader
 - 2021-09-20 15:44: fix(monitor): resolve division by zero on idle cpu calculation
+- 2021-09-20 15:46: test(proc): assert exit codes under simulated failures
