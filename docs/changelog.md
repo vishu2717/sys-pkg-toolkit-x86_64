@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2021-09-20 19:06: docs: document environment variables and override flags
 - 2021-09-20 20:12: fix(proc): prevent zombie process reaping race condition
 - 2021-09-20 21:35: feat(shell): implement safe pipe execution helper
+- 2021-09-20 22:39: refactor(config): migrate global settings to immutable dataclass
