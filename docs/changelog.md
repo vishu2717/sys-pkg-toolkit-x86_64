@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2021-09-20 21:35: feat(shell): implement safe pipe execution helper
 - 2021-09-20 22:39: refactor(config): migrate global settings to immutable dataclass
 - 2021-09-20 23:13: refactor(daemon): separate socket listening from worker queue
+- 2021-09-21 10:52: docs: update system administration runbooks and troubleshooting
