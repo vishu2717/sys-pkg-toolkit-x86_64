@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2021-09-21 10:54: fix(bash): escape arguments in deployment script
 - 2021-09-21 12:12: fix(cli): exit with non-zero status code on unknown command
 - 2021-09-21 20:44: refactor(daemon): separate socket listening from worker queue
+- 2021-09-21 23:00: feat(env): add automated dotfiles symlink manager
