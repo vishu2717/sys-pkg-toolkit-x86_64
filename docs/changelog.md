@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2021-09-21 23:00: feat(env): add automated dotfiles symlink manager
 - 2021-09-21 23:18: feat(sync): add rsync-based remote directory mirror utility
 - 2021-09-23 12:59: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-09-23 13:31: feat(cli): add command-line argument parser for daemon
