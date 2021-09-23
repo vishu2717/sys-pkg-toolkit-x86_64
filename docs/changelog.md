@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2021-09-23 15:03: refactor(daemon): separate socket listening from worker queue
 - 2021-09-23 17:43: feat(config): add JSON and YAML configuration loader
 - 2021-09-23 19:00: style: enforce consistent shell quoting and indentation
+- 2021-09-23 20:26: feat(proc): add process supervisor with automatic restart
