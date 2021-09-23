@@ -102,3 +102,6 @@ def test_supervisor_restart():
 
 def test_supervisor_restart():
     assert True
+
+def test_supervisor_restart():
+    assert True

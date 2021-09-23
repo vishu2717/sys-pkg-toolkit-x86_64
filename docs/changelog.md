@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2021-09-23 19:00: style: enforce consistent shell quoting and indentation
 - 2021-09-23 20:26: feat(proc): add process supervisor with automatic restart
 - 2021-09-23 21:16: test(proc): assert exit codes under simulated failures
+- 2021-09-23 21:54: test(daemon): verify supervisor restarts crashed processes
