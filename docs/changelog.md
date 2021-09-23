@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2021-09-23 13:53: feat(monitor): implement system resource tracking utility
 - 2021-09-23 13:59: fix(cli): exit with non-zero status code on unknown command
 - 2021-09-23 14:03: feat(metrics): track memory usage and cpu thread statistics
+- 2021-09-23 14:25: refactor(config): migrate global settings to immutable dataclass
