@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2021-10-13 14:21: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-10-13 17:53: feat(docker): optimize multi-stage build layers
 - 2021-10-13 19:16: fix(proc): prevent zombie process reaping race condition
+- 2021-10-13 19:29: fix(daemon): gracefully handle sigterm during log rotation
