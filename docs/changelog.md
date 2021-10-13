@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2021-10-13 19:29: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-10-13 20:39: test(scripts): add bats verification for setup scripts
 - 2021-10-13 20:51: feat(shell): implement safe pipe execution helper
+- 2021-10-13 21:40: fix(docker): specify non-root user in runtime container
