@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2021-10-13 21:41: refactor(config): migrate global settings to immutable dataclass
 - 2021-10-13 21:55: fix(proc): prevent zombie process reaping race condition
 - 2021-10-13 22:00: feat(daemon): add background heartbeat and ping interval
+- 2021-10-13 23:23: fix(cli): exit with non-zero status code on unknown command
