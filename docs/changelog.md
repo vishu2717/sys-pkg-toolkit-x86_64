@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2021-09-23 23:00: refactor(config): migrate global settings to immutable dataclass
 - 2021-09-23 23:01: feat(docker): optimize multi-stage build layers
 - 2021-10-13 11:32: fix(config): ensure directory exists before writing state
+- 2021-10-13 11:55: fix(config): ensure directory exists before writing state
