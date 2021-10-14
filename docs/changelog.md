@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2021-10-13 23:23: fix(cli): exit with non-zero status code on unknown command
 - 2021-10-14 10:28: fix(cli): exit with non-zero status code on unknown command
 - 2021-10-14 11:10: fix(config): ensure directory exists before writing state
+- 2021-10-14 12:15: docs: add architecture specification for daemon supervisor
