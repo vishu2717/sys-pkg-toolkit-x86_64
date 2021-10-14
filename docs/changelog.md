@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2021-10-14 12:15: docs: add architecture specification for daemon supervisor
 - 2021-10-14 15:34: feat(cli): add command-line argument parser for daemon
 - 2021-10-14 19:29: fix(cli): exit with non-zero status code on unknown command
+- 2021-10-14 22:08: test(proc): assert exit codes under simulated failures
