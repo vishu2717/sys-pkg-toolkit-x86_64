@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2021-10-14 22:08: test(proc): assert exit codes under simulated failures
 - 2021-10-16 11:02: refactor(scripts): modularize helper functions across shell scripts
 - 2021-10-16 18:35: fix(daemon): gracefully handle sigterm during log rotation
+- 2021-10-16 23:03: fix(cli): exit with non-zero status code on unknown command
