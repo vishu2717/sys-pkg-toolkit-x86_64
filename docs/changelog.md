@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2021-10-14 15:34: feat(cli): add command-line argument parser for daemon
 - 2021-10-14 19:29: fix(cli): exit with non-zero status code on unknown command
 - 2021-10-14 22:08: test(proc): assert exit codes under simulated failures
+- 2021-10-16 11:02: refactor(scripts): modularize helper functions across shell scripts
