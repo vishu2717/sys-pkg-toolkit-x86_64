@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2021-10-29 10:19: feat(security): add permission auditing script for local binaries
 - 2021-10-29 10:41: feat(cli): add command-line argument parser for daemon
 - 2021-10-29 16:52: test(cli): add unit test coverage for argument parsing
+- 2021-10-29 19:25: fix(cli): exit with non-zero status code on unknown command
