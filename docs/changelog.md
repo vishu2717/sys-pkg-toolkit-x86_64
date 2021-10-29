@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2021-10-19 19:50: fix(docker): specify non-root user in runtime container
 - 2021-10-26 14:45: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-10-29 10:19: feat(security): add permission auditing script for local binaries
+- 2021-10-29 10:41: feat(cli): add command-line argument parser for daemon
