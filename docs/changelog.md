@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2021-10-29 10:41: feat(cli): add command-line argument parser for daemon
 - 2021-10-29 16:52: test(cli): add unit test coverage for argument parsing
 - 2021-10-29 19:25: fix(cli): exit with non-zero status code on unknown command
+- 2021-11-01 12:03: feat(env): add automated dotfiles symlink manager
