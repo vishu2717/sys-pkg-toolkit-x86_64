@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2021-10-29 19:25: fix(cli): exit with non-zero status code on unknown command
 - 2021-11-01 12:03: feat(env): add automated dotfiles symlink manager
 - 2021-11-01 12:43: refactor(daemon): separate socket listening from worker queue
+- 2021-11-01 13:51: feat(cli): add command-line argument parser for daemon
