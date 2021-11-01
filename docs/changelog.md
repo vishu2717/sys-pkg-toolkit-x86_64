@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2021-11-01 12:43: refactor(daemon): separate socket listening from worker queue
 - 2021-11-01 13:51: feat(cli): add command-line argument parser for daemon
 - 2021-11-01 14:42: feat(daemon): add background heartbeat and ping interval
+- 2021-11-01 15:51: refactor(monitor): optimize sampling frequency and buffer size
