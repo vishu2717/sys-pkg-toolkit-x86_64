@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2021-11-01 15:51: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-11-01 16:25: test(proc): assert exit codes under simulated failures
 - 2021-11-01 16:56: feat(env): add automated dotfiles symlink manager
+- 2021-11-01 20:14: feat(monitor): implement system resource tracking utility
