@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2021-11-09 19:18: feat(sync): add rsync-based remote directory mirror utility
 - 2021-11-09 20:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-11-09 21:18: refactor(cli): simplify command dispatch loop
+- 2021-11-09 22:35: feat(security): add permission auditing script for local binaries
