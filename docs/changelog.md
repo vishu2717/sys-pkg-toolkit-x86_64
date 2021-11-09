@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2021-11-09 21:18: refactor(cli): simplify command dispatch loop
 - 2021-11-09 22:35: feat(security): add permission auditing script for local binaries
 - 2021-11-09 22:40: perf: reduce process spawn latency using fork pool
+- 2021-11-09 23:20: fix(config): ensure directory exists before writing state
