@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2021-11-09 22:40: perf: reduce process spawn latency using fork pool
 - 2021-11-09 23:20: fix(config): ensure directory exists before writing state
 - 2021-11-10 13:13: feat(sync): add rsync-based remote directory mirror utility
+- 2021-11-10 14:24: refactor(config): migrate global settings to immutable dataclass
