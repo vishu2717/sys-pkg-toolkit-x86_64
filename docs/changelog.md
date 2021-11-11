@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2021-11-11 15:19: docs: update system administration runbooks and troubleshooting
 - 2021-11-11 19:23: feat(metrics): track memory usage and cpu thread statistics
 - 2021-11-11 19:40: test(daemon): verify supervisor restarts crashed processes
+- 2021-11-11 21:26: docs: add architecture specification for daemon supervisor
