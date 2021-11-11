@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2021-11-10 13:13: feat(sync): add rsync-based remote directory mirror utility
 - 2021-11-10 14:24: refactor(config): migrate global settings to immutable dataclass
 - 2021-11-11 15:19: docs: update system administration runbooks and troubleshooting
+- 2021-11-11 19:23: feat(metrics): track memory usage and cpu thread statistics
