@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2021-11-11 19:40: test(daemon): verify supervisor restarts crashed processes
 - 2021-11-11 21:26: docs: add architecture specification for daemon supervisor
 - 2021-11-14 12:56: test(daemon): verify supervisor restarts crashed processes
+- 2021-11-14 18:52: fix(config): ensure directory exists before writing state
