@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2021-11-14 20:36: refactor(cli): simplify command dispatch loop
 - 2021-11-16 13:15: refactor(daemon): separate socket listening from worker queue
 - 2021-11-16 16:37: feat(shell): implement safe pipe execution helper
+- 2021-11-16 19:08: fix(proc): prevent zombie process reaping race condition
