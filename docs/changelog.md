@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2021-11-14 12:56: test(daemon): verify supervisor restarts crashed processes
 - 2021-11-14 18:52: fix(config): ensure directory exists before writing state
 - 2021-11-14 20:36: refactor(cli): simplify command dispatch loop
+- 2021-11-16 13:15: refactor(daemon): separate socket listening from worker queue
