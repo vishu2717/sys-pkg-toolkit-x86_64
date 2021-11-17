@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2021-11-16 19:08: fix(proc): prevent zombie process reaping race condition
 - 2021-11-16 20:46: feat(cli): add command-line argument parser for daemon
 - 2021-11-17 10:53: docs: document environment variables and override flags
+- 2021-11-17 13:15: docs: update changelog with recent utility enhancements
