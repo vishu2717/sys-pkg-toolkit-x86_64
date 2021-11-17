@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2021-11-17 15:04: test(cli): add unit test coverage for argument parsing
 - 2021-11-17 15:31: docs: document environment variables and override flags
 - 2021-11-17 16:15: refactor(scripts): modularize helper functions across shell scripts
+- 2021-11-17 16:22: test(cli): add unit test coverage for argument parsing
