@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 12:52: test(cli): add unit test coverage for argument parsing
 - 2021-11-19 13:38: docs: update changelog with recent utility enhancements
 - 2021-11-19 15:15: style: enforce consistent shell quoting and indentation
+- 2021-11-19 17:39: refactor(monitor): optimize sampling frequency and buffer size
