@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2021-11-17 19:23: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-11-17 19:51: feat(daemon): add background heartbeat and ping interval
 - 2021-11-18 18:50: fix(docker): specify non-root user in runtime container
+- 2021-11-19 10:01: fix(daemon): gracefully handle sigterm during log rotation
