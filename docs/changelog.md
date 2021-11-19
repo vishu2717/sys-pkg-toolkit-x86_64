@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 11:15: perf: reduce process spawn latency using fork pool
 - 2021-11-19 12:10: feat(cli): add command-line argument parser for daemon
 - 2021-11-19 12:52: test(cli): add unit test coverage for argument parsing
+- 2021-11-19 13:38: docs: update changelog with recent utility enhancements
