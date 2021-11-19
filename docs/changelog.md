@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 17:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2021-11-19 18:23: feat(metrics): track memory usage and cpu thread statistics
 - 2021-11-19 20:59: feat(deploy): implement zero-downtime rolling reload
+- 2021-11-19 21:25: feat(sync): add rsync-based remote directory mirror utility
