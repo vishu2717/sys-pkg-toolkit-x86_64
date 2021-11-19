@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 10:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-11-19 11:00: feat(cli): add command-line argument parser for daemon
 - 2021-11-19 11:15: perf: reduce process spawn latency using fork pool
+- 2021-11-19 12:10: feat(cli): add command-line argument parser for daemon
