@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 21:30: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-11-19 21:49: fix(config): ensure directory exists before writing state
 - 2021-11-19 23:21: test(scripts): add bats verification for setup scripts
+- 2021-11-19 23:22: feat(metrics): track memory usage and cpu thread statistics
