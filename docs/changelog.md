@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2021-11-19 23:21: test(scripts): add bats verification for setup scripts
 - 2021-11-19 23:22: feat(metrics): track memory usage and cpu thread statistics
 - 2021-12-02 12:00: test(daemon): verify supervisor restarts crashed processes
+- 2021-12-02 12:36: chore: configure shellcheck and ruff linter hooks
