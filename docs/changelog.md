@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2021-12-02 12:00: test(daemon): verify supervisor restarts crashed processes
 - 2021-12-02 12:36: chore: configure shellcheck and ruff linter hooks
 - 2021-12-02 14:49: feat(monitor): implement system resource tracking utility
+- 2021-12-02 17:59: feat(metrics): track memory usage and cpu thread statistics
