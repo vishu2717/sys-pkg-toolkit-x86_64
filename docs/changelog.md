@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2021-12-06 13:16: feat(sync): add rsync-based remote directory mirror utility
 - 2021-12-06 14:21: feat(deploy): implement zero-downtime rolling reload
 - 2021-12-06 16:29: docs: add architecture specification for daemon supervisor
+- 2021-12-06 19:02: feat(shell): implement safe pipe execution helper
