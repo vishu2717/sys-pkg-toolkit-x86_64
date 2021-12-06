@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2021-12-05 20:24: fix(config): ensure directory exists before writing state
 - 2021-12-06 11:26: feat(cli): add command-line argument parser for daemon
 - 2021-12-06 11:48: feat(cli): add command-line argument parser for daemon
+- 2021-12-06 13:16: feat(sync): add rsync-based remote directory mirror utility
