@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2021-12-06 11:26: feat(cli): add command-line argument parser for daemon
 - 2021-12-06 11:48: feat(cli): add command-line argument parser for daemon
 - 2021-12-06 13:16: feat(sync): add rsync-based remote directory mirror utility
+- 2021-12-06 14:21: feat(deploy): implement zero-downtime rolling reload
