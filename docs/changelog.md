@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2021-12-13 19:46: refactor(cli): simplify command dispatch loop
 - 2021-12-13 21:48: fix(monitor): resolve division by zero on idle cpu calculation
 - 2021-12-13 22:57: feat(sync): add rsync-based remote directory mirror utility
+- 2021-12-13 23:16: test(scripts): add bats verification for setup scripts
