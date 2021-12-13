@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2021-12-13 13:18: refactor(scripts): modularize helper functions across shell scripts
 - 2021-12-13 15:54: refactor(cli): simplify command dispatch loop
 - 2021-12-13 17:34: test(scripts): add bats verification for setup scripts
+- 2021-12-13 19:46: refactor(cli): simplify command dispatch loop
