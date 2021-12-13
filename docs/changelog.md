@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2021-12-06 19:02: feat(shell): implement safe pipe execution helper
 - 2021-12-06 19:51: feat(monitor): implement system resource tracking utility
 - 2021-12-11 15:48: fix(cli): exit with non-zero status code on unknown command
+- 2021-12-13 11:39: test(cli): add unit test coverage for argument parsing
