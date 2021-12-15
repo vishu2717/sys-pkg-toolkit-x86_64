@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2021-12-13 22:57: feat(sync): add rsync-based remote directory mirror utility
 - 2021-12-13 23:16: test(scripts): add bats verification for setup scripts
 - 2021-12-15 11:14: fix(proc): prevent zombie process reaping race condition
+- 2021-12-15 16:15: feat(cli): add command-line argument parser for daemon
