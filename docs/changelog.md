@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2021-12-17 12:29: fix(bash): escape arguments in deployment script
 - 2021-12-17 14:01: feat(security): add permission auditing script for local binaries
 - 2021-12-17 15:49: test(proc): assert exit codes under simulated failures
+- 2021-12-17 18:04: feat(shell): implement safe pipe execution helper
