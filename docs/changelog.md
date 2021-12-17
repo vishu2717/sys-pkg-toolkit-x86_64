@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2021-12-15 16:15: feat(cli): add command-line argument parser for daemon
 - 2021-12-15 18:19: feat(cli): add command-line argument parser for daemon
 - 2021-12-17 10:22: feat(daemon): add background heartbeat and ping interval
+- 2021-12-17 12:29: fix(bash): escape arguments in deployment script
