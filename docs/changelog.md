@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2021-12-17 18:04: feat(shell): implement safe pipe execution helper
 - 2021-12-17 20:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2021-12-18 10:00: feat(proc): add process supervisor with automatic restart
+- 2021-12-18 13:26: fix(proc): prevent zombie process reaping race condition
