@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2021-12-18 10:00: feat(proc): add process supervisor with automatic restart
 - 2021-12-18 13:26: fix(proc): prevent zombie process reaping race condition
 - 2021-12-18 15:59: refactor(cli): simplify command dispatch loop
+- 2021-12-18 18:36: feat(deploy): implement zero-downtime rolling reload
