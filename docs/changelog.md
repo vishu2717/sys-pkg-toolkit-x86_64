@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2021-12-18 15:59: refactor(cli): simplify command dispatch loop
 - 2021-12-18 18:36: feat(deploy): implement zero-downtime rolling reload
 - 2021-12-18 22:27: fix(monitor): resolve division by zero on idle cpu calculation
+- 2021-12-18 22:53: fix(bash): escape arguments in deployment script
