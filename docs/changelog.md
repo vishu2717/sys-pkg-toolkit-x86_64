@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2021-12-18 22:53: fix(bash): escape arguments in deployment script
 - 2021-12-19 10:13: chore: update base container image to latest alpine
 - 2021-12-19 20:00: perf: reduce process spawn latency using fork pool
+- 2021-12-20 10:07: refactor(daemon): separate socket listening from worker queue
