@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2021-12-23 10:19: docs: update changelog with recent utility enhancements
 - 2021-12-23 12:36: feat(daemon): add background heartbeat and ping interval
 - 2021-12-23 13:57: feat(sync): add rsync-based remote directory mirror utility
+- 2021-12-23 16:27: feat(cli): add command-line argument parser for daemon
