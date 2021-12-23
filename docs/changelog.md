@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2021-12-20 10:07: refactor(daemon): separate socket listening from worker queue
 - 2021-12-20 15:34: feat(deploy): implement zero-downtime rolling reload
 - 2021-12-20 21:32: test(proc): assert exit codes under simulated failures
+- 2021-12-23 10:19: docs: update changelog with recent utility enhancements
