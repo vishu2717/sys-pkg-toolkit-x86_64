@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2021-12-20 21:32: test(proc): assert exit codes under simulated failures
 - 2021-12-23 10:19: docs: update changelog with recent utility enhancements
 - 2021-12-23 12:36: feat(daemon): add background heartbeat and ping interval
+- 2021-12-23 13:57: feat(sync): add rsync-based remote directory mirror utility
