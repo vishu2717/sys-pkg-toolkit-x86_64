@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2021-12-23 12:36: feat(daemon): add background heartbeat and ping interval
 - 2021-12-23 13:57: feat(sync): add rsync-based remote directory mirror utility
 - 2021-12-23 16:27: feat(cli): add command-line argument parser for daemon
+- 2021-12-23 17:02: refactor(config): migrate global settings to immutable dataclass
