@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2021-12-23 17:02: refactor(config): migrate global settings to immutable dataclass
 - 2021-12-23 20:26: docs: update system administration runbooks and troubleshooting
 - 2021-12-23 22:39: refactor(config): migrate global settings to immutable dataclass
+- 2021-12-24 10:47: fix(proc): prevent zombie process reaping race condition
