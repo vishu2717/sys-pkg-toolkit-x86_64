@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2021-12-29 12:41: feat(monitor): implement system resource tracking utility
 - 2021-12-29 15:54: fix(docker): specify non-root user in runtime container
 - 2021-12-29 16:17: test(daemon): verify supervisor restarts crashed processes
+- 2021-12-29 18:15: test(proc): assert exit codes under simulated failures
