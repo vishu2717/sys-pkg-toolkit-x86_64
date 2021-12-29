@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2021-12-23 22:39: refactor(config): migrate global settings to immutable dataclass
 - 2021-12-24 10:47: fix(proc): prevent zombie process reaping race condition
 - 2021-12-24 12:13: chore: configure shellcheck and ruff linter hooks
+- 2021-12-29 10:40: feat(security): add permission auditing script for local binaries
