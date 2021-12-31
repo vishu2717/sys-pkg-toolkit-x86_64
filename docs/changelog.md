@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2021-12-29 22:08: feat(proc): add process supervisor with automatic restart
 - 2021-12-29 22:33: refactor(scripts): modularize helper functions across shell scripts
 - 2021-12-31 12:43: feat(metrics): track memory usage and cpu thread statistics
+- 2021-12-31 12:53: fix(monitor): resolve division by zero on idle cpu calculation
