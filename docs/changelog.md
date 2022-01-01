@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2022-01-01 18:47: feat(monitor): implement system resource tracking utility
 - 2022-01-01 20:38: fix(config): ensure directory exists before writing state
 - 2022-01-01 20:59: feat(security): add permission auditing script for local binaries
+- 2022-01-01 22:15: feat(proc): add process supervisor with automatic restart
