@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2022-01-01 11:10: fix(config): ensure directory exists before writing state
 - 2022-01-01 14:06: feat(cli): add command-line argument parser for daemon
 - 2022-01-01 15:05: refactor(cli): simplify command dispatch loop
+- 2022-01-01 17:49: test(daemon): verify supervisor restarts crashed processes
