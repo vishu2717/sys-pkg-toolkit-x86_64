@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2022-01-01 20:59: feat(security): add permission auditing script for local binaries
 - 2022-01-01 22:15: feat(proc): add process supervisor with automatic restart
 - 2022-01-02 19:03: refactor(daemon): separate socket listening from worker queue
+- 2022-01-03 10:15: docs: document environment variables and override flags
