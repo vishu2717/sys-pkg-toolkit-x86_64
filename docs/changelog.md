@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2022-01-04 10:23: feat(security): add permission auditing script for local binaries
 - 2022-01-04 10:57: fix(proc): prevent zombie process reaping race condition
 - 2022-01-04 14:21: feat(sync): add rsync-based remote directory mirror utility
+- 2022-01-04 16:32: docs: document environment variables and override flags
