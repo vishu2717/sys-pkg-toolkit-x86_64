@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2022-01-03 10:55: chore: update base container image to latest alpine
 - 2022-01-03 18:27: fix(config): ensure directory exists before writing state
 - 2022-01-04 10:23: feat(security): add permission auditing script for local binaries
+- 2022-01-04 10:57: fix(proc): prevent zombie process reaping race condition
