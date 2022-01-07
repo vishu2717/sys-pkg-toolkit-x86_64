@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2022-01-04 10:57: fix(proc): prevent zombie process reaping race condition
 - 2022-01-04 14:21: feat(sync): add rsync-based remote directory mirror utility
 - 2022-01-04 16:32: docs: document environment variables and override flags
+- 2022-01-07 12:42: refactor(scripts): modularize helper functions across shell scripts
