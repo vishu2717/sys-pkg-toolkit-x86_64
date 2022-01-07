@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2022-01-07 12:42: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-07 13:53: feat(config): add JSON and YAML configuration loader
 - 2022-01-07 15:05: refactor(daemon): separate socket listening from worker queue
+- 2022-01-07 16:34: refactor(monitor): optimize sampling frequency and buffer size
