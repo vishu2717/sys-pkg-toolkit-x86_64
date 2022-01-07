@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2022-01-07 15:05: refactor(daemon): separate socket listening from worker queue
 - 2022-01-07 16:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-01-07 17:30: test(cli): add unit test coverage for argument parsing
+- 2022-01-07 18:46: fix(cli): exit with non-zero status code on unknown command
