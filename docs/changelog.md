@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2022-01-07 18:46: fix(cli): exit with non-zero status code on unknown command
 - 2022-01-07 20:33: feat(sync): add rsync-based remote directory mirror utility
 - 2022-01-10 12:16: fix(docker): specify non-root user in runtime container
+- 2022-01-10 12:37: test(proc): assert exit codes under simulated failures
