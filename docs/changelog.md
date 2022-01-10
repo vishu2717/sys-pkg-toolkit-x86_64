@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-01-10 16:00: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-10 16:24: docs: update system administration runbooks and troubleshooting
 - 2022-01-10 17:38: fix(config): ensure directory exists before writing state
+- 2022-01-10 18:08: feat(env): add automated dotfiles symlink manager
