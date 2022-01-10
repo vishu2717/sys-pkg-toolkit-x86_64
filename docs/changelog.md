@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2022-01-10 12:16: fix(docker): specify non-root user in runtime container
 - 2022-01-10 12:37: test(proc): assert exit codes under simulated failures
 - 2022-01-10 13:24: refactor(daemon): separate socket listening from worker queue
+- 2022-01-10 16:00: refactor(scripts): modularize helper functions across shell scripts
