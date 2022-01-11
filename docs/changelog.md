@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2022-01-11 14:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-01-11 14:42: perf: reduce process spawn latency using fork pool
 - 2022-01-11 15:01: feat(docker): optimize multi-stage build layers
+- 2022-01-11 20:38: feat(metrics): track memory usage and cpu thread statistics
