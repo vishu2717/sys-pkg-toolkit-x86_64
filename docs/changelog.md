@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2022-01-11 14:42: perf: reduce process spawn latency using fork pool
 - 2022-01-11 15:01: feat(docker): optimize multi-stage build layers
 - 2022-01-11 20:38: feat(metrics): track memory usage and cpu thread statistics
+- 2022-01-13 12:05: feat(cli): add command-line argument parser for daemon
