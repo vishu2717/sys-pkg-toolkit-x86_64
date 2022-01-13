@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-01-11 20:38: feat(metrics): track memory usage and cpu thread statistics
 - 2022-01-13 12:05: feat(cli): add command-line argument parser for daemon
 - 2022-01-13 17:52: docs: document environment variables and override flags
+- 2022-01-13 22:03: fix(config): ensure directory exists before writing state
