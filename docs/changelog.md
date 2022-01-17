@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2022-01-13 22:03: fix(config): ensure directory exists before writing state
 - 2022-01-13 22:08: feat(metrics): track memory usage and cpu thread statistics
 - 2022-01-14 14:16: feat(monitor): implement system resource tracking utility
+- 2022-01-17 13:56: fix(docker): specify non-root user in runtime container
