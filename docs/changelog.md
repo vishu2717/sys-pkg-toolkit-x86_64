@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2022-01-13 22:08: feat(metrics): track memory usage and cpu thread statistics
 - 2022-01-14 14:16: feat(monitor): implement system resource tracking utility
 - 2022-01-17 13:56: fix(docker): specify non-root user in runtime container
+- 2022-01-18 14:32: feat(proc): add process supervisor with automatic restart
