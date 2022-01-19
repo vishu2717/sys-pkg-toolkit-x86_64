@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2022-01-19 14:43: feat(proc): add process supervisor with automatic restart
 - 2022-01-19 21:07: feat(security): add permission auditing script for local binaries
 - 2022-01-19 21:11: refactor(scripts): modularize helper functions across shell scripts
+- 2022-01-19 21:26: refactor(cli): simplify command dispatch loop
