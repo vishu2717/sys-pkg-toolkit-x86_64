@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2022-01-19 10:49: feat(deploy): implement zero-downtime rolling reload
 - 2022-01-19 12:47: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-19 14:43: feat(proc): add process supervisor with automatic restart
+- 2022-01-19 21:07: feat(security): add permission auditing script for local binaries
