@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2022-01-17 13:56: fix(docker): specify non-root user in runtime container
 - 2022-01-18 14:32: feat(proc): add process supervisor with automatic restart
 - 2022-01-18 17:52: fix(bash): escape arguments in deployment script
+- 2022-01-19 10:49: feat(deploy): implement zero-downtime rolling reload
