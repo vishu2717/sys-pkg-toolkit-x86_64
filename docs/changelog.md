@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-01-19 21:11: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-19 21:26: refactor(cli): simplify command dispatch loop
 - 2022-01-19 21:34: feat(sync): add rsync-based remote directory mirror utility
+- 2022-01-19 21:43: feat(proc): add process supervisor with automatic restart
