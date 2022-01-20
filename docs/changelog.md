@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2022-01-20 17:47: feat(proc): add process supervisor with automatic restart
 - 2022-01-20 20:41: fix(config): ensure directory exists before writing state
 - 2022-01-20 20:53: test(daemon): verify supervisor restarts crashed processes
+- 2022-01-20 21:36: fix(proc): prevent zombie process reaping race condition
