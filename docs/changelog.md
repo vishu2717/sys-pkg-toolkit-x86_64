@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2022-01-19 22:47: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-20 11:34: docs: add architecture specification for daemon supervisor
 - 2022-01-20 13:19: feat(daemon): add background heartbeat and ping interval
+- 2022-01-20 15:18: feat(sync): add rsync-based remote directory mirror utility
