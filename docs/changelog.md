@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2022-01-20 15:18: feat(sync): add rsync-based remote directory mirror utility
 - 2022-01-20 16:08: test(scripts): add bats verification for setup scripts
 - 2022-01-20 17:47: feat(proc): add process supervisor with automatic restart
+- 2022-01-20 20:41: fix(config): ensure directory exists before writing state
