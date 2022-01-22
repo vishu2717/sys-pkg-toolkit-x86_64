@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2022-01-20 22:53: feat(shell): implement safe pipe execution helper
 - 2022-01-22 11:00: test(daemon): verify supervisor restarts crashed processes
 - 2022-01-22 13:24: feat(shell): implement safe pipe execution helper
+- 2022-01-22 18:09: chore: update base container image to latest alpine
