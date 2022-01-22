@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2022-01-20 21:36: fix(proc): prevent zombie process reaping race condition
 - 2022-01-20 22:39: feat(shell): implement safe pipe execution helper
 - 2022-01-20 22:53: feat(shell): implement safe pipe execution helper
+- 2022-01-22 11:00: test(daemon): verify supervisor restarts crashed processes
