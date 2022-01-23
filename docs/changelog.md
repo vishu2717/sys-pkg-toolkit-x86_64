@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2022-01-22 18:09: chore: update base container image to latest alpine
 - 2022-01-23 12:36: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-01-23 15:36: docs: add architecture specification for daemon supervisor
+- 2022-01-23 16:58: test(cli): add unit test coverage for argument parsing
