@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2022-01-23 21:00: refactor(cli): simplify command dispatch loop
 - 2022-01-25 10:09: feat(config): add JSON and YAML configuration loader
 - 2022-01-25 11:07: feat(security): add permission auditing script for local binaries
+- 2022-01-25 19:45: feat(security): add permission auditing script for local binaries
