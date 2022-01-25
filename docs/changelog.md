@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2022-01-25 11:07: feat(security): add permission auditing script for local binaries
 - 2022-01-25 19:45: feat(security): add permission auditing script for local binaries
 - 2022-01-25 21:31: chore: configure shellcheck and ruff linter hooks
+- 2022-01-25 22:52: fix(proc): prevent zombie process reaping race condition
