@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2022-01-25 21:31: chore: configure shellcheck and ruff linter hooks
 - 2022-01-25 22:52: fix(proc): prevent zombie process reaping race condition
 - 2022-01-25 23:25: fix(bash): escape arguments in deployment script
+- 2022-01-27 11:19: test(daemon): verify supervisor restarts crashed processes
