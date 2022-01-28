@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2022-01-27 11:19: test(daemon): verify supervisor restarts crashed processes
 - 2022-01-28 10:25: test(proc): assert exit codes under simulated failures
 - 2022-01-28 12:07: test(cli): add unit test coverage for argument parsing
+- 2022-01-28 12:32: feat(metrics): track memory usage and cpu thread statistics
