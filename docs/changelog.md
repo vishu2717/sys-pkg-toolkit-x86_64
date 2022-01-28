@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2022-01-25 23:25: fix(bash): escape arguments in deployment script
 - 2022-01-27 11:19: test(daemon): verify supervisor restarts crashed processes
 - 2022-01-28 10:25: test(proc): assert exit codes under simulated failures
+- 2022-01-28 12:07: test(cli): add unit test coverage for argument parsing
