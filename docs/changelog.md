@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2022-01-28 20:04: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-01-28 20:15: refactor(cli): simplify command dispatch loop
 - 2022-01-28 20:50: feat(cli): add command-line argument parser for daemon
+- 2022-01-28 21:16: docs: update system administration runbooks and troubleshooting
