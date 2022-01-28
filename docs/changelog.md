@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2022-01-28 17:13: feat(deploy): implement zero-downtime rolling reload
 - 2022-01-28 17:30: refactor(scripts): modularize helper functions across shell scripts
 - 2022-01-28 20:04: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-01-28 20:15: refactor(cli): simplify command dispatch loop
