@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2022-01-28 12:07: test(cli): add unit test coverage for argument parsing
 - 2022-01-28 12:32: feat(metrics): track memory usage and cpu thread statistics
 - 2022-01-28 15:21: fix(bash): escape arguments in deployment script
+- 2022-01-28 16:34: feat(env): add automated dotfiles symlink manager
