@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2022-01-28 21:16: docs: update system administration runbooks and troubleshooting
 - 2022-02-01 10:52: fix(docker): specify non-root user in runtime container
 - 2022-02-01 11:26: feat(metrics): track memory usage and cpu thread statistics
+- 2022-02-01 15:14: fix(bash): escape arguments in deployment script
