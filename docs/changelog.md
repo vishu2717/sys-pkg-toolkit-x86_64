@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2022-02-01 18:44: test(cli): add unit test coverage for argument parsing
 - 2022-02-01 18:58: fix(proc): prevent zombie process reaping race condition
 - 2022-02-01 18:58: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-02-01 22:26: fix(docker): specify non-root user in runtime container
