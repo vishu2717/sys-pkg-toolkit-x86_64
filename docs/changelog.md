@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2022-02-02 11:41: feat(sync): add rsync-based remote directory mirror utility
 - 2022-02-02 12:25: feat(config): add JSON and YAML configuration loader
 - 2022-02-02 14:56: fix(docker): specify non-root user in runtime container
+- 2022-02-02 14:59: test(scripts): add bats verification for setup scripts
