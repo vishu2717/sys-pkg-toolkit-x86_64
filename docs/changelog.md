@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2022-02-01 18:58: fix(proc): prevent zombie process reaping race condition
 - 2022-02-01 18:58: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-01 22:26: fix(docker): specify non-root user in runtime container
+- 2022-02-02 10:36: docs: document environment variables and override flags
