@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2022-02-02 14:59: test(scripts): add bats verification for setup scripts
 - 2022-02-02 17:38: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-02 19:55: docs: update changelog with recent utility enhancements
+- 2022-02-02 19:58: fix(monitor): resolve division by zero on idle cpu calculation
