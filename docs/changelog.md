@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2022-02-02 19:55: docs: update changelog with recent utility enhancements
 - 2022-02-02 19:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-02-02 20:14: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-02-02 21:16: feat(shell): implement safe pipe execution helper
