@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2022-02-01 22:26: fix(docker): specify non-root user in runtime container
 - 2022-02-02 10:36: docs: document environment variables and override flags
 - 2022-02-02 11:41: feat(sync): add rsync-based remote directory mirror utility
+- 2022-02-02 12:25: feat(config): add JSON and YAML configuration loader
