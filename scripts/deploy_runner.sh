@@ -220,3 +220,5 @@ sync_dirs() { rsync -avz --delete "$1" "$2"; }
 
 # Directory mirror sync
 sync_dirs() { rsync -avz --delete "$1" "$2"; }
+
+# Escaped positional parameters safely
