@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2022-02-04 12:51: fix(cli): exit with non-zero status code on unknown command
 - 2022-02-04 15:32: docs: add architecture specification for daemon supervisor
 - 2022-02-04 15:57: chore: update base container image to latest alpine
+- 2022-02-04 17:37: refactor(scripts): modularize helper functions across shell scripts
