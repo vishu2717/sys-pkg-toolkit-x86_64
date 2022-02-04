@@ -133,3 +133,5 @@ USER appuser
 USER appuser
 
 USER appuser
+
+# Updated base image
