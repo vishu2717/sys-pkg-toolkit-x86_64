@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2022-02-02 20:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-02 21:16: feat(shell): implement safe pipe execution helper
 - 2022-02-04 12:51: fix(cli): exit with non-zero status code on unknown command
+- 2022-02-04 15:32: docs: add architecture specification for daemon supervisor
