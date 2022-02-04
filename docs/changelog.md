@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-02-04 15:57: chore: update base container image to latest alpine
 - 2022-02-04 17:37: refactor(scripts): modularize helper functions across shell scripts
 - 2022-02-04 18:11: fix(bash): escape arguments in deployment script
+- 2022-02-04 18:57: feat(sync): add rsync-based remote directory mirror utility
