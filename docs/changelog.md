@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2022-02-04 18:57: feat(sync): add rsync-based remote directory mirror utility
 - 2022-02-04 19:42: docs: update changelog with recent utility enhancements
 - 2022-02-04 20:09: fix(bash): escape arguments in deployment script
+- 2022-02-04 20:43: feat(cli): add command-line argument parser for daemon
