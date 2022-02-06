@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2022-02-06 12:11: fix(bash): escape arguments in deployment script
 - 2022-02-06 14:26: test(cli): add unit test coverage for argument parsing
 - 2022-02-06 16:23: feat(shell): implement safe pipe execution helper
+- 2022-02-06 16:47: test(proc): assert exit codes under simulated failures
