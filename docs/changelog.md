@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2022-02-06 19:12: feat(metrics): track memory usage and cpu thread statistics
 - 2022-02-06 19:34: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-02-06 19:39: feat(config): add JSON and YAML configuration loader
+- 2022-02-06 20:25: feat(env): add automated dotfiles symlink manager
