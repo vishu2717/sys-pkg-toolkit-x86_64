@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2022-02-04 20:43: feat(cli): add command-line argument parser for daemon
 - 2022-02-04 22:06: fix(config): ensure directory exists before writing state
 - 2022-02-04 22:57: feat(deploy): implement zero-downtime rolling reload
+- 2022-02-06 11:42: docs: add architecture specification for daemon supervisor
