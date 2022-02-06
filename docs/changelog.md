@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2022-02-06 16:47: test(proc): assert exit codes under simulated failures
 - 2022-02-06 16:48: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-06 17:15: feat(proc): add process supervisor with automatic restart
+- 2022-02-06 17:25: chore: update base container image to latest alpine
