@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2022-02-04 22:57: feat(deploy): implement zero-downtime rolling reload
 - 2022-02-06 11:42: docs: add architecture specification for daemon supervisor
 - 2022-02-06 11:42: feat(cli): add command-line argument parser for daemon
+- 2022-02-06 11:49: feat(config): add JSON and YAML configuration loader
