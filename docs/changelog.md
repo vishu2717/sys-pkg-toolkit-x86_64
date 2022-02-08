@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2022-02-08 17:33: feat(shell): implement safe pipe execution helper
 - 2022-02-08 20:59: feat(config): add JSON and YAML configuration loader
 - 2022-02-08 21:30: fix(docker): specify non-root user in runtime container
+- 2022-02-08 22:54: fix(proc): prevent zombie process reaping race condition
