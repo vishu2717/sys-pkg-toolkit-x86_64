@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2022-02-06 21:39: feat(config): add JSON and YAML configuration loader
 - 2022-02-08 15:45: feat(shell): implement safe pipe execution helper
 - 2022-02-08 15:51: test(scripts): add bats verification for setup scripts
+- 2022-02-08 17:33: feat(shell): implement safe pipe execution helper
