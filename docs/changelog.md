@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2022-02-08 21:30: fix(docker): specify non-root user in runtime container
 - 2022-02-08 22:54: fix(proc): prevent zombie process reaping race condition
 - 2022-02-09 10:16: fix(bash): escape arguments in deployment script
+- 2022-02-09 11:15: test(daemon): verify supervisor restarts crashed processes
