@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2022-02-09 11:15: test(daemon): verify supervisor restarts crashed processes
 - 2022-02-09 16:34: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-09 17:28: feat(monitor): implement system resource tracking utility
+- 2022-02-09 17:38: chore: configure shellcheck and ruff linter hooks
