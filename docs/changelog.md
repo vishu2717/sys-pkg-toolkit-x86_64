@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2022-02-09 21:33: refactor(cli): simplify command dispatch loop
 - 2022-02-09 22:11: feat(shell): implement safe pipe execution helper
 - 2022-02-11 10:05: fix(config): ensure directory exists before writing state
+- 2022-02-11 11:27: fix(cli): exit with non-zero status code on unknown command
