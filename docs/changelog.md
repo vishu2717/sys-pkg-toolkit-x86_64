@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2022-02-11 10:05: fix(config): ensure directory exists before writing state
 - 2022-02-11 11:27: fix(cli): exit with non-zero status code on unknown command
 - 2022-02-11 16:43: refactor(cli): simplify command dispatch loop
+- 2022-02-11 20:14: refactor(daemon): separate socket listening from worker queue
