@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2022-02-11 20:14: refactor(daemon): separate socket listening from worker queue
 - 2022-02-11 21:40: refactor(daemon): separate socket listening from worker queue
 - 2022-02-14 11:35: feat(metrics): track memory usage and cpu thread statistics
+- 2022-02-14 11:58: fix(monitor): resolve division by zero on idle cpu calculation
