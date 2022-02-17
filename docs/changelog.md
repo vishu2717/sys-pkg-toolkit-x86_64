@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2022-02-14 11:35: feat(metrics): track memory usage and cpu thread statistics
 - 2022-02-14 11:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-02-14 21:20: fix(config): ensure directory exists before writing state
+- 2022-02-17 12:51: fix(proc): prevent zombie process reaping race condition
