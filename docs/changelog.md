@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2022-02-14 21:20: fix(config): ensure directory exists before writing state
 - 2022-02-17 12:51: fix(proc): prevent zombie process reaping race condition
 - 2022-02-17 14:20: test(proc): assert exit codes under simulated failures
+- 2022-02-17 19:54: refactor(cli): simplify command dispatch loop
