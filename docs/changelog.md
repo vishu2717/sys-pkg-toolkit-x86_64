@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2022-02-14 11:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-02-14 21:20: fix(config): ensure directory exists before writing state
 - 2022-02-17 12:51: fix(proc): prevent zombie process reaping race condition
+- 2022-02-17 14:20: test(proc): assert exit codes under simulated failures
