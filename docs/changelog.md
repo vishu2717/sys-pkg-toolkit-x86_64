@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-02-17 14:20: test(proc): assert exit codes under simulated failures
 - 2022-02-17 19:54: refactor(cli): simplify command dispatch loop
 - 2022-02-17 22:15: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-02-18 13:02: feat(monitor): implement system resource tracking utility
