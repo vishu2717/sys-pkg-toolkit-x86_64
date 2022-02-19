@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2022-02-19 10:52: refactor(scripts): modularize helper functions across shell scripts
 - 2022-02-19 15:08: feat(daemon): add background heartbeat and ping interval
 - 2022-02-19 15:23: feat(deploy): implement zero-downtime rolling reload
+- 2022-02-19 15:46: docs: document environment variables and override flags
