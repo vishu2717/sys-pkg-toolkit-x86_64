@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2022-02-18 13:02: feat(monitor): implement system resource tracking utility
 - 2022-02-19 10:52: refactor(scripts): modularize helper functions across shell scripts
 - 2022-02-19 15:08: feat(daemon): add background heartbeat and ping interval
+- 2022-02-19 15:23: feat(deploy): implement zero-downtime rolling reload
