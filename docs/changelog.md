@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2022-02-19 15:08: feat(daemon): add background heartbeat and ping interval
 - 2022-02-19 15:23: feat(deploy): implement zero-downtime rolling reload
 - 2022-02-19 15:46: docs: document environment variables and override flags
+- 2022-02-19 18:07: feat(monitor): implement system resource tracking utility
