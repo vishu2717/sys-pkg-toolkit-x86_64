@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-02-21 11:00: refactor(scripts): modularize helper functions across shell scripts
 - 2022-02-21 16:35: fix(config): ensure directory exists before writing state
 - 2022-02-21 16:48: fix(cli): exit with non-zero status code on unknown command
+- 2022-02-21 18:24: feat(cli): add command-line argument parser for daemon
