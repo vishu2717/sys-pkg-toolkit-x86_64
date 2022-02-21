@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2022-02-19 15:46: docs: document environment variables and override flags
 - 2022-02-19 18:07: feat(monitor): implement system resource tracking utility
 - 2022-02-19 18:34: feat(docker): optimize multi-stage build layers
+- 2022-02-21 10:27: docs: update system administration runbooks and troubleshooting
