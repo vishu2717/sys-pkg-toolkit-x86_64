@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2022-02-19 18:34: feat(docker): optimize multi-stage build layers
 - 2022-02-21 10:27: docs: update system administration runbooks and troubleshooting
 - 2022-02-21 11:00: refactor(scripts): modularize helper functions across shell scripts
+- 2022-02-21 16:35: fix(config): ensure directory exists before writing state
