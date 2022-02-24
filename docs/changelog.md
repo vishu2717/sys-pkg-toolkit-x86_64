@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2022-02-21 20:34: fix(config): ensure directory exists before writing state
 - 2022-02-24 12:55: feat(sync): add rsync-based remote directory mirror utility
 - 2022-02-24 13:05: test(scripts): add bats verification for setup scripts
+- 2022-02-24 14:00: refactor(scripts): modularize helper functions across shell scripts
