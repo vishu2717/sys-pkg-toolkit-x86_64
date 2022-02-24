@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2022-02-21 19:16: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-02-21 19:56: feat(metrics): track memory usage and cpu thread statistics
 - 2022-02-21 20:34: fix(config): ensure directory exists before writing state
+- 2022-02-24 12:55: feat(sync): add rsync-based remote directory mirror utility
