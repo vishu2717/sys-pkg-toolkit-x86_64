@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-02-24 13:05: test(scripts): add bats verification for setup scripts
 - 2022-02-24 14:00: refactor(scripts): modularize helper functions across shell scripts
 - 2022-02-24 17:33: test(scripts): add bats verification for setup scripts
+- 2022-02-24 19:48: fix(cli): exit with non-zero status code on unknown command
