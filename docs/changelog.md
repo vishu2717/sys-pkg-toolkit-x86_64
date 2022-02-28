@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2022-02-24 20:41: feat(monitor): implement system resource tracking utility
 - 2022-02-28 12:22: docs: update changelog with recent utility enhancements
 - 2022-02-28 13:10: feat(metrics): track memory usage and cpu thread statistics
+- 2022-02-28 15:52: feat(config): add JSON and YAML configuration loader
