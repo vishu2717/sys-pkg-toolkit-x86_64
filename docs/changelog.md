@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2022-02-24 17:33: test(scripts): add bats verification for setup scripts
 - 2022-02-24 19:48: fix(cli): exit with non-zero status code on unknown command
 - 2022-02-24 20:41: feat(monitor): implement system resource tracking utility
+- 2022-02-28 12:22: docs: update changelog with recent utility enhancements
