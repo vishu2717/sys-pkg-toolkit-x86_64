@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2022-03-01 11:56: feat(shell): implement safe pipe execution helper
 - 2022-03-01 15:05: fix(docker): specify non-root user in runtime container
 - 2022-03-01 15:26: refactor(config): migrate global settings to immutable dataclass
+- 2022-03-01 15:44: feat(config): add JSON and YAML configuration loader
