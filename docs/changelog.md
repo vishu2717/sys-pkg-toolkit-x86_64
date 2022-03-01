@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2022-02-28 13:10: feat(metrics): track memory usage and cpu thread statistics
 - 2022-02-28 15:52: feat(config): add JSON and YAML configuration loader
 - 2022-03-01 10:24: feat(metrics): track memory usage and cpu thread statistics
+- 2022-03-01 10:29: refactor(scripts): modularize helper functions across shell scripts
