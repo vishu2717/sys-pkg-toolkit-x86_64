@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-03-04 14:34: feat(cli): add command-line argument parser for daemon
 - 2022-03-04 16:49: feat(config): add JSON and YAML configuration loader
 - 2022-03-04 20:10: fix(bash): escape arguments in deployment script
+- 2022-03-04 21:21: feat(security): add permission auditing script for local binaries
