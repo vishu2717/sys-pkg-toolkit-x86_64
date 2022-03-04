@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-03-01 15:44: feat(config): add JSON and YAML configuration loader
 - 2022-03-04 12:05: refactor(cli): simplify command dispatch loop
 - 2022-03-04 14:34: feat(cli): add command-line argument parser for daemon
+- 2022-03-04 16:49: feat(config): add JSON and YAML configuration loader
