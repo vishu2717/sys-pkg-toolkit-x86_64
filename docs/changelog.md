@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2022-03-05 23:02: fix(cli): exit with non-zero status code on unknown command
 - 2022-03-06 11:53: chore: configure shellcheck and ruff linter hooks
 - 2022-03-06 12:52: fix(proc): prevent zombie process reaping race condition
+- 2022-03-06 15:15: feat(monitor): implement system resource tracking utility
