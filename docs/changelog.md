@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2022-03-06 20:42: fix(cli): exit with non-zero status code on unknown command
 - 2022-03-06 20:59: feat(monitor): implement system resource tracking utility
 - 2022-03-06 21:07: refactor(scripts): modularize helper functions across shell scripts
+- 2022-03-06 21:19: style: enforce consistent shell quoting and indentation
