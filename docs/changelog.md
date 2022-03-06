@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2022-03-05 15:02: docs: document environment variables and override flags
 - 2022-03-05 21:04: feat(security): add permission auditing script for local binaries
 - 2022-03-05 23:02: fix(cli): exit with non-zero status code on unknown command
+- 2022-03-06 11:53: chore: configure shellcheck and ruff linter hooks
