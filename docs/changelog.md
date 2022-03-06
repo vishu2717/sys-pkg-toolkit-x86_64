@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2022-03-06 12:52: fix(proc): prevent zombie process reaping race condition
 - 2022-03-06 15:15: feat(monitor): implement system resource tracking utility
 - 2022-03-06 17:22: feat(docker): optimize multi-stage build layers
+- 2022-03-06 18:12: refactor(config): migrate global settings to immutable dataclass
