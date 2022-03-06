@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2022-03-06 18:39: feat(sync): add rsync-based remote directory mirror utility
 - 2022-03-06 19:05: chore: update base container image to latest alpine
 - 2022-03-06 20:42: fix(cli): exit with non-zero status code on unknown command
+- 2022-03-06 20:59: feat(monitor): implement system resource tracking utility
