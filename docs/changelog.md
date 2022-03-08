@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2022-03-06 21:36: fix(cli): exit with non-zero status code on unknown command
 - 2022-03-06 22:11: feat(docker): optimize multi-stage build layers
 - 2022-03-06 23:12: fix(cli): exit with non-zero status code on unknown command
+- 2022-03-08 18:25: feat(env): add automated dotfiles symlink manager
