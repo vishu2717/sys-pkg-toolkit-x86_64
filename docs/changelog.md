@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2022-03-08 18:42: feat(proc): add process supervisor with automatic restart
 - 2022-03-08 19:22: refactor(config): migrate global settings to immutable dataclass
 - 2022-03-08 20:32: feat(cli): add command-line argument parser for daemon
+- 2022-03-09 11:39: feat(docker): optimize multi-stage build layers
