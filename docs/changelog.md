@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2022-03-23 19:58: feat(sync): add rsync-based remote directory mirror utility
 - 2022-03-23 20:37: test(proc): assert exit codes under simulated failures
 - 2022-03-23 20:43: fix(config): ensure directory exists before writing state
+- 2022-03-23 21:25: chore: update base container image to latest alpine
