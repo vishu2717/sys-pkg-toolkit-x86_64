@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2022-03-12 18:30: refactor(cli): simplify command dispatch loop
 - 2022-03-23 12:37: docs: update changelog with recent utility enhancements
 - 2022-03-23 19:39: feat(shell): implement safe pipe execution helper
+- 2022-03-23 19:58: feat(sync): add rsync-based remote directory mirror utility
