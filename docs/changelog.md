@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2022-03-23 20:43: fix(config): ensure directory exists before writing state
 - 2022-03-23 21:25: chore: update base container image to latest alpine
 - 2022-03-24 10:57: test(daemon): verify supervisor restarts crashed processes
+- 2022-03-24 14:14: feat(proc): add process supervisor with automatic restart
