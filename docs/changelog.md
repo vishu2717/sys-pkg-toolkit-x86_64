@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2022-03-24 23:12: feat(deploy): implement zero-downtime rolling reload
 - 2022-03-25 21:20: fix(docker): specify non-root user in runtime container
 - 2022-03-26 12:36: refactor(cli): simplify command dispatch loop
+- 2022-03-26 16:52: fix(config): ensure directory exists before writing state
