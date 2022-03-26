@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2022-03-26 12:36: refactor(cli): simplify command dispatch loop
 - 2022-03-26 16:52: fix(config): ensure directory exists before writing state
 - 2022-03-26 18:20: feat(env): add automated dotfiles symlink manager
+- 2022-03-26 19:29: feat(sync): add rsync-based remote directory mirror utility

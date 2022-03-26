@@ -246,3 +246,6 @@ sync_dirs() { rsync -avz --delete "$1" "$2"; }
 
 # Zero-downtime deploy reload
 reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
+
+# Directory mirror sync
+sync_dirs() { rsync -avz --delete "$1" "$2"; }
