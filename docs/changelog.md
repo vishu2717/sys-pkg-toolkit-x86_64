@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2022-03-26 22:41: fix(docker): specify non-root user in runtime container
 - 2022-03-27 16:47: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-03-28 15:15: fix(docker): specify non-root user in runtime container
+- 2022-03-28 17:40: chore: update base container image to latest alpine
