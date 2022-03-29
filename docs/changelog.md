@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2022-03-29 21:57: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-03-29 22:44: refactor(config): migrate global settings to immutable dataclass
 - 2022-03-29 23:00: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-03-29 23:29: test(cli): add unit test coverage for argument parsing
