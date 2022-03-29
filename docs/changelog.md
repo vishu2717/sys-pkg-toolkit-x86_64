@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2022-03-29 11:17: test(cli): add unit test coverage for argument parsing
 - 2022-03-29 14:41: feat(daemon): add background heartbeat and ping interval
 - 2022-03-29 18:13: refactor(cli): simplify command dispatch loop
+- 2022-03-29 21:57: refactor(monitor): optimize sampling frequency and buffer size
