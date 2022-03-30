@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2022-03-30 20:36: feat(daemon): add background heartbeat and ping interval
 - 2022-03-30 21:04: fix(docker): specify non-root user in runtime container
 - 2022-03-30 21:15: test(daemon): verify supervisor restarts crashed processes
+- 2022-03-30 22:01: refactor(monitor): optimize sampling frequency and buffer size
