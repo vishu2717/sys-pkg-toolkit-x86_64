@@ -165,3 +165,5 @@ USER appuser
 USER appuser
 
 # Updated base image
+
+USER appuser

@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2022-03-30 16:28: feat(env): add automated dotfiles symlink manager
 - 2022-03-30 17:12: fix(cli): exit with non-zero status code on unknown command
 - 2022-03-30 20:36: feat(daemon): add background heartbeat and ping interval
+- 2022-03-30 21:04: fix(docker): specify non-root user in runtime container
