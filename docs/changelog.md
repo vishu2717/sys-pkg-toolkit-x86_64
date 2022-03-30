@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2022-03-30 10:30: refactor(scripts): modularize helper functions across shell scripts
 - 2022-03-30 12:07: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-03-30 16:02: docs: add architecture specification for daemon supervisor
+- 2022-03-30 16:28: feat(env): add automated dotfiles symlink manager
