@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2022-03-29 23:00: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-03-29 23:29: test(cli): add unit test coverage for argument parsing
 - 2022-03-30 10:30: refactor(scripts): modularize helper functions across shell scripts
+- 2022-03-30 12:07: fix(monitor): resolve division by zero on idle cpu calculation
