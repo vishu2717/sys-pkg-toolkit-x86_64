@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2022-03-30 22:29: docs: update system administration runbooks and troubleshooting
 - 2022-03-30 22:34: feat(metrics): track memory usage and cpu thread statistics
 - 2022-03-31 16:41: fix(proc): prevent zombie process reaping race condition
+- 2022-03-31 22:10: fix(daemon): gracefully handle sigterm during log rotation
