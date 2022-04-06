@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2022-03-31 23:02: feat(daemon): add background heartbeat and ping interval
 - 2022-04-04 18:56: fix(proc): prevent zombie process reaping race condition
 - 2022-04-04 20:34: fix(proc): prevent zombie process reaping race condition
+- 2022-04-06 17:48: refactor(monitor): optimize sampling frequency and buffer size
