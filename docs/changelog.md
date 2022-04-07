@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2022-04-06 19:11: feat(cli): add command-line argument parser for daemon
 - 2022-04-06 19:15: docs: update system administration runbooks and troubleshooting
 - 2022-04-06 23:10: fix(docker): specify non-root user in runtime container
+- 2022-04-07 10:44: feat(docker): optimize multi-stage build layers
