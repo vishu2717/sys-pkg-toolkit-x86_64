@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2022-04-06 23:10: fix(docker): specify non-root user in runtime container
 - 2022-04-07 10:44: feat(docker): optimize multi-stage build layers
 - 2022-04-07 10:51: refactor(cli): simplify command dispatch loop
+- 2022-04-07 13:09: docs: add architecture specification for daemon supervisor
