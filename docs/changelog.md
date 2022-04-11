@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2022-04-07 10:44: feat(docker): optimize multi-stage build layers
 - 2022-04-07 10:51: refactor(cli): simplify command dispatch loop
 - 2022-04-07 13:09: docs: add architecture specification for daemon supervisor
+- 2022-04-11 11:28: feat(cli): add command-line argument parser for daemon
