@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2022-04-11 17:00: test(daemon): verify supervisor restarts crashed processes
 - 2022-04-11 17:01: feat(deploy): implement zero-downtime rolling reload
 - 2022-04-11 20:03: refactor(config): migrate global settings to immutable dataclass
+- 2022-04-11 22:19: feat(security): add permission auditing script for local binaries
