@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2022-04-11 16:12: refactor(scripts): modularize helper functions across shell scripts
 - 2022-04-11 17:00: test(daemon): verify supervisor restarts crashed processes
 - 2022-04-11 17:01: feat(deploy): implement zero-downtime rolling reload
+- 2022-04-11 20:03: refactor(config): migrate global settings to immutable dataclass
