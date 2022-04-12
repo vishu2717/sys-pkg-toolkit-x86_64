@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2022-04-11 20:03: refactor(config): migrate global settings to immutable dataclass
 - 2022-04-11 22:19: feat(security): add permission auditing script for local binaries
 - 2022-04-12 11:36: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-04-12 14:07: fix(docker): specify non-root user in runtime container
