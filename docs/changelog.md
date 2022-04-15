@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2022-04-15 12:39: feat(security): add permission auditing script for local binaries
 - 2022-04-15 13:31: test(proc): assert exit codes under simulated failures
 - 2022-04-15 15:10: feat(proc): add process supervisor with automatic restart
+- 2022-04-15 16:03: docs: update system administration runbooks and troubleshooting
