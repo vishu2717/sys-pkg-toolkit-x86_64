@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-04-15 18:57: test(scripts): add bats verification for setup scripts
 - 2022-04-15 20:28: feat(metrics): track memory usage and cpu thread statistics
 - 2022-04-15 21:59: feat(metrics): track memory usage and cpu thread statistics
+- 2022-04-15 22:56: feat(deploy): implement zero-downtime rolling reload
