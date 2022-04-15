@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2022-04-15 15:10: feat(proc): add process supervisor with automatic restart
 - 2022-04-15 16:03: docs: update system administration runbooks and troubleshooting
 - 2022-04-15 18:34: test(daemon): verify supervisor restarts crashed processes
+- 2022-04-15 18:57: test(scripts): add bats verification for setup scripts
