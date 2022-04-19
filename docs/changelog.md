@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2022-04-19 13:43: feat(deploy): implement zero-downtime rolling reload
 - 2022-04-19 14:03: feat(metrics): track memory usage and cpu thread statistics
 - 2022-04-19 14:42: docs: update changelog with recent utility enhancements
+- 2022-04-19 15:00: feat(daemon): add background heartbeat and ping interval
