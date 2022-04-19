@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2022-04-15 21:59: feat(metrics): track memory usage and cpu thread statistics
 - 2022-04-15 22:56: feat(deploy): implement zero-downtime rolling reload
 - 2022-04-15 23:12: refactor(scripts): modularize helper functions across shell scripts
+- 2022-04-19 11:23: perf: reduce process spawn latency using fork pool
