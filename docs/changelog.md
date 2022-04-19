@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2022-04-19 19:18: feat(shell): implement safe pipe execution helper
 - 2022-04-19 21:48: feat(deploy): implement zero-downtime rolling reload
 - 2022-04-19 22:01: feat(proc): add process supervisor with automatic restart
+- 2022-04-19 22:36: feat(cli): add command-line argument parser for daemon
