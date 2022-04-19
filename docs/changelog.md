@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2022-04-15 23:12: refactor(scripts): modularize helper functions across shell scripts
 - 2022-04-19 11:23: perf: reduce process spawn latency using fork pool
 - 2022-04-19 13:32: feat(cli): add command-line argument parser for daemon
+- 2022-04-19 13:43: feat(deploy): implement zero-downtime rolling reload
