@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-04-19 15:33: refactor(cli): simplify command dispatch loop
 - 2022-04-19 16:21: test(daemon): verify supervisor restarts crashed processes
 - 2022-04-19 18:51: fix(config): ensure directory exists before writing state
+- 2022-04-19 19:18: feat(shell): implement safe pipe execution helper
