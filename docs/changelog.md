@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-04-20 14:53: fix(docker): specify non-root user in runtime container
 - 2022-04-20 16:13: feat(deploy): implement zero-downtime rolling reload
 - 2022-04-20 17:17: feat(daemon): add background heartbeat and ping interval
+- 2022-04-20 17:53: refactor(daemon): separate socket listening from worker queue
