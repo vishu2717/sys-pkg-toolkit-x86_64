@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2022-04-19 22:01: feat(proc): add process supervisor with automatic restart
 - 2022-04-19 22:36: feat(cli): add command-line argument parser for daemon
 - 2022-04-20 10:27: feat(metrics): track memory usage and cpu thread statistics
+- 2022-04-20 14:53: fix(docker): specify non-root user in runtime container
