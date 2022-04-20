@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2022-04-20 18:25: feat(shell): implement safe pipe execution helper
 - 2022-04-20 18:42: test(proc): assert exit codes under simulated failures
 - 2022-04-20 19:12: docs: update changelog with recent utility enhancements
+- 2022-04-20 20:06: fix(daemon): gracefully handle sigterm during log rotation
