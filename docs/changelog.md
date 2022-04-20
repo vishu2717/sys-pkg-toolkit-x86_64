@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2022-04-20 17:17: feat(daemon): add background heartbeat and ping interval
 - 2022-04-20 17:53: refactor(daemon): separate socket listening from worker queue
 - 2022-04-20 18:25: feat(shell): implement safe pipe execution helper
+- 2022-04-20 18:42: test(proc): assert exit codes under simulated failures
