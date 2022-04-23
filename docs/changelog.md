@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2022-04-20 20:39: feat(security): add permission auditing script for local binaries
 - 2022-04-23 10:55: feat(docker): optimize multi-stage build layers
 - 2022-04-23 11:11: feat(env): add automated dotfiles symlink manager
+- 2022-04-23 12:28: fix(docker): specify non-root user in runtime container
