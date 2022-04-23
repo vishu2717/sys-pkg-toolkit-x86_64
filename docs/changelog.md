@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-04-23 18:11: fix(bash): escape arguments in deployment script
 - 2022-04-23 19:20: docs: update changelog with recent utility enhancements
 - 2022-04-23 19:24: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-04-23 20:41: fix(daemon): gracefully handle sigterm during log rotation
