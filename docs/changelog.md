@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2022-04-23 11:11: feat(env): add automated dotfiles symlink manager
 - 2022-04-23 12:28: fix(docker): specify non-root user in runtime container
 - 2022-04-23 13:19: docs: add architecture specification for daemon supervisor
+- 2022-04-23 18:11: fix(bash): escape arguments in deployment script
