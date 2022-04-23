@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2022-04-23 13:19: docs: add architecture specification for daemon supervisor
 - 2022-04-23 18:11: fix(bash): escape arguments in deployment script
 - 2022-04-23 19:20: docs: update changelog with recent utility enhancements
+- 2022-04-23 19:24: fix(monitor): resolve division by zero on idle cpu calculation
