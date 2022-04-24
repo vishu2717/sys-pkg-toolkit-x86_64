@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2022-04-24 14:12: test(proc): assert exit codes under simulated failures
 - 2022-04-24 17:38: fix(proc): prevent zombie process reaping race condition
 - 2022-04-24 19:28: test(proc): assert exit codes under simulated failures
+- 2022-04-24 22:10: refactor(cli): simplify command dispatch loop
