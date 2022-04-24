@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2022-04-24 10:55: refactor(config): migrate global settings to immutable dataclass
 - 2022-04-24 12:47: feat(metrics): track memory usage and cpu thread statistics
 - 2022-04-24 13:40: feat(shell): implement safe pipe execution helper
+- 2022-04-24 14:12: test(proc): assert exit codes under simulated failures
