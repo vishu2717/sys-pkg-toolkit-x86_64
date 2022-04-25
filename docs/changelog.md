@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2022-04-24 22:13: docs: add architecture specification for daemon supervisor
 - 2022-04-24 22:29: feat(docker): optimize multi-stage build layers
 - 2022-04-25 14:12: fix(proc): prevent zombie process reaping race condition
+- 2022-04-25 18:16: feat(security): add permission auditing script for local binaries
