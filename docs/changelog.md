@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2022-04-25 18:16: feat(security): add permission auditing script for local binaries
 - 2022-04-26 11:27: fix(docker): specify non-root user in runtime container
 - 2022-04-26 12:10: feat(proc): add process supervisor with automatic restart
+- 2022-04-26 12:40: feat(monitor): implement system resource tracking utility
