@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 12:18: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-04-27 14:14: feat(env): add automated dotfiles symlink manager
 - 2022-04-27 14:27: test(scripts): add bats verification for setup scripts
+- 2022-04-27 14:39: chore: update base container image to latest alpine
