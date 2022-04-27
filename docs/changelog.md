@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 14:14: feat(env): add automated dotfiles symlink manager
 - 2022-04-27 14:27: test(scripts): add bats verification for setup scripts
 - 2022-04-27 14:39: chore: update base container image to latest alpine
+- 2022-04-27 16:32: fix(cli): exit with non-zero status code on unknown command
