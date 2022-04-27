@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2022-04-26 11:27: fix(docker): specify non-root user in runtime container
 - 2022-04-26 12:10: feat(proc): add process supervisor with automatic restart
 - 2022-04-26 12:40: feat(monitor): implement system resource tracking utility
+- 2022-04-27 10:14: feat(config): add JSON and YAML configuration loader
