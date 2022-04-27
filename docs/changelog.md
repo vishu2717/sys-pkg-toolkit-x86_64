@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 10:24: feat(docker): optimize multi-stage build layers
 - 2022-04-27 10:27: feat(config): add JSON and YAML configuration loader
 - 2022-04-27 11:47: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-04-27 12:18: refactor(monitor): optimize sampling frequency and buffer size
