@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 16:32: fix(cli): exit with non-zero status code on unknown command
 - 2022-04-27 16:48: test(cli): add unit test coverage for argument parsing
 - 2022-04-27 19:30: feat(daemon): add background heartbeat and ping interval
+- 2022-04-27 19:31: refactor(cli): simplify command dispatch loop
