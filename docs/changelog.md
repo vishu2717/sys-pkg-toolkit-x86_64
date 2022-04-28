@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 22:00: test(cli): add unit test coverage for argument parsing
 - 2022-04-27 23:17: perf: reduce process spawn latency using fork pool
 - 2022-04-28 12:19: feat(monitor): implement system resource tracking utility
+- 2022-04-28 14:01: refactor(monitor): optimize sampling frequency and buffer size
