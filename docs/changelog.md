@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2022-04-27 23:17: perf: reduce process spawn latency using fork pool
 - 2022-04-28 12:19: feat(monitor): implement system resource tracking utility
 - 2022-04-28 14:01: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-04-28 15:12: feat(security): add permission auditing script for local binaries
