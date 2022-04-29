@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2022-04-28 19:46: chore: update base container image to latest alpine
 - 2022-04-28 21:10: test(proc): assert exit codes under simulated failures
 - 2022-04-28 22:42: refactor(daemon): separate socket listening from worker queue
+- 2022-04-29 16:10: test(scripts): add bats verification for setup scripts
