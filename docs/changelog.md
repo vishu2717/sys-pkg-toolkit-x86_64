@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2022-05-02 19:24: test(daemon): verify supervisor restarts crashed processes
 - 2022-05-03 12:57: refactor(cli): simplify command dispatch loop
 - 2022-05-03 16:47: docs: document environment variables and override flags
+- 2022-05-03 18:01: feat(deploy): implement zero-downtime rolling reload
