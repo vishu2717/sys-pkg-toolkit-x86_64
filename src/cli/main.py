@@ -254,3 +254,5 @@ def handle_unknown_command(cmd: str):
 # Simplified command router logic
 
 # Simplified command router logic
+
+# Simplified command router logic
