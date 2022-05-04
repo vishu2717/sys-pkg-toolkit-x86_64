@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2022-05-04 10:26: feat(env): add automated dotfiles symlink manager
 - 2022-05-04 20:39: feat(monitor): implement system resource tracking utility
 - 2022-05-04 22:11: refactor(cli): simplify command dispatch loop
+- 2022-05-04 23:26: fix(bash): escape arguments in deployment script
