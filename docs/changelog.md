@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2022-05-04 22:11: refactor(cli): simplify command dispatch loop
 - 2022-05-04 23:26: fix(bash): escape arguments in deployment script
 - 2022-05-05 13:57: docs: add architecture specification for daemon supervisor
+- 2022-05-05 19:53: refactor(daemon): separate socket listening from worker queue
