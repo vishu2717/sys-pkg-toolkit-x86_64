@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-05-09 17:05: feat(deploy): implement zero-downtime rolling reload
 - 2022-05-09 18:43: docs: document environment variables and override flags
 - 2022-05-09 22:39: feat(shell): implement safe pipe execution helper
+- 2022-05-09 22:42: feat(security): add permission auditing script for local binaries
