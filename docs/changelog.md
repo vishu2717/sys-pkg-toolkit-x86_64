@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2022-05-09 15:28: refactor(cli): simplify command dispatch loop
 - 2022-05-09 15:57: refactor(daemon): separate socket listening from worker queue
 - 2022-05-09 17:05: feat(deploy): implement zero-downtime rolling reload
+- 2022-05-09 18:43: docs: document environment variables and override flags
