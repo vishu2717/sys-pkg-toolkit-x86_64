@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2022-05-10 22:40: test(proc): assert exit codes under simulated failures
 - 2022-05-11 12:29: refactor(cli): simplify command dispatch loop
 - 2022-05-11 16:16: refactor(scripts): modularize helper functions across shell scripts
+- 2022-05-11 17:48: test(proc): assert exit codes under simulated failures
