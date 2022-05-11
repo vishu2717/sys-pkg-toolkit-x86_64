@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2022-05-09 22:42: feat(security): add permission auditing script for local binaries
 - 2022-05-10 12:56: feat(deploy): implement zero-downtime rolling reload
 - 2022-05-10 22:40: test(proc): assert exit codes under simulated failures
+- 2022-05-11 12:29: refactor(cli): simplify command dispatch loop
