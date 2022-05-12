@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2022-05-11 16:16: refactor(scripts): modularize helper functions across shell scripts
 - 2022-05-11 17:48: test(proc): assert exit codes under simulated failures
 - 2022-05-12 12:20: fix(config): ensure directory exists before writing state
+- 2022-05-12 20:03: docs: update system administration runbooks and troubleshooting
