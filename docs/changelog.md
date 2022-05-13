@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2022-05-12 12:20: fix(config): ensure directory exists before writing state
 - 2022-05-12 20:03: docs: update system administration runbooks and troubleshooting
 - 2022-05-13 12:26: fix(proc): prevent zombie process reaping race condition
+- 2022-05-13 13:21: feat(deploy): implement zero-downtime rolling reload
