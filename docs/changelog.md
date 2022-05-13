@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2022-05-13 13:21: feat(deploy): implement zero-downtime rolling reload
 - 2022-05-13 13:24: fix(docker): specify non-root user in runtime container
 - 2022-05-13 13:56: refactor(scripts): modularize helper functions across shell scripts
+- 2022-05-13 14:44: fix(daemon): gracefully handle sigterm during log rotation
