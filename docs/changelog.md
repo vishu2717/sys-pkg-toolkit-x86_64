@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2022-05-13 14:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-05-13 17:26: refactor(config): migrate global settings to immutable dataclass
 - 2022-05-13 22:37: refactor(daemon): separate socket listening from worker queue
+- 2022-05-16 15:57: fix(proc): prevent zombie process reaping race condition
