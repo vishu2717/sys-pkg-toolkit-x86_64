@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2022-05-16 19:48: test(daemon): verify supervisor restarts crashed processes
 - 2022-05-18 12:43: feat(config): add JSON and YAML configuration loader
 - 2022-05-18 13:09: feat(proc): add process supervisor with automatic restart
+- 2022-05-18 15:35: fix(bash): escape arguments in deployment script
