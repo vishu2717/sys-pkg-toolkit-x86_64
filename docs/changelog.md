@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2022-05-13 22:37: refactor(daemon): separate socket listening from worker queue
 - 2022-05-16 15:57: fix(proc): prevent zombie process reaping race condition
 - 2022-05-16 19:48: test(daemon): verify supervisor restarts crashed processes
+- 2022-05-18 12:43: feat(config): add JSON and YAML configuration loader
