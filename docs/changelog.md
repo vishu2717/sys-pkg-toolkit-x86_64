@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2022-05-18 15:35: fix(bash): escape arguments in deployment script
 - 2022-05-18 18:47: feat(daemon): add background heartbeat and ping interval
 - 2022-05-19 14:39: fix(docker): specify non-root user in runtime container
+- 2022-05-19 14:48: test(cli): add unit test coverage for argument parsing
