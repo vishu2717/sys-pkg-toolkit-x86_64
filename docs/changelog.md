@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2022-05-19 14:48: test(cli): add unit test coverage for argument parsing
 - 2022-05-19 15:31: fix(docker): specify non-root user in runtime container
 - 2022-05-19 18:11: feat(monitor): implement system resource tracking utility
+- 2022-05-19 20:14: feat(security): add permission auditing script for local binaries
