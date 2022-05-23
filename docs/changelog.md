@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2022-05-23 11:58: fix(cli): exit with non-zero status code on unknown command
 - 2022-05-23 13:47: test(daemon): verify supervisor restarts crashed processes
 - 2022-05-23 14:21: feat(proc): add process supervisor with automatic restart
+- 2022-05-23 14:22: test(scripts): add bats verification for setup scripts
