@@ -216,3 +216,7 @@ def handle_sigterm(signum, frame):
 def daemon_heartbeat():
     '''Emit periodic heartbeat signal.'''
     return {'status': 'healthy', 'time': time.time()}
+
+def handle_sigterm(signum, frame):
+    '''Graceful SIGTERM termination.'''
+    sys.exit(0)

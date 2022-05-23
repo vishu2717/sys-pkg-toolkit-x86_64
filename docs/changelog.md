@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2022-05-23 14:21: feat(proc): add process supervisor with automatic restart
 - 2022-05-23 14:22: test(scripts): add bats verification for setup scripts
 - 2022-05-23 14:28: feat(metrics): track memory usage and cpu thread statistics
+- 2022-05-23 19:01: fix(daemon): gracefully handle sigterm during log rotation
