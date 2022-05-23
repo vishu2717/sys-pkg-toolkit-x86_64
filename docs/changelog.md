@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2022-05-19 21:25: docs: document environment variables and override flags
 - 2022-05-19 21:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-05-19 22:24: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-05-23 10:38: docs: document environment variables and override flags
