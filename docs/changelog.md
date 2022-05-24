@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2022-05-23 19:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-05-23 20:40: feat(docker): optimize multi-stage build layers
 - 2022-05-24 15:11: feat(metrics): track memory usage and cpu thread statistics
+- 2022-05-24 22:05: fix(config): ensure directory exists before writing state
