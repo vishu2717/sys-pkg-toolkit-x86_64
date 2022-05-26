@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2022-05-24 22:42: fix(docker): specify non-root user in runtime container
 - 2022-05-26 11:24: feat(daemon): add background heartbeat and ping interval
 - 2022-05-26 11:41: test(proc): assert exit codes under simulated failures
+- 2022-05-26 13:38: fix(cli): exit with non-zero status code on unknown command
