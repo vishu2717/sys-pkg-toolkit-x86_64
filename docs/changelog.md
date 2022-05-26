@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2022-05-24 22:05: fix(config): ensure directory exists before writing state
 - 2022-05-24 22:27: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-05-24 22:42: fix(docker): specify non-root user in runtime container
+- 2022-05-26 11:24: feat(daemon): add background heartbeat and ping interval
