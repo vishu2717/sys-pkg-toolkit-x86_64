@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-05-27 17:36: feat(docker): optimize multi-stage build layers
 - 2022-05-27 18:23: feat(config): add JSON and YAML configuration loader
 - 2022-05-27 20:21: fix(config): ensure directory exists before writing state
+- 2022-05-27 22:12: fix(cli): exit with non-zero status code on unknown command
