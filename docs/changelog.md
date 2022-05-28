@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2022-05-28 14:08: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-05-28 17:59: refactor(daemon): separate socket listening from worker queue
 - 2022-05-28 18:39: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-05-28 19:30: fix(daemon): gracefully handle sigterm during log rotation
