@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2022-05-28 11:06: feat(daemon): add background heartbeat and ping interval
 - 2022-05-28 13:04: fix(docker): specify non-root user in runtime container
 - 2022-05-28 13:20: chore: update base container image to latest alpine
+- 2022-05-28 13:55: feat(shell): implement safe pipe execution helper
