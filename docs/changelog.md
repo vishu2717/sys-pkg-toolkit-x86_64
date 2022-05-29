@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-05-28 19:30: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-05-28 19:35: fix(bash): escape arguments in deployment script
 - 2022-05-28 23:27: feat(docker): optimize multi-stage build layers
+- 2022-05-29 15:21: test(scripts): add bats verification for setup scripts
