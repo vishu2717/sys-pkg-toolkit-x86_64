@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2022-05-31 16:44: refactor(config): migrate global settings to immutable dataclass
 - 2022-05-31 16:54: refactor(scripts): modularize helper functions across shell scripts
 - 2022-05-31 17:45: feat(deploy): implement zero-downtime rolling reload
+- 2022-05-31 18:36: feat(config): add JSON and YAML configuration loader
