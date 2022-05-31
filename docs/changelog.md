@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2022-05-31 17:45: feat(deploy): implement zero-downtime rolling reload
 - 2022-05-31 18:36: feat(config): add JSON and YAML configuration loader
 - 2022-05-31 21:39: test(cli): add unit test coverage for argument parsing
+- 2022-05-31 22:45: refactor(scripts): modularize helper functions across shell scripts
