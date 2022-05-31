@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2022-05-29 15:21: test(scripts): add bats verification for setup scripts
 - 2022-05-29 17:25: feat(monitor): implement system resource tracking utility
 - 2022-05-31 10:31: style: enforce consistent shell quoting and indentation
+- 2022-05-31 14:52: feat(security): add permission auditing script for local binaries
