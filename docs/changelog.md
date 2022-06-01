@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2022-05-31 21:39: test(cli): add unit test coverage for argument parsing
 - 2022-05-31 22:45: refactor(scripts): modularize helper functions across shell scripts
 - 2022-06-01 13:40: style: enforce consistent shell quoting and indentation
+- 2022-06-01 14:23: fix(bash): escape arguments in deployment script
