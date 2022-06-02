@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2022-06-02 10:51: feat(daemon): add background heartbeat and ping interval
 - 2022-06-02 11:02: docs: update changelog with recent utility enhancements
 - 2022-06-02 11:33: test(cli): add unit test coverage for argument parsing
+- 2022-06-02 12:43: refactor(cli): simplify command dispatch loop
