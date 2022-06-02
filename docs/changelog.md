@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-06-02 12:43: refactor(cli): simplify command dispatch loop
 - 2022-06-02 13:13: fix(bash): escape arguments in deployment script
 - 2022-06-02 14:39: feat(monitor): implement system resource tracking utility
+- 2022-06-02 22:15: fix(config): ensure directory exists before writing state
