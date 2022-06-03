@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2022-06-03 10:27: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-06-03 13:00: feat(daemon): add background heartbeat and ping interval
 - 2022-06-03 13:07: feat(shell): implement safe pipe execution helper
+- 2022-06-03 15:01: refactor(monitor): optimize sampling frequency and buffer size
