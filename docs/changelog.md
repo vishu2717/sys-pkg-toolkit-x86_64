@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-06-02 14:39: feat(monitor): implement system resource tracking utility
 - 2022-06-02 22:15: fix(config): ensure directory exists before writing state
 - 2022-06-02 22:59: fix(docker): specify non-root user in runtime container
+- 2022-06-03 10:27: fix(monitor): resolve division by zero on idle cpu calculation
