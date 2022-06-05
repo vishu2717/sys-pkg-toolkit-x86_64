@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2022-06-03 15:01: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-06-03 22:38: feat(proc): add process supervisor with automatic restart
 - 2022-06-05 10:53: test(proc): assert exit codes under simulated failures
+- 2022-06-05 14:00: test(scripts): add bats verification for setup scripts
