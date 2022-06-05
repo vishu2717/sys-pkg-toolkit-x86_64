@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2022-06-05 15:57: fix(docker): specify non-root user in runtime container
 - 2022-06-05 16:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-06-05 18:16: refactor(daemon): separate socket listening from worker queue
+- 2022-06-05 20:30: test(cli): add unit test coverage for argument parsing
