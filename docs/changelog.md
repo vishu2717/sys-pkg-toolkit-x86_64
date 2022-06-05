@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2022-06-05 10:53: test(proc): assert exit codes under simulated failures
 - 2022-06-05 14:00: test(scripts): add bats verification for setup scripts
 - 2022-06-05 15:57: fix(docker): specify non-root user in runtime container
+- 2022-06-05 16:01: fix(daemon): gracefully handle sigterm during log rotation
