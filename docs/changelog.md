@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2022-06-03 22:38: feat(proc): add process supervisor with automatic restart
 - 2022-06-05 10:53: test(proc): assert exit codes under simulated failures
 - 2022-06-05 14:00: test(scripts): add bats verification for setup scripts
+- 2022-06-05 15:57: fix(docker): specify non-root user in runtime container
