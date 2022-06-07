@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2022-06-05 20:30: test(cli): add unit test coverage for argument parsing
 - 2022-06-07 14:18: feat(sync): add rsync-based remote directory mirror utility
 - 2022-06-07 17:00: chore: update base container image to latest alpine
+- 2022-06-07 20:07: feat(shell): implement safe pipe execution helper
