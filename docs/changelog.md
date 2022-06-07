@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2022-06-05 16:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-06-05 18:16: refactor(daemon): separate socket listening from worker queue
 - 2022-06-05 20:30: test(cli): add unit test coverage for argument parsing
+- 2022-06-07 14:18: feat(sync): add rsync-based remote directory mirror utility
