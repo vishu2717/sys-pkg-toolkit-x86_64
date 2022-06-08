@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2022-06-08 15:49: refactor(config): migrate global settings to immutable dataclass
 - 2022-06-08 18:33: test(daemon): verify supervisor restarts crashed processes
 - 2022-06-08 18:45: docs: add architecture specification for daemon supervisor
+- 2022-06-08 20:50: fix(daemon): gracefully handle sigterm during log rotation
