@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2022-06-08 15:11: feat(security): add permission auditing script for local binaries
 - 2022-06-08 15:49: refactor(config): migrate global settings to immutable dataclass
 - 2022-06-08 18:33: test(daemon): verify supervisor restarts crashed processes
+- 2022-06-08 18:45: docs: add architecture specification for daemon supervisor
