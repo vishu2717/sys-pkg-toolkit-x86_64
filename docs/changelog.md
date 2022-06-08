@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2022-06-08 11:11: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-06-08 11:52: fix(config): ensure directory exists before writing state
 - 2022-06-08 13:52: feat(metrics): track memory usage and cpu thread statistics
+- 2022-06-08 15:11: feat(security): add permission auditing script for local binaries
