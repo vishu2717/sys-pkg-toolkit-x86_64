@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2022-06-14 11:44: feat(daemon): add background heartbeat and ping interval
 - 2022-06-14 12:00: fix(cli): exit with non-zero status code on unknown command
 - 2022-06-14 13:28: feat(docker): optimize multi-stage build layers
+- 2022-06-14 14:54: feat(security): add permission auditing script for local binaries
