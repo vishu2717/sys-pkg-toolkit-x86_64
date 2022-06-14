@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2022-06-14 13:28: feat(docker): optimize multi-stage build layers
 - 2022-06-14 14:54: feat(security): add permission auditing script for local binaries
 - 2022-06-14 16:10: feat(docker): optimize multi-stage build layers
+- 2022-06-14 18:00: fix(docker): specify non-root user in runtime container
