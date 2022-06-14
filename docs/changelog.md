@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2022-06-10 19:35: fix(config): ensure directory exists before writing state
 - 2022-06-14 10:07: fix(proc): prevent zombie process reaping race condition
 - 2022-06-14 11:44: feat(daemon): add background heartbeat and ping interval
+- 2022-06-14 12:00: fix(cli): exit with non-zero status code on unknown command
