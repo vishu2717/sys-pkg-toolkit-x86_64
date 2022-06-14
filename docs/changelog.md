@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2022-06-10 11:17: test(scripts): add bats verification for setup scripts
 - 2022-06-10 13:05: feat(daemon): add background heartbeat and ping interval
 - 2022-06-10 19:35: fix(config): ensure directory exists before writing state
+- 2022-06-14 10:07: fix(proc): prevent zombie process reaping race condition
