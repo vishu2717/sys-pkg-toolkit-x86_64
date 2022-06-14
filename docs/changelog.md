@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2022-06-14 16:10: feat(docker): optimize multi-stage build layers
 - 2022-06-14 18:00: fix(docker): specify non-root user in runtime container
 - 2022-06-14 19:47: feat(metrics): track memory usage and cpu thread statistics
+- 2022-06-14 20:18: feat(proc): add process supervisor with automatic restart
