@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2022-06-27 12:56: feat(docker): optimize multi-stage build layers
 - 2022-06-27 15:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-06-27 16:58: feat(monitor): implement system resource tracking utility
+- 2022-06-27 19:55: fix(cli): exit with non-zero status code on unknown command
