@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2022-06-14 21:24: feat(daemon): add background heartbeat and ping interval
 - 2022-06-27 10:00: feat(docker): optimize multi-stage build layers
 - 2022-06-27 12:56: feat(docker): optimize multi-stage build layers
+- 2022-06-27 15:32: fix(daemon): gracefully handle sigterm during log rotation
