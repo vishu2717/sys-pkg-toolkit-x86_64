@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2022-06-27 16:58: feat(monitor): implement system resource tracking utility
 - 2022-06-27 19:55: fix(cli): exit with non-zero status code on unknown command
 - 2022-06-28 18:00: test(cli): add unit test coverage for argument parsing
+- 2022-06-29 10:57: test(daemon): verify supervisor restarts crashed processes
