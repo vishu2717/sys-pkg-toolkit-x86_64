@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2022-06-30 11:04: refactor(daemon): separate socket listening from worker queue
 - 2022-06-30 11:39: test(daemon): verify supervisor restarts crashed processes
 - 2022-06-30 13:51: refactor(scripts): modularize helper functions across shell scripts
+- 2022-06-30 14:29: docs: update system administration runbooks and troubleshooting
