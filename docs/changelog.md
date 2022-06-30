@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2022-06-30 17:11: test(daemon): verify supervisor restarts crashed processes
 - 2022-06-30 17:13: fix(config): ensure directory exists before writing state
 - 2022-06-30 20:34: feat(deploy): implement zero-downtime rolling reload
+- 2022-06-30 20:36: fix(bash): escape arguments in deployment script
