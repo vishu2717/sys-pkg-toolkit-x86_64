@@ -282,3 +282,7 @@ def handle_sigterm(signum, frame):
     sys.exit(0)
 
 # Decoupled socket server and worker thread
+
+def handle_sigterm(signum, frame):
+    '''Graceful SIGTERM termination.'''
+    sys.exit(0)
