@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2022-06-29 10:57: test(daemon): verify supervisor restarts crashed processes
 - 2022-06-29 16:48: test(cli): add unit test coverage for argument parsing
 - 2022-06-30 11:04: refactor(daemon): separate socket listening from worker queue
+- 2022-06-30 11:39: test(daemon): verify supervisor restarts crashed processes
