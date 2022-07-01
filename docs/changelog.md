@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-07-01 13:09: test(daemon): verify supervisor restarts crashed processes
 - 2022-07-01 15:18: docs: add architecture specification for daemon supervisor
 - 2022-07-01 16:10: feat(shell): implement safe pipe execution helper
+- 2022-07-01 16:23: test(scripts): add bats verification for setup scripts
