@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2022-06-30 23:15: feat(cli): add command-line argument parser for daemon
 - 2022-06-30 23:23: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-07-01 13:09: test(daemon): verify supervisor restarts crashed processes
+- 2022-07-01 15:18: docs: add architecture specification for daemon supervisor
