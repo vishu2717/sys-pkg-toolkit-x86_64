@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2022-07-01 16:10: feat(shell): implement safe pipe execution helper
 - 2022-07-01 16:23: test(scripts): add bats verification for setup scripts
 - 2022-07-01 16:34: feat(security): add permission auditing script for local binaries
+- 2022-07-01 19:31: feat(sync): add rsync-based remote directory mirror utility
