@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2022-07-01 21:58: refactor(daemon): separate socket listening from worker queue
 - 2022-07-01 22:40: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-04 12:36: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-07-04 15:51: chore: update base container image to latest alpine
