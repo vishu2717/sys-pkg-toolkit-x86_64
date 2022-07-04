@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2022-07-01 22:40: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-04 12:36: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-07-04 15:51: chore: update base container image to latest alpine
+- 2022-07-04 17:37: test(cli): add unit test coverage for argument parsing
