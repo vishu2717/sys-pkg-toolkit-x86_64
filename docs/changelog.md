@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2022-07-05 15:17: feat(deploy): implement zero-downtime rolling reload
 - 2022-07-05 19:08: feat(metrics): track memory usage and cpu thread statistics
 - 2022-07-05 22:00: feat(monitor): implement system resource tracking utility
+- 2022-07-05 22:45: fix(proc): prevent zombie process reaping race condition
