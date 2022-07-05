@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2022-07-05 10:51: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-05 14:37: feat(security): add permission auditing script for local binaries
 - 2022-07-05 15:17: feat(deploy): implement zero-downtime rolling reload
+- 2022-07-05 19:08: feat(metrics): track memory usage and cpu thread statistics
