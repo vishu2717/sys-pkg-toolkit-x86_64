@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2022-07-05 22:45: fix(proc): prevent zombie process reaping race condition
 - 2022-07-05 23:02: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-05 23:18: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-07-07 12:48: fix(docker): specify non-root user in runtime container
