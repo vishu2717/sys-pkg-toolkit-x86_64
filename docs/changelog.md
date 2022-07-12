@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2022-07-12 16:53: refactor(daemon): separate socket listening from worker queue
 - 2022-07-12 17:46: fix(proc): prevent zombie process reaping race condition
 - 2022-07-12 18:44: feat(proc): add process supervisor with automatic restart
+- 2022-07-12 18:51: feat(cli): add command-line argument parser for daemon
