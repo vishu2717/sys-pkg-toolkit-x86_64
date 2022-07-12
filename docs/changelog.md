@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2022-07-12 18:51: feat(cli): add command-line argument parser for daemon
 - 2022-07-12 19:07: refactor(scripts): modularize helper functions across shell scripts
 - 2022-07-12 19:49: fix(proc): prevent zombie process reaping race condition
+- 2022-07-12 20:40: fix(proc): prevent zombie process reaping race condition
