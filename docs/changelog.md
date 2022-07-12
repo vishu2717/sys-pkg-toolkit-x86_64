@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2022-07-12 12:43: chore: update base container image to latest alpine
 - 2022-07-12 15:27: feat(proc): add process supervisor with automatic restart
 - 2022-07-12 16:53: refactor(daemon): separate socket listening from worker queue
+- 2022-07-12 17:46: fix(proc): prevent zombie process reaping race condition
