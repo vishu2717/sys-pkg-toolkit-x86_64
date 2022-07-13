@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2022-07-12 19:49: fix(proc): prevent zombie process reaping race condition
 - 2022-07-12 20:40: fix(proc): prevent zombie process reaping race condition
 - 2022-07-12 20:57: refactor(daemon): separate socket listening from worker queue
+- 2022-07-13 12:34: feat(security): add permission auditing script for local binaries
