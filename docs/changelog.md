@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2022-07-17 16:50: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-17 17:49: docs: document environment variables and override flags
 - 2022-07-17 18:25: docs: add architecture specification for daemon supervisor
+- 2022-07-17 20:31: feat(sync): add rsync-based remote directory mirror utility
