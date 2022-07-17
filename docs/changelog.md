@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2022-07-17 14:32: docs: document environment variables and override flags
 - 2022-07-17 15:22: test(cli): add unit test coverage for argument parsing
 - 2022-07-17 16:50: fix(cli): exit with non-zero status code on unknown command
+- 2022-07-17 17:49: docs: document environment variables and override flags
