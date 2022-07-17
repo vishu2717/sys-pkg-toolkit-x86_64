@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2022-07-13 16:43: chore: update base container image to latest alpine
 - 2022-07-13 20:14: feat(deploy): implement zero-downtime rolling reload
 - 2022-07-17 14:21: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-07-17 14:32: docs: document environment variables and override flags

@@ -313,3 +313,6 @@ Instructions for operational triage and cluster recovery.
 
 ### Supervisor Architecture
 Details on IPC communication channels and process tree.
+
+### Environment Reference
+Supported environment variables and daemon override flags.
