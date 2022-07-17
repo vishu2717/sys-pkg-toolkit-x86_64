@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2022-07-13 12:34: feat(security): add permission auditing script for local binaries
 - 2022-07-13 16:43: chore: update base container image to latest alpine
 - 2022-07-13 20:14: feat(deploy): implement zero-downtime rolling reload
+- 2022-07-17 14:21: fix(monitor): resolve division by zero on idle cpu calculation
