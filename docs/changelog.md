@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2022-07-13 20:14: feat(deploy): implement zero-downtime rolling reload
 - 2022-07-17 14:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-07-17 14:32: docs: document environment variables and override flags
+- 2022-07-17 15:22: test(cli): add unit test coverage for argument parsing
