@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2022-07-19 11:13: feat(monitor): implement system resource tracking utility
 - 2022-07-19 14:21: test(cli): add unit test coverage for argument parsing
 - 2022-07-19 14:38: refactor(config): migrate global settings to immutable dataclass
+- 2022-07-19 16:04: feat(sync): add rsync-based remote directory mirror utility
