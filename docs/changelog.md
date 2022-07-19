@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2022-07-17 18:25: docs: add architecture specification for daemon supervisor
 - 2022-07-17 20:31: feat(sync): add rsync-based remote directory mirror utility
 - 2022-07-19 11:13: feat(monitor): implement system resource tracking utility
+- 2022-07-19 14:21: test(cli): add unit test coverage for argument parsing
