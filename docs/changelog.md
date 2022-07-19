@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-07-19 17:08: chore: update base container image to latest alpine
 - 2022-07-19 17:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-07-19 18:07: fix(cli): exit with non-zero status code on unknown command
+- 2022-07-19 20:55: fix(config): ensure directory exists before writing state
