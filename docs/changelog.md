@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2022-07-19 14:38: refactor(config): migrate global settings to immutable dataclass
 - 2022-07-19 16:04: feat(sync): add rsync-based remote directory mirror utility
 - 2022-07-19 17:08: chore: update base container image to latest alpine
+- 2022-07-19 17:35: refactor(monitor): optimize sampling frequency and buffer size
