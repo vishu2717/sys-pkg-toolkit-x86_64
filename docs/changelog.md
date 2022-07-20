@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2022-07-20 15:54: feat(proc): add process supervisor with automatic restart
 - 2022-07-20 15:57: refactor(scripts): modularize helper functions across shell scripts
 - 2022-07-20 18:19: test(cli): add unit test coverage for argument parsing
+- 2022-07-20 18:42: feat(env): add automated dotfiles symlink manager
