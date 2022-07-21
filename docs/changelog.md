@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2022-07-21 12:43: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-21 14:58: feat(deploy): implement zero-downtime rolling reload
 - 2022-07-21 15:13: fix(bash): escape arguments in deployment script
+- 2022-07-21 15:16: fix(config): ensure directory exists before writing state
