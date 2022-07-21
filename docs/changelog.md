@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2022-07-21 11:25: chore: configure shellcheck and ruff linter hooks
 - 2022-07-21 12:38: feat(daemon): add background heartbeat and ping interval
 - 2022-07-21 12:43: fix(cli): exit with non-zero status code on unknown command
+- 2022-07-21 14:58: feat(deploy): implement zero-downtime rolling reload
