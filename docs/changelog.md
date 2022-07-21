@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2022-07-21 15:16: fix(config): ensure directory exists before writing state
 - 2022-07-21 16:42: docs: document environment variables and override flags
 - 2022-07-21 17:26: refactor(scripts): modularize helper functions across shell scripts
+- 2022-07-21 17:35: feat(config): add JSON and YAML configuration loader
