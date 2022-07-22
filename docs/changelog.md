@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2022-07-21 21:46: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-22 10:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-07-22 14:24: docs: document environment variables and override flags
+- 2022-07-22 17:15: perf: reduce process spawn latency using fork pool
