@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-07-21 17:26: refactor(scripts): modularize helper functions across shell scripts
 - 2022-07-21 17:35: feat(config): add JSON and YAML configuration loader
 - 2022-07-21 21:46: fix(cli): exit with non-zero status code on unknown command
+- 2022-07-22 10:19: refactor(monitor): optimize sampling frequency and buffer size
