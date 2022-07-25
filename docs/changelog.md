@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2022-07-25 15:52: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-25 16:17: test(daemon): verify supervisor restarts crashed processes
 - 2022-07-25 17:04: refactor(config): migrate global settings to immutable dataclass
+- 2022-07-25 18:14: fix(cli): exit with non-zero status code on unknown command
