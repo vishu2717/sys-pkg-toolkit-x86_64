@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-07-25 18:14: fix(cli): exit with non-zero status code on unknown command
 - 2022-07-25 19:36: docs: update system administration runbooks and troubleshooting
 - 2022-07-25 20:10: docs: update changelog with recent utility enhancements
+- 2022-07-25 22:31: fix(config): ensure directory exists before writing state
