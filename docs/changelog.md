@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2022-07-25 12:54: test(scripts): add bats verification for setup scripts
 - 2022-07-25 13:50: docs: update system administration runbooks and troubleshooting
 - 2022-07-25 14:55: feat(daemon): add background heartbeat and ping interval
+- 2022-07-25 15:52: fix(cli): exit with non-zero status code on unknown command
