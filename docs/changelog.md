@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2022-07-28 15:32: test(proc): assert exit codes under simulated failures
 - 2022-07-28 16:21: perf: reduce process spawn latency using fork pool
 - 2022-07-28 17:24: fix(cli): exit with non-zero status code on unknown command
+- 2022-07-28 19:01: feat(shell): implement safe pipe execution helper
