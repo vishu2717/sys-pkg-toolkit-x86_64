@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-07-25 20:10: docs: update changelog with recent utility enhancements
 - 2022-07-25 22:31: fix(config): ensure directory exists before writing state
 - 2022-07-28 14:36: test(cli): add unit test coverage for argument parsing
+- 2022-07-28 15:19: fix(daemon): gracefully handle sigterm during log rotation
