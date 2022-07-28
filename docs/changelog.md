@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2022-07-28 19:01: feat(shell): implement safe pipe execution helper
 - 2022-07-28 19:51: fix(proc): prevent zombie process reaping race condition
 - 2022-07-28 21:55: feat(monitor): implement system resource tracking utility
+- 2022-07-28 22:06: docs: document environment variables and override flags
