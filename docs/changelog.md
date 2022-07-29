@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2022-07-28 21:55: feat(monitor): implement system resource tracking utility
 - 2022-07-28 22:06: docs: document environment variables and override flags
 - 2022-07-28 22:53: feat(sync): add rsync-based remote directory mirror utility
+- 2022-07-29 10:08: test(cli): add unit test coverage for argument parsing
