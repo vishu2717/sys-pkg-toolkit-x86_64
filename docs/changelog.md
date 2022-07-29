@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2022-07-29 20:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-07-29 21:16: test(scripts): add bats verification for setup scripts
 - 2022-07-29 21:26: chore: configure shellcheck and ruff linter hooks
+- 2022-07-29 22:52: docs: update system administration runbooks and troubleshooting
