@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2022-07-29 17:59: docs: update system administration runbooks and troubleshooting
 - 2022-07-29 18:16: feat(monitor): implement system resource tracking utility
 - 2022-07-29 18:54: feat(security): add permission auditing script for local binaries
+- 2022-07-29 19:06: fix(daemon): gracefully handle sigterm during log rotation
