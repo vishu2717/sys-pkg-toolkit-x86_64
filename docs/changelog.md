@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2022-07-29 10:17: feat(deploy): implement zero-downtime rolling reload
 - 2022-07-29 10:36: refactor(config): migrate global settings to immutable dataclass
 - 2022-07-29 11:18: feat(docker): optimize multi-stage build layers
+- 2022-07-29 15:50: refactor(config): migrate global settings to immutable dataclass
