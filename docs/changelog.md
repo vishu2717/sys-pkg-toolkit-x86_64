@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2022-07-30 17:31: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-07-30 20:51: fix(config): ensure directory exists before writing state
 - 2022-08-02 23:04: chore: update base container image to latest alpine
+- 2022-08-03 10:20: fix(proc): prevent zombie process reaping race condition
