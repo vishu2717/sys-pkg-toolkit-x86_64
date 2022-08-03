@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2022-08-02 23:04: chore: update base container image to latest alpine
 - 2022-08-03 10:20: fix(proc): prevent zombie process reaping race condition
 - 2022-08-03 10:57: fix(docker): specify non-root user in runtime container
+- 2022-08-03 11:16: feat(shell): implement safe pipe execution helper
