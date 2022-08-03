@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2022-08-03 19:42: feat(daemon): add background heartbeat and ping interval
 - 2022-08-03 21:37: feat(deploy): implement zero-downtime rolling reload
 - 2022-08-03 22:07: test(daemon): verify supervisor restarts crashed processes
+- 2022-08-03 22:17: fix(config): ensure directory exists before writing state
