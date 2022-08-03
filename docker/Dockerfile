@@ -252,3 +252,5 @@ USER appuser
 RUN apk add --no-cache bash ca-certificates
 
 # Updated base image
+
+USER appuser
