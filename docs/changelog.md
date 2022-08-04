@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2022-08-03 22:17: fix(config): ensure directory exists before writing state
 - 2022-08-04 12:34: docs: document environment variables and override flags
 - 2022-08-04 14:10: feat(proc): add process supervisor with automatic restart
+- 2022-08-04 20:18: fix(daemon): gracefully handle sigterm during log rotation
