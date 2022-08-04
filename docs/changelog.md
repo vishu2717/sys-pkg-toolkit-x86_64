@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2022-08-04 12:34: docs: document environment variables and override flags
 - 2022-08-04 14:10: feat(proc): add process supervisor with automatic restart
 - 2022-08-04 20:18: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-08-04 23:24: feat(metrics): track memory usage and cpu thread statistics
