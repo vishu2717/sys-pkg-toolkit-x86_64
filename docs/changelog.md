@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2022-08-04 14:10: feat(proc): add process supervisor with automatic restart
 - 2022-08-04 20:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-08-04 23:24: feat(metrics): track memory usage and cpu thread statistics
+- 2022-08-07 13:26: refactor(scripts): modularize helper functions across shell scripts
