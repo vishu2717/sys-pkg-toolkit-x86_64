@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2022-08-09 11:29: refactor(config): migrate global settings to immutable dataclass
 - 2022-08-09 14:06: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-08-09 14:20: refactor(cli): simplify command dispatch loop
+- 2022-08-09 15:29: feat(deploy): implement zero-downtime rolling reload
