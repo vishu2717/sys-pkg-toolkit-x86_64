@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2022-08-09 20:10: test(scripts): add bats verification for setup scripts
 - 2022-08-09 20:17: fix(docker): specify non-root user in runtime container
 - 2022-08-09 20:53: feat(config): add JSON and YAML configuration loader
+- 2022-08-09 20:54: fix(cli): exit with non-zero status code on unknown command
