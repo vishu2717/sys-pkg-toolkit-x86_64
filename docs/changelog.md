@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2022-08-07 16:28: test(proc): assert exit codes under simulated failures
 - 2022-08-07 22:06: test(daemon): verify supervisor restarts crashed processes
 - 2022-08-07 23:17: feat(sync): add rsync-based remote directory mirror utility
+- 2022-08-09 10:18: fix(config): ensure directory exists before writing state
