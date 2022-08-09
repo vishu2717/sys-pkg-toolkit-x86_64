@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2022-08-09 14:20: refactor(cli): simplify command dispatch loop
 - 2022-08-09 15:29: feat(deploy): implement zero-downtime rolling reload
 - 2022-08-09 15:48: fix(proc): prevent zombie process reaping race condition
+- 2022-08-09 16:12: feat(env): add automated dotfiles symlink manager
