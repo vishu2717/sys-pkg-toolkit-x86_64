@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2022-08-09 16:12: feat(env): add automated dotfiles symlink manager
 - 2022-08-09 19:43: docs: document environment variables and override flags
 - 2022-08-09 20:10: test(scripts): add bats verification for setup scripts
+- 2022-08-09 20:17: fix(docker): specify non-root user in runtime container
