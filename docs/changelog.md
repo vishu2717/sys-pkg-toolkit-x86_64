@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2022-08-10 14:57: fix(proc): prevent zombie process reaping race condition
 - 2022-08-10 16:07: refactor(daemon): separate socket listening from worker queue
 - 2022-08-10 16:18: feat(daemon): add background heartbeat and ping interval
+- 2022-08-10 18:29: docs: update changelog with recent utility enhancements
