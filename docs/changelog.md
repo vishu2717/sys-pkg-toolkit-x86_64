@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-08-09 20:54: fix(cli): exit with non-zero status code on unknown command
 - 2022-08-09 21:55: feat(metrics): track memory usage and cpu thread statistics
 - 2022-08-10 11:35: fix(cli): exit with non-zero status code on unknown command
+- 2022-08-10 12:47: feat(proc): add process supervisor with automatic restart
