@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2022-08-10 11:35: fix(cli): exit with non-zero status code on unknown command
 - 2022-08-10 12:47: feat(proc): add process supervisor with automatic restart
 - 2022-08-10 14:57: fix(proc): prevent zombie process reaping race condition
+- 2022-08-10 16:07: refactor(daemon): separate socket listening from worker queue
