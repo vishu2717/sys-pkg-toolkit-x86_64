@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2022-08-12 10:34: refactor(config): migrate global settings to immutable dataclass
 - 2022-08-12 12:30: feat(docker): optimize multi-stage build layers
 - 2022-08-12 14:04: fix(cli): exit with non-zero status code on unknown command
+- 2022-08-12 22:36: feat(cli): add command-line argument parser for daemon
