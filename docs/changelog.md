@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2022-08-10 18:29: docs: update changelog with recent utility enhancements
 - 2022-08-10 20:50: feat(security): add permission auditing script for local binaries
 - 2022-08-10 22:14: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-08-12 10:34: refactor(config): migrate global settings to immutable dataclass
