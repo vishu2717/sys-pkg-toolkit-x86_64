@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2022-08-14 10:27: feat(cli): add command-line argument parser for daemon
 - 2022-08-14 11:42: refactor(cli): simplify command dispatch loop
 - 2022-08-14 18:47: feat(daemon): add background heartbeat and ping interval
+- 2022-08-16 10:17: fix(docker): specify non-root user in runtime container
