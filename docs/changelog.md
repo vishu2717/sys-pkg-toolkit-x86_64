@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2022-08-14 18:47: feat(daemon): add background heartbeat and ping interval
 - 2022-08-16 10:17: fix(docker): specify non-root user in runtime container
 - 2022-08-16 10:23: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-08-16 11:22: feat(config): add JSON and YAML configuration loader
