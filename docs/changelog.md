@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2022-08-17 20:35: chore: configure shellcheck and ruff linter hooks
 - 2022-08-17 21:30: test(proc): assert exit codes under simulated failures
 - 2022-08-17 21:46: fix(proc): prevent zombie process reaping race condition
+- 2022-08-17 21:50: test(daemon): verify supervisor restarts crashed processes
