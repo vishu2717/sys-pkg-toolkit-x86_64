@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2022-08-16 11:22: feat(config): add JSON and YAML configuration loader
 - 2022-08-16 17:52: feat(monitor): implement system resource tracking utility
 - 2022-08-17 13:53: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-08-17 18:50: refactor(monitor): optimize sampling frequency and buffer size
