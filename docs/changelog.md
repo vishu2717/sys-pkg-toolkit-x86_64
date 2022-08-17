@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2022-08-17 13:53: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-08-17 18:50: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-08-17 20:22: feat(metrics): track memory usage and cpu thread statistics
+- 2022-08-17 20:35: chore: configure shellcheck and ruff linter hooks
