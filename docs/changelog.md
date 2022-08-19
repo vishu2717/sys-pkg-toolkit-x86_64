@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2022-08-17 23:22: feat(config): add JSON and YAML configuration loader
 - 2022-08-19 11:24: fix(proc): prevent zombie process reaping race condition
 - 2022-08-19 11:54: refactor(scripts): modularize helper functions across shell scripts
+- 2022-08-19 18:54: refactor(cli): simplify command dispatch loop
