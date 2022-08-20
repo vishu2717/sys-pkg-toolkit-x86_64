@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2022-08-19 18:54: refactor(cli): simplify command dispatch loop
 - 2022-08-20 11:53: feat(env): add automated dotfiles symlink manager
 - 2022-08-20 12:37: docs: document environment variables and override flags
+- 2022-08-20 14:43: fix(monitor): resolve division by zero on idle cpu calculation
