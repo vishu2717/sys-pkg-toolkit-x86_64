@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2022-08-22 14:37: feat(cli): add command-line argument parser for daemon
 - 2022-08-22 15:25: feat(sync): add rsync-based remote directory mirror utility
 - 2022-08-22 16:48: test(scripts): add bats verification for setup scripts
+- 2022-08-22 17:01: feat(deploy): implement zero-downtime rolling reload
