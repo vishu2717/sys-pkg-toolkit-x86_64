@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-08-22 15:25: feat(sync): add rsync-based remote directory mirror utility
 - 2022-08-22 16:48: test(scripts): add bats verification for setup scripts
 - 2022-08-22 17:01: feat(deploy): implement zero-downtime rolling reload
+- 2022-08-22 19:08: test(scripts): add bats verification for setup scripts
