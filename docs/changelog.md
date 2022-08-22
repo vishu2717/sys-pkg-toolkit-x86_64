@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2022-08-21 19:56: docs: document environment variables and override flags
 - 2022-08-22 12:03: feat(security): add permission auditing script for local binaries
 - 2022-08-22 12:25: feat(monitor): implement system resource tracking utility
+- 2022-08-22 14:37: feat(cli): add command-line argument parser for daemon
