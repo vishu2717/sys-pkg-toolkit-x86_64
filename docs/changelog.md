@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2022-08-24 12:09: fix(docker): specify non-root user in runtime container
 - 2022-08-24 13:35: feat(metrics): track memory usage and cpu thread statistics
 - 2022-08-24 15:24: feat(security): add permission auditing script for local binaries
+- 2022-08-24 18:09: fix(monitor): resolve division by zero on idle cpu calculation
