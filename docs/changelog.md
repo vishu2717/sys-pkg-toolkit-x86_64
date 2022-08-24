@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2022-08-22 19:08: test(scripts): add bats verification for setup scripts
 - 2022-08-22 20:05: feat(docker): optimize multi-stage build layers
 - 2022-08-22 22:20: docs: add architecture specification for daemon supervisor
+- 2022-08-24 11:52: feat(proc): add process supervisor with automatic restart
