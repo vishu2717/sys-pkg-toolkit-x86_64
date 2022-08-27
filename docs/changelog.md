@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2022-08-27 14:33: feat(cli): add command-line argument parser for daemon
 - 2022-08-27 14:50: chore: update base container image to latest alpine
 - 2022-08-27 16:42: refactor(scripts): modularize helper functions across shell scripts
+- 2022-08-27 18:37: chore: configure shellcheck and ruff linter hooks
