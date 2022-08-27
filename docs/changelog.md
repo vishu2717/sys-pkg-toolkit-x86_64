@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2022-08-25 12:05: feat(env): add automated dotfiles symlink manager
 - 2022-08-25 20:36: test(daemon): verify supervisor restarts crashed processes
 - 2022-08-27 10:13: test(daemon): verify supervisor restarts crashed processes
+- 2022-08-27 10:27: feat(cli): add command-line argument parser for daemon
