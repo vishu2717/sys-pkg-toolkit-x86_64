@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2022-08-25 20:36: test(daemon): verify supervisor restarts crashed processes
 - 2022-08-27 10:13: test(daemon): verify supervisor restarts crashed processes
 - 2022-08-27 10:27: feat(cli): add command-line argument parser for daemon
+- 2022-08-27 14:14: refactor(cli): simplify command dispatch loop
