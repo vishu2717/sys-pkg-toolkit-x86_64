@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2022-08-27 10:27: feat(cli): add command-line argument parser for daemon
 - 2022-08-27 14:14: refactor(cli): simplify command dispatch loop
 - 2022-08-27 14:33: feat(cli): add command-line argument parser for daemon
+- 2022-08-27 14:50: chore: update base container image to latest alpine
