@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2022-08-27 16:42: refactor(scripts): modularize helper functions across shell scripts
 - 2022-08-27 18:37: chore: configure shellcheck and ruff linter hooks
 - 2022-08-30 12:07: test(scripts): add bats verification for setup scripts
+- 2022-08-30 13:58: docs: update changelog with recent utility enhancements
