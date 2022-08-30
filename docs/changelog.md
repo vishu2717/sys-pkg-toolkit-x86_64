@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-08-27 14:50: chore: update base container image to latest alpine
 - 2022-08-27 16:42: refactor(scripts): modularize helper functions across shell scripts
 - 2022-08-27 18:37: chore: configure shellcheck and ruff linter hooks
+- 2022-08-30 12:07: test(scripts): add bats verification for setup scripts
