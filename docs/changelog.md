@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2022-08-30 12:07: test(scripts): add bats verification for setup scripts
 - 2022-08-30 13:58: docs: update changelog with recent utility enhancements
 - 2022-08-30 14:01: feat(sync): add rsync-based remote directory mirror utility
+- 2022-08-30 15:42: refactor(daemon): separate socket listening from worker queue
