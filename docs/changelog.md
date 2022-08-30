@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2022-08-30 14:01: feat(sync): add rsync-based remote directory mirror utility
 - 2022-08-30 15:42: refactor(daemon): separate socket listening from worker queue
 - 2022-08-30 17:48: refactor(config): migrate global settings to immutable dataclass
+- 2022-08-30 23:11: chore: update base container image to latest alpine
