@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2022-09-03 14:58: refactor(cli): simplify command dispatch loop
 - 2022-09-03 15:35: test(cli): add unit test coverage for argument parsing
 - 2022-09-03 17:34: feat(proc): add process supervisor with automatic restart
+- 2022-09-03 18:35: refactor(config): migrate global settings to immutable dataclass
