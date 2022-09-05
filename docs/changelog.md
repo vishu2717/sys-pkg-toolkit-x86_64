@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2022-09-03 18:35: refactor(config): migrate global settings to immutable dataclass
 - 2022-09-03 18:44: test(cli): add unit test coverage for argument parsing
 - 2022-09-03 19:44: fix(cli): exit with non-zero status code on unknown command
+- 2022-09-05 13:22: docs: update changelog with recent utility enhancements
