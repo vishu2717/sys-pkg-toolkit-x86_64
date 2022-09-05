@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-09-05 13:22: docs: update changelog with recent utility enhancements
 - 2022-09-05 13:44: feat(daemon): add background heartbeat and ping interval
 - 2022-09-05 14:20: feat(shell): implement safe pipe execution helper
+- 2022-09-05 20:22: docs: add architecture specification for daemon supervisor
