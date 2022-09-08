@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2022-09-06 13:59: test(daemon): verify supervisor restarts crashed processes
 - 2022-09-08 16:58: feat(env): add automated dotfiles symlink manager
 - 2022-09-08 17:56: test(cli): add unit test coverage for argument parsing
+- 2022-09-08 17:57: fix(daemon): gracefully handle sigterm during log rotation
