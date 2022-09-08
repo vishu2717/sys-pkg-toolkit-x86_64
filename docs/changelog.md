@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2022-09-05 20:22: docs: add architecture specification for daemon supervisor
 - 2022-09-06 13:24: chore: configure shellcheck and ruff linter hooks
 - 2022-09-06 13:59: test(daemon): verify supervisor restarts crashed processes
+- 2022-09-08 16:58: feat(env): add automated dotfiles symlink manager
