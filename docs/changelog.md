@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2022-09-08 17:56: test(cli): add unit test coverage for argument parsing
 - 2022-09-08 17:57: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-09-08 19:57: test(cli): add unit test coverage for argument parsing
+- 2022-09-08 23:20: refactor(cli): simplify command dispatch loop
