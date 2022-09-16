@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2022-09-16 18:48: feat(security): add permission auditing script for local binaries
 - 2022-09-16 19:18: refactor(cli): simplify command dispatch loop
 - 2022-09-16 19:42: refactor(daemon): separate socket listening from worker queue
+- 2022-09-16 19:47: feat(config): add JSON and YAML configuration loader
