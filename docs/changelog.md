@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2022-09-16 19:42: refactor(daemon): separate socket listening from worker queue
 - 2022-09-16 19:47: feat(config): add JSON and YAML configuration loader
 - 2022-09-16 21:08: docs: update changelog with recent utility enhancements
+- 2022-09-30 12:25: test(daemon): verify supervisor restarts crashed processes
