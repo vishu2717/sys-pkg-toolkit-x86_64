@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2022-09-30 12:25: test(daemon): verify supervisor restarts crashed processes
 - 2022-09-30 16:07: fix(docker): specify non-root user in runtime container
 - 2022-09-30 19:33: docs: update system administration runbooks and troubleshooting
+- 2022-09-30 21:26: fix(cli): exit with non-zero status code on unknown command
