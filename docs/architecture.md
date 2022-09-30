@@ -208,3 +208,6 @@ Details on IPC communication channels and process tree.
 
 ### Maintenance Notes
 Recent enhancements to command-line toolchain.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
