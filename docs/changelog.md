@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2022-09-30 21:26: fix(cli): exit with non-zero status code on unknown command
 - 2022-09-30 22:16: test(daemon): verify supervisor restarts crashed processes
 - 2022-10-01 12:41: feat(env): add automated dotfiles symlink manager
+- 2022-10-01 13:08: fix(daemon): gracefully handle sigterm during log rotation
