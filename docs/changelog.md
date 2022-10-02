@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 17:42: feat(security): add permission auditing script for local binaries
 - 2022-10-02 19:27: feat(shell): implement safe pipe execution helper
 - 2022-10-02 22:09: fix(docker): specify non-root user in runtime container
+- 2022-10-02 22:18: feat(security): add permission auditing script for local binaries
