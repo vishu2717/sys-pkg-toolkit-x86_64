@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 12:32: feat(docker): optimize multi-stage build layers
 - 2022-10-02 12:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-10-02 12:56: fix(proc): prevent zombie process reaping race condition
+- 2022-10-02 14:43: fix(proc): prevent zombie process reaping race condition
