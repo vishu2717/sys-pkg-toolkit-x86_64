@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 12:56: fix(proc): prevent zombie process reaping race condition
 - 2022-10-02 14:43: fix(proc): prevent zombie process reaping race condition
 - 2022-10-02 14:57: refactor(cli): simplify command dispatch loop
+- 2022-10-02 17:13: fix(cli): exit with non-zero status code on unknown command
