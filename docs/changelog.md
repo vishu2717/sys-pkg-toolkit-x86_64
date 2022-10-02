@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 12:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-10-02 12:56: fix(proc): prevent zombie process reaping race condition
 - 2022-10-02 14:43: fix(proc): prevent zombie process reaping race condition
+- 2022-10-02 14:57: refactor(cli): simplify command dispatch loop
