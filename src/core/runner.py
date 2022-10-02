@@ -266,3 +266,7 @@ class ProcessSupervisor:
     pass
 
 # Process pooling latency optimization
+
+def reap_zombies():
+    '''Cleanly reap exited child processes.'''
+    os.waitpid(-1, os.WNOHANG)
