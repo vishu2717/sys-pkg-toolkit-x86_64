@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 10:31: fix(docker): specify non-root user in runtime container
 - 2022-10-02 10:46: fix(cli): exit with non-zero status code on unknown command
 - 2022-10-02 10:59: fix(docker): specify non-root user in runtime container
+- 2022-10-02 12:32: feat(docker): optimize multi-stage build layers
