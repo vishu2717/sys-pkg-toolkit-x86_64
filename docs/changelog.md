@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2022-10-01 22:52: feat(shell): implement safe pipe execution helper
 - 2022-10-01 23:08: perf: reduce process spawn latency using fork pool
 - 2022-10-02 10:31: fix(docker): specify non-root user in runtime container
+- 2022-10-02 10:46: fix(cli): exit with non-zero status code on unknown command
