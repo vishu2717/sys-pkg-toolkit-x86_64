@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2022-10-02 22:28: feat(env): add automated dotfiles symlink manager
 - 2022-10-02 22:37: feat(daemon): add background heartbeat and ping interval
 - 2022-10-03 11:33: test(daemon): verify supervisor restarts crashed processes
+- 2022-10-04 12:55: fix(config): ensure directory exists before writing state
