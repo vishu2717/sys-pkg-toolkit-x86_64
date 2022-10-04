@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2022-10-04 15:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-10-04 19:27: refactor(scripts): modularize helper functions across shell scripts
 - 2022-10-04 19:28: test(scripts): add bats verification for setup scripts
+- 2022-10-04 22:17: feat(cli): add command-line argument parser for daemon
