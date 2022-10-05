@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2022-10-04 19:27: refactor(scripts): modularize helper functions across shell scripts
 - 2022-10-04 19:28: test(scripts): add bats verification for setup scripts
 - 2022-10-04 22:17: feat(cli): add command-line argument parser for daemon
+- 2022-10-05 12:06: fix(config): ensure directory exists before writing state
