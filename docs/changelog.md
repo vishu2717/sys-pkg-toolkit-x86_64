@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-10-06 13:11: perf: reduce process spawn latency using fork pool
 - 2022-10-06 17:26: feat(cli): add command-line argument parser for daemon
 - 2022-10-06 19:56: feat(proc): add process supervisor with automatic restart
+- 2022-10-06 20:31: feat(config): add JSON and YAML configuration loader
