@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2022-10-05 12:27: feat(sync): add rsync-based remote directory mirror utility
 - 2022-10-05 20:33: fix(proc): prevent zombie process reaping race condition
 - 2022-10-05 20:34: fix(bash): escape arguments in deployment script
+- 2022-10-06 11:49: test(proc): assert exit codes under simulated failures
