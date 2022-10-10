@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2022-10-10 10:02: test(cli): add unit test coverage for argument parsing
 - 2022-10-10 10:50: docs: update system administration runbooks and troubleshooting
 - 2022-10-10 11:31: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-10-10 13:08: docs: document environment variables and override flags
