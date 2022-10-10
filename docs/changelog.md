@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2022-10-10 13:08: docs: document environment variables and override flags
 - 2022-10-10 14:01: docs: update changelog with recent utility enhancements
 - 2022-10-10 18:14: fix(bash): escape arguments in deployment script
+- 2022-10-10 21:29: feat(docker): optimize multi-stage build layers
