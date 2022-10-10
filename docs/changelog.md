@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2022-10-06 17:26: feat(cli): add command-line argument parser for daemon
 - 2022-10-06 19:56: feat(proc): add process supervisor with automatic restart
 - 2022-10-06 20:31: feat(config): add JSON and YAML configuration loader
+- 2022-10-10 10:02: test(cli): add unit test coverage for argument parsing
