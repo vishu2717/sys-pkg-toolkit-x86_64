@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2022-10-10 18:14: fix(bash): escape arguments in deployment script
 - 2022-10-10 21:29: feat(docker): optimize multi-stage build layers
 - 2022-10-10 21:43: feat(config): add JSON and YAML configuration loader
+- 2022-10-12 10:31: fix(docker): specify non-root user in runtime container
