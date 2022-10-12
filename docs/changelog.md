@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2022-10-12 16:07: fix(bash): escape arguments in deployment script
 - 2022-10-12 16:48: refactor(daemon): separate socket listening from worker queue
 - 2022-10-12 16:59: chore: configure shellcheck and ruff linter hooks
+- 2022-10-12 17:33: fix(config): ensure directory exists before writing state
