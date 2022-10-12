@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2022-10-12 16:59: chore: configure shellcheck and ruff linter hooks
 - 2022-10-12 17:33: fix(config): ensure directory exists before writing state
 - 2022-10-12 17:57: style: enforce consistent shell quoting and indentation
+- 2022-10-12 18:09: refactor(cli): simplify command dispatch loop
