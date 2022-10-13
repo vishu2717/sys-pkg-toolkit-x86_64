@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2022-10-12 20:44: feat(daemon): add background heartbeat and ping interval
 - 2022-10-12 21:33: fix(bash): escape arguments in deployment script
 - 2022-10-13 10:11: chore: configure shellcheck and ruff linter hooks
+- 2022-10-13 11:14: fix(cli): exit with non-zero status code on unknown command
