@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2022-10-12 21:33: fix(bash): escape arguments in deployment script
 - 2022-10-13 10:11: chore: configure shellcheck and ruff linter hooks
 - 2022-10-13 11:14: fix(cli): exit with non-zero status code on unknown command
+- 2022-10-13 12:54: fix(docker): specify non-root user in runtime container
