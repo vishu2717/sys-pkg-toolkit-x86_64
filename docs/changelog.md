@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2022-10-14 16:20: refactor(config): migrate global settings to immutable dataclass
 - 2022-10-14 17:49: feat(deploy): implement zero-downtime rolling reload
 - 2022-10-14 19:40: test(scripts): add bats verification for setup scripts
+- 2022-10-14 21:08: feat(env): add automated dotfiles symlink manager
