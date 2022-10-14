@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2022-10-13 12:54: fix(docker): specify non-root user in runtime container
 - 2022-10-13 13:05: feat(sync): add rsync-based remote directory mirror utility
 - 2022-10-13 21:19: test(daemon): verify supervisor restarts crashed processes
+- 2022-10-14 16:20: refactor(config): migrate global settings to immutable dataclass
