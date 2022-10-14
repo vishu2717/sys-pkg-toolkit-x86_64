@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2022-10-13 13:05: feat(sync): add rsync-based remote directory mirror utility
 - 2022-10-13 21:19: test(daemon): verify supervisor restarts crashed processes
 - 2022-10-14 16:20: refactor(config): migrate global settings to immutable dataclass
+- 2022-10-14 17:49: feat(deploy): implement zero-downtime rolling reload
