@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2022-10-14 22:06: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-10-15 11:59: feat(proc): add process supervisor with automatic restart
 - 2022-10-15 15:12: fix(bash): escape arguments in deployment script
+- 2022-10-15 17:16: docs: update system administration runbooks and troubleshooting
