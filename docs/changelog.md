@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2022-10-15 17:16: docs: update system administration runbooks and troubleshooting
 - 2022-10-15 17:38: test(daemon): verify supervisor restarts crashed processes
 - 2022-10-15 19:05: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-10-15 22:39: fix(bash): escape arguments in deployment script
