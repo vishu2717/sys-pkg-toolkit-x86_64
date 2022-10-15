@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2022-10-14 19:40: test(scripts): add bats verification for setup scripts
 - 2022-10-14 21:08: feat(env): add automated dotfiles symlink manager
 - 2022-10-14 22:06: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-10-15 11:59: feat(proc): add process supervisor with automatic restart
