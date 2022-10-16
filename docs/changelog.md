@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2022-10-16 11:48: style: enforce consistent shell quoting and indentation
 - 2022-10-16 11:54: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-10-16 12:38: refactor(scripts): modularize helper functions across shell scripts
+- 2022-10-16 13:56: fix(config): ensure directory exists before writing state
