@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2022-10-16 14:55: test(proc): assert exit codes under simulated failures
 - 2022-10-16 22:20: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-10-18 13:42: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-10-18 15:16: fix(monitor): resolve division by zero on idle cpu calculation
