@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2022-10-18 16:36: fix(config): ensure directory exists before writing state
 - 2022-10-18 21:10: docs: add architecture specification for daemon supervisor
 - 2022-10-18 21:11: refactor(daemon): separate socket listening from worker queue
+- 2022-10-18 22:06: fix(config): ensure directory exists before writing state
