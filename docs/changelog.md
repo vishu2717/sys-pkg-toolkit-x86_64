@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2022-10-18 21:11: refactor(daemon): separate socket listening from worker queue
 - 2022-10-18 22:06: fix(config): ensure directory exists before writing state
 - 2022-10-19 12:12: feat(config): add JSON and YAML configuration loader
+- 2022-10-19 13:02: docs: document environment variables and override flags
