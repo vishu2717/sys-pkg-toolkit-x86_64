@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2022-10-19 16:36: feat(daemon): add background heartbeat and ping interval
 - 2022-10-19 19:18: feat(cli): add command-line argument parser for daemon
 - 2022-10-19 22:12: refactor(config): migrate global settings to immutable dataclass
+- 2022-10-19 22:59: fix(bash): escape arguments in deployment script
