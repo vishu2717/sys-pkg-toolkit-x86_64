@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-10-19 22:59: fix(bash): escape arguments in deployment script
 - 2022-10-21 12:09: refactor(cli): simplify command dispatch loop
 - 2022-10-21 20:35: feat(security): add permission auditing script for local binaries
+- 2022-10-21 21:22: docs: update system administration runbooks and troubleshooting
