@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2022-10-19 19:18: feat(cli): add command-line argument parser for daemon
 - 2022-10-19 22:12: refactor(config): migrate global settings to immutable dataclass
 - 2022-10-19 22:59: fix(bash): escape arguments in deployment script
+- 2022-10-21 12:09: refactor(cli): simplify command dispatch loop
