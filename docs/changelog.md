@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2022-10-24 14:02: fix(docker): specify non-root user in runtime container
 - 2022-10-24 17:35: feat(proc): add process supervisor with automatic restart
 - 2022-10-24 18:03: feat(env): add automated dotfiles symlink manager
+- 2022-10-24 20:28: fix(bash): escape arguments in deployment script
