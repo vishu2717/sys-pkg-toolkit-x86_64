@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2022-10-24 10:43: feat(docker): optimize multi-stage build layers
 - 2022-10-24 11:51: fix(cli): exit with non-zero status code on unknown command
 - 2022-10-24 12:12: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-10-24 13:13: fix(daemon): gracefully handle sigterm during log rotation
