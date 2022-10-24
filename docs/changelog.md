@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2022-10-24 12:12: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-10-24 13:13: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-10-24 14:02: fix(docker): specify non-root user in runtime container
+- 2022-10-24 17:35: feat(proc): add process supervisor with automatic restart
