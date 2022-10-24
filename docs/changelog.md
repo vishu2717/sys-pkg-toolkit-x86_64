@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2022-10-23 13:10: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-10-23 18:25: feat(shell): implement safe pipe execution helper
 - 2022-10-24 10:43: feat(docker): optimize multi-stage build layers
+- 2022-10-24 11:51: fix(cli): exit with non-zero status code on unknown command
