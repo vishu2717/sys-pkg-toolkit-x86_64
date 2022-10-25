@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2022-10-24 18:03: feat(env): add automated dotfiles symlink manager
 - 2022-10-24 20:28: fix(bash): escape arguments in deployment script
 - 2022-10-24 22:17: feat(daemon): add background heartbeat and ping interval
+- 2022-10-25 10:46: fix(bash): escape arguments in deployment script
