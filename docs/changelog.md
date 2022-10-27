@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2022-10-25 10:46: fix(bash): escape arguments in deployment script
 - 2022-10-25 22:27: refactor(config): migrate global settings to immutable dataclass
 - 2022-10-27 10:01: test(daemon): verify supervisor restarts crashed processes
+- 2022-10-27 11:13: fix(proc): prevent zombie process reaping race condition
