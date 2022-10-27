@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2022-10-27 11:13: fix(proc): prevent zombie process reaping race condition
 - 2022-10-27 15:21: feat(docker): optimize multi-stage build layers
 - 2022-10-27 15:24: refactor(daemon): separate socket listening from worker queue
+- 2022-10-27 18:37: fix(docker): specify non-root user in runtime container
