@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2022-10-27 15:21: feat(docker): optimize multi-stage build layers
 - 2022-10-27 15:24: refactor(daemon): separate socket listening from worker queue
 - 2022-10-27 18:37: fix(docker): specify non-root user in runtime container
+- 2022-10-27 21:36: docs: document environment variables and override flags
