@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-10-27 18:37: fix(docker): specify non-root user in runtime container
 - 2022-10-27 21:36: docs: document environment variables and override flags
 - 2022-10-28 11:43: test(scripts): add bats verification for setup scripts
+- 2022-10-28 15:09: refactor(cli): simplify command dispatch loop
