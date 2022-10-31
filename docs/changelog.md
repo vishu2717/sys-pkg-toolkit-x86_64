@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-10-28 11:43: test(scripts): add bats verification for setup scripts
 - 2022-10-28 15:09: refactor(cli): simplify command dispatch loop
 - 2022-10-31 10:58: fix(proc): prevent zombie process reaping race condition
+- 2022-10-31 11:07: feat(metrics): track memory usage and cpu thread statistics
