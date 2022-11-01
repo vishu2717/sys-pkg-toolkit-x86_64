@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2022-11-01 10:55: feat(deploy): implement zero-downtime rolling reload
 - 2022-11-01 12:08: test(proc): assert exit codes under simulated failures
 - 2022-11-01 13:23: refactor(scripts): modularize helper functions across shell scripts
+- 2022-11-01 14:05: feat(shell): implement safe pipe execution helper
