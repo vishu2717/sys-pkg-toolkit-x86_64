@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2022-11-01 17:05: refactor(config): migrate global settings to immutable dataclass
 - 2022-11-01 17:29: fix(docker): specify non-root user in runtime container
 - 2022-11-01 19:12: fix(docker): specify non-root user in runtime container
+- 2022-11-01 23:05: test(proc): assert exit codes under simulated failures
