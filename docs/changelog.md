@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2022-11-01 16:31: feat(sync): add rsync-based remote directory mirror utility
 - 2022-11-01 16:43: refactor(cli): simplify command dispatch loop
 - 2022-11-01 17:05: refactor(config): migrate global settings to immutable dataclass
+- 2022-11-01 17:29: fix(docker): specify non-root user in runtime container
