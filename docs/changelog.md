@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2022-10-28 15:09: refactor(cli): simplify command dispatch loop
 - 2022-10-31 10:58: fix(proc): prevent zombie process reaping race condition
 - 2022-10-31 11:07: feat(metrics): track memory usage and cpu thread statistics
+- 2022-11-01 10:55: feat(deploy): implement zero-downtime rolling reload
