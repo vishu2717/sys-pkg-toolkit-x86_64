@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2022-11-02 10:44: feat(security): add permission auditing script for local binaries
 - 2022-11-02 11:26: fix(cli): exit with non-zero status code on unknown command
 - 2022-11-02 13:41: feat(security): add permission auditing script for local binaries
+- 2022-11-02 16:07: feat(metrics): track memory usage and cpu thread statistics
