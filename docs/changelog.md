@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2022-11-01 23:12: fix(proc): prevent zombie process reaping race condition
 - 2022-11-02 10:44: feat(security): add permission auditing script for local binaries
 - 2022-11-02 11:26: fix(cli): exit with non-zero status code on unknown command
+- 2022-11-02 13:41: feat(security): add permission auditing script for local binaries
