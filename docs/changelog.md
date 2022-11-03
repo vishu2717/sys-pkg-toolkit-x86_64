@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2022-11-02 21:15: fix(bash): escape arguments in deployment script
 - 2022-11-03 15:07: feat(config): add JSON and YAML configuration loader
 - 2022-11-03 16:56: docs: update changelog with recent utility enhancements
+- 2022-11-03 22:46: feat(env): add automated dotfiles symlink manager
