@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2022-11-02 19:15: style: enforce consistent shell quoting and indentation
 - 2022-11-02 20:20: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-11-02 21:15: fix(bash): escape arguments in deployment script
+- 2022-11-03 15:07: feat(config): add JSON and YAML configuration loader
