@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2022-11-05 14:42: test(cli): add unit test coverage for argument parsing
 - 2022-11-05 16:50: feat(sync): add rsync-based remote directory mirror utility
 - 2022-11-05 17:46: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-11-05 18:18: chore: configure shellcheck and ruff linter hooks
