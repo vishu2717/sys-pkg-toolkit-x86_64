@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2022-11-03 22:46: feat(env): add automated dotfiles symlink manager
 - 2022-11-04 14:28: feat(deploy): implement zero-downtime rolling reload
 - 2022-11-04 21:28: feat(sync): add rsync-based remote directory mirror utility
+- 2022-11-05 12:07: feat(cli): add command-line argument parser for daemon
