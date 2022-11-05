@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2022-11-04 21:28: feat(sync): add rsync-based remote directory mirror utility
 - 2022-11-05 12:07: feat(cli): add command-line argument parser for daemon
 - 2022-11-05 13:08: feat(cli): add command-line argument parser for daemon
+- 2022-11-05 14:14: refactor(daemon): separate socket listening from worker queue
