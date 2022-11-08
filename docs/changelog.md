@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2022-11-07 15:20: feat(shell): implement safe pipe execution helper
 - 2022-11-07 21:24: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-11-08 12:12: fix(bash): escape arguments in deployment script
+- 2022-11-08 14:25: feat(sync): add rsync-based remote directory mirror utility
