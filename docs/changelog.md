@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2022-11-08 18:55: chore: update base container image to latest alpine
 - 2022-11-08 22:34: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-11-09 10:27: feat(proc): add process supervisor with automatic restart
+- 2022-11-09 16:03: feat(security): add permission auditing script for local binaries
