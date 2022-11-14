@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2022-11-11 19:28: test(cli): add unit test coverage for argument parsing
 - 2022-11-14 10:40: refactor(scripts): modularize helper functions across shell scripts
 - 2022-11-14 16:08: feat(deploy): implement zero-downtime rolling reload
+- 2022-11-14 19:37: docs: update changelog with recent utility enhancements
