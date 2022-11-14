@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2022-11-14 16:08: feat(deploy): implement zero-downtime rolling reload
 - 2022-11-14 19:37: docs: update changelog with recent utility enhancements
 - 2022-11-14 21:00: docs: update system administration runbooks and troubleshooting
+- 2022-11-14 22:29: fix(monitor): resolve division by zero on idle cpu calculation
