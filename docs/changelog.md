@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2022-11-15 12:58: feat(docker): optimize multi-stage build layers
 - 2022-11-15 14:17: test(daemon): verify supervisor restarts crashed processes
 - 2022-11-15 14:57: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-11-15 15:41: test(proc): assert exit codes under simulated failures
