@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2022-11-15 16:09: fix(bash): escape arguments in deployment script
 - 2022-11-15 17:57: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-11-15 21:21: feat(proc): add process supervisor with automatic restart
+- 2022-11-15 22:52: refactor(monitor): optimize sampling frequency and buffer size
