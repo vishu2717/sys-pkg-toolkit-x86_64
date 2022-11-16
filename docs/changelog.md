@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2022-11-16 17:31: feat(docker): optimize multi-stage build layers
 - 2022-11-16 18:09: fix(proc): prevent zombie process reaping race condition
 - 2022-11-16 19:13: chore: update base container image to latest alpine
+- 2022-11-16 20:01: fix(proc): prevent zombie process reaping race condition
