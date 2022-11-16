@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2022-11-15 23:05: style: enforce consistent shell quoting and indentation
 - 2022-11-16 17:31: feat(docker): optimize multi-stage build layers
 - 2022-11-16 18:09: fix(proc): prevent zombie process reaping race condition
+- 2022-11-16 19:13: chore: update base container image to latest alpine
