@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2022-11-16 19:13: chore: update base container image to latest alpine
 - 2022-11-16 20:01: fix(proc): prevent zombie process reaping race condition
 - 2022-11-16 23:23: refactor(daemon): separate socket listening from worker queue
+- 2022-11-17 11:00: feat(env): add automated dotfiles symlink manager
