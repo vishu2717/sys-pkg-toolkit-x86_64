@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2022-11-16 23:23: refactor(daemon): separate socket listening from worker queue
 - 2022-11-17 11:00: feat(env): add automated dotfiles symlink manager
 - 2022-11-17 13:16: refactor(scripts): modularize helper functions across shell scripts
+- 2022-11-17 17:44: fix(daemon): gracefully handle sigterm during log rotation
