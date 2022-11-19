@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2022-11-19 11:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-11-19 11:35: chore: configure shellcheck and ruff linter hooks
 - 2022-11-19 11:41: fix(cli): exit with non-zero status code on unknown command
+- 2022-11-19 15:44: refactor(daemon): separate socket listening from worker queue
