@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2022-11-17 13:16: refactor(scripts): modularize helper functions across shell scripts
 - 2022-11-17 17:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-11-19 10:00: fix(docker): specify non-root user in runtime container
+- 2022-11-19 11:32: refactor(monitor): optimize sampling frequency and buffer size
