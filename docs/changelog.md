@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2022-11-19 16:54: fix(cli): exit with non-zero status code on unknown command
 - 2022-11-19 20:43: test(proc): assert exit codes under simulated failures
 - 2022-11-19 21:04: docs: update system administration runbooks and troubleshooting
+- 2022-11-21 12:08: refactor(cli): simplify command dispatch loop
