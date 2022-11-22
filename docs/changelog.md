@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2022-11-22 13:08: style: enforce consistent shell quoting and indentation
 - 2022-11-22 16:17: test(proc): assert exit codes under simulated failures
 - 2022-11-22 16:29: feat(metrics): track memory usage and cpu thread statistics
+- 2022-11-22 17:47: chore: update base container image to latest alpine
