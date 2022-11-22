@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2022-11-19 21:04: docs: update system administration runbooks and troubleshooting
 - 2022-11-21 12:08: refactor(cli): simplify command dispatch loop
 - 2022-11-21 15:34: feat(proc): add process supervisor with automatic restart
+- 2022-11-22 13:08: style: enforce consistent shell quoting and indentation
