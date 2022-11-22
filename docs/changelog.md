@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2022-11-22 20:27: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-11-22 22:01: docs: document environment variables and override flags
 - 2022-11-22 22:16: feat(monitor): implement system resource tracking utility
+- 2022-11-22 23:17: refactor(scripts): modularize helper functions across shell scripts
