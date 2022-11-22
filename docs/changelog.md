@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2022-11-22 18:38: feat(cli): add command-line argument parser for daemon
 - 2022-11-22 19:43: fix(bash): escape arguments in deployment script
 - 2022-11-22 20:02: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-11-22 20:27: fix(monitor): resolve division by zero on idle cpu calculation
