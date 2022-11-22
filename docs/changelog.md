@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2022-11-22 16:29: feat(metrics): track memory usage and cpu thread statistics
 - 2022-11-22 17:47: chore: update base container image to latest alpine
 - 2022-11-22 18:38: feat(cli): add command-line argument parser for daemon
+- 2022-11-22 19:43: fix(bash): escape arguments in deployment script
