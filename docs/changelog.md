@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2022-11-22 23:17: refactor(scripts): modularize helper functions across shell scripts
 - 2022-11-24 16:40: feat(sync): add rsync-based remote directory mirror utility
 - 2022-11-24 21:42: fix(daemon): gracefully handle sigterm during log rotation
+- 2022-11-25 12:23: refactor(config): migrate global settings to immutable dataclass
