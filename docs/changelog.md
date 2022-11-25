@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2022-11-25 16:55: fix(config): ensure directory exists before writing state
 - 2022-11-25 20:20: perf: reduce process spawn latency using fork pool
 - 2022-11-25 21:29: feat(shell): implement safe pipe execution helper
+- 2022-11-25 21:50: fix(proc): prevent zombie process reaping race condition
