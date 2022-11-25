@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2022-11-24 21:42: fix(daemon): gracefully handle sigterm during log rotation
 - 2022-11-25 12:23: refactor(config): migrate global settings to immutable dataclass
 - 2022-11-25 13:01: refactor(cli): simplify command dispatch loop
+- 2022-11-25 14:49: test(proc): assert exit codes under simulated failures
