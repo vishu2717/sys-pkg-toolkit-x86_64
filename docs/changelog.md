@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2022-11-25 12:23: refactor(config): migrate global settings to immutable dataclass
 - 2022-11-25 13:01: refactor(cli): simplify command dispatch loop
 - 2022-11-25 14:49: test(proc): assert exit codes under simulated failures
+- 2022-11-25 16:55: fix(config): ensure directory exists before writing state
