@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2022-11-25 13:01: refactor(cli): simplify command dispatch loop
 - 2022-11-25 14:49: test(proc): assert exit codes under simulated failures
 - 2022-11-25 16:55: fix(config): ensure directory exists before writing state
+- 2022-11-25 20:20: perf: reduce process spawn latency using fork pool
