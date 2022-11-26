@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2022-11-25 20:20: perf: reduce process spawn latency using fork pool
 - 2022-11-25 21:29: feat(shell): implement safe pipe execution helper
 - 2022-11-25 21:50: fix(proc): prevent zombie process reaping race condition
+- 2022-11-26 12:35: docs: update changelog with recent utility enhancements
