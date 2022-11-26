@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2022-11-25 21:50: fix(proc): prevent zombie process reaping race condition
 - 2022-11-26 12:35: docs: update changelog with recent utility enhancements
 - 2022-11-26 14:20: feat(deploy): implement zero-downtime rolling reload
+- 2022-11-26 18:02: feat(metrics): track memory usage and cpu thread statistics
