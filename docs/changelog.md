@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2022-11-27 10:40: fix(bash): escape arguments in deployment script
 - 2022-11-27 10:43: fix(config): ensure directory exists before writing state
 - 2022-11-27 18:03: feat(sync): add rsync-based remote directory mirror utility
+- 2022-11-27 20:30: fix(cli): exit with non-zero status code on unknown command
