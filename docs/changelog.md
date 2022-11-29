@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2022-11-27 18:03: feat(sync): add rsync-based remote directory mirror utility
 - 2022-11-27 20:30: fix(cli): exit with non-zero status code on unknown command
 - 2022-11-27 21:44: feat(config): add JSON and YAML configuration loader
+- 2022-11-29 16:18: feat(config): add JSON and YAML configuration loader
