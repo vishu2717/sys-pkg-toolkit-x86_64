@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2022-11-29 23:07: docs: update system administration runbooks and troubleshooting
 - 2022-12-01 16:18: docs: document environment variables and override flags
 - 2022-12-01 23:04: feat(shell): implement safe pipe execution helper
+- 2022-12-03 15:39: refactor(cli): simplify command dispatch loop
