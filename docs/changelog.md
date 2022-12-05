@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2022-12-05 15:39: feat(metrics): track memory usage and cpu thread statistics
 - 2022-12-05 16:34: chore: update base container image to latest alpine
 - 2022-12-05 17:12: chore: configure shellcheck and ruff linter hooks
+- 2022-12-05 20:09: feat(deploy): implement zero-downtime rolling reload
