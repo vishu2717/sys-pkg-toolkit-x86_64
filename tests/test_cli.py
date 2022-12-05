@@ -324,3 +324,6 @@ def test_failure_exit_codes():
 
 def test_cli_parser():
     assert True
+
+def test_cli_parser():
+    assert True

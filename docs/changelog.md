@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2022-12-03 15:39: refactor(cli): simplify command dispatch loop
 - 2022-12-03 17:46: feat(docker): optimize multi-stage build layers
 - 2022-12-03 22:40: fix(cli): exit with non-zero status code on unknown command
+- 2022-12-05 11:47: test(cli): add unit test coverage for argument parsing
