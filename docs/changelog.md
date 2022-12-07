@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2022-12-05 20:09: feat(deploy): implement zero-downtime rolling reload
 - 2022-12-07 10:04: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-12-07 10:59: feat(metrics): track memory usage and cpu thread statistics
+- 2022-12-07 16:39: feat(deploy): implement zero-downtime rolling reload
