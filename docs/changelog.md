@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2022-12-07 10:59: feat(metrics): track memory usage and cpu thread statistics
 - 2022-12-07 16:39: feat(deploy): implement zero-downtime rolling reload
 - 2022-12-07 16:51: test(daemon): verify supervisor restarts crashed processes
+- 2022-12-07 17:31: refactor(daemon): separate socket listening from worker queue
