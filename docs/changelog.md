@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2022-12-07 21:50: feat(shell): implement safe pipe execution helper
 - 2022-12-07 22:17: feat(cli): add command-line argument parser for daemon
 - 2022-12-08 12:54: fix(config): ensure directory exists before writing state
+- 2022-12-08 16:48: fix(monitor): resolve division by zero on idle cpu calculation
