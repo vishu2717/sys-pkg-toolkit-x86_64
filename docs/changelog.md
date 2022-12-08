@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2022-12-08 12:54: fix(config): ensure directory exists before writing state
 - 2022-12-08 16:48: fix(monitor): resolve division by zero on idle cpu calculation
 - 2022-12-08 19:22: fix(docker): specify non-root user in runtime container
+- 2022-12-08 20:59: refactor(daemon): separate socket listening from worker queue
