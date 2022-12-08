@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2022-12-08 19:22: fix(docker): specify non-root user in runtime container
 - 2022-12-08 20:59: refactor(daemon): separate socket listening from worker queue
 - 2022-12-08 21:02: refactor(cli): simplify command dispatch loop
+- 2022-12-08 21:10: feat(cli): add command-line argument parser for daemon
