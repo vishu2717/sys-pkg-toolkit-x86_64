@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2022-12-10 18:47: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-12-10 19:16: refactor(scripts): modularize helper functions across shell scripts
 - 2022-12-10 19:24: refactor(monitor): optimize sampling frequency and buffer size
+- 2022-12-10 20:48: docs: add architecture specification for daemon supervisor
