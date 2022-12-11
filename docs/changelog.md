@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2022-12-10 19:24: refactor(monitor): optimize sampling frequency and buffer size
 - 2022-12-10 20:48: docs: add architecture specification for daemon supervisor
 - 2022-12-11 16:45: test(scripts): add bats verification for setup scripts
+- 2022-12-11 18:05: feat(metrics): track memory usage and cpu thread statistics
