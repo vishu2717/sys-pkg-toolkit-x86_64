@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2022-12-14 19:51: fix(proc): prevent zombie process reaping race condition
 - 2022-12-14 20:23: fix(cli): exit with non-zero status code on unknown command
 - 2022-12-14 22:59: refactor(scripts): modularize helper functions across shell scripts
+- 2022-12-14 23:02: docs: add architecture specification for daemon supervisor
