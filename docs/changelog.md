@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2022-12-17 14:07: feat(security): add permission auditing script for local binaries
 - 2022-12-17 15:39: feat(security): add permission auditing script for local binaries
 - 2022-12-17 19:12: refactor(daemon): separate socket listening from worker queue
+- 2022-12-17 20:36: feat(cli): add command-line argument parser for daemon
