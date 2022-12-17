@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2022-12-14 23:02: docs: add architecture specification for daemon supervisor
 - 2022-12-17 11:28: feat(cli): add command-line argument parser for daemon
 - 2022-12-17 14:07: feat(security): add permission auditing script for local binaries
+- 2022-12-17 15:39: feat(security): add permission auditing script for local binaries
