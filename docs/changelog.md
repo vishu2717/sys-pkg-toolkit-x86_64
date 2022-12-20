@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2022-12-17 20:36: feat(cli): add command-line argument parser for daemon
 - 2022-12-17 20:54: fix(bash): escape arguments in deployment script
 - 2022-12-17 20:55: docs: update changelog with recent utility enhancements
+- 2022-12-20 12:09: docs: add architecture specification for daemon supervisor

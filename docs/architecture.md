@@ -268,3 +268,6 @@ Details on IPC communication channels and process tree.
 
 ### Maintenance Notes
 Recent enhancements to command-line toolchain.
+
+### Supervisor Architecture
+Details on IPC communication channels and process tree.
