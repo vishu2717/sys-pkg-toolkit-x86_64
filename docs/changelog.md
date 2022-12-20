@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2022-12-17 20:55: docs: update changelog with recent utility enhancements
 - 2022-12-20 12:09: docs: add architecture specification for daemon supervisor
 - 2022-12-20 13:52: chore: configure shellcheck and ruff linter hooks
+- 2022-12-20 20:38: refactor(cli): simplify command dispatch loop
