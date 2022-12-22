@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2022-12-21 20:32: feat(monitor): implement system resource tracking utility
 - 2022-12-22 17:07: fix(bash): escape arguments in deployment script
 - 2022-12-22 21:08: feat(sync): add rsync-based remote directory mirror utility
+- 2022-12-22 21:26: fix(cli): exit with non-zero status code on unknown command
