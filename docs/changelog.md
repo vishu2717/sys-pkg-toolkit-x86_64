@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2022-12-22 21:33: test(cli): add unit test coverage for argument parsing
 - 2022-12-22 22:44: test(daemon): verify supervisor restarts crashed processes
 - 2022-12-27 10:29: fix(monitor): resolve division by zero on idle cpu calculation
+- 2022-12-27 10:50: feat(metrics): track memory usage and cpu thread statistics
