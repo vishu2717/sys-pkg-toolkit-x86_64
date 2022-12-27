@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2022-12-27 12:38: chore: update base container image to latest alpine
 - 2022-12-27 13:34: test(proc): assert exit codes under simulated failures
 - 2022-12-27 14:47: feat(shell): implement safe pipe execution helper
+- 2022-12-27 14:59: feat(cli): add command-line argument parser for daemon
