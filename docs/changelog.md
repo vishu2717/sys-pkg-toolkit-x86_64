@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2022-12-27 14:47: feat(shell): implement safe pipe execution helper
 - 2022-12-27 14:59: feat(cli): add command-line argument parser for daemon
 - 2022-12-27 15:01: docs: update changelog with recent utility enhancements
+- 2022-12-27 15:37: feat(metrics): track memory usage and cpu thread statistics
