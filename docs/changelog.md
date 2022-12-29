@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2022-12-27 16:24: feat(security): add permission auditing script for local binaries
 - 2022-12-27 21:17: feat(daemon): add background heartbeat and ping interval
 - 2022-12-27 21:43: feat(deploy): implement zero-downtime rolling reload
+- 2022-12-29 11:06: docs: update system administration runbooks and troubleshooting
