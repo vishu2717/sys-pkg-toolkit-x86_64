@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2022-12-29 11:06: docs: update system administration runbooks and troubleshooting
 - 2022-12-29 12:41: docs: update changelog with recent utility enhancements
 - 2022-12-29 14:33: feat(shell): implement safe pipe execution helper
+- 2022-12-29 14:59: fix(monitor): resolve division by zero on idle cpu calculation
