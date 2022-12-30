@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2022-12-29 22:34: fix(docker): specify non-root user in runtime container
 - 2022-12-29 23:26: feat(docker): optimize multi-stage build layers
 - 2022-12-30 16:54: feat(shell): implement safe pipe execution helper
+- 2022-12-30 20:01: fix(docker): specify non-root user in runtime container
