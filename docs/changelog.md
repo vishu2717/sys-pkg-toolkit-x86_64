@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2022-12-30 20:01: fix(docker): specify non-root user in runtime container
 - 2023-01-01 10:15: docs: update changelog with recent utility enhancements
 - 2023-01-01 11:05: feat(config): add JSON and YAML configuration loader
+- 2023-01-01 12:28: test(proc): assert exit codes under simulated failures
