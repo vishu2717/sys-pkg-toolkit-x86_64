@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2023-01-01 12:28: test(proc): assert exit codes under simulated failures
 - 2023-01-01 14:20: fix(config): ensure directory exists before writing state
 - 2023-01-01 16:32: feat(config): add JSON and YAML configuration loader
+- 2023-01-01 21:19: docs: add architecture specification for daemon supervisor
