@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2023-01-01 10:15: docs: update changelog with recent utility enhancements
 - 2023-01-01 11:05: feat(config): add JSON and YAML configuration loader
 - 2023-01-01 12:28: test(proc): assert exit codes under simulated failures
+- 2023-01-01 14:20: fix(config): ensure directory exists before writing state
