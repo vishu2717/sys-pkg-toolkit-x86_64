@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2023-01-02 14:03: feat(proc): add process supervisor with automatic restart
 - 2023-01-02 14:11: fix(cli): exit with non-zero status code on unknown command
 - 2023-01-02 18:39: perf: reduce process spawn latency using fork pool
+- 2023-01-02 19:56: fix(daemon): gracefully handle sigterm during log rotation
