@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2023-01-02 18:39: perf: reduce process spawn latency using fork pool
 - 2023-01-02 19:56: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-02 20:09: feat(docker): optimize multi-stage build layers
+- 2023-01-02 20:15: test(proc): assert exit codes under simulated failures
