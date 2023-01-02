@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2023-01-01 16:32: feat(config): add JSON and YAML configuration loader
 - 2023-01-01 21:19: docs: add architecture specification for daemon supervisor
 - 2023-01-02 11:36: fix(proc): prevent zombie process reaping race condition
+- 2023-01-02 11:40: test(proc): assert exit codes under simulated failures
