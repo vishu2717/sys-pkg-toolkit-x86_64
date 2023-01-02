@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2023-01-02 11:40: test(proc): assert exit codes under simulated failures
 - 2023-01-02 13:37: docs: update changelog with recent utility enhancements
 - 2023-01-02 14:03: feat(proc): add process supervisor with automatic restart
+- 2023-01-02 14:11: fix(cli): exit with non-zero status code on unknown command
