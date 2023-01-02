@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2023-01-02 19:56: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-02 20:09: feat(docker): optimize multi-stage build layers
 - 2023-01-02 20:15: test(proc): assert exit codes under simulated failures
+- 2023-01-02 22:02: fix(bash): escape arguments in deployment script
