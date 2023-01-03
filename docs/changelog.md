@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2023-01-03 20:16: refactor(daemon): separate socket listening from worker queue
 - 2023-01-03 20:55: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-01-03 23:03: refactor(daemon): separate socket listening from worker queue
+- 2023-01-03 23:28: feat(security): add permission auditing script for local binaries
