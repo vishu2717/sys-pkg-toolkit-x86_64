@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2023-01-03 23:03: refactor(daemon): separate socket listening from worker queue
 - 2023-01-03 23:28: feat(security): add permission auditing script for local binaries
 - 2023-01-04 11:16: fix(cli): exit with non-zero status code on unknown command
+- 2023-01-04 13:16: feat(metrics): track memory usage and cpu thread statistics
