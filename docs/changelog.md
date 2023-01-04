@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2023-01-04 11:16: fix(cli): exit with non-zero status code on unknown command
 - 2023-01-04 13:16: feat(metrics): track memory usage and cpu thread statistics
 - 2023-01-04 16:43: fix(cli): exit with non-zero status code on unknown command
+- 2023-01-04 17:05: fix(docker): specify non-root user in runtime container
