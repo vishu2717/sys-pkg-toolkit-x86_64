@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2023-01-06 14:15: test(scripts): add bats verification for setup scripts
 - 2023-01-06 15:29: style: enforce consistent shell quoting and indentation
 - 2023-01-06 17:03: refactor(scripts): modularize helper functions across shell scripts
+- 2023-01-06 18:20: docs: document environment variables and override flags
