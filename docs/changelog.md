@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2023-01-06 17:03: refactor(scripts): modularize helper functions across shell scripts
 - 2023-01-06 18:20: docs: document environment variables and override flags
 - 2023-01-06 18:21: feat(cli): add command-line argument parser for daemon
+- 2023-01-06 22:11: feat(config): add JSON and YAML configuration loader
