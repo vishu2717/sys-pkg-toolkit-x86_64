@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-01-04 16:43: fix(cli): exit with non-zero status code on unknown command
 - 2023-01-04 17:05: fix(docker): specify non-root user in runtime container
 - 2023-01-04 22:47: feat(cli): add command-line argument parser for daemon
+- 2023-01-06 10:34: feat(env): add automated dotfiles symlink manager
