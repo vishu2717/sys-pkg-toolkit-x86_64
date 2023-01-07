@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2023-01-06 18:20: docs: document environment variables and override flags
 - 2023-01-06 18:21: feat(cli): add command-line argument parser for daemon
 - 2023-01-06 22:11: feat(config): add JSON and YAML configuration loader
+- 2023-01-07 15:17: feat(shell): implement safe pipe execution helper
