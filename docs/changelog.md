@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2023-01-09 10:38: feat(env): add automated dotfiles symlink manager
 - 2023-01-09 10:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-01-09 10:42: fix(docker): specify non-root user in runtime container
+- 2023-01-09 11:05: refactor(daemon): separate socket listening from worker queue
