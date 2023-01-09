@@ -321,3 +321,6 @@ link_dotfile() { ln -sf "$1" "$2"; }
 # Enforced strict POSIX styling
 
 # Modularized shell helpers
+
+# Dotfiles symlink manager
+link_dotfile() { ln -sf "$1" "$2"; }

@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2023-01-07 15:17: feat(shell): implement safe pipe execution helper
 - 2023-01-07 17:56: feat(metrics): track memory usage and cpu thread statistics
 - 2023-01-07 20:06: feat(config): add JSON and YAML configuration loader
+- 2023-01-09 10:38: feat(env): add automated dotfiles symlink manager
