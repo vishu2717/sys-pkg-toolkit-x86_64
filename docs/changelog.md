@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2023-01-09 13:28: feat(env): add automated dotfiles symlink manager
 - 2023-01-09 14:13: feat(cli): add command-line argument parser for daemon
 - 2023-01-09 15:29: test(cli): add unit test coverage for argument parsing
+- 2023-01-09 15:56: feat(sync): add rsync-based remote directory mirror utility
