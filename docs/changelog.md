@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2023-01-09 11:16: docs: update system administration runbooks and troubleshooting
 - 2023-01-09 12:03: fix(proc): prevent zombie process reaping race condition
 - 2023-01-09 13:28: feat(env): add automated dotfiles symlink manager
+- 2023-01-09 14:13: feat(cli): add command-line argument parser for daemon
