@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-01-09 20:46: test(cli): add unit test coverage for argument parsing
 - 2023-01-09 20:57: docs: update changelog with recent utility enhancements
 - 2023-01-10 10:23: refactor(cli): simplify command dispatch loop
+- 2023-01-10 13:37: perf: reduce process spawn latency using fork pool
