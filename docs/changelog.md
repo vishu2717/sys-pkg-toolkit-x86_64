@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2023-01-10 10:23: refactor(cli): simplify command dispatch loop
 - 2023-01-10 13:37: perf: reduce process spawn latency using fork pool
 - 2023-01-10 14:53: test(daemon): verify supervisor restarts crashed processes
+- 2023-01-10 17:44: fix(monitor): resolve division by zero on idle cpu calculation
