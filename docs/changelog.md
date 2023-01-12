@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2023-01-12 13:50: refactor(daemon): separate socket listening from worker queue
 - 2023-01-12 16:20: feat(docker): optimize multi-stage build layers
 - 2023-01-12 20:11: fix(config): ensure directory exists before writing state
+- 2023-01-12 21:16: feat(config): add JSON and YAML configuration loader
