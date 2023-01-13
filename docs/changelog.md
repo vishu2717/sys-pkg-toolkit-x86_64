@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-01-12 20:11: fix(config): ensure directory exists before writing state
 - 2023-01-12 21:16: feat(config): add JSON and YAML configuration loader
 - 2023-01-12 23:26: docs: add architecture specification for daemon supervisor
+- 2023-01-13 11:30: feat(proc): add process supervisor with automatic restart
