@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2023-01-13 16:13: feat(env): add automated dotfiles symlink manager
 - 2023-01-13 18:35: test(proc): assert exit codes under simulated failures
 - 2023-01-13 20:08: feat(env): add automated dotfiles symlink manager
+- 2023-01-13 23:01: fix(bash): escape arguments in deployment script
