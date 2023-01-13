@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2023-01-13 20:08: feat(env): add automated dotfiles symlink manager
 - 2023-01-13 23:01: fix(bash): escape arguments in deployment script
 - 2023-01-13 23:18: docs: update system administration runbooks and troubleshooting
+- 2023-01-13 23:23: chore: configure shellcheck and ruff linter hooks
