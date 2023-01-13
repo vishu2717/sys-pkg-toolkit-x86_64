@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2023-01-12 23:26: docs: add architecture specification for daemon supervisor
 - 2023-01-13 11:30: feat(proc): add process supervisor with automatic restart
 - 2023-01-13 11:41: feat(daemon): add background heartbeat and ping interval
+- 2023-01-13 15:10: feat(cli): add command-line argument parser for daemon
