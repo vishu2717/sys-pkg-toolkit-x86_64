@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2023-01-14 12:44: feat(monitor): implement system resource tracking utility
 - 2023-01-14 17:02: chore: update base container image to latest alpine
 - 2023-01-14 17:02: fix(bash): escape arguments in deployment script
+- 2023-01-14 18:50: feat(security): add permission auditing script for local binaries
