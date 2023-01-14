@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2023-01-13 23:28: feat(daemon): add background heartbeat and ping interval
 - 2023-01-14 12:44: feat(monitor): implement system resource tracking utility
 - 2023-01-14 17:02: chore: update base container image to latest alpine
+- 2023-01-14 17:02: fix(bash): escape arguments in deployment script
