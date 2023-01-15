@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2023-01-15 16:16: fix(cli): exit with non-zero status code on unknown command
 - 2023-01-15 17:05: feat(monitor): implement system resource tracking utility
 - 2023-01-15 17:10: fix(config): ensure directory exists before writing state
+- 2023-01-15 17:48: feat(deploy): implement zero-downtime rolling reload
