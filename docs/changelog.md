@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2023-01-15 14:28: fix(bash): escape arguments in deployment script
 - 2023-01-15 15:39: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-01-15 16:16: fix(cli): exit with non-zero status code on unknown command
+- 2023-01-15 17:05: feat(monitor): implement system resource tracking utility
