@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2023-01-15 11:21: chore: configure shellcheck and ruff linter hooks
 - 2023-01-15 11:27: feat(cli): add command-line argument parser for daemon
 - 2023-01-15 13:02: feat(daemon): add background heartbeat and ping interval
+- 2023-01-15 13:20: feat(env): add automated dotfiles symlink manager
