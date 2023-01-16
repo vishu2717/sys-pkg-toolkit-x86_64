@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-01-16 14:54: refactor(daemon): separate socket listening from worker queue
 - 2023-01-16 18:44: refactor(daemon): separate socket listening from worker queue
 - 2023-01-16 21:21: feat(config): add JSON and YAML configuration loader
+- 2023-01-16 21:33: feat(deploy): implement zero-downtime rolling reload
