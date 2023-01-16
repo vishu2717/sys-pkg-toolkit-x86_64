@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2023-01-15 22:30: refactor(cli): simplify command dispatch loop
 - 2023-01-16 10:36: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-01-16 10:53: feat(metrics): track memory usage and cpu thread statistics
+- 2023-01-16 11:08: fix(monitor): resolve division by zero on idle cpu calculation
