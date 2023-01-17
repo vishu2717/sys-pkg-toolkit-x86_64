@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2023-01-16 21:21: feat(config): add JSON and YAML configuration loader
 - 2023-01-16 21:33: feat(deploy): implement zero-downtime rolling reload
 - 2023-01-16 23:12: test(proc): assert exit codes under simulated failures
+- 2023-01-17 10:05: refactor(monitor): optimize sampling frequency and buffer size
