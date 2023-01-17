@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2023-01-16 23:12: test(proc): assert exit codes under simulated failures
 - 2023-01-17 10:05: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-01-17 13:52: fix(cli): exit with non-zero status code on unknown command
+- 2023-01-17 15:52: fix(monitor): resolve division by zero on idle cpu calculation
