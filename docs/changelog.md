@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2023-01-18 19:21: fix(bash): escape arguments in deployment script
 - 2023-01-18 19:53: feat(monitor): implement system resource tracking utility
 - 2023-01-18 22:13: test(cli): add unit test coverage for argument parsing
+- 2023-01-18 22:50: test(proc): assert exit codes under simulated failures
