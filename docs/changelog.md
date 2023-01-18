@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2023-01-17 21:13: test(daemon): verify supervisor restarts crashed processes
 - 2023-01-18 10:54: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-01-18 14:59: refactor(scripts): modularize helper functions across shell scripts
+- 2023-01-18 19:21: fix(bash): escape arguments in deployment script
