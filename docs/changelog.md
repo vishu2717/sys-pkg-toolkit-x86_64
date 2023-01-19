@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2023-01-18 22:50: test(proc): assert exit codes under simulated failures
 - 2023-01-19 12:57: style: enforce consistent shell quoting and indentation
 - 2023-01-19 18:10: docs: add architecture specification for daemon supervisor
+- 2023-01-19 20:24: feat(sync): add rsync-based remote directory mirror utility
