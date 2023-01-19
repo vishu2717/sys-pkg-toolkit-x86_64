@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2023-01-19 20:24: feat(sync): add rsync-based remote directory mirror utility
 - 2023-01-19 21:08: feat(security): add permission auditing script for local binaries
 - 2023-01-19 22:43: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-01-19 22:44: fix(daemon): gracefully handle sigterm during log rotation
