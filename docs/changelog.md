@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2023-01-20 18:01: feat(metrics): track memory usage and cpu thread statistics
 - 2023-01-20 20:42: fix(cli): exit with non-zero status code on unknown command
 - 2023-01-20 20:59: feat(shell): implement safe pipe execution helper
+- 2023-01-20 21:50: refactor(config): migrate global settings to immutable dataclass
