@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2023-01-21 19:51: feat(metrics): track memory usage and cpu thread statistics
 - 2023-01-21 20:01: feat(security): add permission auditing script for local binaries
 - 2023-01-21 21:14: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-01-21 21:27: test(scripts): add bats verification for setup scripts
