@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2023-01-20 21:50: refactor(config): migrate global settings to immutable dataclass
 - 2023-01-21 12:08: feat(proc): add process supervisor with automatic restart
 - 2023-01-21 16:39: test(proc): assert exit codes under simulated failures
+- 2023-01-21 19:51: feat(metrics): track memory usage and cpu thread statistics
