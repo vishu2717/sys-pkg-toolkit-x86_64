@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2023-01-21 21:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-21 21:27: test(scripts): add bats verification for setup scripts
 - 2023-01-21 22:07: chore: update base container image to latest alpine
+- 2023-01-21 23:13: fix(daemon): gracefully handle sigterm during log rotation
