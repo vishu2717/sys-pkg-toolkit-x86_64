@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2023-01-24 20:22: feat(daemon): add background heartbeat and ping interval
 - 2023-01-25 10:31: feat(docker): optimize multi-stage build layers
 - 2023-01-25 12:37: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-01-25 13:28: test(proc): assert exit codes under simulated failures
