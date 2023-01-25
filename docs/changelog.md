@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2023-01-25 13:28: test(proc): assert exit codes under simulated failures
 - 2023-01-25 15:02: fix(docker): specify non-root user in runtime container
 - 2023-01-25 15:50: feat(monitor): implement system resource tracking utility
+- 2023-01-25 20:13: feat(env): add automated dotfiles symlink manager
