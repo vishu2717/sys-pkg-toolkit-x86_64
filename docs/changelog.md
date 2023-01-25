@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2023-01-24 12:48: feat(config): add JSON and YAML configuration loader
 - 2023-01-24 16:04: feat(daemon): add background heartbeat and ping interval
 - 2023-01-24 20:22: feat(daemon): add background heartbeat and ping interval
+- 2023-01-25 10:31: feat(docker): optimize multi-stage build layers
