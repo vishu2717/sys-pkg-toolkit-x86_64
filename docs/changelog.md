@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2023-01-25 20:13: feat(env): add automated dotfiles symlink manager
 - 2023-01-25 23:22: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-26 21:11: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-01-27 11:05: test(proc): assert exit codes under simulated failures
