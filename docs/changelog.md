@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2023-01-27 17:53: test(proc): assert exit codes under simulated failures
 - 2023-01-27 19:36: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-27 19:55: feat(docker): optimize multi-stage build layers
+- 2023-01-27 20:21: refactor(config): migrate global settings to immutable dataclass
