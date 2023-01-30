@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2023-01-30 14:10: docs: document environment variables and override flags
 - 2023-01-30 15:19: feat(security): add permission auditing script for local binaries
 - 2023-01-30 15:41: test(cli): add unit test coverage for argument parsing
+- 2023-01-30 18:39: feat(shell): implement safe pipe execution helper
