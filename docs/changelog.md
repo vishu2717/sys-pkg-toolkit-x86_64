@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2023-01-27 20:21: refactor(config): migrate global settings to immutable dataclass
 - 2023-01-27 20:43: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-01-30 10:42: test(daemon): verify supervisor restarts crashed processes
+- 2023-01-30 14:10: docs: document environment variables and override flags
