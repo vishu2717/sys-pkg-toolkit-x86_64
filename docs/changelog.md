@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2023-01-30 15:41: test(cli): add unit test coverage for argument parsing
 - 2023-01-30 18:39: feat(shell): implement safe pipe execution helper
 - 2023-01-30 22:28: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-01-31 17:44: docs: add architecture specification for daemon supervisor
