@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-01-31 19:16: docs: document environment variables and override flags
 - 2023-02-01 10:09: feat(proc): add process supervisor with automatic restart
 - 2023-02-01 15:09: docs: add architecture specification for daemon supervisor
+- 2023-02-01 18:00: test(proc): assert exit codes under simulated failures
