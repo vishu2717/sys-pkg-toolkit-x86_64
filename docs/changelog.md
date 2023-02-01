@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-02-01 15:09: docs: add architecture specification for daemon supervisor
 - 2023-02-01 18:00: test(proc): assert exit codes under simulated failures
 - 2023-02-01 19:58: feat(monitor): implement system resource tracking utility
+- 2023-02-01 20:42: fix(proc): prevent zombie process reaping race condition
