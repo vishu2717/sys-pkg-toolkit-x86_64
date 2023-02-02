@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2023-02-01 21:25: fix(docker): specify non-root user in runtime container
 - 2023-02-02 10:14: feat(monitor): implement system resource tracking utility
 - 2023-02-02 11:28: chore: update base container image to latest alpine
+- 2023-02-02 14:19: docs: update system administration runbooks and troubleshooting
