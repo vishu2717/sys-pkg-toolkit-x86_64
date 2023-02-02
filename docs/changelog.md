@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-02-01 20:42: fix(proc): prevent zombie process reaping race condition
 - 2023-02-01 20:43: test(proc): assert exit codes under simulated failures
 - 2023-02-01 21:25: fix(docker): specify non-root user in runtime container
+- 2023-02-02 10:14: feat(monitor): implement system resource tracking utility
