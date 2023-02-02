@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2023-02-02 15:28: test(cli): add unit test coverage for argument parsing
 - 2023-02-02 19:15: docs: update system administration runbooks and troubleshooting
 - 2023-02-02 20:05: feat(cli): add command-line argument parser for daemon
+- 2023-02-02 22:28: fix(monitor): resolve division by zero on idle cpu calculation
