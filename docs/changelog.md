@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2023-02-02 22:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-02-02 22:44: feat(config): add JSON and YAML configuration loader
 - 2023-02-03 10:31: docs: update changelog with recent utility enhancements
+- 2023-02-03 10:44: chore: configure shellcheck and ruff linter hooks
