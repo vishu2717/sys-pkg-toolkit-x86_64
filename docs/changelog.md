@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2023-02-02 22:44: feat(config): add JSON and YAML configuration loader
 - 2023-02-03 10:31: docs: update changelog with recent utility enhancements
 - 2023-02-03 10:44: chore: configure shellcheck and ruff linter hooks
+- 2023-02-04 10:17: fix(docker): specify non-root user in runtime container
