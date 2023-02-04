@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2023-02-03 10:44: chore: configure shellcheck and ruff linter hooks
 - 2023-02-04 10:17: fix(docker): specify non-root user in runtime container
 - 2023-02-04 10:56: feat(monitor): implement system resource tracking utility
+- 2023-02-04 13:49: fix(docker): specify non-root user in runtime container
