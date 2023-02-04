@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2023-02-04 14:01: chore: configure shellcheck and ruff linter hooks
 - 2023-02-04 15:57: fix(cli): exit with non-zero status code on unknown command
 - 2023-02-04 17:41: feat(shell): implement safe pipe execution helper
+- 2023-02-04 18:58: refactor(scripts): modularize helper functions across shell scripts
