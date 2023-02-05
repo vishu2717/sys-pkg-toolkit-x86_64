@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2023-02-04 17:41: feat(shell): implement safe pipe execution helper
 - 2023-02-04 18:58: refactor(scripts): modularize helper functions across shell scripts
 - 2023-02-04 22:38: feat(deploy): implement zero-downtime rolling reload
+- 2023-02-05 14:40: fix(docker): specify non-root user in runtime container
