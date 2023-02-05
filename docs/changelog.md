@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-02-04 22:38: feat(deploy): implement zero-downtime rolling reload
 - 2023-02-05 14:40: fix(docker): specify non-root user in runtime container
 - 2023-02-05 15:28: feat(cli): add command-line argument parser for daemon
+- 2023-02-05 20:55: docs: add architecture specification for daemon supervisor
