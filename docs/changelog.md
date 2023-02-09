@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2023-02-07 20:28: feat(docker): optimize multi-stage build layers
 - 2023-02-07 20:39: docs: update changelog with recent utility enhancements
 - 2023-02-07 22:55: refactor(scripts): modularize helper functions across shell scripts
+- 2023-02-09 17:14: feat(shell): implement safe pipe execution helper
