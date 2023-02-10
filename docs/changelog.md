@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-02-09 17:14: feat(shell): implement safe pipe execution helper
 - 2023-02-09 17:32: feat(shell): implement safe pipe execution helper
 - 2023-02-10 18:09: refactor(cli): simplify command dispatch loop
+- 2023-02-10 18:14: feat(config): add JSON and YAML configuration loader
