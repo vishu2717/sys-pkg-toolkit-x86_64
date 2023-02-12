@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2023-02-10 18:09: refactor(cli): simplify command dispatch loop
 - 2023-02-10 18:14: feat(config): add JSON and YAML configuration loader
 - 2023-02-12 14:38: feat(security): add permission auditing script for local binaries
+- 2023-02-12 21:32: fix(monitor): resolve division by zero on idle cpu calculation
