@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2023-02-13 12:17: fix(config): ensure directory exists before writing state
 - 2023-02-13 13:52: fix(config): ensure directory exists before writing state
 - 2023-02-13 17:21: docs: update system administration runbooks and troubleshooting
+- 2023-02-13 17:41: feat(deploy): implement zero-downtime rolling reload
