@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2023-02-13 17:41: feat(deploy): implement zero-downtime rolling reload
 - 2023-02-13 20:48: refactor(config): migrate global settings to immutable dataclass
 - 2023-02-14 13:48: test(daemon): verify supervisor restarts crashed processes
+- 2023-02-14 18:36: docs: add architecture specification for daemon supervisor
