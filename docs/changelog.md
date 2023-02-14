@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2023-02-14 18:36: docs: add architecture specification for daemon supervisor
 - 2023-02-14 18:53: test(cli): add unit test coverage for argument parsing
 - 2023-02-14 21:39: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-02-14 22:09: chore: update base container image to latest alpine
