@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2023-02-18 21:38: feat(deploy): implement zero-downtime rolling reload
 - 2023-02-18 21:56: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-02-18 22:22: test(cli): add unit test coverage for argument parsing
+- 2023-02-18 23:09: fix(cli): exit with non-zero status code on unknown command
