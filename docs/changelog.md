@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2023-02-18 12:52: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-02-18 16:53: test(scripts): add bats verification for setup scripts
 - 2023-02-18 21:38: feat(deploy): implement zero-downtime rolling reload
+- 2023-02-18 21:56: fix(monitor): resolve division by zero on idle cpu calculation
