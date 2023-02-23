@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2023-02-23 16:01: feat(security): add permission auditing script for local binaries
 - 2023-02-23 16:46: test(proc): assert exit codes under simulated failures
 - 2023-02-23 18:01: feat(cli): add command-line argument parser for daemon
+- 2023-02-23 20:30: test(scripts): add bats verification for setup scripts
