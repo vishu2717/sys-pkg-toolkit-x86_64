@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2023-02-23 20:30: test(scripts): add bats verification for setup scripts
 - 2023-02-23 21:56: feat(deploy): implement zero-downtime rolling reload
 - 2023-02-23 22:12: fix(bash): escape arguments in deployment script
+- 2023-02-23 22:22: feat(metrics): track memory usage and cpu thread statistics
