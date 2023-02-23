@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2023-02-22 14:48: refactor(config): migrate global settings to immutable dataclass
 - 2023-02-23 10:00: chore: configure shellcheck and ruff linter hooks
 - 2023-02-23 12:51: docs: update changelog with recent utility enhancements
+- 2023-02-23 14:39: fix(monitor): resolve division by zero on idle cpu calculation
