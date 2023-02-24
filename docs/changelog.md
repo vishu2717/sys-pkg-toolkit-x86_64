@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2023-02-24 15:13: feat(proc): add process supervisor with automatic restart
 - 2023-02-24 16:07: test(proc): assert exit codes under simulated failures
 - 2023-02-24 19:03: fix(cli): exit with non-zero status code on unknown command
+- 2023-02-24 22:48: feat(security): add permission auditing script for local binaries
