@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2023-02-24 11:49: feat(shell): implement safe pipe execution helper
 - 2023-02-24 13:50: docs: update system administration runbooks and troubleshooting
 - 2023-02-24 15:13: feat(proc): add process supervisor with automatic restart
+- 2023-02-24 16:07: test(proc): assert exit codes under simulated failures
