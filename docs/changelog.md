@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2023-02-24 22:48: feat(security): add permission auditing script for local binaries
 - 2023-02-26 11:52: fix(docker): specify non-root user in runtime container
 - 2023-02-26 12:36: feat(env): add automated dotfiles symlink manager
+- 2023-02-26 13:55: chore: configure shellcheck and ruff linter hooks
