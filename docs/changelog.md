@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2023-02-26 20:47: feat(daemon): add background heartbeat and ping interval
 - 2023-02-26 21:00: chore: configure shellcheck and ruff linter hooks
 - 2023-02-26 22:10: feat(metrics): track memory usage and cpu thread statistics
+- 2023-02-26 22:54: fix(monitor): resolve division by zero on idle cpu calculation
