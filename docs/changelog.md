@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2023-02-27 18:18: docs: update changelog with recent utility enhancements
 - 2023-03-01 11:47: feat(security): add permission auditing script for local binaries
 - 2023-03-01 12:23: feat(shell): implement safe pipe execution helper
+- 2023-03-01 12:28: feat(security): add permission auditing script for local binaries
