@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2023-03-01 12:23: feat(shell): implement safe pipe execution helper
 - 2023-03-01 12:28: feat(security): add permission auditing script for local binaries
 - 2023-03-01 21:59: refactor(daemon): separate socket listening from worker queue
+- 2023-03-01 22:32: feat(cli): add command-line argument parser for daemon
