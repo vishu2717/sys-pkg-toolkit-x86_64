@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2023-03-02 11:10: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-03-02 12:14: feat(daemon): add background heartbeat and ping interval
 - 2023-03-02 12:18: docs: document environment variables and override flags
+- 2023-03-02 13:15: fix(docker): specify non-root user in runtime container
