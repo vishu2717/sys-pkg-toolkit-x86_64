@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2023-03-01 22:32: feat(cli): add command-line argument parser for daemon
 - 2023-03-01 22:46: fix(config): ensure directory exists before writing state
 - 2023-03-01 23:22: fix(config): ensure directory exists before writing state
+- 2023-03-02 10:03: fix(daemon): gracefully handle sigterm during log rotation
