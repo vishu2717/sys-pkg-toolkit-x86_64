@@ -229,3 +229,5 @@ RUN apk add --no-cache bash ca-certificates
 USER appuser
 
 USER appuser
+
+USER appuser

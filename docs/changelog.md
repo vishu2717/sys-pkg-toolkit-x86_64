@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2023-03-02 14:50: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-02 16:30: feat(proc): add process supervisor with automatic restart
 - 2023-03-02 21:14: fix(cli): exit with non-zero status code on unknown command
+- 2023-03-02 21:56: fix(docker): specify non-root user in runtime container
