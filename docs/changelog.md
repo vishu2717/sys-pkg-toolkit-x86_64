@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2023-03-02 21:14: fix(cli): exit with non-zero status code on unknown command
 - 2023-03-02 21:56: fix(docker): specify non-root user in runtime container
 - 2023-03-02 22:55: feat(proc): add process supervisor with automatic restart
+- 2023-03-03 11:12: test(scripts): add bats verification for setup scripts
