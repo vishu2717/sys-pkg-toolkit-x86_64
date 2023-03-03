@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2023-03-03 16:25: feat(monitor): implement system resource tracking utility
 - 2023-03-03 17:18: feat(proc): add process supervisor with automatic restart
 - 2023-03-03 20:07: fix(config): ensure directory exists before writing state
+- 2023-03-03 21:06: fix(bash): escape arguments in deployment script
