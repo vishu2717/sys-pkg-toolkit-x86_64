@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2023-03-04 10:44: feat(env): add automated dotfiles symlink manager
 - 2023-03-04 11:01: fix(cli): exit with non-zero status code on unknown command
 - 2023-03-04 11:45: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-03-04 18:08: feat(security): add permission auditing script for local binaries
