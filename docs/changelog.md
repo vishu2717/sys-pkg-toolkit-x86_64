@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2023-03-03 21:06: fix(bash): escape arguments in deployment script
 - 2023-03-03 21:56: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-03-04 10:44: feat(env): add automated dotfiles symlink manager
+- 2023-03-04 11:01: fix(cli): exit with non-zero status code on unknown command
