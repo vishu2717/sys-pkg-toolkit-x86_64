@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2023-03-05 13:10: test(daemon): verify supervisor restarts crashed processes
 - 2023-03-05 13:24: fix(bash): escape arguments in deployment script
 - 2023-03-05 15:00: style: enforce consistent shell quoting and indentation
+- 2023-03-05 17:00: fix(monitor): resolve division by zero on idle cpu calculation
