@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2023-03-05 22:06: test(daemon): verify supervisor restarts crashed processes
 - 2023-03-05 22:40: feat(shell): implement safe pipe execution helper
 - 2023-03-06 10:15: feat(cli): add command-line argument parser for daemon
+- 2023-03-06 10:29: fix(docker): specify non-root user in runtime container
