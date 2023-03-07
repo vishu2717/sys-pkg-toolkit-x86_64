@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2023-03-07 14:31: fix(docker): specify non-root user in runtime container
 - 2023-03-07 15:57: test(daemon): verify supervisor restarts crashed processes
 - 2023-03-07 16:48: test(cli): add unit test coverage for argument parsing
+- 2023-03-07 16:53: feat(sync): add rsync-based remote directory mirror utility
