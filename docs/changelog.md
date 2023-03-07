@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2023-03-07 16:53: feat(sync): add rsync-based remote directory mirror utility
 - 2023-03-07 19:17: feat(sync): add rsync-based remote directory mirror utility
 - 2023-03-07 22:27: refactor(cli): simplify command dispatch loop
+- 2023-03-07 23:13: fix(cli): exit with non-zero status code on unknown command
