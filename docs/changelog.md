@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-03-07 11:29: feat(env): add automated dotfiles symlink manager
 - 2023-03-07 13:08: feat(security): add permission auditing script for local binaries
 - 2023-03-07 14:30: refactor(config): migrate global settings to immutable dataclass
+- 2023-03-07 14:31: fix(docker): specify non-root user in runtime container
