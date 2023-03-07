@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-03-06 19:59: docs: update changelog with recent utility enhancements
 - 2023-03-06 21:15: fix(bash): escape arguments in deployment script
 - 2023-03-07 10:33: fix(cli): exit with non-zero status code on unknown command
+- 2023-03-07 11:29: feat(env): add automated dotfiles symlink manager
