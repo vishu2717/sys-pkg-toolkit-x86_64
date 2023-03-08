@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2023-03-08 14:52: fix(bash): escape arguments in deployment script
 - 2023-03-08 19:06: fix(config): ensure directory exists before writing state
 - 2023-03-08 20:10: feat(docker): optimize multi-stage build layers
+- 2023-03-08 20:56: refactor(cli): simplify command dispatch loop
