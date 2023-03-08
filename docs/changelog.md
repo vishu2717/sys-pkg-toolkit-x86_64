@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2023-03-07 23:13: fix(cli): exit with non-zero status code on unknown command
 - 2023-03-08 12:18: fix(proc): prevent zombie process reaping race condition
 - 2023-03-08 13:56: fix(docker): specify non-root user in runtime container
+- 2023-03-08 14:52: fix(bash): escape arguments in deployment script
