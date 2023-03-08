@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2023-03-08 12:18: fix(proc): prevent zombie process reaping race condition
 - 2023-03-08 13:56: fix(docker): specify non-root user in runtime container
 - 2023-03-08 14:52: fix(bash): escape arguments in deployment script
+- 2023-03-08 19:06: fix(config): ensure directory exists before writing state
