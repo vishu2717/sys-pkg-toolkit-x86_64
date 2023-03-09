@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2023-03-08 21:14: fix(docker): specify non-root user in runtime container
 - 2023-03-09 10:11: fix(config): ensure directory exists before writing state
 - 2023-03-09 19:51: docs: document environment variables and override flags
+- 2023-03-09 19:59: refactor(daemon): separate socket listening from worker queue
