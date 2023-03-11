@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2023-03-09 19:51: docs: document environment variables and override flags
 - 2023-03-09 19:59: refactor(daemon): separate socket listening from worker queue
 - 2023-03-11 10:57: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-03-11 12:24: refactor(scripts): modularize helper functions across shell scripts
