@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2023-03-11 19:59: feat(sync): add rsync-based remote directory mirror utility
 - 2023-03-13 12:21: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-13 12:36: docs: update system administration runbooks and troubleshooting
+- 2023-03-13 18:07: refactor(daemon): separate socket listening from worker queue
