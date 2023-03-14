@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2023-03-14 14:42: refactor(daemon): separate socket listening from worker queue
 - 2023-03-14 20:03: feat(sync): add rsync-based remote directory mirror utility
 - 2023-03-14 22:05: test(daemon): verify supervisor restarts crashed processes
+- 2023-03-14 22:13: fix(docker): specify non-root user in runtime container
