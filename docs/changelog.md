@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2023-03-13 19:25: refactor(cli): simplify command dispatch loop
 - 2023-03-13 20:30: docs: update system administration runbooks and troubleshooting
 - 2023-03-14 11:52: test(scripts): add bats verification for setup scripts
+- 2023-03-14 13:33: feat(security): add permission auditing script for local binaries
