@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2023-03-14 22:29: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-14 23:21: refactor(daemon): separate socket listening from worker queue
 - 2023-03-16 10:02: feat(shell): implement safe pipe execution helper
+- 2023-03-16 16:26: fix(config): ensure directory exists before writing state
