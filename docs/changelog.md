@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2023-03-16 10:02: feat(shell): implement safe pipe execution helper
 - 2023-03-16 16:26: fix(config): ensure directory exists before writing state
 - 2023-03-16 18:51: test(cli): add unit test coverage for argument parsing
+- 2023-03-16 19:02: feat(config): add JSON and YAML configuration loader
