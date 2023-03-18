@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2023-03-16 19:02: feat(config): add JSON and YAML configuration loader
 - 2023-03-16 19:28: feat(config): add JSON and YAML configuration loader
 - 2023-03-16 20:30: docs: update system administration runbooks and troubleshooting
+- 2023-03-18 12:32: refactor(config): migrate global settings to immutable dataclass
