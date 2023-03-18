@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2023-03-18 16:57: fix(cli): exit with non-zero status code on unknown command
 - 2023-03-18 17:26: feat(security): add permission auditing script for local binaries
 - 2023-03-18 21:43: refactor(config): migrate global settings to immutable dataclass
+- 2023-03-18 23:04: fix(docker): specify non-root user in runtime container
