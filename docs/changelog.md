@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2023-03-18 12:32: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-18 13:22: refactor(scripts): modularize helper functions across shell scripts
 - 2023-03-18 16:09: refactor(config): migrate global settings to immutable dataclass
+- 2023-03-18 16:15: fix(proc): prevent zombie process reaping race condition
