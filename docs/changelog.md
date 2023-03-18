@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2023-03-18 16:15: fix(proc): prevent zombie process reaping race condition
 - 2023-03-18 16:42: test(scripts): add bats verification for setup scripts
 - 2023-03-18 16:57: fix(cli): exit with non-zero status code on unknown command
+- 2023-03-18 17:26: feat(security): add permission auditing script for local binaries
