@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2023-03-18 23:04: fix(docker): specify non-root user in runtime container
 - 2023-03-20 13:53: refactor(daemon): separate socket listening from worker queue
 - 2023-03-20 15:37: fix(cli): exit with non-zero status code on unknown command
+- 2023-03-20 15:47: fix(proc): prevent zombie process reaping race condition
