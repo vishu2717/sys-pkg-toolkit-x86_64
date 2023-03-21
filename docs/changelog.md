@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2023-03-21 10:42: test(cli): add unit test coverage for argument parsing
 - 2023-03-21 10:57: fix(bash): escape arguments in deployment script
 - 2023-03-21 12:26: feat(proc): add process supervisor with automatic restart
+- 2023-03-21 12:34: docs: update changelog with recent utility enhancements
