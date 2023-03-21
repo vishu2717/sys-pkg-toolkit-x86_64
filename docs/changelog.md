@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2023-03-21 12:26: feat(proc): add process supervisor with automatic restart
 - 2023-03-21 12:34: docs: update changelog with recent utility enhancements
 - 2023-03-21 15:53: refactor(config): migrate global settings to immutable dataclass
+- 2023-03-21 16:14: chore: update base container image to latest alpine
