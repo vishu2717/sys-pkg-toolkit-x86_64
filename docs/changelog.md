@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2023-03-20 15:47: fix(proc): prevent zombie process reaping race condition
 - 2023-03-20 22:29: test(scripts): add bats verification for setup scripts
 - 2023-03-21 10:42: test(cli): add unit test coverage for argument parsing
+- 2023-03-21 10:57: fix(bash): escape arguments in deployment script
