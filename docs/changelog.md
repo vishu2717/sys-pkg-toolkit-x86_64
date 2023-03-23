@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2023-03-23 18:26: docs: update system administration runbooks and troubleshooting
 - 2023-03-23 19:32: docs: document environment variables and override flags
 - 2023-03-23 21:03: refactor(config): migrate global settings to immutable dataclass
+- 2023-03-23 22:22: feat(monitor): implement system resource tracking utility
