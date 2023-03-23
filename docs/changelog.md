@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2023-03-22 19:51: refactor(scripts): modularize helper functions across shell scripts
 - 2023-03-22 20:39: test(scripts): add bats verification for setup scripts
 - 2023-03-23 10:36: docs: update system administration runbooks and troubleshooting
+- 2023-03-23 14:47: feat(metrics): track memory usage and cpu thread statistics
