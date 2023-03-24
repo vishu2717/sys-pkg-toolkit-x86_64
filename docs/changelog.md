@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2023-03-23 21:03: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-23 22:22: feat(monitor): implement system resource tracking utility
 - 2023-03-24 14:16: docs: update changelog with recent utility enhancements
+- 2023-03-24 18:19: test(proc): assert exit codes under simulated failures
