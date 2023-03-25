@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2023-03-24 14:16: docs: update changelog with recent utility enhancements
 - 2023-03-24 18:19: test(proc): assert exit codes under simulated failures
 - 2023-03-25 17:47: test(scripts): add bats verification for setup scripts
+- 2023-03-25 18:46: fix(bash): escape arguments in deployment script
