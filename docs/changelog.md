@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2023-03-26 15:56: fix(docker): specify non-root user in runtime container
 - 2023-03-26 17:34: fix(config): ensure directory exists before writing state
 - 2023-03-26 20:16: feat(docker): optimize multi-stage build layers
+- 2023-03-26 20:22: feat(sync): add rsync-based remote directory mirror utility
