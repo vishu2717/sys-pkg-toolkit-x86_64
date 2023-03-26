@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2023-03-25 18:46: fix(bash): escape arguments in deployment script
 - 2023-03-25 20:08: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-03-26 12:05: feat(sync): add rsync-based remote directory mirror utility
+- 2023-03-26 13:47: refactor(monitor): optimize sampling frequency and buffer size
