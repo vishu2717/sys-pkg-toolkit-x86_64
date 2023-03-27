@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2023-03-26 22:09: fix(config): ensure directory exists before writing state
 - 2023-03-27 11:29: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-03-27 15:03: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-03-27 18:33: test(cli): add unit test coverage for argument parsing
