@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2023-03-28 14:50: style: enforce consistent shell quoting and indentation
 - 2023-03-28 15:30: docs: update system administration runbooks and troubleshooting
 - 2023-03-28 16:18: fix(cli): exit with non-zero status code on unknown command
+- 2023-03-28 16:45: docs: update changelog with recent utility enhancements
