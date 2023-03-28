@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2023-03-27 18:33: test(cli): add unit test coverage for argument parsing
 - 2023-03-28 10:21: refactor(config): migrate global settings to immutable dataclass
 - 2023-03-28 11:54: refactor(cli): simplify command dispatch loop
+- 2023-03-28 12:06: fix(daemon): gracefully handle sigterm during log rotation
