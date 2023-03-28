@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2023-03-28 11:54: refactor(cli): simplify command dispatch loop
 - 2023-03-28 12:06: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-03-28 12:36: feat(docker): optimize multi-stage build layers
+- 2023-03-28 13:51: test(daemon): verify supervisor restarts crashed processes
