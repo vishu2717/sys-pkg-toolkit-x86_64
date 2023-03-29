@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2023-03-28 23:05: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-03-29 12:03: test(cli): add unit test coverage for argument parsing
 - 2023-03-29 14:55: fix(proc): prevent zombie process reaping race condition
+- 2023-03-29 16:17: feat(deploy): implement zero-downtime rolling reload
