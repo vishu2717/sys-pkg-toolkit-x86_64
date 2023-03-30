@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2023-03-29 21:47: feat(proc): add process supervisor with automatic restart
 - 2023-03-30 10:48: perf: reduce process spawn latency using fork pool
 - 2023-03-30 15:19: fix(proc): prevent zombie process reaping race condition
+- 2023-03-30 20:53: fix(proc): prevent zombie process reaping race condition
