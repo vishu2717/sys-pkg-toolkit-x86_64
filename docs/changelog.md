@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2023-03-31 15:29: feat(config): add JSON and YAML configuration loader
 - 2023-03-31 15:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-03-31 17:33: test(daemon): verify supervisor restarts crashed processes
+- 2023-03-31 18:33: chore: update base container image to latest alpine
