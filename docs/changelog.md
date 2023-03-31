@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2023-03-31 18:53: test(daemon): verify supervisor restarts crashed processes
 - 2023-03-31 21:30: docs: update changelog with recent utility enhancements
 - 2023-03-31 21:59: feat(proc): add process supervisor with automatic restart
+- 2023-03-31 22:59: fix(docker): specify non-root user in runtime container
