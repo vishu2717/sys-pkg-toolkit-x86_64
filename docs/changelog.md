@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2023-03-30 10:48: perf: reduce process spawn latency using fork pool
 - 2023-03-30 15:19: fix(proc): prevent zombie process reaping race condition
 - 2023-03-30 20:53: fix(proc): prevent zombie process reaping race condition
+- 2023-03-31 11:44: feat(cli): add command-line argument parser for daemon
