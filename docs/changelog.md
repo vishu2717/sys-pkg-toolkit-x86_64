@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2023-03-30 15:19: fix(proc): prevent zombie process reaping race condition
 - 2023-03-30 20:53: fix(proc): prevent zombie process reaping race condition
 - 2023-03-31 11:44: feat(cli): add command-line argument parser for daemon
+- 2023-03-31 14:32: feat(security): add permission auditing script for local binaries
