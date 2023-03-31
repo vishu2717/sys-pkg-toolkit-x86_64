@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2023-03-31 14:32: feat(security): add permission auditing script for local binaries
 - 2023-03-31 15:29: feat(config): add JSON and YAML configuration loader
 - 2023-03-31 15:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-03-31 17:33: test(daemon): verify supervisor restarts crashed processes
