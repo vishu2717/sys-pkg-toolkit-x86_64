@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2023-04-03 11:27: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-04-03 13:33: fix(config): ensure directory exists before writing state
 - 2023-04-03 16:57: feat(security): add permission auditing script for local binaries
+- 2023-04-03 17:18: fix(monitor): resolve division by zero on idle cpu calculation
