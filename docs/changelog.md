@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2023-03-31 21:59: feat(proc): add process supervisor with automatic restart
 - 2023-03-31 22:59: fix(docker): specify non-root user in runtime container
 - 2023-04-03 11:27: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-04-03 13:33: fix(config): ensure directory exists before writing state
