@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2023-04-03 17:38: feat(proc): add process supervisor with automatic restart
 - 2023-04-03 20:44: fix(bash): escape arguments in deployment script
 - 2023-04-03 22:46: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-04-04 12:08: refactor(config): migrate global settings to immutable dataclass
