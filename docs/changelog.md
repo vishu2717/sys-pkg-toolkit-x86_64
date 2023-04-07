@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-04-04 22:09: docs: update changelog with recent utility enhancements
 - 2023-04-07 10:45: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-04-07 13:24: fix(config): ensure directory exists before writing state
+- 2023-04-07 13:30: feat(config): add JSON and YAML configuration loader
