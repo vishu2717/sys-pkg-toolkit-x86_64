@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2023-04-04 20:36: fix(bash): escape arguments in deployment script
 - 2023-04-04 21:22: fix(bash): escape arguments in deployment script
 - 2023-04-04 22:09: docs: update changelog with recent utility enhancements
+- 2023-04-07 10:45: fix(monitor): resolve division by zero on idle cpu calculation
