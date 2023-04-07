@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-04-07 13:24: fix(config): ensure directory exists before writing state
 - 2023-04-07 13:30: feat(config): add JSON and YAML configuration loader
 - 2023-04-07 16:53: feat(env): add automated dotfiles symlink manager
+- 2023-04-07 20:09: feat(cli): add command-line argument parser for daemon
