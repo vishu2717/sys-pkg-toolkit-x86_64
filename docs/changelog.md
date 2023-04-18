@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2023-04-07 13:30: feat(config): add JSON and YAML configuration loader
 - 2023-04-07 16:53: feat(env): add automated dotfiles symlink manager
 - 2023-04-07 20:09: feat(cli): add command-line argument parser for daemon
+- 2023-04-18 10:11: fix(bash): escape arguments in deployment script
