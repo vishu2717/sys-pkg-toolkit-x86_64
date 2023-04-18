@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-04-07 20:09: feat(cli): add command-line argument parser for daemon
 - 2023-04-18 10:11: fix(bash): escape arguments in deployment script
 - 2023-04-18 12:39: feat(metrics): track memory usage and cpu thread statistics
+- 2023-04-18 18:19: test(cli): add unit test coverage for argument parsing
