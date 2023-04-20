@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2023-04-18 18:31: feat(daemon): add background heartbeat and ping interval
 - 2023-04-18 19:41: feat(docker): optimize multi-stage build layers
 - 2023-04-18 21:23: style: enforce consistent shell quoting and indentation
+- 2023-04-20 14:29: refactor(daemon): separate socket listening from worker queue
