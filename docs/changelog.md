@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2023-04-21 10:41: fix(cli): exit with non-zero status code on unknown command
 - 2023-04-21 13:35: refactor(daemon): separate socket listening from worker queue
 - 2023-04-21 14:02: test(cli): add unit test coverage for argument parsing
+- 2023-04-21 16:00: feat(config): add JSON and YAML configuration loader
