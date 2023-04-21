@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2023-04-20 14:29: refactor(daemon): separate socket listening from worker queue
 - 2023-04-20 16:12: test(cli): add unit test coverage for argument parsing
 - 2023-04-20 19:37: refactor(daemon): separate socket listening from worker queue
+- 2023-04-21 10:22: feat(env): add automated dotfiles symlink manager
