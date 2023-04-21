@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2023-04-20 19:37: refactor(daemon): separate socket listening from worker queue
 - 2023-04-21 10:22: feat(env): add automated dotfiles symlink manager
 - 2023-04-21 10:41: fix(cli): exit with non-zero status code on unknown command
+- 2023-04-21 13:35: refactor(daemon): separate socket listening from worker queue
