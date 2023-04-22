@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2023-04-21 16:00: feat(config): add JSON and YAML configuration loader
 - 2023-04-21 18:10: feat(monitor): implement system resource tracking utility
 - 2023-04-21 22:40: feat(monitor): implement system resource tracking utility
+- 2023-04-22 18:09: refactor(scripts): modularize helper functions across shell scripts
