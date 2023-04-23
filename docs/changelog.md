@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2023-04-22 18:09: refactor(scripts): modularize helper functions across shell scripts
 - 2023-04-23 11:36: fix(cli): exit with non-zero status code on unknown command
 - 2023-04-23 12:18: feat(deploy): implement zero-downtime rolling reload
+- 2023-04-23 15:08: fix(bash): escape arguments in deployment script
