@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2023-04-23 12:18: feat(deploy): implement zero-downtime rolling reload
 - 2023-04-23 15:08: fix(bash): escape arguments in deployment script
 - 2023-04-23 16:20: test(daemon): verify supervisor restarts crashed processes
+- 2023-04-23 22:22: fix(docker): specify non-root user in runtime container
