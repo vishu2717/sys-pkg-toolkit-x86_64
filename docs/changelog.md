@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2023-04-24 23:12: fix(bash): escape arguments in deployment script
 - 2023-04-25 19:14: fix(proc): prevent zombie process reaping race condition
 - 2023-04-25 20:30: chore: configure shellcheck and ruff linter hooks
+- 2023-04-26 10:42: refactor(config): migrate global settings to immutable dataclass
