@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2023-04-26 17:46: test(scripts): add bats verification for setup scripts
 - 2023-04-26 18:04: feat(metrics): track memory usage and cpu thread statistics
 - 2023-04-26 19:01: refactor(scripts): modularize helper functions across shell scripts
+- 2023-04-26 20:32: test(daemon): verify supervisor restarts crashed processes
