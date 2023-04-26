@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-04-26 12:13: docs: document environment variables and override flags
 - 2023-04-26 12:39: feat(config): add JSON and YAML configuration loader
 - 2023-04-26 17:46: test(scripts): add bats verification for setup scripts
+- 2023-04-26 18:04: feat(metrics): track memory usage and cpu thread statistics
