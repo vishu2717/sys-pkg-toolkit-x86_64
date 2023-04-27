@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2023-04-26 19:01: refactor(scripts): modularize helper functions across shell scripts
 - 2023-04-26 20:32: test(daemon): verify supervisor restarts crashed processes
 - 2023-04-26 21:08: fix(docker): specify non-root user in runtime container
+- 2023-04-27 12:20: feat(metrics): track memory usage and cpu thread statistics
