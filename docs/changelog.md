@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2023-04-28 20:29: feat(metrics): track memory usage and cpu thread statistics
 - 2023-04-28 21:59: docs: document environment variables and override flags
 - 2023-04-28 22:03: fix(config): ensure directory exists before writing state
+- 2023-04-28 22:30: feat(env): add automated dotfiles symlink manager
