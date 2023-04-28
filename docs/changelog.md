@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2023-04-27 14:34: test(proc): assert exit codes under simulated failures
 - 2023-04-28 11:19: feat(daemon): add background heartbeat and ping interval
 - 2023-04-28 14:13: test(cli): add unit test coverage for argument parsing
+- 2023-04-28 18:30: fix(bash): escape arguments in deployment script
