@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2023-04-28 11:19: feat(daemon): add background heartbeat and ping interval
 - 2023-04-28 14:13: test(cli): add unit test coverage for argument parsing
 - 2023-04-28 18:30: fix(bash): escape arguments in deployment script
+- 2023-04-28 20:29: feat(metrics): track memory usage and cpu thread statistics
