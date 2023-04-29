@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 11:36: perf: reduce process spawn latency using fork pool
 - 2023-04-29 12:40: feat(deploy): implement zero-downtime rolling reload
 - 2023-04-29 14:21: feat(cli): add command-line argument parser for daemon
+- 2023-04-29 14:46: feat(env): add automated dotfiles symlink manager
