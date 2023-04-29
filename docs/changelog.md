@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 18:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-04-29 20:49: fix(bash): escape arguments in deployment script
 - 2023-04-29 20:50: docs: add architecture specification for daemon supervisor
+- 2023-04-29 20:58: feat(security): add permission auditing script for local binaries
