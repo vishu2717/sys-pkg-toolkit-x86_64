@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 20:50: docs: add architecture specification for daemon supervisor
 - 2023-04-29 20:58: feat(security): add permission auditing script for local binaries
 - 2023-04-29 21:14: feat(security): add permission auditing script for local binaries
+- 2023-04-29 22:05: feat(config): add JSON and YAML configuration loader
