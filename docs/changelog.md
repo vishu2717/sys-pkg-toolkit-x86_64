@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 12:40: feat(deploy): implement zero-downtime rolling reload
 - 2023-04-29 14:21: feat(cli): add command-line argument parser for daemon
 - 2023-04-29 14:46: feat(env): add automated dotfiles symlink manager
+- 2023-04-29 15:03: docs: update changelog with recent utility enhancements
