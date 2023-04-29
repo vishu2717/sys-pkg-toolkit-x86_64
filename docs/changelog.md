@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 14:46: feat(env): add automated dotfiles symlink manager
 - 2023-04-29 15:03: docs: update changelog with recent utility enhancements
 - 2023-04-29 15:59: feat(daemon): add background heartbeat and ping interval
+- 2023-04-29 17:31: feat(env): add automated dotfiles symlink manager
