@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2023-04-29 10:17: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-04-29 11:36: perf: reduce process spawn latency using fork pool
 - 2023-04-29 12:40: feat(deploy): implement zero-downtime rolling reload
+- 2023-04-29 14:21: feat(cli): add command-line argument parser for daemon
