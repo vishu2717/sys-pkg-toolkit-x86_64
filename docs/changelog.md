@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2023-04-28 22:30: feat(env): add automated dotfiles symlink manager
 - 2023-04-29 10:03: feat(env): add automated dotfiles symlink manager
 - 2023-04-29 10:17: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-04-29 11:36: perf: reduce process spawn latency using fork pool
