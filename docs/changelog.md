@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-05-01 14:16: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-01 17:52: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-01 18:26: fix(proc): prevent zombie process reaping race condition
+- 2023-05-01 23:01: feat(metrics): track memory usage and cpu thread statistics
