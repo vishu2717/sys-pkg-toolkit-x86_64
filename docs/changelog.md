@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2023-05-01 17:52: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-01 18:26: fix(proc): prevent zombie process reaping race condition
 - 2023-05-01 23:01: feat(metrics): track memory usage and cpu thread statistics
+- 2023-05-02 14:18: perf: reduce process spawn latency using fork pool
