@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2023-05-02 17:19: feat(sync): add rsync-based remote directory mirror utility
 - 2023-05-02 18:26: feat(config): add JSON and YAML configuration loader
 - 2023-05-02 22:28: feat(config): add JSON and YAML configuration loader
+- 2023-05-02 22:51: docs: add architecture specification for daemon supervisor
