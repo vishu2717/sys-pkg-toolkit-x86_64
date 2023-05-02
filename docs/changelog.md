@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2023-05-01 23:01: feat(metrics): track memory usage and cpu thread statistics
 - 2023-05-02 14:18: perf: reduce process spawn latency using fork pool
 - 2023-05-02 16:40: fix(bash): escape arguments in deployment script
+- 2023-05-02 17:19: feat(sync): add rsync-based remote directory mirror utility
