@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2023-05-03 11:27: feat(daemon): add background heartbeat and ping interval
 - 2023-05-03 13:01: feat(docker): optimize multi-stage build layers
 - 2023-05-03 13:51: test(proc): assert exit codes under simulated failures
+- 2023-05-03 15:09: fix(bash): escape arguments in deployment script
