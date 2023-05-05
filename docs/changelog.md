@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2023-05-05 11:29: docs: document environment variables and override flags
 - 2023-05-05 11:37: test(proc): assert exit codes under simulated failures
 - 2023-05-05 13:12: test(scripts): add bats verification for setup scripts
+- 2023-05-05 15:02: style: enforce consistent shell quoting and indentation
