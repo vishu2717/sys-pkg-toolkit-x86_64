@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2023-05-05 15:26: feat(deploy): implement zero-downtime rolling reload
 - 2023-05-05 16:12: docs: document environment variables and override flags
 - 2023-05-05 17:35: feat(daemon): add background heartbeat and ping interval
+- 2023-05-05 18:08: feat(security): add permission auditing script for local binaries
