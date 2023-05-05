@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2023-05-05 15:02: style: enforce consistent shell quoting and indentation
 - 2023-05-05 15:19: style: enforce consistent shell quoting and indentation
 - 2023-05-05 15:26: feat(deploy): implement zero-downtime rolling reload
+- 2023-05-05 16:12: docs: document environment variables and override flags
