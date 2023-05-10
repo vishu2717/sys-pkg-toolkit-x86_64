@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2023-05-06 13:28: test(daemon): verify supervisor restarts crashed processes
 - 2023-05-06 17:08: fix(config): ensure directory exists before writing state
 - 2023-05-10 12:27: feat(daemon): add background heartbeat and ping interval
+- 2023-05-10 18:22: feat(env): add automated dotfiles symlink manager
