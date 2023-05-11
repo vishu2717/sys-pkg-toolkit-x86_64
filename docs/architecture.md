@@ -271,3 +271,6 @@ Supported environment variables and daemon override flags.
 
 ### Environment Reference
 Supported environment variables and daemon override flags.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
