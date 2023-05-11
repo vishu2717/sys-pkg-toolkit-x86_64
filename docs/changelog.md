@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 18:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-05-11 18:32: feat(metrics): track memory usage and cpu thread statistics
 - 2023-05-11 19:45: perf: reduce process spawn latency using fork pool
+- 2023-05-11 20:33: fix(config): ensure directory exists before writing state
