@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 11:54: fix(proc): prevent zombie process reaping race condition
 - 2023-05-11 11:59: feat(security): add permission auditing script for local binaries
 - 2023-05-11 12:54: fix(bash): escape arguments in deployment script
+- 2023-05-11 13:46: feat(shell): implement safe pipe execution helper
