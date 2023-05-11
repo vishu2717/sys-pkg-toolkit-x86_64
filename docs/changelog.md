@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2023-05-10 12:27: feat(daemon): add background heartbeat and ping interval
 - 2023-05-10 18:22: feat(env): add automated dotfiles symlink manager
 - 2023-05-10 20:36: refactor(config): migrate global settings to immutable dataclass
+- 2023-05-11 10:41: feat(sync): add rsync-based remote directory mirror utility
