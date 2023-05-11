@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 12:54: fix(bash): escape arguments in deployment script
 - 2023-05-11 13:46: feat(shell): implement safe pipe execution helper
 - 2023-05-11 16:14: chore: configure shellcheck and ruff linter hooks
+- 2023-05-11 17:42: fix(monitor): resolve division by zero on idle cpu calculation
