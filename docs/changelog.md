@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 13:46: feat(shell): implement safe pipe execution helper
 - 2023-05-11 16:14: chore: configure shellcheck and ruff linter hooks
 - 2023-05-11 17:42: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-05-11 18:28: fix(daemon): gracefully handle sigterm during log rotation
