@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 10:41: feat(sync): add rsync-based remote directory mirror utility
 - 2023-05-11 11:38: docs: update system administration runbooks and troubleshooting
 - 2023-05-11 11:54: fix(proc): prevent zombie process reaping race condition
+- 2023-05-11 11:59: feat(security): add permission auditing script for local binaries
