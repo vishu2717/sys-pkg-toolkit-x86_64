@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 20:33: fix(config): ensure directory exists before writing state
 - 2023-05-11 21:33: feat(cli): add command-line argument parser for daemon
 - 2023-05-11 22:52: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-05-12 12:50: refactor(cli): simplify command dispatch loop
