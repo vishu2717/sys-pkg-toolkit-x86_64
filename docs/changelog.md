@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2023-05-11 22:52: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-12 12:50: refactor(cli): simplify command dispatch loop
 - 2023-05-12 17:15: feat(sync): add rsync-based remote directory mirror utility
+- 2023-05-12 21:29: feat(deploy): implement zero-downtime rolling reload
