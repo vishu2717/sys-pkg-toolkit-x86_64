@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2023-05-13 11:10: feat(env): add automated dotfiles symlink manager
 - 2023-05-13 15:29: feat(metrics): track memory usage and cpu thread statistics
 - 2023-05-13 18:02: feat(cli): add command-line argument parser for daemon
+- 2023-05-13 18:36: feat(metrics): track memory usage and cpu thread statistics
