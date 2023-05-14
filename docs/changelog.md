@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2023-05-14 15:32: refactor(daemon): separate socket listening from worker queue
 - 2023-05-14 16:09: docs: add architecture specification for daemon supervisor
 - 2023-05-14 18:02: feat(deploy): implement zero-downtime rolling reload
+- 2023-05-14 20:17: feat(deploy): implement zero-downtime rolling reload
