@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2023-05-13 18:02: feat(cli): add command-line argument parser for daemon
 - 2023-05-13 18:36: feat(metrics): track memory usage and cpu thread statistics
 - 2023-05-13 20:19: perf: reduce process spawn latency using fork pool
+- 2023-05-14 15:32: refactor(daemon): separate socket listening from worker queue
