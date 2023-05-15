@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2023-05-14 20:17: feat(deploy): implement zero-downtime rolling reload
 - 2023-05-14 21:38: refactor(config): migrate global settings to immutable dataclass
 - 2023-05-14 21:44: refactor(daemon): separate socket listening from worker queue
+- 2023-05-15 10:36: feat(docker): optimize multi-stage build layers
