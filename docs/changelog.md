@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-05-15 15:58: perf: reduce process spawn latency using fork pool
 - 2023-05-15 16:37: refactor(daemon): separate socket listening from worker queue
 - 2023-05-15 16:58: feat(docker): optimize multi-stage build layers
+- 2023-05-15 17:14: feat(proc): add process supervisor with automatic restart
