@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2023-05-15 10:54: feat(shell): implement safe pipe execution helper
 - 2023-05-15 11:25: refactor(daemon): separate socket listening from worker queue
 - 2023-05-15 11:29: fix(cli): exit with non-zero status code on unknown command
+- 2023-05-15 12:12: test(scripts): add bats verification for setup scripts
