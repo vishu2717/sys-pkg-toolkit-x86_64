@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2023-05-15 11:29: fix(cli): exit with non-zero status code on unknown command
 - 2023-05-15 12:12: test(scripts): add bats verification for setup scripts
 - 2023-05-15 12:24: feat(deploy): implement zero-downtime rolling reload
+- 2023-05-15 13:50: refactor(monitor): optimize sampling frequency and buffer size
