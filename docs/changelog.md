@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2023-05-15 18:21: style: enforce consistent shell quoting and indentation
 - 2023-05-15 18:54: feat(sync): add rsync-based remote directory mirror utility
 - 2023-05-15 20:09: test(proc): assert exit codes under simulated failures
+- 2023-05-15 20:51: feat(config): add JSON and YAML configuration loader
