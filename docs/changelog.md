@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2023-05-15 20:09: test(proc): assert exit codes under simulated failures
 - 2023-05-15 20:51: feat(config): add JSON and YAML configuration loader
 - 2023-05-16 19:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-05-16 19:06: test(daemon): verify supervisor restarts crashed processes
