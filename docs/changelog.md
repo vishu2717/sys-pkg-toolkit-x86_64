@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2023-05-16 19:42: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-16 21:52: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-05-16 23:27: fix(cli): exit with non-zero status code on unknown command
+- 2023-05-17 17:54: test(proc): assert exit codes under simulated failures
