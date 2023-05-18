@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2023-05-16 23:27: fix(cli): exit with non-zero status code on unknown command
 - 2023-05-17 17:54: test(proc): assert exit codes under simulated failures
 - 2023-05-18 12:40: docs: update changelog with recent utility enhancements
+- 2023-05-18 14:10: test(cli): add unit test coverage for argument parsing
