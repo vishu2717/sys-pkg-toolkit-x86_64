@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2023-05-18 16:12: fix(config): ensure directory exists before writing state
 - 2023-05-18 17:10: feat(proc): add process supervisor with automatic restart
 - 2023-05-18 17:16: test(proc): assert exit codes under simulated failures
+- 2023-05-18 17:26: fix(monitor): resolve division by zero on idle cpu calculation
