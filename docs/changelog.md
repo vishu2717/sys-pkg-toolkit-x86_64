@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2023-05-18 17:16: test(proc): assert exit codes under simulated failures
 - 2023-05-18 17:26: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-18 17:41: feat(shell): implement safe pipe execution helper
+- 2023-05-18 17:58: test(scripts): add bats verification for setup scripts
