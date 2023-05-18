@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2023-05-18 17:41: feat(shell): implement safe pipe execution helper
 - 2023-05-18 17:58: test(scripts): add bats verification for setup scripts
 - 2023-05-18 18:30: docs: add architecture specification for daemon supervisor
+- 2023-05-18 20:54: feat(env): add automated dotfiles symlink manager
