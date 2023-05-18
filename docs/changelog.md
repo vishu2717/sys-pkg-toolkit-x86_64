@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2023-05-18 14:10: test(cli): add unit test coverage for argument parsing
 - 2023-05-18 15:36: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-18 16:12: fix(config): ensure directory exists before writing state
+- 2023-05-18 17:10: feat(proc): add process supervisor with automatic restart
