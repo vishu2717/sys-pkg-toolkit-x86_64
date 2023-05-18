@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2023-05-17 17:54: test(proc): assert exit codes under simulated failures
 - 2023-05-18 12:40: docs: update changelog with recent utility enhancements
 - 2023-05-18 14:10: test(cli): add unit test coverage for argument parsing
+- 2023-05-18 15:36: fix(monitor): resolve division by zero on idle cpu calculation
