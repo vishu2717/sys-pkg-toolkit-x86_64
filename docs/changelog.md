@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2023-05-19 15:33: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-19 16:42: test(cli): add unit test coverage for argument parsing
 - 2023-05-19 18:38: feat(deploy): implement zero-downtime rolling reload
+- 2023-05-19 20:51: docs: add architecture specification for daemon supervisor
