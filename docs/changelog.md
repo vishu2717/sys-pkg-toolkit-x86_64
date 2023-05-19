@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2023-05-18 18:30: docs: add architecture specification for daemon supervisor
 - 2023-05-18 20:54: feat(env): add automated dotfiles symlink manager
 - 2023-05-19 10:58: fix(cli): exit with non-zero status code on unknown command
+- 2023-05-19 11:18: docs: update changelog with recent utility enhancements
