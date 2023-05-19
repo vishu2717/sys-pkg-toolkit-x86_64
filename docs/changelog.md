@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2023-05-19 13:22: refactor(daemon): separate socket listening from worker queue
 - 2023-05-19 13:40: docs: document environment variables and override flags
 - 2023-05-19 15:33: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-05-19 16:42: test(cli): add unit test coverage for argument parsing
