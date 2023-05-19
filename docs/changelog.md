@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-05-19 11:18: docs: update changelog with recent utility enhancements
 - 2023-05-19 12:59: fix(config): ensure directory exists before writing state
 - 2023-05-19 13:22: refactor(daemon): separate socket listening from worker queue
+- 2023-05-19 13:40: docs: document environment variables and override flags
