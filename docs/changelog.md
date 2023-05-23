@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2023-05-23 15:43: fix(cli): exit with non-zero status code on unknown command
 - 2023-05-23 17:43: feat(security): add permission auditing script for local binaries
 - 2023-05-23 18:23: feat(sync): add rsync-based remote directory mirror utility
+- 2023-05-23 19:37: docs: document environment variables and override flags
