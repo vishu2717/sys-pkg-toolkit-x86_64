@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-05-23 12:36: refactor(cli): simplify command dispatch loop
 - 2023-05-23 13:30: test(daemon): verify supervisor restarts crashed processes
 - 2023-05-23 13:38: fix(proc): prevent zombie process reaping race condition
+- 2023-05-23 14:41: fix(monitor): resolve division by zero on idle cpu calculation
