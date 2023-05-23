@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2023-05-23 13:30: test(daemon): verify supervisor restarts crashed processes
 - 2023-05-23 13:38: fix(proc): prevent zombie process reaping race condition
 - 2023-05-23 14:41: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-05-23 15:27: docs: document environment variables and override flags
