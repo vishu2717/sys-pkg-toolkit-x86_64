@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2023-05-24 12:38: fix(bash): escape arguments in deployment script
 - 2023-05-24 13:20: docs: update system administration runbooks and troubleshooting
 - 2023-05-24 14:10: feat(sync): add rsync-based remote directory mirror utility
+- 2023-05-24 14:53: feat(security): add permission auditing script for local binaries
