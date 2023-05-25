@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2023-05-24 16:35: docs: update changelog with recent utility enhancements
 - 2023-05-24 18:31: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-24 20:37: feat(monitor): implement system resource tracking utility
+- 2023-05-25 11:39: fix(monitor): resolve division by zero on idle cpu calculation
