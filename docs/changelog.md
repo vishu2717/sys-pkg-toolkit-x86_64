@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2023-05-25 19:10: style: enforce consistent shell quoting and indentation
 - 2023-05-25 20:35: fix(bash): escape arguments in deployment script
 - 2023-05-25 21:16: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-05-25 22:49: fix(proc): prevent zombie process reaping race condition
