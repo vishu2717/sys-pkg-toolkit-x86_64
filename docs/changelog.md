@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2023-05-24 20:37: feat(monitor): implement system resource tracking utility
 - 2023-05-25 11:39: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-05-25 17:13: docs: update changelog with recent utility enhancements
+- 2023-05-25 19:10: style: enforce consistent shell quoting and indentation
