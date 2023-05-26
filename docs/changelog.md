@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2023-05-25 21:16: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-25 22:49: fix(proc): prevent zombie process reaping race condition
 - 2023-05-26 16:57: fix(docker): specify non-root user in runtime container
+- 2023-05-26 17:30: feat(sync): add rsync-based remote directory mirror utility
