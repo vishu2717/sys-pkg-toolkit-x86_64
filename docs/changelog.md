@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2023-05-27 14:19: fix(docker): specify non-root user in runtime container
 - 2023-05-27 16:17: feat(proc): add process supervisor with automatic restart
 - 2023-05-27 19:44: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-05-27 19:48: refactor(monitor): optimize sampling frequency and buffer size
