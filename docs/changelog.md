@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2023-05-29 10:58: docs: update changelog with recent utility enhancements
 - 2023-05-29 12:31: feat(deploy): implement zero-downtime rolling reload
 - 2023-05-29 13:47: refactor(cli): simplify command dispatch loop
+- 2023-05-29 14:01: feat(daemon): add background heartbeat and ping interval
