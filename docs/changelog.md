@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2023-05-27 19:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-05-27 19:48: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-27 20:55: fix(cli): exit with non-zero status code on unknown command
+- 2023-05-29 10:58: docs: update changelog with recent utility enhancements
