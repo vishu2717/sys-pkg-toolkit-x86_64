@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2023-05-29 13:47: refactor(cli): simplify command dispatch loop
 - 2023-05-29 14:01: feat(daemon): add background heartbeat and ping interval
 - 2023-05-30 11:39: fix(proc): prevent zombie process reaping race condition
+- 2023-05-30 15:05: feat(metrics): track memory usage and cpu thread statistics
