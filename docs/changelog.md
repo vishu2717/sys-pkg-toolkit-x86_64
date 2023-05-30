@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2023-05-30 11:39: fix(proc): prevent zombie process reaping race condition
 - 2023-05-30 15:05: feat(metrics): track memory usage and cpu thread statistics
 - 2023-05-30 18:19: feat(cli): add command-line argument parser for daemon
+- 2023-05-30 20:48: feat(security): add permission auditing script for local binaries
