@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2023-05-31 18:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-05-31 19:01: test(daemon): verify supervisor restarts crashed processes
 - 2023-05-31 21:04: refactor(scripts): modularize helper functions across shell scripts
+- 2023-05-31 22:44: fix(bash): escape arguments in deployment script
