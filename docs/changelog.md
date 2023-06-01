@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2023-05-31 21:04: refactor(scripts): modularize helper functions across shell scripts
 - 2023-05-31 22:44: fix(bash): escape arguments in deployment script
 - 2023-06-01 14:43: refactor(cli): simplify command dispatch loop
+- 2023-06-01 16:33: chore: update base container image to latest alpine
