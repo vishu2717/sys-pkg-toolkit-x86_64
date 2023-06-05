@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2023-06-01 14:43: refactor(cli): simplify command dispatch loop
 - 2023-06-01 16:33: chore: update base container image to latest alpine
 - 2023-06-05 11:18: fix(cli): exit with non-zero status code on unknown command
+- 2023-06-05 11:45: fix(config): ensure directory exists before writing state
