@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2023-06-05 11:18: fix(cli): exit with non-zero status code on unknown command
 - 2023-06-05 11:45: fix(config): ensure directory exists before writing state
 - 2023-06-05 12:01: chore: update base container image to latest alpine
+- 2023-06-05 14:43: refactor(monitor): optimize sampling frequency and buffer size
