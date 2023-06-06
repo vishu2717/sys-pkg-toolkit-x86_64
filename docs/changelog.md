@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2023-06-05 17:27: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-06-05 18:16: feat(docker): optimize multi-stage build layers
 - 2023-06-06 10:40: feat(deploy): implement zero-downtime rolling reload
+- 2023-06-06 20:10: fix(config): ensure directory exists before writing state
