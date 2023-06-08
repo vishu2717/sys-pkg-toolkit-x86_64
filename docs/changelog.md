@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2023-06-06 22:52: refactor(cli): simplify command dispatch loop
 - 2023-06-08 10:02: fix(docker): specify non-root user in runtime container
 - 2023-06-08 13:33: test(scripts): add bats verification for setup scripts
+- 2023-06-08 18:11: docs: document environment variables and override flags
