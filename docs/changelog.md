@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2023-06-09 19:09: test(scripts): add bats verification for setup scripts
 - 2023-06-09 20:04: feat(daemon): add background heartbeat and ping interval
 - 2023-06-09 20:06: fix(config): ensure directory exists before writing state
+- 2023-06-09 20:54: docs: update system administration runbooks and troubleshooting
