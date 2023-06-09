@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2023-06-09 20:06: fix(config): ensure directory exists before writing state
 - 2023-06-09 20:54: docs: update system administration runbooks and troubleshooting
 - 2023-06-09 21:39: test(scripts): add bats verification for setup scripts
+- 2023-06-09 23:12: feat(metrics): track memory usage and cpu thread statistics
