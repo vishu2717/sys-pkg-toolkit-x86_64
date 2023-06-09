@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2023-06-08 18:11: docs: document environment variables and override flags
 - 2023-06-09 19:09: test(scripts): add bats verification for setup scripts
 - 2023-06-09 20:04: feat(daemon): add background heartbeat and ping interval
+- 2023-06-09 20:06: fix(config): ensure directory exists before writing state
