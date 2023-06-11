@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2023-06-09 23:12: feat(metrics): track memory usage and cpu thread statistics
 - 2023-06-11 11:13: test(cli): add unit test coverage for argument parsing
 - 2023-06-11 14:40: fix(docker): specify non-root user in runtime container
+- 2023-06-11 21:23: fix(cli): exit with non-zero status code on unknown command
