@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2023-06-11 21:23: fix(cli): exit with non-zero status code on unknown command
 - 2023-06-11 23:13: refactor(config): migrate global settings to immutable dataclass
 - 2023-06-12 10:23: feat(shell): implement safe pipe execution helper
+- 2023-06-12 11:55: docs: update system administration runbooks and troubleshooting
