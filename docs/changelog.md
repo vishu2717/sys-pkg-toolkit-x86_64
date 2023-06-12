@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2023-06-12 15:07: feat(docker): optimize multi-stage build layers
 - 2023-06-12 17:15: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-06-12 18:21: fix(proc): prevent zombie process reaping race condition
+- 2023-06-12 20:28: feat(metrics): track memory usage and cpu thread statistics
