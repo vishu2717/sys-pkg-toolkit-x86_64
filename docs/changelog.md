@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2023-06-12 20:28: feat(metrics): track memory usage and cpu thread statistics
 - 2023-06-12 23:00: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-06-12 23:29: test(cli): add unit test coverage for argument parsing
+- 2023-06-13 16:57: test(proc): assert exit codes under simulated failures
