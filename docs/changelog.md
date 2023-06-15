@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2023-06-15 12:33: feat(metrics): track memory usage and cpu thread statistics
 - 2023-06-15 13:44: docs: add architecture specification for daemon supervisor
 - 2023-06-15 13:51: docs: update system administration runbooks and troubleshooting
+- 2023-06-15 18:54: fix(docker): specify non-root user in runtime container
