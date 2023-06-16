@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2023-06-16 21:38: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-06-16 22:04: feat(sync): add rsync-based remote directory mirror utility
 - 2023-06-16 22:11: feat(config): add JSON and YAML configuration loader
+- 2023-06-16 22:21: fix(bash): escape arguments in deployment script
