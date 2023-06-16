@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2023-06-16 15:11: fix(config): ensure directory exists before writing state
 - 2023-06-16 15:26: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-06-16 17:45: feat(cli): add command-line argument parser for daemon
+- 2023-06-16 21:38: fix(monitor): resolve division by zero on idle cpu calculation
