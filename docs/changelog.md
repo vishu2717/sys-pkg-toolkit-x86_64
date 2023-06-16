@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2023-06-15 18:54: fix(docker): specify non-root user in runtime container
 - 2023-06-15 20:53: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-06-15 22:25: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-06-16 10:13: fix(daemon): gracefully handle sigterm during log rotation
