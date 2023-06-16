@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2023-06-16 10:13: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-06-16 10:21: refactor(daemon): separate socket listening from worker queue
 - 2023-06-16 11:17: fix(bash): escape arguments in deployment script
+- 2023-06-16 14:25: test(cli): add unit test coverage for argument parsing
