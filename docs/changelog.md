@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2023-06-15 20:53: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-06-15 22:25: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-06-16 10:13: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-06-16 10:21: refactor(daemon): separate socket listening from worker queue
