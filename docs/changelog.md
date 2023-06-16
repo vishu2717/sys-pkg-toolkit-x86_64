@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2023-06-16 11:17: fix(bash): escape arguments in deployment script
 - 2023-06-16 14:25: test(cli): add unit test coverage for argument parsing
 - 2023-06-16 15:10: fix(cli): exit with non-zero status code on unknown command
+- 2023-06-16 15:11: fix(config): ensure directory exists before writing state
