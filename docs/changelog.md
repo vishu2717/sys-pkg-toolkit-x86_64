@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2023-06-16 22:11: feat(config): add JSON and YAML configuration loader
 - 2023-06-16 22:21: fix(bash): escape arguments in deployment script
 - 2023-06-17 14:15: chore: configure shellcheck and ruff linter hooks
+- 2023-06-17 20:31: feat(config): add JSON and YAML configuration loader
