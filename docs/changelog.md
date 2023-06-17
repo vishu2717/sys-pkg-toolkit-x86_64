@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-06-17 14:15: chore: configure shellcheck and ruff linter hooks
 - 2023-06-17 20:31: feat(config): add JSON and YAML configuration loader
 - 2023-06-17 20:45: fix(cli): exit with non-zero status code on unknown command
+- 2023-06-17 20:57: fix(docker): specify non-root user in runtime container
