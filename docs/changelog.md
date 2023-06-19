@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2023-06-19 21:59: feat(security): add permission auditing script for local binaries
 - 2023-06-19 22:14: feat(daemon): add background heartbeat and ping interval
 - 2023-06-19 22:16: feat(security): add permission auditing script for local binaries
+- 2023-06-19 23:01: fix(daemon): gracefully handle sigterm during log rotation
