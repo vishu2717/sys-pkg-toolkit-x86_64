@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-06-19 13:57: feat(proc): add process supervisor with automatic restart
 - 2023-06-19 16:21: feat(config): add JSON and YAML configuration loader
 - 2023-06-19 20:46: docs: update changelog with recent utility enhancements
+- 2023-06-19 21:59: feat(security): add permission auditing script for local binaries
