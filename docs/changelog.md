@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2023-06-21 21:32: test(daemon): verify supervisor restarts crashed processes
 - 2023-06-22 22:37: feat(proc): add process supervisor with automatic restart
 - 2023-06-23 16:23: test(proc): assert exit codes under simulated failures
+- 2023-06-23 17:18: feat(cli): add command-line argument parser for daemon
