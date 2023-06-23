@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2023-06-23 16:23: test(proc): assert exit codes under simulated failures
 - 2023-06-23 17:18: feat(cli): add command-line argument parser for daemon
 - 2023-06-23 18:18: docs: update changelog with recent utility enhancements
+- 2023-06-23 20:02: feat(security): add permission auditing script for local binaries
