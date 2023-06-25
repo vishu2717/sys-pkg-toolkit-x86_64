@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2023-06-23 23:11: fix(bash): escape arguments in deployment script
 - 2023-06-25 14:46: docs: document environment variables and override flags
 - 2023-06-25 18:54: chore: configure shellcheck and ruff linter hooks
+- 2023-06-25 22:19: feat(config): add JSON and YAML configuration loader
