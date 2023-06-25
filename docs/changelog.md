@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2023-06-23 18:18: docs: update changelog with recent utility enhancements
 - 2023-06-23 20:02: feat(security): add permission auditing script for local binaries
 - 2023-06-23 23:11: fix(bash): escape arguments in deployment script
+- 2023-06-25 14:46: docs: document environment variables and override flags
