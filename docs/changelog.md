@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2023-06-25 22:19: feat(config): add JSON and YAML configuration loader
 - 2023-06-26 10:35: docs: add architecture specification for daemon supervisor
 - 2023-06-26 11:51: chore: update base container image to latest alpine
+- 2023-06-26 16:25: feat(metrics): track memory usage and cpu thread statistics
