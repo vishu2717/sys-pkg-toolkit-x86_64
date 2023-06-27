@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2023-06-27 15:11: feat(security): add permission auditing script for local binaries
 - 2023-06-27 16:50: feat(shell): implement safe pipe execution helper
 - 2023-06-27 18:24: test(daemon): verify supervisor restarts crashed processes
+- 2023-06-27 23:22: fix(daemon): gracefully handle sigterm during log rotation
