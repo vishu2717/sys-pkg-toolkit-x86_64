@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2023-06-26 21:23: fix(proc): prevent zombie process reaping race condition
 - 2023-06-27 12:09: refactor(config): migrate global settings to immutable dataclass
 - 2023-06-27 12:46: feat(docker): optimize multi-stage build layers
+- 2023-06-27 14:57: test(cli): add unit test coverage for argument parsing
