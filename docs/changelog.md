@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2023-06-29 12:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-06-29 14:06: feat(security): add permission auditing script for local binaries
 - 2023-06-29 14:07: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-06-29 14:49: fix(monitor): resolve division by zero on idle cpu calculation
