@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2023-06-29 14:49: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-06-29 17:49: fix(config): ensure directory exists before writing state
 - 2023-06-29 18:02: docs: document environment variables and override flags
+- 2023-06-29 18:57: fix(bash): escape arguments in deployment script
