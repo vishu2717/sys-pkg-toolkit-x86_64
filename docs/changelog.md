@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2023-06-29 20:48: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-06-29 22:12: docs: document environment variables and override flags
 - 2023-07-04 10:20: fix(cli): exit with non-zero status code on unknown command
+- 2023-07-04 10:54: refactor(scripts): modularize helper functions across shell scripts
