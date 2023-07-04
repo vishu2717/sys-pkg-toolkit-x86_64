@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2023-07-04 17:20: chore: update base container image to latest alpine
 - 2023-07-04 17:44: feat(security): add permission auditing script for local binaries
 - 2023-07-04 17:48: feat(monitor): implement system resource tracking utility
+- 2023-07-04 17:51: fix(proc): prevent zombie process reaping race condition
