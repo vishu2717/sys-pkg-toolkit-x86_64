@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2023-07-04 10:20: fix(cli): exit with non-zero status code on unknown command
 - 2023-07-04 10:54: refactor(scripts): modularize helper functions across shell scripts
 - 2023-07-04 13:09: docs: document environment variables and override flags
+- 2023-07-04 17:20: chore: update base container image to latest alpine
