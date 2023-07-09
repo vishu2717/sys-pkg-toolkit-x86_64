@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2023-07-07 22:28: feat(shell): implement safe pipe execution helper
 - 2023-07-07 22:48: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-09 10:58: test(proc): assert exit codes under simulated failures
+- 2023-07-09 11:59: fix(monitor): resolve division by zero on idle cpu calculation
