@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-07-09 10:58: test(proc): assert exit codes under simulated failures
 - 2023-07-09 11:59: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-10 14:53: docs: update changelog with recent utility enhancements
+- 2023-07-10 15:55: feat(sync): add rsync-based remote directory mirror utility
