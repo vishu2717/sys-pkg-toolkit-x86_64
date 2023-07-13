@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2023-07-13 12:07: refactor(daemon): separate socket listening from worker queue
 - 2023-07-13 13:15: fix(proc): prevent zombie process reaping race condition
 - 2023-07-13 14:29: fix(cli): exit with non-zero status code on unknown command
+- 2023-07-13 14:52: test(daemon): verify supervisor restarts crashed processes
