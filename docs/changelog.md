@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2023-07-10 19:20: feat(proc): add process supervisor with automatic restart
 - 2023-07-12 11:41: feat(docker): optimize multi-stage build layers
 - 2023-07-13 12:07: refactor(daemon): separate socket listening from worker queue
+- 2023-07-13 13:15: fix(proc): prevent zombie process reaping race condition
