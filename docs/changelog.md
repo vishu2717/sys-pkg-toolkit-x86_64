@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2023-07-14 11:32: feat(sync): add rsync-based remote directory mirror utility
 - 2023-07-14 14:11: feat(sync): add rsync-based remote directory mirror utility
 - 2023-07-14 14:15: feat(deploy): implement zero-downtime rolling reload
+- 2023-07-14 14:46: perf: reduce process spawn latency using fork pool
