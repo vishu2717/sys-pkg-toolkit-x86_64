@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2023-07-14 18:00: test(scripts): add bats verification for setup scripts
 - 2023-07-15 10:52: refactor(scripts): modularize helper functions across shell scripts
 - 2023-07-15 12:49: test(proc): assert exit codes under simulated failures
+- 2023-07-15 13:35: refactor(daemon): separate socket listening from worker queue
