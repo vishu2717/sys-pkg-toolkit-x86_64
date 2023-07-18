@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2023-07-18 18:43: fix(cli): exit with non-zero status code on unknown command
 - 2023-07-18 18:46: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-18 18:51: feat(shell): implement safe pipe execution helper
+- 2023-07-18 21:55: refactor(daemon): separate socket listening from worker queue
