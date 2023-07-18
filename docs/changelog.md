@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2023-07-18 13:59: test(daemon): verify supervisor restarts crashed processes
 - 2023-07-18 17:56: fix(config): ensure directory exists before writing state
 - 2023-07-18 18:43: fix(cli): exit with non-zero status code on unknown command
+- 2023-07-18 18:46: fix(monitor): resolve division by zero on idle cpu calculation
