@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2023-07-18 10:04: test(proc): assert exit codes under simulated failures
 - 2023-07-18 10:11: refactor(cli): simplify command dispatch loop
 - 2023-07-18 10:33: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-07-18 12:41: feat(proc): add process supervisor with automatic restart
