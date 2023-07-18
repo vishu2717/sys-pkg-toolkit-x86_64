@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2023-07-16 16:50: feat(metrics): track memory usage and cpu thread statistics
 - 2023-07-16 22:33: test(proc): assert exit codes under simulated failures
 - 2023-07-18 10:04: test(proc): assert exit codes under simulated failures
+- 2023-07-18 10:11: refactor(cli): simplify command dispatch loop
