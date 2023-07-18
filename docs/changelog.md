@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2023-07-18 10:33: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-18 12:41: feat(proc): add process supervisor with automatic restart
 - 2023-07-18 13:32: refactor(daemon): separate socket listening from worker queue
+- 2023-07-18 13:59: test(daemon): verify supervisor restarts crashed processes
