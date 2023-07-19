@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2023-07-18 21:55: refactor(daemon): separate socket listening from worker queue
 - 2023-07-19 10:58: fix(docker): specify non-root user in runtime container
 - 2023-07-19 13:19: chore: update base container image to latest alpine
+- 2023-07-19 17:09: feat(deploy): implement zero-downtime rolling reload
