@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2023-07-19 13:19: chore: update base container image to latest alpine
 - 2023-07-19 17:09: feat(deploy): implement zero-downtime rolling reload
 - 2023-07-19 18:29: refactor(cli): simplify command dispatch loop
+- 2023-07-19 19:00: feat(env): add automated dotfiles symlink manager
