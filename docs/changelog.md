@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2023-07-19 19:00: feat(env): add automated dotfiles symlink manager
 - 2023-07-19 19:14: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-20 16:25: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-07-20 23:26: feat(config): add JSON and YAML configuration loader
