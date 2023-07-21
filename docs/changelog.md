@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2023-07-19 19:14: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-07-20 16:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-07-20 23:26: feat(config): add JSON and YAML configuration loader
+- 2023-07-21 11:50: fix(docker): specify non-root user in runtime container
