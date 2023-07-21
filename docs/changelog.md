@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2023-07-20 23:26: feat(config): add JSON and YAML configuration loader
 - 2023-07-21 11:50: fix(docker): specify non-root user in runtime container
 - 2023-07-21 14:09: fix(docker): specify non-root user in runtime container
+- 2023-07-21 15:19: refactor(daemon): separate socket listening from worker queue
