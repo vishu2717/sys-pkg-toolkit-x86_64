@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2023-07-21 14:09: fix(docker): specify non-root user in runtime container
 - 2023-07-21 15:19: refactor(daemon): separate socket listening from worker queue
 - 2023-07-21 15:47: test(proc): assert exit codes under simulated failures
+- 2023-07-21 19:47: feat(config): add JSON and YAML configuration loader
