@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2023-07-21 19:47: feat(config): add JSON and YAML configuration loader
 - 2023-07-29 14:33: test(cli): add unit test coverage for argument parsing
 - 2023-07-29 16:31: docs: update changelog with recent utility enhancements
+- 2023-07-29 17:53: feat(monitor): implement system resource tracking utility
