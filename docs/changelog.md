@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2023-07-29 17:53: feat(monitor): implement system resource tracking utility
 - 2023-07-30 12:55: docs: update changelog with recent utility enhancements
 - 2023-07-30 13:13: chore: update base container image to latest alpine
+- 2023-07-30 18:29: feat(env): add automated dotfiles symlink manager
