@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2023-07-30 18:29: feat(env): add automated dotfiles symlink manager
 - 2023-07-30 19:47: feat(security): add permission auditing script for local binaries
 - 2023-08-02 13:45: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-08-02 15:59: test(proc): assert exit codes under simulated failures
