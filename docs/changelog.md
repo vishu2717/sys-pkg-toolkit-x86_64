@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2023-07-30 13:13: chore: update base container image to latest alpine
 - 2023-07-30 18:29: feat(env): add automated dotfiles symlink manager
 - 2023-07-30 19:47: feat(security): add permission auditing script for local binaries
+- 2023-08-02 13:45: fix(monitor): resolve division by zero on idle cpu calculation
