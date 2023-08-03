@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2023-08-03 12:24: test(proc): assert exit codes under simulated failures
 - 2023-08-03 12:32: fix(bash): escape arguments in deployment script
 - 2023-08-03 13:32: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-08-03 14:44: fix(cli): exit with non-zero status code on unknown command
