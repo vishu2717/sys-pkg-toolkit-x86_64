@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2023-08-03 13:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-08-03 14:44: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-03 15:54: feat(proc): add process supervisor with automatic restart
+- 2023-08-03 16:21: feat(config): add JSON and YAML configuration loader
