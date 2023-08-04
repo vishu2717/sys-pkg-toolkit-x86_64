@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2023-08-03 18:34: feat(config): add JSON and YAML configuration loader
 - 2023-08-03 19:44: feat(daemon): add background heartbeat and ping interval
 - 2023-08-04 13:10: feat(security): add permission auditing script for local binaries
+- 2023-08-04 15:11: feat(cli): add command-line argument parser for daemon
