@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2023-08-04 15:11: feat(cli): add command-line argument parser for daemon
 - 2023-08-04 15:33: docs: update system administration runbooks and troubleshooting
 - 2023-08-04 22:34: refactor(cli): simplify command dispatch loop
+- 2023-08-05 12:07: feat(config): add JSON and YAML configuration loader
