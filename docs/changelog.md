@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-08-06 11:19: fix(docker): specify non-root user in runtime container
 - 2023-08-06 17:38: perf: reduce process spawn latency using fork pool
 - 2023-08-06 18:50: feat(cli): add command-line argument parser for daemon
+- 2023-08-06 19:35: feat(metrics): track memory usage and cpu thread statistics
