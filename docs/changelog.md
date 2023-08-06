@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-08-05 12:07: feat(config): add JSON and YAML configuration loader
 - 2023-08-05 13:44: docs: add architecture specification for daemon supervisor
 - 2023-08-05 20:05: refactor(scripts): modularize helper functions across shell scripts
+- 2023-08-06 11:19: fix(docker): specify non-root user in runtime container
