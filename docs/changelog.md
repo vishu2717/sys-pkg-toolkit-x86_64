@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2023-08-06 18:50: feat(cli): add command-line argument parser for daemon
 - 2023-08-06 19:35: feat(metrics): track memory usage and cpu thread statistics
 - 2023-08-06 21:33: fix(proc): prevent zombie process reaping race condition
+- 2023-08-06 22:38: feat(env): add automated dotfiles symlink manager
