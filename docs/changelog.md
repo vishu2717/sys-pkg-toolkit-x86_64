@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2023-08-07 16:42: docs: update changelog with recent utility enhancements
 - 2023-08-07 16:47: test(proc): assert exit codes under simulated failures
 - 2023-08-07 19:41: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-08-07 20:33: fix(bash): escape arguments in deployment script
