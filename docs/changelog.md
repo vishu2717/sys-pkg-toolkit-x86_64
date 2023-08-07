@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2023-08-07 19:41: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-08-07 20:33: fix(bash): escape arguments in deployment script
 - 2023-08-07 20:58: docs: add architecture specification for daemon supervisor
+- 2023-08-07 21:18: docs: document environment variables and override flags
