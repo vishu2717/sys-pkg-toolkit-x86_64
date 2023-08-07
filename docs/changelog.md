@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2023-08-07 10:55: feat(docker): optimize multi-stage build layers
 - 2023-08-07 15:38: test(scripts): add bats verification for setup scripts
 - 2023-08-07 16:42: docs: update changelog with recent utility enhancements
+- 2023-08-07 16:47: test(proc): assert exit codes under simulated failures
