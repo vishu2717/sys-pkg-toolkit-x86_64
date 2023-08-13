@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 13:07: refactor(cli): simplify command dispatch loop
 - 2023-08-13 15:34: feat(proc): add process supervisor with automatic restart
 - 2023-08-13 15:58: feat(security): add permission auditing script for local binaries
+- 2023-08-13 16:16: refactor(config): migrate global settings to immutable dataclass
