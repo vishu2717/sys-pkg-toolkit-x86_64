@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 10:15: fix(docker): specify non-root user in runtime container
 - 2023-08-13 11:10: feat(monitor): implement system resource tracking utility
 - 2023-08-13 13:07: refactor(cli): simplify command dispatch loop
+- 2023-08-13 15:34: feat(proc): add process supervisor with automatic restart
