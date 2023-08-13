@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 15:58: feat(security): add permission auditing script for local binaries
 - 2023-08-13 16:16: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-13 16:51: feat(docker): optimize multi-stage build layers
+- 2023-08-13 17:51: refactor(config): migrate global settings to immutable dataclass
