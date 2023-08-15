@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 16:51: feat(docker): optimize multi-stage build layers
 - 2023-08-13 17:51: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-13 23:23: fix(cli): exit with non-zero status code on unknown command
+- 2023-08-15 21:07: fix(bash): escape arguments in deployment script
