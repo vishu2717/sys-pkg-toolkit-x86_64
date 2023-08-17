@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 23:23: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-15 21:07: fix(bash): escape arguments in deployment script
 - 2023-08-17 11:10: refactor(daemon): separate socket listening from worker queue
+- 2023-08-17 14:33: perf: reduce process spawn latency using fork pool
