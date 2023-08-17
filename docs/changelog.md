@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2023-08-13 17:51: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-13 23:23: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-15 21:07: fix(bash): escape arguments in deployment script
+- 2023-08-17 11:10: refactor(daemon): separate socket listening from worker queue
