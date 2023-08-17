@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2023-08-17 14:33: perf: reduce process spawn latency using fork pool
 - 2023-08-17 15:02: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-17 15:15: feat(docker): optimize multi-stage build layers
+- 2023-08-17 15:16: fix(docker): specify non-root user in runtime container
