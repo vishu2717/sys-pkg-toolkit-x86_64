@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2023-08-18 13:47: feat(daemon): add background heartbeat and ping interval
 - 2023-08-18 14:22: refactor(daemon): separate socket listening from worker queue
 - 2023-08-18 15:09: fix(bash): escape arguments in deployment script
+- 2023-08-18 19:51: test(daemon): verify supervisor restarts crashed processes

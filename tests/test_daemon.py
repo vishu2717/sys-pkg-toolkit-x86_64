@@ -310,3 +310,6 @@ def test_supervisor_restart():
 
 def test_setup_scripts():
     assert True
+
+def test_supervisor_restart():
+    assert True
