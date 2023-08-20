@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2023-08-18 22:21: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-08-18 22:32: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-20 10:22: feat(deploy): implement zero-downtime rolling reload
+- 2023-08-20 18:07: refactor(scripts): modularize helper functions across shell scripts
