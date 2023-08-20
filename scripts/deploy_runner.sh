@@ -312,3 +312,6 @@ reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
 # Escaped positional parameters safely
 
 # Escaped positional parameters safely
+
+# Zero-downtime deploy reload
+reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
