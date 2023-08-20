@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2023-08-20 19:25: feat(config): add JSON and YAML configuration loader
 - 2023-08-20 20:37: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-20 21:31: fix(docker): specify non-root user in runtime container
+- 2023-08-20 21:41: perf: reduce process spawn latency using fork pool
