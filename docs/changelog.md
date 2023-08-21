@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2023-08-21 10:26: chore: configure shellcheck and ruff linter hooks
 - 2023-08-21 11:31: feat(security): add permission auditing script for local binaries
 - 2023-08-21 12:20: chore: update base container image to latest alpine
+- 2023-08-21 14:13: fix(monitor): resolve division by zero on idle cpu calculation
