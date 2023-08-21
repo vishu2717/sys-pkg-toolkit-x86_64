@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2023-08-20 21:41: perf: reduce process spawn latency using fork pool
 - 2023-08-21 10:26: chore: configure shellcheck and ruff linter hooks
 - 2023-08-21 11:31: feat(security): add permission auditing script for local binaries
+- 2023-08-21 12:20: chore: update base container image to latest alpine
