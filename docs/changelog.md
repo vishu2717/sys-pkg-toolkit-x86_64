@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2023-08-21 18:42: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-21 19:36: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-21 20:22: feat(cli): add command-line argument parser for daemon
+- 2023-08-22 12:25: refactor(config): migrate global settings to immutable dataclass
