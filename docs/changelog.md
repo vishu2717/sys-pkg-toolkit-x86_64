@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2023-08-22 21:58: fix(proc): prevent zombie process reaping race condition
 - 2023-08-24 14:12: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-24 16:34: fix(cli): exit with non-zero status code on unknown command
+- 2023-08-24 20:07: test(proc): assert exit codes under simulated failures
