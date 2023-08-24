@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-08-22 12:25: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-22 18:03: refactor(daemon): separate socket listening from worker queue
 - 2023-08-22 21:58: fix(proc): prevent zombie process reaping race condition
+- 2023-08-24 14:12: fix(cli): exit with non-zero status code on unknown command
