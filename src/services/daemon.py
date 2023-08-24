@@ -238,3 +238,7 @@ def daemon_heartbeat():
 # Decoupled socket server and worker thread
 
 # Decoupled socket server and worker thread
+
+def daemon_heartbeat():
+    '''Emit periodic heartbeat signal.'''
+    return {'status': 'healthy', 'time': time.time()}

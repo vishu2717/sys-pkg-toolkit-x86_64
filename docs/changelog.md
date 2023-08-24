@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2023-08-24 14:12: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-24 16:34: fix(cli): exit with non-zero status code on unknown command
 - 2023-08-24 20:07: test(proc): assert exit codes under simulated failures
+- 2023-08-24 21:22: feat(daemon): add background heartbeat and ping interval
