@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2023-08-24 21:22: feat(daemon): add background heartbeat and ping interval
 - 2023-08-24 23:12: docs: document environment variables and override flags
 - 2023-08-25 10:05: feat(proc): add process supervisor with automatic restart
+- 2023-08-25 17:03: fix(config): ensure directory exists before writing state
