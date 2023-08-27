@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2023-08-27 11:05: feat(metrics): track memory usage and cpu thread statistics
 - 2023-08-27 11:48: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-27 12:05: feat(cli): add command-line argument parser for daemon
+- 2023-08-27 14:12: refactor(cli): simplify command dispatch loop
