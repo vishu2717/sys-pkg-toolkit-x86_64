@@ -217,3 +217,6 @@ audit_perms() { find /usr/local/bin -type f -perm /4000; }
 
 # Audit permissions
 audit_perms() { find /usr/local/bin -type f -perm /4000; }
+
+# Audit permissions
+audit_perms() { find /usr/local/bin -type f -perm /4000; }
