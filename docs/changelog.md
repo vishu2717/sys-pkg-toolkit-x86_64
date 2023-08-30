@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2023-08-27 21:59: refactor(scripts): modularize helper functions across shell scripts
 - 2023-08-30 12:32: test(cli): add unit test coverage for argument parsing
 - 2023-08-30 13:18: test(daemon): verify supervisor restarts crashed processes
+- 2023-08-30 14:01: feat(cli): add command-line argument parser for daemon
