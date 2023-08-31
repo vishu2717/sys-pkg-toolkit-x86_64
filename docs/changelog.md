@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2023-08-30 20:27: style: enforce consistent shell quoting and indentation
 - 2023-08-30 21:49: feat(metrics): track memory usage and cpu thread statistics
 - 2023-08-31 12:03: refactor(config): migrate global settings to immutable dataclass
+- 2023-08-31 13:26: refactor(config): migrate global settings to immutable dataclass
