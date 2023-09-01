@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2023-08-31 15:01: fix(bash): escape arguments in deployment script
 - 2023-09-01 10:30: refactor(cli): simplify command dispatch loop
 - 2023-09-01 11:01: test(scripts): add bats verification for setup scripts
+- 2023-09-01 12:51: docs: update changelog with recent utility enhancements
