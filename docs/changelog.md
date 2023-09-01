@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2023-09-01 12:51: docs: update changelog with recent utility enhancements
 - 2023-09-01 13:41: docs: update system administration runbooks and troubleshooting
 - 2023-09-01 21:18: feat(proc): add process supervisor with automatic restart
+- 2023-09-01 22:08: refactor(daemon): separate socket listening from worker queue
