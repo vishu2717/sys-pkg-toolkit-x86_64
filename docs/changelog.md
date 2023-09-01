@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2023-08-31 12:03: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-31 13:26: refactor(config): migrate global settings to immutable dataclass
 - 2023-08-31 15:01: fix(bash): escape arguments in deployment script
+- 2023-09-01 10:30: refactor(cli): simplify command dispatch loop
