@@ -206,3 +206,5 @@ class ProcessSupervisor:
 class ProcessSupervisor:
     '''Supervise child workers and auto-restart on exit.'''
     pass
+
+# Process pooling latency optimization

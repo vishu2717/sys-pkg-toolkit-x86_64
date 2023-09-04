@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2023-09-04 14:49: fix(cli): exit with non-zero status code on unknown command
 - 2023-09-04 17:18: fix(bash): escape arguments in deployment script
 - 2023-09-04 19:10: fix(bash): escape arguments in deployment script
+- 2023-09-04 21:09: perf: reduce process spawn latency using fork pool
