@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2023-09-01 21:18: feat(proc): add process supervisor with automatic restart
 - 2023-09-01 22:08: refactor(daemon): separate socket listening from worker queue
 - 2023-09-04 11:11: feat(proc): add process supervisor with automatic restart
+- 2023-09-04 14:49: fix(cli): exit with non-zero status code on unknown command
