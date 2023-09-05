@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2023-09-04 17:18: fix(bash): escape arguments in deployment script
 - 2023-09-04 19:10: fix(bash): escape arguments in deployment script
 - 2023-09-04 21:09: perf: reduce process spawn latency using fork pool
+- 2023-09-05 10:24: refactor(daemon): separate socket listening from worker queue
