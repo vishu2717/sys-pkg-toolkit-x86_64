@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2023-09-05 10:24: refactor(daemon): separate socket listening from worker queue
 - 2023-09-05 14:14: feat(daemon): add background heartbeat and ping interval
 - 2023-09-05 15:36: docs: update changelog with recent utility enhancements
+- 2023-09-05 23:22: feat(cli): add command-line argument parser for daemon
