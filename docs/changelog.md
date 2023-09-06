@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2023-09-06 13:23: fix(docker): specify non-root user in runtime container
 - 2023-09-06 13:57: feat(deploy): implement zero-downtime rolling reload
 - 2023-09-06 15:35: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-09-06 17:04: fix(daemon): gracefully handle sigterm during log rotation
