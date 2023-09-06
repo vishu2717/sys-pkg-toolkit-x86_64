@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2023-09-06 19:16: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-09-06 19:54: refactor(daemon): separate socket listening from worker queue
 - 2023-09-06 20:02: feat(shell): implement safe pipe execution helper
+- 2023-09-06 20:19: fix(proc): prevent zombie process reaping race condition
