@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2023-09-06 20:22: feat(env): add automated dotfiles symlink manager
 - 2023-09-06 21:21: feat(monitor): implement system resource tracking utility
 - 2023-09-07 13:25: fix(docker): specify non-root user in runtime container
+- 2023-09-07 14:45: fix(config): ensure directory exists before writing state
