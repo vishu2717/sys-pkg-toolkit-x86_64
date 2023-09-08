@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2023-09-08 13:35: refactor(cli): simplify command dispatch loop
 - 2023-09-08 15:52: feat(sync): add rsync-based remote directory mirror utility
 - 2023-09-08 16:35: test(proc): assert exit codes under simulated failures
+- 2023-09-08 17:04: feat(sync): add rsync-based remote directory mirror utility
