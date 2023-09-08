@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2023-09-08 10:39: refactor(scripts): modularize helper functions across shell scripts
 - 2023-09-08 11:51: refactor(config): migrate global settings to immutable dataclass
 - 2023-09-08 13:10: test(daemon): verify supervisor restarts crashed processes
+- 2023-09-08 13:35: refactor(cli): simplify command dispatch loop
