@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2023-09-08 23:08: feat(daemon): add background heartbeat and ping interval
 - 2023-09-10 21:56: feat(proc): add process supervisor with automatic restart
 - 2023-09-11 13:07: feat(env): add automated dotfiles symlink manager
+- 2023-09-11 17:11: feat(config): add JSON and YAML configuration loader
