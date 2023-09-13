@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2023-09-11 17:11: feat(config): add JSON and YAML configuration loader
 - 2023-09-11 18:24: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-09-11 23:04: chore: configure shellcheck and ruff linter hooks
+- 2023-09-13 10:02: docs: add architecture specification for daemon supervisor
