@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2023-09-14 19:23: feat(config): add JSON and YAML configuration loader
 - 2023-09-14 19:40: feat(monitor): implement system resource tracking utility
 - 2023-09-14 21:53: refactor(cli): simplify command dispatch loop
+- 2023-09-14 22:58: fix(monitor): resolve division by zero on idle cpu calculation
