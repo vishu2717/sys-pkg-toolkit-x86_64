@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-09-14 13:30: docs: document environment variables and override flags
 - 2023-09-14 13:55: fix(proc): prevent zombie process reaping race condition
 - 2023-09-14 15:19: fix(cli): exit with non-zero status code on unknown command
+- 2023-09-14 17:13: feat(monitor): implement system resource tracking utility
