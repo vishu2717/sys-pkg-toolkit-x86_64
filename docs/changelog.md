@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2023-09-14 21:53: refactor(cli): simplify command dispatch loop
 - 2023-09-14 22:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-09-17 10:21: feat(daemon): add background heartbeat and ping interval
+- 2023-09-17 10:54: fix(daemon): gracefully handle sigterm during log rotation
