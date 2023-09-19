@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-09-17 15:23: feat(daemon): add background heartbeat and ping interval
 - 2023-09-17 21:40: test(cli): add unit test coverage for argument parsing
 - 2023-09-19 11:20: refactor(cli): simplify command dispatch loop
+- 2023-09-19 12:51: refactor(daemon): separate socket listening from worker queue
