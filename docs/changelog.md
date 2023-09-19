@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2023-09-19 14:08: refactor(cli): simplify command dispatch loop
 - 2023-09-19 17:58: docs: add architecture specification for daemon supervisor
 - 2023-09-19 18:41: feat(config): add JSON and YAML configuration loader
+- 2023-09-19 19:02: fix(proc): prevent zombie process reaping race condition
