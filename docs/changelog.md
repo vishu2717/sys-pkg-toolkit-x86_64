@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2023-09-19 18:41: feat(config): add JSON and YAML configuration loader
 - 2023-09-19 19:02: fix(proc): prevent zombie process reaping race condition
 - 2023-09-19 21:19: feat(proc): add process supervisor with automatic restart
+- 2023-09-19 22:17: style: enforce consistent shell quoting and indentation
