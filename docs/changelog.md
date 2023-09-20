@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2023-09-19 23:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-09-20 10:44: feat(shell): implement safe pipe execution helper
 - 2023-09-20 12:32: feat(docker): optimize multi-stage build layers
+- 2023-09-20 13:54: test(proc): assert exit codes under simulated failures
