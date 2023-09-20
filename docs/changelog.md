@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2023-09-20 12:32: feat(docker): optimize multi-stage build layers
 - 2023-09-20 13:54: test(proc): assert exit codes under simulated failures
 - 2023-09-20 13:56: refactor(cli): simplify command dispatch loop
+- 2023-09-20 19:09: test(scripts): add bats verification for setup scripts
