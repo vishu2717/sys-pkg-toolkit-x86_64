@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2023-09-20 19:09: test(scripts): add bats verification for setup scripts
 - 2023-09-21 15:29: feat(config): add JSON and YAML configuration loader
 - 2023-09-21 16:22: fix(monitor): resolve division by zero on idle cpu calculation
+- 2023-09-21 16:58: feat(env): add automated dotfiles symlink manager
