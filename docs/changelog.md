@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2023-09-21 22:59: fix(proc): prevent zombie process reaping race condition
 - 2023-09-21 23:27: test(scripts): add bats verification for setup scripts
 - 2023-09-23 13:03: fix(docker): specify non-root user in runtime container
+- 2023-09-23 15:42: test(cli): add unit test coverage for argument parsing
