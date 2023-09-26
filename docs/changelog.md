@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2023-09-23 18:40: feat(sync): add rsync-based remote directory mirror utility
 - 2023-09-23 23:25: fix(docker): specify non-root user in runtime container
 - 2023-09-26 10:08: feat(docker): optimize multi-stage build layers
+- 2023-09-26 10:23: refactor(monitor): optimize sampling frequency and buffer size
