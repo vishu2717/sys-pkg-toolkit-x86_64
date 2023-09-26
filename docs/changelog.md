@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2023-09-26 14:01: feat(daemon): add background heartbeat and ping interval
 - 2023-09-26 14:08: fix(config): ensure directory exists before writing state
 - 2023-09-26 16:46: feat(proc): add process supervisor with automatic restart
+- 2023-09-26 18:21: fix(monitor): resolve division by zero on idle cpu calculation
