@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2023-09-27 10:46: feat(cli): add command-line argument parser for daemon
 - 2023-09-27 11:07: fix(bash): escape arguments in deployment script
 - 2023-09-27 13:07: feat(daemon): add background heartbeat and ping interval
+- 2023-09-27 18:53: refactor(daemon): separate socket listening from worker queue
