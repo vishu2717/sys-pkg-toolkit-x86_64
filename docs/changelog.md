@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2023-09-27 18:53: refactor(daemon): separate socket listening from worker queue
 - 2023-09-28 10:21: feat(metrics): track memory usage and cpu thread statistics
 - 2023-09-28 13:13: fix(config): ensure directory exists before writing state
+- 2023-09-28 16:11: feat(security): add permission auditing script for local binaries
