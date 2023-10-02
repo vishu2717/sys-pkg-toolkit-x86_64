@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2023-10-02 13:53: feat(shell): implement safe pipe execution helper
 - 2023-10-02 18:07: docs: update changelog with recent utility enhancements
 - 2023-10-02 18:16: perf: reduce process spawn latency using fork pool
+- 2023-10-02 21:52: docs: document environment variables and override flags
