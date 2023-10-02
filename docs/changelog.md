@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2023-10-02 10:05: style: enforce consistent shell quoting and indentation
 - 2023-10-02 10:39: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-10-02 11:28: test(proc): assert exit codes under simulated failures
+- 2023-10-02 13:53: feat(shell): implement safe pipe execution helper
