@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2023-09-29 13:48: feat(docker): optimize multi-stage build layers
 - 2023-09-29 17:30: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-02 10:05: style: enforce consistent shell quoting and indentation
+- 2023-10-02 10:39: fix(daemon): gracefully handle sigterm during log rotation
