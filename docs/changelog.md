@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2023-10-03 15:52: chore: configure shellcheck and ruff linter hooks
 - 2023-10-04 14:29: refactor(config): migrate global settings to immutable dataclass
 - 2023-10-04 16:57: docs: update changelog with recent utility enhancements
+- 2023-10-04 18:24: fix(config): ensure directory exists before writing state
