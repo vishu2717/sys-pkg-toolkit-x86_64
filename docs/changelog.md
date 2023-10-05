@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2023-10-04 16:57: docs: update changelog with recent utility enhancements
 - 2023-10-04 18:24: fix(config): ensure directory exists before writing state
 - 2023-10-04 20:54: feat(env): add automated dotfiles symlink manager
+- 2023-10-05 13:47: fix(docker): specify non-root user in runtime container
