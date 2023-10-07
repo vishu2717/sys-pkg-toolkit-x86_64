@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2023-10-05 20:45: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-07 12:02: feat(deploy): implement zero-downtime rolling reload
 - 2023-10-07 12:03: fix(cli): exit with non-zero status code on unknown command
+- 2023-10-07 12:27: feat(shell): implement safe pipe execution helper
