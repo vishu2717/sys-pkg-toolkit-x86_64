@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2023-10-07 17:16: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-10-07 18:37: feat(metrics): track memory usage and cpu thread statistics
 - 2023-10-07 20:14: chore: configure shellcheck and ruff linter hooks
+- 2023-10-07 20:51: fix(monitor): resolve division by zero on idle cpu calculation
