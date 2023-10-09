@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2023-10-07 20:51: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-07 23:01: test(scripts): add bats verification for setup scripts
 - 2023-10-09 11:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-10-09 11:17: fix(daemon): gracefully handle sigterm during log rotation
