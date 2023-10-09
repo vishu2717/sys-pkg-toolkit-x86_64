@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2023-10-09 14:55: feat(cli): add command-line argument parser for daemon
 - 2023-10-09 17:42: fix(bash): escape arguments in deployment script
 - 2023-10-09 18:15: fix(bash): escape arguments in deployment script
+- 2023-10-09 19:21: docs: document environment variables and override flags
