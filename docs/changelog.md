@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2023-10-10 18:07: fix(cli): exit with non-zero status code on unknown command
 - 2023-10-10 18:21: docs: update system administration runbooks and troubleshooting
 - 2023-10-10 18:55: feat(metrics): track memory usage and cpu thread statistics
+- 2023-10-10 22:29: feat(security): add permission auditing script for local binaries
