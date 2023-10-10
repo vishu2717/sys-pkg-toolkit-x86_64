@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2023-10-10 14:21: feat(shell): implement safe pipe execution helper
 - 2023-10-10 14:40: chore: update base container image to latest alpine
 - 2023-10-10 14:54: feat(sync): add rsync-based remote directory mirror utility
+- 2023-10-10 16:22: feat(cli): add command-line argument parser for daemon
