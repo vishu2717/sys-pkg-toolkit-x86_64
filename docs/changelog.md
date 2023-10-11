@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2023-10-10 23:19: refactor(daemon): separate socket listening from worker queue
 - 2023-10-11 12:17: refactor(config): migrate global settings to immutable dataclass
 - 2023-10-11 13:32: fix(bash): escape arguments in deployment script
+- 2023-10-11 14:10: refactor(config): migrate global settings to immutable dataclass
