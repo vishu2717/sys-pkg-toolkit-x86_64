@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2023-10-11 14:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-10-11 15:50: docs: document environment variables and override flags
 - 2023-10-11 16:45: fix(cli): exit with non-zero status code on unknown command
+- 2023-10-11 17:02: fix(daemon): gracefully handle sigterm during log rotation
