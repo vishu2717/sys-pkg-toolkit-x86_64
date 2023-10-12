@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-10-11 19:05: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-11 20:15: refactor(config): migrate global settings to immutable dataclass
 - 2023-10-11 21:53: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-10-12 12:20: fix(cli): exit with non-zero status code on unknown command
