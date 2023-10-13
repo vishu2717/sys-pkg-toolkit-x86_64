@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2023-10-12 21:45: feat(env): add automated dotfiles symlink manager
 - 2023-10-13 13:23: fix(cli): exit with non-zero status code on unknown command
 - 2023-10-13 14:28: feat(monitor): implement system resource tracking utility
+- 2023-10-13 16:07: fix(daemon): gracefully handle sigterm during log rotation
