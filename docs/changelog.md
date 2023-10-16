@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2023-10-16 14:03: test(daemon): verify supervisor restarts crashed processes
 - 2023-10-16 14:14: refactor(daemon): separate socket listening from worker queue
 - 2023-10-16 17:32: fix(cli): exit with non-zero status code on unknown command
+- 2023-10-16 17:51: refactor(scripts): modularize helper functions across shell scripts
