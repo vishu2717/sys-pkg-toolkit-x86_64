@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2023-10-13 13:23: fix(cli): exit with non-zero status code on unknown command
 - 2023-10-13 14:28: feat(monitor): implement system resource tracking utility
 - 2023-10-13 16:07: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-10-16 12:27: refactor(daemon): separate socket listening from worker queue
