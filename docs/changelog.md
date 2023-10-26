@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-10-26 14:29: refactor(config): migrate global settings to immutable dataclass
 - 2023-10-26 15:22: feat(daemon): add background heartbeat and ping interval
 - 2023-10-26 17:35: test(scripts): add bats verification for setup scripts
+- 2023-10-26 19:06: refactor(daemon): separate socket listening from worker queue
