@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2023-10-17 23:24: feat(docker): optimize multi-stage build layers
 - 2023-10-26 11:04: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-26 11:43: feat(metrics): track memory usage and cpu thread statistics
+- 2023-10-26 13:02: feat(cli): add command-line argument parser for daemon
