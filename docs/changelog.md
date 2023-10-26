@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2023-10-26 13:21: refactor(daemon): separate socket listening from worker queue
 - 2023-10-26 13:24: perf: reduce process spawn latency using fork pool
 - 2023-10-26 14:29: refactor(config): migrate global settings to immutable dataclass
+- 2023-10-26 15:22: feat(daemon): add background heartbeat and ping interval
