@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2023-10-26 19:17: feat(security): add permission auditing script for local binaries
 - 2023-10-26 22:37: test(cli): add unit test coverage for argument parsing
 - 2023-10-26 22:59: refactor(scripts): modularize helper functions across shell scripts
+- 2023-10-26 23:12: fix(daemon): gracefully handle sigterm during log rotation
