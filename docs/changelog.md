@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2023-10-26 23:12: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-10-27 13:27: docs: update changelog with recent utility enhancements
 - 2023-10-27 13:53: docs: update changelog with recent utility enhancements
+- 2023-10-27 14:02: feat(sync): add rsync-based remote directory mirror utility
