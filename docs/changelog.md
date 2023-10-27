@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2023-10-27 13:53: docs: update changelog with recent utility enhancements
 - 2023-10-27 14:02: feat(sync): add rsync-based remote directory mirror utility
 - 2023-10-27 19:04: fix(bash): escape arguments in deployment script
+- 2023-10-27 23:27: test(scripts): add bats verification for setup scripts
