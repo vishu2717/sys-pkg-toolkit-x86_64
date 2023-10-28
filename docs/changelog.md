@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2023-10-27 19:04: fix(bash): escape arguments in deployment script
 - 2023-10-27 23:27: test(scripts): add bats verification for setup scripts
 - 2023-10-28 10:11: refactor(scripts): modularize helper functions across shell scripts
+- 2023-10-28 10:35: feat(shell): implement safe pipe execution helper
