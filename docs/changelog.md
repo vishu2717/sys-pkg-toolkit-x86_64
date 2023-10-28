@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2023-10-28 14:00: fix(bash): escape arguments in deployment script
 - 2023-10-28 15:21: feat(proc): add process supervisor with automatic restart
 - 2023-10-28 17:33: fix(config): ensure directory exists before writing state
+- 2023-10-28 20:50: feat(metrics): track memory usage and cpu thread statistics
