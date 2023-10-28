@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2023-10-28 13:44: chore: configure shellcheck and ruff linter hooks
 - 2023-10-28 13:56: feat(cli): add command-line argument parser for daemon
 - 2023-10-28 14:00: fix(bash): escape arguments in deployment script
+- 2023-10-28 15:21: feat(proc): add process supervisor with automatic restart
