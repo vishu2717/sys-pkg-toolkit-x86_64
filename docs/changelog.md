@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2023-10-29 13:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-10-29 19:19: docs: document environment variables and override flags
 - 2023-10-29 21:33: test(daemon): verify supervisor restarts crashed processes
+- 2023-10-29 22:39: feat(deploy): implement zero-downtime rolling reload
