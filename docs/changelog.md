@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2023-10-30 18:22: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-10-31 13:09: test(proc): assert exit codes under simulated failures
 - 2023-10-31 13:47: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-10-31 17:22: test(proc): assert exit codes under simulated failures
