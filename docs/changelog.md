@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2023-11-01 12:49: feat(security): add permission auditing script for local binaries
 - 2023-11-01 16:18: docs: document environment variables and override flags
 - 2023-11-01 18:18: docs: update system administration runbooks and troubleshooting
+- 2023-11-01 20:01: fix(bash): escape arguments in deployment script
