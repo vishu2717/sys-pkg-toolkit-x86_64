@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2023-10-31 17:22: test(proc): assert exit codes under simulated failures
 - 2023-10-31 17:46: perf: reduce process spawn latency using fork pool
 - 2023-10-31 18:21: feat(deploy): implement zero-downtime rolling reload
+- 2023-11-01 12:49: feat(security): add permission auditing script for local binaries
