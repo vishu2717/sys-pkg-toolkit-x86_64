@@ -210,3 +210,7 @@ def parse_cli_args():
 def parse_cli_args():
     '''Parse CLI arguments for daemon runner.'''
     return sys.argv[1:]
+
+def parse_cli_args():
+    '''Parse CLI arguments for daemon runner.'''
+    return sys.argv[1:]
