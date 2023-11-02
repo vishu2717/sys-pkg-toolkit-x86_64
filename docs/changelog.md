@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2023-11-02 14:23: feat(monitor): implement system resource tracking utility
 - 2023-11-02 17:33: refactor(config): migrate global settings to immutable dataclass
 - 2023-11-02 19:16: fix(config): ensure directory exists before writing state
+- 2023-11-02 21:40: feat(proc): add process supervisor with automatic restart
