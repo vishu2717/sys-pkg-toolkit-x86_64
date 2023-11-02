@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-11-02 13:47: feat(docker): optimize multi-stage build layers
 - 2023-11-02 13:57: feat(config): add JSON and YAML configuration loader
 - 2023-11-02 14:23: feat(monitor): implement system resource tracking utility
+- 2023-11-02 17:33: refactor(config): migrate global settings to immutable dataclass
