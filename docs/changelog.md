@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2023-11-01 20:07: feat(cli): add command-line argument parser for daemon
 - 2023-11-01 21:38: feat(daemon): add background heartbeat and ping interval
 - 2023-11-01 21:50: feat(deploy): implement zero-downtime rolling reload
+- 2023-11-02 13:03: fix(daemon): gracefully handle sigterm during log rotation
