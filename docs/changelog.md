@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2023-11-02 19:16: fix(config): ensure directory exists before writing state
 - 2023-11-02 21:40: feat(proc): add process supervisor with automatic restart
 - 2023-11-04 11:56: feat(deploy): implement zero-downtime rolling reload
+- 2023-11-04 19:25: fix(config): ensure directory exists before writing state
