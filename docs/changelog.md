@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2023-11-04 20:07: test(daemon): verify supervisor restarts crashed processes
 - 2023-11-06 10:01: chore: update base container image to latest alpine
 - 2023-11-06 10:09: feat(deploy): implement zero-downtime rolling reload
+- 2023-11-06 10:22: feat(deploy): implement zero-downtime rolling reload
