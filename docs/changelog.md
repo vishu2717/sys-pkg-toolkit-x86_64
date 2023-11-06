@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2023-11-06 10:09: feat(deploy): implement zero-downtime rolling reload
 - 2023-11-06 10:22: feat(deploy): implement zero-downtime rolling reload
 - 2023-11-06 11:59: chore: update base container image to latest alpine
+- 2023-11-06 13:14: docs: add architecture specification for daemon supervisor
