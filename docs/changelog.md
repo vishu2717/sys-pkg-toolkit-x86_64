@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2023-11-07 17:28: fix(docker): specify non-root user in runtime container
 - 2023-11-07 18:54: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-11-07 19:14: feat(metrics): track memory usage and cpu thread statistics
+- 2023-11-07 20:41: feat(sync): add rsync-based remote directory mirror utility
