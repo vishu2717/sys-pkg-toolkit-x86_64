@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2023-11-06 21:31: refactor(cli): simplify command dispatch loop
 - 2023-11-07 12:55: feat(shell): implement safe pipe execution helper
 - 2023-11-07 13:09: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-11-07 13:37: docs: document environment variables and override flags
