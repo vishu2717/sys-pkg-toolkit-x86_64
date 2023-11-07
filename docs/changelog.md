@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2023-11-07 13:37: docs: document environment variables and override flags
 - 2023-11-07 14:04: fix(bash): escape arguments in deployment script
 - 2023-11-07 15:26: docs: document environment variables and override flags
+- 2023-11-07 17:28: fix(docker): specify non-root user in runtime container
