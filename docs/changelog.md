@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2023-11-07 19:14: feat(metrics): track memory usage and cpu thread statistics
 - 2023-11-07 20:41: feat(sync): add rsync-based remote directory mirror utility
 - 2023-11-07 23:02: fix(cli): exit with non-zero status code on unknown command
+- 2023-11-08 12:32: feat(shell): implement safe pipe execution helper
