@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2023-11-09 19:22: refactor(scripts): modularize helper functions across shell scripts
 - 2023-11-10 10:56: fix(cli): exit with non-zero status code on unknown command
 - 2023-11-10 11:19: test(scripts): add bats verification for setup scripts
+- 2023-11-10 12:17: fix(daemon): gracefully handle sigterm during log rotation
