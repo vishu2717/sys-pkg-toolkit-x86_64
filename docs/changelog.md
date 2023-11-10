@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2023-11-09 11:51: perf: reduce process spawn latency using fork pool
 - 2023-11-09 14:10: fix(proc): prevent zombie process reaping race condition
 - 2023-11-09 19:22: refactor(scripts): modularize helper functions across shell scripts
+- 2023-11-10 10:56: fix(cli): exit with non-zero status code on unknown command
