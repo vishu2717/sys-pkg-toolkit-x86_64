@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2023-11-11 13:31: test(daemon): verify supervisor restarts crashed processes
 - 2023-11-11 16:59: chore: configure shellcheck and ruff linter hooks
 - 2023-11-11 19:37: refactor(monitor): optimize sampling frequency and buffer size
+- 2023-11-11 20:12: test(scripts): add bats verification for setup scripts
