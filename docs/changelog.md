@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2023-11-10 18:20: feat(daemon): add background heartbeat and ping interval
 - 2023-11-10 23:05: feat(shell): implement safe pipe execution helper
 - 2023-11-11 11:05: refactor(daemon): separate socket listening from worker queue
+- 2023-11-11 13:31: test(daemon): verify supervisor restarts crashed processes
