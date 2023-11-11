@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2023-11-11 11:05: refactor(daemon): separate socket listening from worker queue
 - 2023-11-11 13:31: test(daemon): verify supervisor restarts crashed processes
 - 2023-11-11 16:59: chore: configure shellcheck and ruff linter hooks
+- 2023-11-11 19:37: refactor(monitor): optimize sampling frequency and buffer size
