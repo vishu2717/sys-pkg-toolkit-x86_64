@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2023-11-11 21:50: refactor(config): migrate global settings to immutable dataclass
 - 2023-11-11 22:48: fix(proc): prevent zombie process reaping race condition
 - 2023-11-13 19:13: feat(shell): implement safe pipe execution helper
+- 2023-11-14 14:31: refactor(config): migrate global settings to immutable dataclass
