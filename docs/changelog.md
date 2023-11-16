@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2023-11-14 17:06: test(proc): assert exit codes under simulated failures
 - 2023-11-14 21:37: test(daemon): verify supervisor restarts crashed processes
 - 2023-11-16 10:58: refactor(cli): simplify command dispatch loop
+- 2023-11-16 13:20: feat(shell): implement safe pipe execution helper
