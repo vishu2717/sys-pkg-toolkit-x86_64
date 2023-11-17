@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2023-11-17 12:29: fix(cli): exit with non-zero status code on unknown command
 - 2023-11-17 13:27: fix(bash): escape arguments in deployment script
 - 2023-11-17 15:25: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-11-17 15:32: fix(proc): prevent zombie process reaping race condition
