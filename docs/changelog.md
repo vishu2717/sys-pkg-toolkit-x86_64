@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2023-11-16 19:33: refactor(cli): simplify command dispatch loop
 - 2023-11-16 22:26: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-11-17 10:43: docs: add architecture specification for daemon supervisor
+- 2023-11-17 12:04: test(proc): assert exit codes under simulated failures
