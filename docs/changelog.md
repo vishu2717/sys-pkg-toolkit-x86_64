@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2023-11-17 15:32: fix(proc): prevent zombie process reaping race condition
 - 2023-11-17 16:01: chore: update base container image to latest alpine
 - 2023-11-18 10:13: refactor(daemon): separate socket listening from worker queue
+- 2023-11-18 17:18: chore: configure shellcheck and ruff linter hooks
