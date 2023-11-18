@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2023-11-18 10:13: refactor(daemon): separate socket listening from worker queue
 - 2023-11-18 17:18: chore: configure shellcheck and ruff linter hooks
 - 2023-11-18 17:41: test(proc): assert exit codes under simulated failures
+- 2023-11-18 19:30: refactor(monitor): optimize sampling frequency and buffer size
