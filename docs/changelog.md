@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2023-11-18 17:41: test(proc): assert exit codes under simulated failures
 - 2023-11-18 19:30: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-11-18 19:55: fix(docker): specify non-root user in runtime container
+- 2023-11-19 16:16: feat(docker): optimize multi-stage build layers
