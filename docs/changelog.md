@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2023-11-21 20:36: style: enforce consistent shell quoting and indentation
 - 2023-11-21 21:41: feat(shell): implement safe pipe execution helper
 - 2023-11-24 12:03: test(scripts): add bats verification for setup scripts
+- 2023-11-24 13:41: feat(security): add permission auditing script for local binaries
