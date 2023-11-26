@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2023-11-26 12:49: feat(shell): implement safe pipe execution helper
 - 2023-11-26 13:07: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-11-26 15:26: refactor(config): migrate global settings to immutable dataclass
+- 2023-11-26 15:42: test(daemon): verify supervisor restarts crashed processes
