@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2023-11-26 15:26: refactor(config): migrate global settings to immutable dataclass
 - 2023-11-26 15:42: test(daemon): verify supervisor restarts crashed processes
 - 2023-11-26 21:12: feat(config): add JSON and YAML configuration loader
+- 2023-11-26 22:25: feat(sync): add rsync-based remote directory mirror utility
