@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2023-11-29 13:23: feat(env): add automated dotfiles symlink manager
 - 2023-11-29 16:30: docs: update system administration runbooks and troubleshooting
 - 2023-11-29 16:56: chore: update base container image to latest alpine
+- 2023-11-29 17:07: feat(metrics): track memory usage and cpu thread statistics
