@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2023-11-26 22:25: feat(sync): add rsync-based remote directory mirror utility
 - 2023-11-28 13:43: fix(proc): prevent zombie process reaping race condition
 - 2023-11-29 11:33: refactor(daemon): separate socket listening from worker queue
+- 2023-11-29 13:23: feat(env): add automated dotfiles symlink manager
