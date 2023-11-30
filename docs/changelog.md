@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2023-11-30 10:11: test(proc): assert exit codes under simulated failures
 - 2023-11-30 12:23: refactor(daemon): separate socket listening from worker queue
 - 2023-11-30 14:30: fix(bash): escape arguments in deployment script
+- 2023-11-30 17:37: refactor(config): migrate global settings to immutable dataclass
