@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2023-11-30 12:23: refactor(daemon): separate socket listening from worker queue
 - 2023-11-30 14:30: fix(bash): escape arguments in deployment script
 - 2023-11-30 17:37: refactor(config): migrate global settings to immutable dataclass
+- 2023-11-30 19:00: chore: update base container image to latest alpine
