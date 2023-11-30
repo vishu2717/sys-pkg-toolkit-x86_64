@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2023-11-29 16:56: chore: update base container image to latest alpine
 - 2023-11-29 17:07: feat(metrics): track memory usage and cpu thread statistics
 - 2023-11-30 10:11: test(proc): assert exit codes under simulated failures
+- 2023-11-30 12:23: refactor(daemon): separate socket listening from worker queue
