@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2023-12-02 17:18: fix(config): ensure directory exists before writing state
 - 2023-12-02 22:47: feat(docker): optimize multi-stage build layers
 - 2023-12-02 23:19: fix(proc): prevent zombie process reaping race condition
+- 2023-12-03 10:37: chore: configure shellcheck and ruff linter hooks
