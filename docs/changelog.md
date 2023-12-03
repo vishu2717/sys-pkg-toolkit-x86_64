@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2023-12-02 23:19: fix(proc): prevent zombie process reaping race condition
 - 2023-12-03 10:37: chore: configure shellcheck and ruff linter hooks
 - 2023-12-03 12:44: test(cli): add unit test coverage for argument parsing
+- 2023-12-03 12:59: docs: document environment variables and override flags
