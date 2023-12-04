@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2023-12-03 20:32: fix(proc): prevent zombie process reaping race condition
 - 2023-12-03 20:51: feat(env): add automated dotfiles symlink manager
 - 2023-12-03 22:57: refactor(config): migrate global settings to immutable dataclass
+- 2023-12-04 10:59: feat(metrics): track memory usage and cpu thread statistics
