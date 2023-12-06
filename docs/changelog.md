@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2023-12-04 14:09: fix(bash): escape arguments in deployment script
 - 2023-12-04 17:00: fix(proc): prevent zombie process reaping race condition
 - 2023-12-04 18:34: feat(sync): add rsync-based remote directory mirror utility
+- 2023-12-06 10:43: feat(docker): optimize multi-stage build layers
