@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2023-12-06 12:49: refactor(config): migrate global settings to immutable dataclass
 - 2023-12-06 14:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2023-12-06 16:36: docs: update changelog with recent utility enhancements
+- 2023-12-06 16:53: docs: document environment variables and override flags
