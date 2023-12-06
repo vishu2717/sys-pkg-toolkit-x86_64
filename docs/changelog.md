@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2023-12-06 16:36: docs: update changelog with recent utility enhancements
 - 2023-12-06 16:53: docs: document environment variables and override flags
 - 2023-12-06 19:33: feat(metrics): track memory usage and cpu thread statistics
+- 2023-12-06 20:38: chore: configure shellcheck and ruff linter hooks
