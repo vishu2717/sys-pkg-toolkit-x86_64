@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2023-12-04 18:34: feat(sync): add rsync-based remote directory mirror utility
 - 2023-12-06 10:43: feat(docker): optimize multi-stage build layers
 - 2023-12-06 12:06: refactor(cli): simplify command dispatch loop
+- 2023-12-06 12:49: refactor(config): migrate global settings to immutable dataclass
