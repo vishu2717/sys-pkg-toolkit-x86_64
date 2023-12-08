@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2023-12-08 18:59: feat(config): add JSON and YAML configuration loader
 - 2023-12-08 20:42: feat(config): add JSON and YAML configuration loader
 - 2023-12-08 21:10: fix(daemon): gracefully handle sigterm during log rotation
+- 2023-12-08 22:09: fix(config): ensure directory exists before writing state
