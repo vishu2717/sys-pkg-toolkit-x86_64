@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2023-12-08 10:26: fix(cli): exit with non-zero status code on unknown command
 - 2023-12-08 10:53: feat(daemon): add background heartbeat and ping interval
 - 2023-12-08 11:41: fix(docker): specify non-root user in runtime container
+- 2023-12-08 12:52: feat(deploy): implement zero-downtime rolling reload
