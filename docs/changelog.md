@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2023-12-08 18:28: feat(config): add JSON and YAML configuration loader
 - 2023-12-08 18:44: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-12-08 18:59: feat(config): add JSON and YAML configuration loader
+- 2023-12-08 20:42: feat(config): add JSON and YAML configuration loader
