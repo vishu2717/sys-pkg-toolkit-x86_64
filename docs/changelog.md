@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2023-12-06 23:10: feat(security): add permission auditing script for local binaries
 - 2023-12-08 10:26: fix(cli): exit with non-zero status code on unknown command
 - 2023-12-08 10:53: feat(daemon): add background heartbeat and ping interval
+- 2023-12-08 11:41: fix(docker): specify non-root user in runtime container
