@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2023-12-06 19:33: feat(metrics): track memory usage and cpu thread statistics
 - 2023-12-06 20:38: chore: configure shellcheck and ruff linter hooks
 - 2023-12-06 23:10: feat(security): add permission auditing script for local binaries
+- 2023-12-08 10:26: fix(cli): exit with non-zero status code on unknown command
