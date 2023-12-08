@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2023-12-08 11:41: fix(docker): specify non-root user in runtime container
 - 2023-12-08 12:52: feat(deploy): implement zero-downtime rolling reload
 - 2023-12-08 15:31: feat(env): add automated dotfiles symlink manager
+- 2023-12-08 18:07: fix(proc): prevent zombie process reaping race condition
