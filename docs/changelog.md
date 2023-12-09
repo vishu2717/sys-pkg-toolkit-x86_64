@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2023-12-09 10:20: fix(config): ensure directory exists before writing state
 - 2023-12-09 10:57: docs: update changelog with recent utility enhancements
 - 2023-12-09 12:43: feat(shell): implement safe pipe execution helper
+- 2023-12-09 14:54: feat(config): add JSON and YAML configuration loader
