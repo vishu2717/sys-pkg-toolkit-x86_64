@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2023-12-08 22:09: fix(config): ensure directory exists before writing state
 - 2023-12-08 23:01: fix(cli): exit with non-zero status code on unknown command
 - 2023-12-09 10:20: fix(config): ensure directory exists before writing state
+- 2023-12-09 10:57: docs: update changelog with recent utility enhancements
