@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2023-12-09 18:40: fix(proc): prevent zombie process reaping race condition
 - 2023-12-09 18:52: fix(docker): specify non-root user in runtime container
 - 2023-12-10 12:14: docs: update system administration runbooks and troubleshooting
+- 2023-12-10 12:53: feat(monitor): implement system resource tracking utility
