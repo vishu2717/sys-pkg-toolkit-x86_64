@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2023-12-10 18:25: refactor(cli): simplify command dispatch loop
 - 2023-12-10 18:51: fix(proc): prevent zombie process reaping race condition
 - 2023-12-10 18:53: feat(shell): implement safe pipe execution helper
+- 2023-12-10 21:03: test(cli): add unit test coverage for argument parsing
