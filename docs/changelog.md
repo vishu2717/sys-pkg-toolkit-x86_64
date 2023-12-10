@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2023-12-10 14:43: refactor(daemon): separate socket listening from worker queue
 - 2023-12-10 15:17: test(daemon): verify supervisor restarts crashed processes
 - 2023-12-10 16:32: feat(shell): implement safe pipe execution helper
+- 2023-12-10 18:25: refactor(cli): simplify command dispatch loop
