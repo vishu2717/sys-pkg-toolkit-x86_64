@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2023-12-11 12:45: docs: document environment variables and override flags
 - 2023-12-11 15:02: docs: document environment variables and override flags
 - 2023-12-11 17:10: feat(deploy): implement zero-downtime rolling reload
+- 2023-12-11 17:15: test(proc): assert exit codes under simulated failures
