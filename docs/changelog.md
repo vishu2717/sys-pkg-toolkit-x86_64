@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2023-12-12 11:13: feat(sync): add rsync-based remote directory mirror utility
 - 2023-12-12 17:11: fix(bash): escape arguments in deployment script
 - 2023-12-12 18:01: feat(daemon): add background heartbeat and ping interval
+- 2023-12-12 18:20: fix(config): ensure directory exists before writing state
