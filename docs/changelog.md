@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2023-12-11 17:10: feat(deploy): implement zero-downtime rolling reload
 - 2023-12-11 17:15: test(proc): assert exit codes under simulated failures
 - 2023-12-12 11:13: feat(sync): add rsync-based remote directory mirror utility
+- 2023-12-12 17:11: fix(bash): escape arguments in deployment script
