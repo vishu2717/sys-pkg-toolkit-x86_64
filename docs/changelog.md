@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2023-12-12 18:20: fix(config): ensure directory exists before writing state
 - 2023-12-12 19:36: test(proc): assert exit codes under simulated failures
 - 2023-12-13 10:56: feat(sync): add rsync-based remote directory mirror utility
+- 2023-12-13 12:40: fix(bash): escape arguments in deployment script
