@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2023-12-13 13:21: docs: update system administration runbooks and troubleshooting
 - 2023-12-13 17:28: feat(daemon): add background heartbeat and ping interval
 - 2023-12-13 19:11: feat(deploy): implement zero-downtime rolling reload
+- 2023-12-13 20:04: fix(proc): prevent zombie process reaping race condition
