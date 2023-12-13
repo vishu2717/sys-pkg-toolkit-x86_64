@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2023-12-12 18:01: feat(daemon): add background heartbeat and ping interval
 - 2023-12-12 18:20: fix(config): ensure directory exists before writing state
 - 2023-12-12 19:36: test(proc): assert exit codes under simulated failures
+- 2023-12-13 10:56: feat(sync): add rsync-based remote directory mirror utility
