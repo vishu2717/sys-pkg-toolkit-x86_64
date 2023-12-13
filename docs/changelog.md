@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2023-12-13 12:40: fix(bash): escape arguments in deployment script
 - 2023-12-13 13:21: docs: update system administration runbooks and troubleshooting
 - 2023-12-13 17:28: feat(daemon): add background heartbeat and ping interval
+- 2023-12-13 19:11: feat(deploy): implement zero-downtime rolling reload
