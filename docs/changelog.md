@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2023-12-15 16:52: feat(security): add permission auditing script for local binaries
 - 2023-12-16 10:07: refactor(config): migrate global settings to immutable dataclass
 - 2023-12-16 10:24: chore: configure shellcheck and ruff linter hooks
+- 2023-12-16 11:11: fix(proc): prevent zombie process reaping race condition
