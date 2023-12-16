@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2023-12-16 10:24: chore: configure shellcheck and ruff linter hooks
 - 2023-12-16 11:11: fix(proc): prevent zombie process reaping race condition
 - 2023-12-16 12:55: refactor(cli): simplify command dispatch loop
+- 2023-12-16 16:19: docs: update changelog with recent utility enhancements
