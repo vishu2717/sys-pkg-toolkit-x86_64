@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2023-12-25 20:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-12-25 20:59: test(daemon): verify supervisor restarts crashed processes
 - 2023-12-25 21:34: feat(cli): add command-line argument parser for daemon
+- 2023-12-25 22:38: test(cli): add unit test coverage for argument parsing
