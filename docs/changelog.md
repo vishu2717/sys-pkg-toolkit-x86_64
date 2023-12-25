@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2023-12-20 19:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-12-20 19:22: feat(config): add JSON and YAML configuration loader
 - 2023-12-20 21:26: feat(deploy): implement zero-downtime rolling reload
+- 2023-12-25 12:12: fix(bash): escape arguments in deployment script
