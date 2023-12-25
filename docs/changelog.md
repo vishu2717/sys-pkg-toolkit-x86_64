@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2023-12-20 21:26: feat(deploy): implement zero-downtime rolling reload
 - 2023-12-25 12:12: fix(bash): escape arguments in deployment script
 - 2023-12-25 20:03: fix(config): ensure directory exists before writing state
+- 2023-12-25 20:04: refactor(scripts): modularize helper functions across shell scripts
