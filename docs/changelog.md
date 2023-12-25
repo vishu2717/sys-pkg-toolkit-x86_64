@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2023-12-25 20:04: refactor(scripts): modularize helper functions across shell scripts
 - 2023-12-25 20:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2023-12-25 20:59: test(daemon): verify supervisor restarts crashed processes
+- 2023-12-25 21:34: feat(cli): add command-line argument parser for daemon
