@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2023-12-25 21:34: feat(cli): add command-line argument parser for daemon
 - 2023-12-25 22:38: test(cli): add unit test coverage for argument parsing
 - 2023-12-28 10:44: feat(proc): add process supervisor with automatic restart
+- 2023-12-28 12:35: feat(security): add permission auditing script for local binaries
