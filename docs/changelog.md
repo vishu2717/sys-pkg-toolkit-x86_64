@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2023-12-28 19:43: feat(config): add JSON and YAML configuration loader
 - 2023-12-28 20:09: feat(docker): optimize multi-stage build layers
 - 2023-12-28 20:56: fix(proc): prevent zombie process reaping race condition
+- 2023-12-28 21:11: fix(daemon): gracefully handle sigterm during log rotation
