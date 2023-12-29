@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2023-12-28 21:11: fix(daemon): gracefully handle sigterm during log rotation
 - 2023-12-29 12:26: refactor(cli): simplify command dispatch loop
 - 2023-12-29 13:49: feat(metrics): track memory usage and cpu thread statistics
+- 2023-12-29 16:33: fix(proc): prevent zombie process reaping race condition
