@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2023-12-30 19:06: feat(security): add permission auditing script for local binaries
 - 2023-12-30 19:15: fix(proc): prevent zombie process reaping race condition
 - 2023-12-30 20:03: feat(cli): add command-line argument parser for daemon
+- 2023-12-30 21:39: fix(docker): specify non-root user in runtime container
