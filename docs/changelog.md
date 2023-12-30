@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2023-12-30 13:47: refactor(config): migrate global settings to immutable dataclass
 - 2023-12-30 13:53: feat(cli): add command-line argument parser for daemon
 - 2023-12-30 16:42: docs: document environment variables and override flags
+- 2023-12-30 17:20: feat(metrics): track memory usage and cpu thread statistics
