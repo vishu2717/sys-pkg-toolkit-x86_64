@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2023-12-30 13:53: feat(cli): add command-line argument parser for daemon
 - 2023-12-30 16:42: docs: document environment variables and override flags
 - 2023-12-30 17:20: feat(metrics): track memory usage and cpu thread statistics
+- 2023-12-30 19:06: feat(security): add permission auditing script for local binaries
