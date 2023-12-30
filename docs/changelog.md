@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2023-12-30 17:20: feat(metrics): track memory usage and cpu thread statistics
 - 2023-12-30 19:06: feat(security): add permission auditing script for local binaries
 - 2023-12-30 19:15: fix(proc): prevent zombie process reaping race condition
+- 2023-12-30 20:03: feat(cli): add command-line argument parser for daemon
