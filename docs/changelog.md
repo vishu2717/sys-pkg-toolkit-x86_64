@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2023-12-30 10:22: test(daemon): verify supervisor restarts crashed processes
 - 2023-12-30 11:30: fix(cli): exit with non-zero status code on unknown command
 - 2023-12-30 13:47: refactor(config): migrate global settings to immutable dataclass
+- 2023-12-30 13:53: feat(cli): add command-line argument parser for daemon
