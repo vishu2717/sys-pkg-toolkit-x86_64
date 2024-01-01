@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2023-12-31 18:53: fix(config): ensure directory exists before writing state
 - 2024-01-01 10:25: style: enforce consistent shell quoting and indentation
 - 2024-01-01 13:11: feat(proc): add process supervisor with automatic restart
+- 2024-01-01 15:26: fix(bash): escape arguments in deployment script
