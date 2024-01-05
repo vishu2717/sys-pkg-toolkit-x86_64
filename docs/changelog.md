@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2024-01-05 14:41: feat(sync): add rsync-based remote directory mirror utility
 - 2024-01-05 15:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-01-05 16:27: feat(deploy): implement zero-downtime rolling reload
+- 2024-01-05 16:55: feat(metrics): track memory usage and cpu thread statistics
