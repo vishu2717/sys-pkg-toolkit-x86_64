@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2024-01-05 15:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-01-05 16:27: feat(deploy): implement zero-downtime rolling reload
 - 2024-01-05 16:55: feat(metrics): track memory usage and cpu thread statistics
+- 2024-01-05 18:12: fix(daemon): gracefully handle sigterm during log rotation
