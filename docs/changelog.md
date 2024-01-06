@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2024-01-06 12:19: feat(proc): add process supervisor with automatic restart
 - 2024-01-06 15:08: test(cli): add unit test coverage for argument parsing
 - 2024-01-06 17:54: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-01-06 18:53: feat(security): add permission auditing script for local binaries
