@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2024-01-05 20:28: style: enforce consistent shell quoting and indentation
 - 2024-01-05 21:26: test(cli): add unit test coverage for argument parsing
 - 2024-01-06 11:51: feat(config): add JSON and YAML configuration loader
+- 2024-01-06 12:19: feat(proc): add process supervisor with automatic restart
