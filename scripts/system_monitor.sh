@@ -304,3 +304,6 @@ check_cpu() { uptime | awk '{print $NF}'; }
 check_cpu() { uptime | awk '{print $NF}'; }
 
 # Optimized sampling rate
+
+# Avoid divide by zero
+if [ "$total" -eq 0 ]; then total=1; fi
