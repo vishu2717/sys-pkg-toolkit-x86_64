@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2024-01-07 12:50: docs: update changelog with recent utility enhancements
 - 2024-01-07 13:17: feat(daemon): add background heartbeat and ping interval
 - 2024-01-07 14:00: docs: update changelog with recent utility enhancements
+- 2024-01-07 16:39: fix(monitor): resolve division by zero on idle cpu calculation
