@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2024-01-07 16:39: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-01-07 18:31: fix(docker): specify non-root user in runtime container
 - 2024-01-07 19:48: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-01-07 20:04: test(scripts): add bats verification for setup scripts
