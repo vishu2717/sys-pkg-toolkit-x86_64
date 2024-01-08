@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-01-08 17:43: fix(config): ensure directory exists before writing state
 - 2024-01-08 22:14: feat(config): add JSON and YAML configuration loader
 - 2024-01-08 22:44: feat(daemon): add background heartbeat and ping interval
+- 2024-01-08 23:26: refactor(cli): simplify command dispatch loop
