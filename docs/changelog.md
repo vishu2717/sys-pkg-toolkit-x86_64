@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2024-01-08 10:07: refactor(cli): simplify command dispatch loop
 - 2024-01-08 11:00: refactor(config): migrate global settings to immutable dataclass
 - 2024-01-08 15:49: feat(docker): optimize multi-stage build layers
+- 2024-01-08 17:43: fix(config): ensure directory exists before writing state
