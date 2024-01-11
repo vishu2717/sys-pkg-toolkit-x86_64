@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2024-01-08 22:44: feat(daemon): add background heartbeat and ping interval
 - 2024-01-08 23:26: refactor(cli): simplify command dispatch loop
 - 2024-01-11 15:25: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-01-11 16:42: docs: document environment variables and override flags
