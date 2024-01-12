@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2024-01-11 15:25: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-01-11 16:42: docs: document environment variables and override flags
 - 2024-01-12 13:50: chore: update base container image to latest alpine
+- 2024-01-12 17:29: docs: update system administration runbooks and troubleshooting
