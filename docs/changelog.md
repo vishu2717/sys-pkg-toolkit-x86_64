@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2024-01-12 19:14: test(proc): assert exit codes under simulated failures
 - 2024-01-12 19:19: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-12 19:23: fix(config): ensure directory exists before writing state
+- 2024-01-13 10:29: docs: update changelog with recent utility enhancements
