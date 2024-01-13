@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2024-01-13 19:39: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-13 20:57: feat(proc): add process supervisor with automatic restart
 - 2024-01-13 21:47: test(scripts): add bats verification for setup scripts
+- 2024-01-13 22:58: feat(cli): add command-line argument parser for daemon
