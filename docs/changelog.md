@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2024-01-12 19:23: fix(config): ensure directory exists before writing state
 - 2024-01-13 10:29: docs: update changelog with recent utility enhancements
 - 2024-01-13 11:15: fix(proc): prevent zombie process reaping race condition
+- 2024-01-13 11:20: feat(daemon): add background heartbeat and ping interval
