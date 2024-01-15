@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2024-01-14 18:30: fix(cli): exit with non-zero status code on unknown command
 - 2024-01-15 10:59: fix(docker): specify non-root user in runtime container
 - 2024-01-15 12:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-01-15 12:39: feat(docker): optimize multi-stage build layers
