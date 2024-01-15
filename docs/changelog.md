@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2024-01-15 18:38: refactor(daemon): separate socket listening from worker queue
 - 2024-01-15 19:03: test(daemon): verify supervisor restarts crashed processes
 - 2024-01-15 20:23: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-01-15 22:16: refactor(config): migrate global settings to immutable dataclass
