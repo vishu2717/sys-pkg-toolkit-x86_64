@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2024-01-13 21:47: test(scripts): add bats verification for setup scripts
 - 2024-01-13 22:58: feat(cli): add command-line argument parser for daemon
 - 2024-01-14 18:30: fix(cli): exit with non-zero status code on unknown command
+- 2024-01-15 10:59: fix(docker): specify non-root user in runtime container
