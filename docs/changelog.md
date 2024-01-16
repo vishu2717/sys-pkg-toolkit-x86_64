@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2024-01-16 11:13: style: enforce consistent shell quoting and indentation
 - 2024-01-16 14:08: style: enforce consistent shell quoting and indentation
 - 2024-01-16 19:03: docs: update changelog with recent utility enhancements
+- 2024-01-16 19:43: test(cli): add unit test coverage for argument parsing
