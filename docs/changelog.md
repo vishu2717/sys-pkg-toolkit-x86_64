@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2024-01-17 12:04: test(cli): add unit test coverage for argument parsing
 - 2024-01-17 12:51: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-01-17 15:26: refactor(cli): simplify command dispatch loop
+- 2024-01-17 15:29: refactor(monitor): optimize sampling frequency and buffer size
