@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2024-01-17 12:51: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-01-17 15:26: refactor(cli): simplify command dispatch loop
 - 2024-01-17 15:29: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-01-17 15:38: fix(cli): exit with non-zero status code on unknown command
