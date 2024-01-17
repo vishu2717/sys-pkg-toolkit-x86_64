@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2024-01-16 22:59: test(proc): assert exit codes under simulated failures
 - 2024-01-17 11:44: test(daemon): verify supervisor restarts crashed processes
 - 2024-01-17 11:59: refactor(daemon): separate socket listening from worker queue
+- 2024-01-17 12:04: test(cli): add unit test coverage for argument parsing
