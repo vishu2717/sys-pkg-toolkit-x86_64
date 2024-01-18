@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2024-01-18 22:34: feat(daemon): add background heartbeat and ping interval
 - 2024-01-18 22:56: refactor(cli): simplify command dispatch loop
 - 2024-01-18 23:14: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-01-18 23:14: feat(metrics): track memory usage and cpu thread statistics
