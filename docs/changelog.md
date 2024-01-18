@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2024-01-17 21:46: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-01-18 11:41: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-18 15:42: feat(security): add permission auditing script for local binaries
+- 2024-01-18 18:44: feat(deploy): implement zero-downtime rolling reload
