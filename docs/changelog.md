@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2024-01-18 23:14: feat(metrics): track memory usage and cpu thread statistics
 - 2024-01-18 23:23: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-19 12:16: feat(daemon): add background heartbeat and ping interval
+- 2024-01-19 18:38: fix(daemon): gracefully handle sigterm during log rotation
