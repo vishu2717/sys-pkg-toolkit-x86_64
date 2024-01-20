@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2024-01-20 13:54: feat(sync): add rsync-based remote directory mirror utility
 - 2024-01-20 14:04: refactor(cli): simplify command dispatch loop
 - 2024-01-20 16:08: test(daemon): verify supervisor restarts crashed processes
+- 2024-01-20 17:57: fix(config): ensure directory exists before writing state
