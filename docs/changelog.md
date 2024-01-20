@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2024-01-19 12:16: feat(daemon): add background heartbeat and ping interval
 - 2024-01-19 18:38: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-01-20 10:52: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-01-20 11:00: refactor(monitor): optimize sampling frequency and buffer size
