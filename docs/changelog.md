@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2024-01-21 14:19: feat(metrics): track memory usage and cpu thread statistics
 - 2024-01-21 18:42: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-21 21:39: docs: add architecture specification for daemon supervisor
+- 2024-01-21 22:05: test(proc): assert exit codes under simulated failures
