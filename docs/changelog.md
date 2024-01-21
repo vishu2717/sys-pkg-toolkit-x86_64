@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2024-01-20 16:08: test(daemon): verify supervisor restarts crashed processes
 - 2024-01-20 17:57: fix(config): ensure directory exists before writing state
 - 2024-01-21 10:58: fix(bash): escape arguments in deployment script
+- 2024-01-21 12:38: test(scripts): add bats verification for setup scripts
