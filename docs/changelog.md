@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2024-01-22 14:16: test(daemon): verify supervisor restarts crashed processes
 - 2024-01-22 15:59: feat(cli): add command-line argument parser for daemon
 - 2024-01-22 16:32: fix(cli): exit with non-zero status code on unknown command
+- 2024-01-22 17:42: feat(config): add JSON and YAML configuration loader
