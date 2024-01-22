@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2024-01-21 21:39: docs: add architecture specification for daemon supervisor
 - 2024-01-21 22:05: test(proc): assert exit codes under simulated failures
 - 2024-01-22 11:25: test(cli): add unit test coverage for argument parsing
+- 2024-01-22 11:36: feat(proc): add process supervisor with automatic restart
