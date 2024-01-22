@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2024-01-22 19:57: refactor(cli): simplify command dispatch loop
 - 2024-01-22 20:02: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-01-22 21:41: test(cli): add unit test coverage for argument parsing
+- 2024-01-22 22:36: feat(cli): add command-line argument parser for daemon
