@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2024-01-22 22:36: feat(cli): add command-line argument parser for daemon
 - 2024-01-23 12:33: feat(proc): add process supervisor with automatic restart
 - 2024-01-23 13:55: feat(sync): add rsync-based remote directory mirror utility
+- 2024-01-23 15:37: refactor(daemon): separate socket listening from worker queue
