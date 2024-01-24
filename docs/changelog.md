@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2024-01-23 16:59: fix(bash): escape arguments in deployment script
 - 2024-01-23 18:08: docs: update system administration runbooks and troubleshooting
 - 2024-01-23 21:30: fix(proc): prevent zombie process reaping race condition
+- 2024-01-24 19:56: refactor(config): migrate global settings to immutable dataclass
