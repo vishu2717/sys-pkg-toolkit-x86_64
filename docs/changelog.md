@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2024-01-25 13:08: refactor(cli): simplify command dispatch loop
 - 2024-01-25 14:53: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-01-25 15:26: fix(proc): prevent zombie process reaping race condition
+- 2024-01-25 15:31: feat(proc): add process supervisor with automatic restart
