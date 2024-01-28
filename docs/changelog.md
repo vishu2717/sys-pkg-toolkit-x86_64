@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2024-01-28 20:37: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-01-28 20:59: feat(sync): add rsync-based remote directory mirror utility
 - 2024-01-28 21:36: feat(proc): add process supervisor with automatic restart
+- 2024-01-28 22:18: fix(bash): escape arguments in deployment script
