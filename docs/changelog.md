@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2024-01-26 20:27: feat(cli): add command-line argument parser for daemon
 - 2024-01-28 15:23: refactor(cli): simplify command dispatch loop
 - 2024-01-28 20:37: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-01-28 20:59: feat(sync): add rsync-based remote directory mirror utility
