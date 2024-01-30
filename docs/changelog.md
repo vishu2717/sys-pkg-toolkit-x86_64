@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2024-01-30 12:16: refactor(scripts): modularize helper functions across shell scripts
 - 2024-01-30 12:23: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-01-30 12:27: feat(daemon): add background heartbeat and ping interval
+- 2024-01-30 19:47: fix(cli): exit with non-zero status code on unknown command
