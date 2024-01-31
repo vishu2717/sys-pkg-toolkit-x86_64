@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2024-01-31 10:40: feat(daemon): add background heartbeat and ping interval
 - 2024-01-31 11:59: fix(cli): exit with non-zero status code on unknown command
 - 2024-01-31 12:11: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-01-31 13:01: refactor(cli): simplify command dispatch loop
