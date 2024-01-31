@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2024-01-30 19:47: fix(cli): exit with non-zero status code on unknown command
 - 2024-01-30 20:17: chore: configure shellcheck and ruff linter hooks
 - 2024-01-31 10:40: feat(daemon): add background heartbeat and ping interval
+- 2024-01-31 11:59: fix(cli): exit with non-zero status code on unknown command
