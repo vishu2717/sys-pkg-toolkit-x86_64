@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2024-01-31 23:24: feat(proc): add process supervisor with automatic restart
 - 2024-02-02 11:06: feat(shell): implement safe pipe execution helper
 - 2024-02-02 12:48: test(proc): assert exit codes under simulated failures
+- 2024-02-02 13:11: feat(metrics): track memory usage and cpu thread statistics
