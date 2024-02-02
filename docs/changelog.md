@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2024-01-31 22:00: feat(proc): add process supervisor with automatic restart
 - 2024-01-31 22:06: feat(deploy): implement zero-downtime rolling reload
 - 2024-01-31 23:24: feat(proc): add process supervisor with automatic restart
+- 2024-02-02 11:06: feat(shell): implement safe pipe execution helper
