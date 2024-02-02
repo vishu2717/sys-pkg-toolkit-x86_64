@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2024-02-02 20:10: feat(cli): add command-line argument parser for daemon
 - 2024-02-02 20:41: feat(monitor): implement system resource tracking utility
 - 2024-02-02 20:45: docs: update changelog with recent utility enhancements
+- 2024-02-02 22:48: feat(security): add permission auditing script for local binaries
