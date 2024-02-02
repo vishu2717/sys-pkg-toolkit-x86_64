@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-02-02 14:41: feat(security): add permission auditing script for local binaries
 - 2024-02-02 14:47: refactor(cli): simplify command dispatch loop
 - 2024-02-02 15:28: docs: document environment variables and override flags
+- 2024-02-02 15:36: fix(docker): specify non-root user in runtime container
