@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2024-02-03 13:35: fix(docker): specify non-root user in runtime container
 - 2024-02-03 14:30: feat(config): add JSON and YAML configuration loader
 - 2024-02-03 20:33: feat(shell): implement safe pipe execution helper
+- 2024-02-03 21:57: refactor(daemon): separate socket listening from worker queue
