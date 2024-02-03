@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2024-02-03 14:30: feat(config): add JSON and YAML configuration loader
 - 2024-02-03 20:33: feat(shell): implement safe pipe execution helper
 - 2024-02-03 21:57: refactor(daemon): separate socket listening from worker queue
+- 2024-02-03 22:53: fix(config): ensure directory exists before writing state
