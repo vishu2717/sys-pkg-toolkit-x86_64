@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2024-02-03 10:49: test(cli): add unit test coverage for argument parsing
 - 2024-02-03 11:00: refactor(config): migrate global settings to immutable dataclass
 - 2024-02-03 12:41: refactor(scripts): modularize helper functions across shell scripts
+- 2024-02-03 13:35: fix(docker): specify non-root user in runtime container
