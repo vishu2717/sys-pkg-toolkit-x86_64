@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2024-02-03 20:33: feat(shell): implement safe pipe execution helper
 - 2024-02-03 21:57: refactor(daemon): separate socket listening from worker queue
 - 2024-02-03 22:53: fix(config): ensure directory exists before writing state
+- 2024-02-04 10:04: feat(metrics): track memory usage and cpu thread statistics
