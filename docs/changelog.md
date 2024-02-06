@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2024-02-06 21:17: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-02-06 21:39: refactor(cli): simplify command dispatch loop
 - 2024-02-06 21:59: feat(proc): add process supervisor with automatic restart
+- 2024-02-06 22:17: refactor(scripts): modularize helper functions across shell scripts
