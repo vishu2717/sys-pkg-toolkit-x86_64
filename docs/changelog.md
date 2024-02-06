@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2024-02-06 10:06: refactor(scripts): modularize helper functions across shell scripts
 - 2024-02-06 11:15: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-02-06 11:31: docs: add architecture specification for daemon supervisor
+- 2024-02-06 12:22: feat(security): add permission auditing script for local binaries
