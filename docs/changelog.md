@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2024-02-08 14:59: fix(proc): prevent zombie process reaping race condition
 - 2024-02-08 18:20: feat(deploy): implement zero-downtime rolling reload
 - 2024-02-08 21:02: test(daemon): verify supervisor restarts crashed processes
+- 2024-02-08 21:12: feat(cli): add command-line argument parser for daemon
