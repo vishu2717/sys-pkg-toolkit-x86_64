@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2024-02-08 21:12: feat(cli): add command-line argument parser for daemon
 - 2024-02-08 22:43: chore: configure shellcheck and ruff linter hooks
 - 2024-02-09 13:31: feat(cli): add command-line argument parser for daemon
+- 2024-02-09 15:26: feat(deploy): implement zero-downtime rolling reload
