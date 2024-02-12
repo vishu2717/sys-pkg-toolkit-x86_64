@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2024-02-09 22:27: test(proc): assert exit codes under simulated failures
 - 2024-02-09 23:07: fix(proc): prevent zombie process reaping race condition
 - 2024-02-10 14:00: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-02-12 11:17: feat(monitor): implement system resource tracking utility
