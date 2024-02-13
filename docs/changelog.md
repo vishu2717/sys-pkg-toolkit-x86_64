@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-02-13 17:56: fix(bash): escape arguments in deployment script
 - 2024-02-13 20:14: feat(env): add automated dotfiles symlink manager
 - 2024-02-13 21:34: fix(proc): prevent zombie process reaping race condition
+- 2024-02-13 23:11: fix(cli): exit with non-zero status code on unknown command
