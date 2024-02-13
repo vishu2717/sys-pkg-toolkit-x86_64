@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2024-02-13 15:24: chore: configure shellcheck and ruff linter hooks
 - 2024-02-13 17:30: refactor(cli): simplify command dispatch loop
 - 2024-02-13 17:56: fix(bash): escape arguments in deployment script
+- 2024-02-13 20:14: feat(env): add automated dotfiles symlink manager
