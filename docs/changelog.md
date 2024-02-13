@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-02-13 10:44: feat(monitor): implement system resource tracking utility
 - 2024-02-13 11:14: feat(monitor): implement system resource tracking utility
 - 2024-02-13 12:20: docs: update system administration runbooks and troubleshooting
+- 2024-02-13 13:06: docs: document environment variables and override flags
