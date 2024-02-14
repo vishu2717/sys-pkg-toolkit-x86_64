@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2024-02-13 21:34: fix(proc): prevent zombie process reaping race condition
 - 2024-02-13 23:11: fix(cli): exit with non-zero status code on unknown command
 - 2024-02-13 23:27: feat(deploy): implement zero-downtime rolling reload
+- 2024-02-14 13:31: docs: add architecture specification for daemon supervisor
