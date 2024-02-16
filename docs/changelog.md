@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2024-02-14 19:13: refactor(daemon): separate socket listening from worker queue
 - 2024-02-16 12:07: feat(monitor): implement system resource tracking utility
 - 2024-02-16 12:16: feat(daemon): add background heartbeat and ping interval
+- 2024-02-16 14:15: fix(proc): prevent zombie process reaping race condition
