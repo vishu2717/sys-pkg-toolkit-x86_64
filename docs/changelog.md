@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2024-02-16 21:58: test(scripts): add bats verification for setup scripts
 - 2024-02-17 13:04: refactor(daemon): separate socket listening from worker queue
 - 2024-02-17 21:45: feat(docker): optimize multi-stage build layers
+- 2024-02-18 10:34: fix(config): ensure directory exists before writing state
