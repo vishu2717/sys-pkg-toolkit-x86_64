@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-02-20 14:39: refactor(config): migrate global settings to immutable dataclass
 - 2024-02-20 15:49: fix(docker): specify non-root user in runtime container
 - 2024-02-20 16:28: fix(docker): specify non-root user in runtime container
+- 2024-02-20 16:54: docs: update system administration runbooks and troubleshooting
