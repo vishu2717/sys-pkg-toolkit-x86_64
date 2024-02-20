@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-02-19 14:36: test(scripts): add bats verification for setup scripts
 - 2024-02-19 15:41: feat(security): add permission auditing script for local binaries
 - 2024-02-19 19:10: docs: add architecture specification for daemon supervisor
+- 2024-02-20 14:39: refactor(config): migrate global settings to immutable dataclass
