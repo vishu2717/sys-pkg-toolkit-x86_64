@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2024-02-20 20:37: feat(sync): add rsync-based remote directory mirror utility
 - 2024-02-21 12:26: feat(sync): add rsync-based remote directory mirror utility
 - 2024-02-21 12:32: feat(shell): implement safe pipe execution helper
+- 2024-02-21 12:52: feat(config): add JSON and YAML configuration loader
