@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2024-02-21 12:52: feat(config): add JSON and YAML configuration loader
 - 2024-02-21 14:01: feat(daemon): add background heartbeat and ping interval
 - 2024-02-21 15:01: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-02-22 12:53: test(proc): assert exit codes under simulated failures
