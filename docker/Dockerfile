@@ -312,3 +312,6 @@ RUN apk add --no-cache bash ca-certificates
 
 # Optimized multi-stage build
 RUN apk add --no-cache bash ca-certificates
+
+# Optimized multi-stage build
+RUN apk add --no-cache bash ca-certificates
