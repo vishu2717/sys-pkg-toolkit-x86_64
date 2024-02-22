@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2024-02-21 15:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-02-22 12:53: test(proc): assert exit codes under simulated failures
 - 2024-02-22 14:45: feat(docker): optimize multi-stage build layers
+- 2024-02-22 15:47: feat(docker): optimize multi-stage build layers
