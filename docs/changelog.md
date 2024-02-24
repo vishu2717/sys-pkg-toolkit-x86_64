@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2024-02-24 10:33: feat(cli): add command-line argument parser for daemon
 - 2024-02-24 13:21: fix(config): ensure directory exists before writing state
 - 2024-02-24 13:40: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-02-24 20:17: test(proc): assert exit codes under simulated failures
