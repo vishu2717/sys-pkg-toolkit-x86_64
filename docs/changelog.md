@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2024-02-25 16:19: feat(proc): add process supervisor with automatic restart
 - 2024-02-25 17:32: feat(config): add JSON and YAML configuration loader
 - 2024-02-25 17:42: fix(config): ensure directory exists before writing state
+- 2024-02-25 19:01: fix(docker): specify non-root user in runtime container
