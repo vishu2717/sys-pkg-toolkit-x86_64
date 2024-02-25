@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2024-02-25 20:17: feat(config): add JSON and YAML configuration loader
 - 2024-02-25 20:54: fix(docker): specify non-root user in runtime container
 - 2024-02-25 22:02: chore: update base container image to latest alpine
+- 2024-02-25 23:08: fix(proc): prevent zombie process reaping race condition
