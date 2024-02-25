@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2024-02-24 20:17: test(proc): assert exit codes under simulated failures
 - 2024-02-25 11:03: docs: add architecture specification for daemon supervisor
 - 2024-02-25 11:15: test(scripts): add bats verification for setup scripts
+- 2024-02-25 11:20: feat(config): add JSON and YAML configuration loader
