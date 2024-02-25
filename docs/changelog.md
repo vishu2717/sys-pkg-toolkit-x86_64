@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2024-02-25 15:53: feat(shell): implement safe pipe execution helper
 - 2024-02-25 16:19: feat(proc): add process supervisor with automatic restart
 - 2024-02-25 17:32: feat(config): add JSON and YAML configuration loader
+- 2024-02-25 17:42: fix(config): ensure directory exists before writing state
