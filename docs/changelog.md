@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2024-02-25 11:20: feat(config): add JSON and YAML configuration loader
 - 2024-02-25 11:57: docs: update changelog with recent utility enhancements
 - 2024-02-25 14:51: test(daemon): verify supervisor restarts crashed processes
+- 2024-02-25 15:26: test(scripts): add bats verification for setup scripts
