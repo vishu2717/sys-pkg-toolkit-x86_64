@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-02-25 14:51: test(daemon): verify supervisor restarts crashed processes
 - 2024-02-25 15:26: test(scripts): add bats verification for setup scripts
 - 2024-02-25 15:53: feat(shell): implement safe pipe execution helper
+- 2024-02-25 16:19: feat(proc): add process supervisor with automatic restart
