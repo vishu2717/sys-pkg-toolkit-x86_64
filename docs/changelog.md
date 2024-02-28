@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2024-02-28 12:31: docs: update system administration runbooks and troubleshooting
 - 2024-02-28 14:34: chore: configure shellcheck and ruff linter hooks
 - 2024-02-28 14:53: refactor(config): migrate global settings to immutable dataclass
+- 2024-02-28 22:45: feat(sync): add rsync-based remote directory mirror utility
