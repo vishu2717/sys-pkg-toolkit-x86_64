@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2024-03-01 19:37: fix(config): ensure directory exists before writing state
 - 2024-03-01 22:32: fix(proc): prevent zombie process reaping race condition
 - 2024-03-02 13:29: feat(monitor): implement system resource tracking utility
+- 2024-03-02 13:34: feat(env): add automated dotfiles symlink manager
