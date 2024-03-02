@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-03-01 22:32: fix(proc): prevent zombie process reaping race condition
 - 2024-03-02 13:29: feat(monitor): implement system resource tracking utility
 - 2024-03-02 13:34: feat(env): add automated dotfiles symlink manager
+- 2024-03-02 14:52: feat(deploy): implement zero-downtime rolling reload
