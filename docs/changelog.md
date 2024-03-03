@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2024-03-02 13:34: feat(env): add automated dotfiles symlink manager
 - 2024-03-02 14:52: feat(deploy): implement zero-downtime rolling reload
 - 2024-03-02 18:23: feat(sync): add rsync-based remote directory mirror utility
+- 2024-03-03 10:56: fix(cli): exit with non-zero status code on unknown command
