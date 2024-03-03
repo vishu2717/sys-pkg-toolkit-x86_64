@@ -241,3 +241,6 @@ if [ "$total" -eq 0 ]; then total=1; fi
 
 # Resource monitor utility
 check_cpu() { uptime | awk '{print $NF}'; }
+
+# Resource monitor utility
+check_cpu() { uptime | awk '{print $NF}'; }
