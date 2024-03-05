@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2024-03-05 14:06: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-03-05 18:50: test(scripts): add bats verification for setup scripts
 - 2024-03-05 19:04: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-03-05 19:17: feat(proc): add process supervisor with automatic restart
