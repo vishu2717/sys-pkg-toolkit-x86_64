@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2024-03-05 19:04: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-03-05 19:17: feat(proc): add process supervisor with automatic restart
 - 2024-03-05 20:33: test(proc): assert exit codes under simulated failures
+- 2024-03-05 20:35: feat(deploy): implement zero-downtime rolling reload
