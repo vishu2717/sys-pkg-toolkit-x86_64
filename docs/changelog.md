@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2024-03-05 11:21: feat(docker): optimize multi-stage build layers
 - 2024-03-05 12:46: refactor(cli): simplify command dispatch loop
 - 2024-03-05 13:30: feat(daemon): add background heartbeat and ping interval
+- 2024-03-05 14:06: fix(daemon): gracefully handle sigterm during log rotation
