@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2024-03-05 20:33: test(proc): assert exit codes under simulated failures
 - 2024-03-05 20:35: feat(deploy): implement zero-downtime rolling reload
 - 2024-03-05 21:11: docs: update changelog with recent utility enhancements
+- 2024-03-06 17:46: fix(docker): specify non-root user in runtime container
