@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2024-03-06 19:40: feat(daemon): add background heartbeat and ping interval
 - 2024-03-06 21:03: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-03-08 12:58: style: enforce consistent shell quoting and indentation
+- 2024-03-08 17:04: refactor(config): migrate global settings to immutable dataclass
