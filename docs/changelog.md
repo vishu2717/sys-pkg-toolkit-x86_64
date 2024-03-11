@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2024-03-10 23:26: feat(cli): add command-line argument parser for daemon
 - 2024-03-11 13:40: refactor(daemon): separate socket listening from worker queue
 - 2024-03-11 14:43: fix(cli): exit with non-zero status code on unknown command
+- 2024-03-11 16:39: fix(daemon): gracefully handle sigterm during log rotation
