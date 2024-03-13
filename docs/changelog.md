@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2024-03-11 17:35: refactor(scripts): modularize helper functions across shell scripts
 - 2024-03-11 18:12: chore: update base container image to latest alpine
 - 2024-03-13 11:15: fix(proc): prevent zombie process reaping race condition
+- 2024-03-13 13:18: test(daemon): verify supervisor restarts crashed processes
