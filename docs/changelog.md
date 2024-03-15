@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2024-03-15 12:15: fix(config): ensure directory exists before writing state
 - 2024-03-15 12:28: perf: reduce process spawn latency using fork pool
 - 2024-03-15 14:21: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-03-15 15:35: feat(security): add permission auditing script for local binaries
