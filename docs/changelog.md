@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2024-03-13 22:07: refactor(scripts): modularize helper functions across shell scripts
 - 2024-03-15 10:54: fix(proc): prevent zombie process reaping race condition
 - 2024-03-15 11:24: style: enforce consistent shell quoting and indentation
+- 2024-03-15 12:15: fix(config): ensure directory exists before writing state
