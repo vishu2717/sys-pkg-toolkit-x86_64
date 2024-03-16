@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2024-03-16 14:16: perf: reduce process spawn latency using fork pool
 - 2024-03-16 15:24: docs: update system administration runbooks and troubleshooting
 - 2024-03-16 17:02: feat(security): add permission auditing script for local binaries
+- 2024-03-16 20:00: refactor(config): migrate global settings to immutable dataclass
