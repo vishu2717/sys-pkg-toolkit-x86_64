@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2024-03-16 17:02: feat(security): add permission auditing script for local binaries
 - 2024-03-16 20:00: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-16 21:00: fix(config): ensure directory exists before writing state
+- 2024-03-17 19:34: fix(bash): escape arguments in deployment script
