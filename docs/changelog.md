@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2024-03-18 17:19: feat(env): add automated dotfiles symlink manager
 - 2024-03-18 18:59: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-18 19:20: fix(cli): exit with non-zero status code on unknown command
+- 2024-03-18 19:49: feat(env): add automated dotfiles symlink manager
