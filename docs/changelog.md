@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-03-18 19:20: fix(cli): exit with non-zero status code on unknown command
 - 2024-03-18 19:49: feat(env): add automated dotfiles symlink manager
 - 2024-03-18 20:10: feat(config): add JSON and YAML configuration loader
+- 2024-03-18 23:02: feat(cli): add command-line argument parser for daemon
