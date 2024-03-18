@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-03-17 20:45: feat(daemon): add background heartbeat and ping interval
 - 2024-03-17 22:23: refactor(cli): simplify command dispatch loop
 - 2024-03-18 11:35: refactor(scripts): modularize helper functions across shell scripts
+- 2024-03-18 15:13: fix(bash): escape arguments in deployment script
