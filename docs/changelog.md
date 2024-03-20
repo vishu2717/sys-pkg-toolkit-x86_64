@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2024-03-20 13:33: fix(proc): prevent zombie process reaping race condition
 - 2024-03-20 14:16: test(cli): add unit test coverage for argument parsing
 - 2024-03-20 14:20: feat(security): add permission auditing script for local binaries
+- 2024-03-20 16:34: fix(docker): specify non-root user in runtime container
