@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2024-03-20 11:37: docs: document environment variables and override flags
 - 2024-03-20 11:51: test(scripts): add bats verification for setup scripts
 - 2024-03-20 13:33: fix(proc): prevent zombie process reaping race condition
+- 2024-03-20 14:16: test(cli): add unit test coverage for argument parsing
