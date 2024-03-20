@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2024-03-20 16:34: fix(docker): specify non-root user in runtime container
 - 2024-03-20 18:15: feat(config): add JSON and YAML configuration loader
 - 2024-03-20 20:12: feat(deploy): implement zero-downtime rolling reload
+- 2024-03-20 21:22: fix(monitor): resolve division by zero on idle cpu calculation
