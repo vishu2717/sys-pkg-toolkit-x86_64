@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2024-03-20 14:20: feat(security): add permission auditing script for local binaries
 - 2024-03-20 16:34: fix(docker): specify non-root user in runtime container
 - 2024-03-20 18:15: feat(config): add JSON and YAML configuration loader
+- 2024-03-20 20:12: feat(deploy): implement zero-downtime rolling reload
