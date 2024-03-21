@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2024-03-21 12:58: fix(bash): escape arguments in deployment script
 - 2024-03-21 13:07: refactor(cli): simplify command dispatch loop
 - 2024-03-21 13:53: refactor(scripts): modularize helper functions across shell scripts
+- 2024-03-21 14:00: feat(proc): add process supervisor with automatic restart
