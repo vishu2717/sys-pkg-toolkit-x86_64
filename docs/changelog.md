@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2024-03-21 13:53: refactor(scripts): modularize helper functions across shell scripts
 - 2024-03-21 14:00: feat(proc): add process supervisor with automatic restart
 - 2024-03-21 15:42: feat(daemon): add background heartbeat and ping interval
+- 2024-03-21 16:27: refactor(config): migrate global settings to immutable dataclass
