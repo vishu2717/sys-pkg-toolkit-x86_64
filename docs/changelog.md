@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2024-03-21 15:42: feat(daemon): add background heartbeat and ping interval
 - 2024-03-21 16:27: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-21 17:17: feat(sync): add rsync-based remote directory mirror utility
+- 2024-03-21 18:10: docs: add architecture specification for daemon supervisor
