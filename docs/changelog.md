@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2024-03-21 18:10: docs: add architecture specification for daemon supervisor
 - 2024-03-21 19:39: test(proc): assert exit codes under simulated failures
 - 2024-03-21 21:04: refactor(config): migrate global settings to immutable dataclass
+- 2024-03-21 21:18: feat(monitor): implement system resource tracking utility
