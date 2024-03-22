@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2024-03-22 11:39: fix(cli): exit with non-zero status code on unknown command
 - 2024-03-22 12:49: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-03-22 12:53: chore: configure shellcheck and ruff linter hooks
+- 2024-03-22 13:37: feat(daemon): add background heartbeat and ping interval
