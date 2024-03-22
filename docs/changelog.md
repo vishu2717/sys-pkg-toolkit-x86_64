@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2024-03-21 19:39: test(proc): assert exit codes under simulated failures
 - 2024-03-21 21:04: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-21 21:18: feat(monitor): implement system resource tracking utility
+- 2024-03-22 10:31: refactor(config): migrate global settings to immutable dataclass
