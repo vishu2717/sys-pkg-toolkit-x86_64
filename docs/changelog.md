@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2024-03-22 20:20: docs: document environment variables and override flags
 - 2024-03-22 22:21: feat(monitor): implement system resource tracking utility
 - 2024-03-23 11:02: chore: configure shellcheck and ruff linter hooks
+- 2024-03-23 11:04: test(proc): assert exit codes under simulated failures
