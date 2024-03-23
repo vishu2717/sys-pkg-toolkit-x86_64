@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2024-03-23 11:04: test(proc): assert exit codes under simulated failures
 - 2024-03-23 11:43: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-23 13:33: feat(sync): add rsync-based remote directory mirror utility
+- 2024-03-23 14:46: feat(metrics): track memory usage and cpu thread statistics
