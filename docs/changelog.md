@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2024-03-23 20:26: feat(monitor): implement system resource tracking utility
 - 2024-03-23 21:16: fix(cli): exit with non-zero status code on unknown command
 - 2024-03-24 12:52: feat(env): add automated dotfiles symlink manager
+- 2024-03-24 13:34: feat(config): add JSON and YAML configuration loader
