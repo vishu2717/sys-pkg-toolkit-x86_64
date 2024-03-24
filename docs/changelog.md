@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2024-03-24 20:38: refactor(daemon): separate socket listening from worker queue
 - 2024-03-24 21:37: feat(metrics): track memory usage and cpu thread statistics
 - 2024-03-24 22:01: feat(deploy): implement zero-downtime rolling reload
+- 2024-03-24 23:24: feat(deploy): implement zero-downtime rolling reload
