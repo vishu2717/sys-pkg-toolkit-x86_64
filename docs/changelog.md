@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2024-03-24 13:34: feat(config): add JSON and YAML configuration loader
 - 2024-03-24 14:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-03-24 15:22: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-03-24 16:25: feat(proc): add process supervisor with automatic restart
