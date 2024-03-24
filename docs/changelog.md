@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2024-03-24 14:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-03-24 15:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-03-24 16:25: feat(proc): add process supervisor with automatic restart
+- 2024-03-24 20:38: refactor(daemon): separate socket listening from worker queue
