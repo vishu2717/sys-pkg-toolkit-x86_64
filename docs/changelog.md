@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2024-03-24 23:24: feat(deploy): implement zero-downtime rolling reload
 - 2024-03-25 13:12: refactor(scripts): modularize helper functions across shell scripts
 - 2024-03-25 13:14: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-03-25 14:12: test(cli): add unit test coverage for argument parsing
