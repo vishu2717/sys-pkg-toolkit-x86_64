@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2024-03-25 13:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-03-25 14:12: test(cli): add unit test coverage for argument parsing
 - 2024-03-25 19:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-03-25 20:34: feat(metrics): track memory usage and cpu thread statistics
