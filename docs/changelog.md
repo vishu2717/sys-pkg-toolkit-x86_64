@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2024-03-24 21:37: feat(metrics): track memory usage and cpu thread statistics
 - 2024-03-24 22:01: feat(deploy): implement zero-downtime rolling reload
 - 2024-03-24 23:24: feat(deploy): implement zero-downtime rolling reload
+- 2024-03-25 13:12: refactor(scripts): modularize helper functions across shell scripts
