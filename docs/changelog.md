@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2024-03-25 14:12: test(cli): add unit test coverage for argument parsing
 - 2024-03-25 19:06: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-03-25 20:34: feat(metrics): track memory usage and cpu thread statistics
+- 2024-03-25 23:18: test(cli): add unit test coverage for argument parsing
