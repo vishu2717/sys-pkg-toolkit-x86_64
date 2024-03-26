@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2024-03-26 19:36: feat(metrics): track memory usage and cpu thread statistics
 - 2024-03-26 20:27: feat(deploy): implement zero-downtime rolling reload
 - 2024-03-26 23:01: test(daemon): verify supervisor restarts crashed processes
+- 2024-03-26 23:14: fix(cli): exit with non-zero status code on unknown command
