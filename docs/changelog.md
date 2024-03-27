@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2024-03-27 10:44: fix(bash): escape arguments in deployment script
 - 2024-03-27 11:40: feat(docker): optimize multi-stage build layers
 - 2024-03-27 11:45: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-03-27 12:01: refactor(config): migrate global settings to immutable dataclass
