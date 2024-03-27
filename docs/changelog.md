@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2024-03-27 16:22: docs: add architecture specification for daemon supervisor
 - 2024-03-27 17:13: test(proc): assert exit codes under simulated failures
 - 2024-03-27 18:47: feat(daemon): add background heartbeat and ping interval
+- 2024-03-27 21:33: fix(config): ensure directory exists before writing state
