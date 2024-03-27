@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2024-03-27 11:45: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-03-27 12:01: refactor(config): migrate global settings to immutable dataclass
 - 2024-03-27 16:22: docs: add architecture specification for daemon supervisor
+- 2024-03-27 17:13: test(proc): assert exit codes under simulated failures
