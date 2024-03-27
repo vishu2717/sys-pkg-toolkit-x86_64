@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2024-03-26 23:01: test(daemon): verify supervisor restarts crashed processes
 - 2024-03-26 23:14: fix(cli): exit with non-zero status code on unknown command
 - 2024-03-26 23:22: fix(proc): prevent zombie process reaping race condition
+- 2024-03-27 10:44: fix(bash): escape arguments in deployment script
