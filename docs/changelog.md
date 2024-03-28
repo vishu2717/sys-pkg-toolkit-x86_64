@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-03-27 18:47: feat(daemon): add background heartbeat and ping interval
 - 2024-03-27 21:33: fix(config): ensure directory exists before writing state
 - 2024-03-28 15:07: refactor(cli): simplify command dispatch loop
+- 2024-03-28 15:09: test(cli): add unit test coverage for argument parsing
