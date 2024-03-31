@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2024-03-31 15:33: docs: update changelog with recent utility enhancements
 - 2024-03-31 16:38: test(scripts): add bats verification for setup scripts
 - 2024-03-31 16:46: refactor(daemon): separate socket listening from worker queue
+- 2024-03-31 18:01: docs: document environment variables and override flags
