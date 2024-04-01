@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2024-03-31 18:01: docs: document environment variables and override flags
 - 2024-03-31 19:36: refactor(cli): simplify command dispatch loop
 - 2024-03-31 20:08: feat(metrics): track memory usage and cpu thread statistics
+- 2024-04-01 10:11: docs: update system administration runbooks and troubleshooting
