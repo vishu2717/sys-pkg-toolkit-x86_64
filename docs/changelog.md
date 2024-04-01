@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2024-04-01 13:23: refactor(daemon): separate socket listening from worker queue
 - 2024-04-01 15:01: refactor(scripts): modularize helper functions across shell scripts
 - 2024-04-01 21:22: style: enforce consistent shell quoting and indentation
+- 2024-04-01 21:31: docs: document environment variables and override flags
