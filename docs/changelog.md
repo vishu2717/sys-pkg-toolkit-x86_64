@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2024-04-03 15:20: chore: update base container image to latest alpine
 - 2024-04-03 16:49: docs: add architecture specification for daemon supervisor
 - 2024-04-03 18:25: fix(docker): specify non-root user in runtime container
+- 2024-04-03 18:50: fix(bash): escape arguments in deployment script
