@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2024-04-03 14:18: refactor(cli): simplify command dispatch loop
 - 2024-04-03 14:19: feat(security): add permission auditing script for local binaries
 - 2024-04-03 14:37: docs: document environment variables and override flags
+- 2024-04-03 15:20: chore: update base container image to latest alpine
