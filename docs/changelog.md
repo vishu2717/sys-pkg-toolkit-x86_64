@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2024-04-02 21:47: feat(deploy): implement zero-downtime rolling reload
 - 2024-04-03 10:18: test(daemon): verify supervisor restarts crashed processes
 - 2024-04-03 11:03: feat(shell): implement safe pipe execution helper
+- 2024-04-03 11:04: test(scripts): add bats verification for setup scripts
