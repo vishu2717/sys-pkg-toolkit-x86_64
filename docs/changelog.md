@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2024-04-03 13:36: feat(docker): optimize multi-stage build layers
 - 2024-04-03 14:18: refactor(cli): simplify command dispatch loop
 - 2024-04-03 14:19: feat(security): add permission auditing script for local binaries
+- 2024-04-03 14:37: docs: document environment variables and override flags
