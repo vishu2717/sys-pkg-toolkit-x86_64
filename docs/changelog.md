@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2024-04-05 16:08: test(scripts): add bats verification for setup scripts
 - 2024-04-05 16:26: feat(cli): add command-line argument parser for daemon
 - 2024-04-05 17:18: test(cli): add unit test coverage for argument parsing
+- 2024-04-05 17:26: feat(env): add automated dotfiles symlink manager
