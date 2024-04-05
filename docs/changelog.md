@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2024-04-05 11:12: refactor(scripts): modularize helper functions across shell scripts
 - 2024-04-05 13:47: test(daemon): verify supervisor restarts crashed processes
 - 2024-04-05 16:08: test(scripts): add bats verification for setup scripts
+- 2024-04-05 16:26: feat(cli): add command-line argument parser for daemon
