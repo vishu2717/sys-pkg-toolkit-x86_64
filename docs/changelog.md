@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2024-04-05 21:52: feat(proc): add process supervisor with automatic restart
 - 2024-04-06 13:41: refactor(cli): simplify command dispatch loop
 - 2024-04-06 15:13: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-04-06 22:36: fix(docker): specify non-root user in runtime container
