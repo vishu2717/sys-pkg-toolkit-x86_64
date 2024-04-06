@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2024-04-05 20:39: feat(shell): implement safe pipe execution helper
 - 2024-04-05 21:06: feat(docker): optimize multi-stage build layers
 - 2024-04-05 21:52: feat(proc): add process supervisor with automatic restart
+- 2024-04-06 13:41: refactor(cli): simplify command dispatch loop
