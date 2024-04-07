@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-04-06 22:36: fix(docker): specify non-root user in runtime container
 - 2024-04-07 11:06: refactor(cli): simplify command dispatch loop
 - 2024-04-07 21:54: feat(sync): add rsync-based remote directory mirror utility
+- 2024-04-07 22:43: feat(docker): optimize multi-stage build layers
