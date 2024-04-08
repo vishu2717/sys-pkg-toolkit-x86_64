@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2024-04-07 23:07: feat(metrics): track memory usage and cpu thread statistics
 - 2024-04-08 11:00: feat(config): add JSON and YAML configuration loader
 - 2024-04-08 22:21: fix(proc): prevent zombie process reaping race condition
+- 2024-04-08 22:24: refactor(cli): simplify command dispatch loop
