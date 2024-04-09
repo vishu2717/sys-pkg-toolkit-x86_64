@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2024-04-08 11:00: feat(config): add JSON and YAML configuration loader
 - 2024-04-08 22:21: fix(proc): prevent zombie process reaping race condition
 - 2024-04-08 22:24: refactor(cli): simplify command dispatch loop
+- 2024-04-09 10:15: feat(daemon): add background heartbeat and ping interval
