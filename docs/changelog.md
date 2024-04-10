@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2024-04-09 17:47: chore: configure shellcheck and ruff linter hooks
 - 2024-04-10 10:26: fix(cli): exit with non-zero status code on unknown command
 - 2024-04-10 10:34: test(proc): assert exit codes under simulated failures
+- 2024-04-10 11:01: fix(config): ensure directory exists before writing state
