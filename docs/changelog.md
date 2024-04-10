@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2024-04-10 11:04: fix(docker): specify non-root user in runtime container
 - 2024-04-10 12:19: feat(metrics): track memory usage and cpu thread statistics
 - 2024-04-10 12:24: refactor(scripts): modularize helper functions across shell scripts
+- 2024-04-10 13:16: feat(deploy): implement zero-downtime rolling reload
