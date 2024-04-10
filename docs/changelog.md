@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2024-04-10 10:26: fix(cli): exit with non-zero status code on unknown command
 - 2024-04-10 10:34: test(proc): assert exit codes under simulated failures
 - 2024-04-10 11:01: fix(config): ensure directory exists before writing state
+- 2024-04-10 11:04: fix(docker): specify non-root user in runtime container
