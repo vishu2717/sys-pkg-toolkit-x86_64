@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2024-04-09 10:15: feat(daemon): add background heartbeat and ping interval
 - 2024-04-09 11:23: test(daemon): verify supervisor restarts crashed processes
 - 2024-04-09 17:47: chore: configure shellcheck and ruff linter hooks
+- 2024-04-10 10:26: fix(cli): exit with non-zero status code on unknown command
