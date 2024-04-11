@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2024-04-10 17:11: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-04-10 21:02: feat(shell): implement safe pipe execution helper
 - 2024-04-11 10:05: fix(config): ensure directory exists before writing state
+- 2024-04-11 10:20: feat(deploy): implement zero-downtime rolling reload
