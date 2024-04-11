@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-04-11 16:28: fix(config): ensure directory exists before writing state
 - 2024-04-11 16:31: feat(proc): add process supervisor with automatic restart
 - 2024-04-11 17:15: fix(config): ensure directory exists before writing state
+- 2024-04-11 17:56: feat(env): add automated dotfiles symlink manager
