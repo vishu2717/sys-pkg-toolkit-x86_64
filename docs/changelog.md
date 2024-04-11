@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2024-04-11 17:15: fix(config): ensure directory exists before writing state
 - 2024-04-11 17:56: feat(env): add automated dotfiles symlink manager
 - 2024-04-11 18:55: fix(bash): escape arguments in deployment script
+- 2024-04-11 19:06: refactor(scripts): modularize helper functions across shell scripts
