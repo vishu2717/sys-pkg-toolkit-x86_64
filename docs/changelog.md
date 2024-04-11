@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2024-04-11 15:02: style: enforce consistent shell quoting and indentation
 - 2024-04-11 16:12: fix(config): ensure directory exists before writing state
 - 2024-04-11 16:28: fix(config): ensure directory exists before writing state
+- 2024-04-11 16:31: feat(proc): add process supervisor with automatic restart
