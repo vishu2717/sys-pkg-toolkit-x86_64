@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2024-04-11 19:06: refactor(scripts): modularize helper functions across shell scripts
 - 2024-04-11 20:00: feat(cli): add command-line argument parser for daemon
 - 2024-04-11 20:30: docs: update changelog with recent utility enhancements
+- 2024-04-11 23:10: feat(shell): implement safe pipe execution helper
