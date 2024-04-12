@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2024-04-11 20:30: docs: update changelog with recent utility enhancements
 - 2024-04-11 23:10: feat(shell): implement safe pipe execution helper
 - 2024-04-12 11:56: test(cli): add unit test coverage for argument parsing
+- 2024-04-12 13:26: feat(cli): add command-line argument parser for daemon
