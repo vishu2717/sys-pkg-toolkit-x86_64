@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2024-04-12 13:37: docs: update changelog with recent utility enhancements
 - 2024-04-13 13:43: feat(docker): optimize multi-stage build layers
 - 2024-04-13 14:09: fix(proc): prevent zombie process reaping race condition
+- 2024-04-13 16:11: fix(config): ensure directory exists before writing state
