@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2024-04-12 13:26: feat(cli): add command-line argument parser for daemon
 - 2024-04-12 13:37: docs: update changelog with recent utility enhancements
 - 2024-04-13 13:43: feat(docker): optimize multi-stage build layers
+- 2024-04-13 14:09: fix(proc): prevent zombie process reaping race condition
