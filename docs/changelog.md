@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2024-04-13 19:29: feat(security): add permission auditing script for local binaries
 - 2024-04-13 19:33: feat(metrics): track memory usage and cpu thread statistics
 - 2024-04-13 19:40: fix(cli): exit with non-zero status code on unknown command
+- 2024-04-14 11:11: feat(shell): implement safe pipe execution helper
