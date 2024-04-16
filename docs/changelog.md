@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2024-04-14 23:10: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-04-16 10:05: feat(cli): add command-line argument parser for daemon
 - 2024-04-16 17:02: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-04-16 21:11: refactor(cli): simplify command dispatch loop
