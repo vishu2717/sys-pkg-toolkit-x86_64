@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2024-04-14 11:56: fix(docker): specify non-root user in runtime container
 - 2024-04-14 20:29: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-04-14 23:10: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-04-16 10:05: feat(cli): add command-line argument parser for daemon
