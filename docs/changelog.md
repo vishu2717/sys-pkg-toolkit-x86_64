@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2024-04-16 21:11: refactor(cli): simplify command dispatch loop
 - 2024-04-17 11:36: fix(proc): prevent zombie process reaping race condition
 - 2024-04-17 12:21: feat(security): add permission auditing script for local binaries
+- 2024-04-17 22:43: feat(deploy): implement zero-downtime rolling reload
