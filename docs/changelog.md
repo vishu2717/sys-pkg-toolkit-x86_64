@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-04-18 14:33: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-04-18 15:22: feat(security): add permission auditing script for local binaries
 - 2024-04-18 17:04: feat(security): add permission auditing script for local binaries
+- 2024-04-18 23:09: refactor(cli): simplify command dispatch loop
