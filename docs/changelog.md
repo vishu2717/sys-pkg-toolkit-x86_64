@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2024-04-17 12:21: feat(security): add permission auditing script for local binaries
 - 2024-04-17 22:43: feat(deploy): implement zero-downtime rolling reload
 - 2024-04-17 23:16: style: enforce consistent shell quoting and indentation
+- 2024-04-18 14:33: fix(daemon): gracefully handle sigterm during log rotation
