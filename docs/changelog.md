@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2024-04-19 15:13: feat(config): add JSON and YAML configuration loader
 - 2024-04-19 19:07: test(daemon): verify supervisor restarts crashed processes
 - 2024-04-19 19:44: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-04-19 20:29: test(proc): assert exit codes under simulated failures
