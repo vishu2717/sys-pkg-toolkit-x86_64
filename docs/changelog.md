@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2024-04-19 10:21: fix(config): ensure directory exists before writing state
 - 2024-04-19 15:06: test(scripts): add bats verification for setup scripts
 - 2024-04-19 15:13: feat(config): add JSON and YAML configuration loader
+- 2024-04-19 19:07: test(daemon): verify supervisor restarts crashed processes
