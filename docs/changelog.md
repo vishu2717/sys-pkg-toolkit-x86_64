@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2024-04-18 23:09: refactor(cli): simplify command dispatch loop
 - 2024-04-18 23:25: test(cli): add unit test coverage for argument parsing
 - 2024-04-19 10:13: fix(proc): prevent zombie process reaping race condition
+- 2024-04-19 10:21: fix(config): ensure directory exists before writing state
