@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2024-04-20 14:43: fix(proc): prevent zombie process reaping race condition
 - 2024-04-20 15:37: feat(docker): optimize multi-stage build layers
 - 2024-04-20 15:45: refactor(daemon): separate socket listening from worker queue
+- 2024-04-20 15:56: fix(proc): prevent zombie process reaping race condition
