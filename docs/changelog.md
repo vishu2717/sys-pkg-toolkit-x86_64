@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2024-04-20 17:33: feat(env): add automated dotfiles symlink manager
 - 2024-04-20 19:22: feat(daemon): add background heartbeat and ping interval
 - 2024-04-20 22:16: test(proc): assert exit codes under simulated failures
+- 2024-04-20 22:32: fix(config): ensure directory exists before writing state
