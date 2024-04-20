@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2024-04-19 21:00: feat(daemon): add background heartbeat and ping interval
 - 2024-04-20 13:03: style: enforce consistent shell quoting and indentation
 - 2024-04-20 14:29: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-04-20 14:43: fix(proc): prevent zombie process reaping race condition
