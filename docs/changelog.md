@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2024-04-20 15:45: refactor(daemon): separate socket listening from worker queue
 - 2024-04-20 15:56: fix(proc): prevent zombie process reaping race condition
 - 2024-04-20 17:02: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-04-20 17:33: feat(env): add automated dotfiles symlink manager
