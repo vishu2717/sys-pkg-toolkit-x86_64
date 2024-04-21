@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2024-04-20 22:32: fix(config): ensure directory exists before writing state
 - 2024-04-20 23:18: feat(config): add JSON and YAML configuration loader
 - 2024-04-21 10:11: refactor(config): migrate global settings to immutable dataclass
+- 2024-04-21 14:54: test(cli): add unit test coverage for argument parsing
