@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-04-21 17:48: feat(env): add automated dotfiles symlink manager
 - 2024-04-21 18:14: feat(env): add automated dotfiles symlink manager
 - 2024-04-21 19:23: chore: update base container image to latest alpine
+- 2024-04-21 20:58: feat(deploy): implement zero-downtime rolling reload
