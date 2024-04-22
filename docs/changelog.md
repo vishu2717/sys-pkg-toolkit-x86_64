@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2024-04-22 12:33: fix(docker): specify non-root user in runtime container
 - 2024-04-22 13:34: fix(bash): escape arguments in deployment script
 - 2024-04-22 16:46: feat(metrics): track memory usage and cpu thread statistics
+- 2024-04-22 17:45: test(scripts): add bats verification for setup scripts
