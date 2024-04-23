@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2024-04-23 13:24: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-04-23 14:59: refactor(daemon): separate socket listening from worker queue
 - 2024-04-23 17:03: fix(config): ensure directory exists before writing state
+- 2024-04-23 17:16: feat(docker): optimize multi-stage build layers
