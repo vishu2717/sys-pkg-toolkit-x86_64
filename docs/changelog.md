@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2024-04-22 17:45: test(scripts): add bats verification for setup scripts
 - 2024-04-22 18:16: test(proc): assert exit codes under simulated failures
 - 2024-04-22 22:44: feat(daemon): add background heartbeat and ping interval
+- 2024-04-23 12:04: feat(sync): add rsync-based remote directory mirror utility
