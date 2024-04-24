@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2024-04-24 11:14: style: enforce consistent shell quoting and indentation
 - 2024-04-24 11:57: feat(daemon): add background heartbeat and ping interval
 - 2024-04-24 13:10: feat(env): add automated dotfiles symlink manager
+- 2024-04-24 16:24: fix(cli): exit with non-zero status code on unknown command
