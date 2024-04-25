@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2024-04-24 21:06: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-04-24 21:31: feat(env): add automated dotfiles symlink manager
 - 2024-04-25 15:02: feat(sync): add rsync-based remote directory mirror utility
+- 2024-04-25 16:38: fix(config): ensure directory exists before writing state
