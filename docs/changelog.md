@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2024-04-27 21:14: feat(env): add automated dotfiles symlink manager
 - 2024-04-27 22:15: feat(daemon): add background heartbeat and ping interval
 - 2024-04-27 23:11: fix(proc): prevent zombie process reaping race condition
+- 2024-04-27 23:16: refactor(scripts): modularize helper functions across shell scripts
