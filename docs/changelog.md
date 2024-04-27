@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2024-04-25 21:28: feat(proc): add process supervisor with automatic restart
 - 2024-04-27 10:18: feat(deploy): implement zero-downtime rolling reload
 - 2024-04-27 12:45: feat(deploy): implement zero-downtime rolling reload
+- 2024-04-27 15:47: fix(docker): specify non-root user in runtime container
