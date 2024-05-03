@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2024-05-03 11:12: fix(proc): prevent zombie process reaping race condition
 - 2024-05-03 15:21: fix(config): ensure directory exists before writing state
 - 2024-05-03 16:08: perf: reduce process spawn latency using fork pool
+- 2024-05-03 21:54: fix(monitor): resolve division by zero on idle cpu calculation
