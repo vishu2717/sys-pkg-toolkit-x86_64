@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2024-05-02 16:55: refactor(daemon): separate socket listening from worker queue
 - 2024-05-02 18:24: feat(monitor): implement system resource tracking utility
 - 2024-05-02 21:36: feat(config): add JSON and YAML configuration loader
+- 2024-05-03 11:12: fix(proc): prevent zombie process reaping race condition
