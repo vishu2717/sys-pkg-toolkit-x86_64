@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2024-05-03 16:08: perf: reduce process spawn latency using fork pool
 - 2024-05-03 21:54: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-05-04 10:44: feat(config): add JSON and YAML configuration loader
+- 2024-05-04 12:15: feat(monitor): implement system resource tracking utility
