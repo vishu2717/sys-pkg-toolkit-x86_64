@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2024-05-05 10:53: docs: update changelog with recent utility enhancements
 - 2024-05-05 11:07: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-05-05 13:24: fix(bash): escape arguments in deployment script
+- 2024-05-05 14:16: fix(config): ensure directory exists before writing state
