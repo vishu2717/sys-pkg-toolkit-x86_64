@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-05-05 14:16: fix(config): ensure directory exists before writing state
 - 2024-05-05 15:14: feat(sync): add rsync-based remote directory mirror utility
 - 2024-05-05 15:19: test(daemon): verify supervisor restarts crashed processes
+- 2024-05-05 15:45: fix(docker): specify non-root user in runtime container
