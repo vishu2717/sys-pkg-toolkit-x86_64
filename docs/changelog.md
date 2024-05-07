@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2024-05-05 18:36: refactor(scripts): modularize helper functions across shell scripts
 - 2024-05-05 18:47: feat(env): add automated dotfiles symlink manager
 - 2024-05-05 21:51: feat(env): add automated dotfiles symlink manager
+- 2024-05-07 20:08: refactor(config): migrate global settings to immutable dataclass
