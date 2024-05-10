@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2024-05-09 13:56: feat(security): add permission auditing script for local binaries
 - 2024-05-09 23:27: feat(metrics): track memory usage and cpu thread statistics
 - 2024-05-10 16:34: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-05-10 18:29: fix(daemon): gracefully handle sigterm during log rotation
