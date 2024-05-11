@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-05-10 16:34: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-05-10 18:29: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-05-10 19:10: refactor(daemon): separate socket listening from worker queue
+- 2024-05-11 12:44: feat(sync): add rsync-based remote directory mirror utility
