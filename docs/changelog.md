@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2024-05-10 19:10: refactor(daemon): separate socket listening from worker queue
 - 2024-05-11 12:44: feat(sync): add rsync-based remote directory mirror utility
 - 2024-05-11 13:11: docs: add architecture specification for daemon supervisor
+- 2024-05-11 13:20: test(proc): assert exit codes under simulated failures
