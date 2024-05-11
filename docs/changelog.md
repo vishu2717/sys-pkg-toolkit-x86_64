@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2024-05-11 13:11: docs: add architecture specification for daemon supervisor
 - 2024-05-11 13:20: test(proc): assert exit codes under simulated failures
 - 2024-05-11 17:11: style: enforce consistent shell quoting and indentation
+- 2024-05-11 19:42: feat(cli): add command-line argument parser for daemon
