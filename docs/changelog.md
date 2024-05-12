@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2024-05-11 17:11: style: enforce consistent shell quoting and indentation
 - 2024-05-11 19:42: feat(cli): add command-line argument parser for daemon
 - 2024-05-11 22:13: docs: add architecture specification for daemon supervisor
+- 2024-05-12 11:36: fix(proc): prevent zombie process reaping race condition
