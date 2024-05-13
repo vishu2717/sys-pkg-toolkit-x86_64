@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2024-05-13 10:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-05-13 11:02: feat(env): add automated dotfiles symlink manager
 - 2024-05-13 13:03: feat(docker): optimize multi-stage build layers
+- 2024-05-13 16:48: fix(cli): exit with non-zero status code on unknown command
