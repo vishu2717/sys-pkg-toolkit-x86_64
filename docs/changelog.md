@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2024-05-11 22:13: docs: add architecture specification for daemon supervisor
 - 2024-05-12 11:36: fix(proc): prevent zombie process reaping race condition
 - 2024-05-12 21:46: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-05-13 10:46: refactor(monitor): optimize sampling frequency and buffer size
