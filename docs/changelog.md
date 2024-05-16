@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2024-05-15 16:42: feat(monitor): implement system resource tracking utility
 - 2024-05-16 11:14: feat(monitor): implement system resource tracking utility
 - 2024-05-16 12:26: test(scripts): add bats verification for setup scripts
+- 2024-05-16 12:36: fix(proc): prevent zombie process reaping race condition
