@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2024-05-16 12:26: test(scripts): add bats verification for setup scripts
 - 2024-05-16 12:36: fix(proc): prevent zombie process reaping race condition
 - 2024-05-16 18:53: feat(config): add JSON and YAML configuration loader
+- 2024-05-16 21:38: fix(bash): escape arguments in deployment script
