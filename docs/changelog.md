@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2024-05-16 18:53: feat(config): add JSON and YAML configuration loader
 - 2024-05-16 21:38: fix(bash): escape arguments in deployment script
 - 2024-05-17 10:18: refactor(scripts): modularize helper functions across shell scripts
+- 2024-05-17 11:28: refactor(config): migrate global settings to immutable dataclass
