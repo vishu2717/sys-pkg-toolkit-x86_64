@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2024-05-19 13:53: perf: reduce process spawn latency using fork pool
 - 2024-05-19 14:06: test(scripts): add bats verification for setup scripts
 - 2024-05-19 16:40: feat(shell): implement safe pipe execution helper
+- 2024-05-19 16:41: fix(config): ensure directory exists before writing state
