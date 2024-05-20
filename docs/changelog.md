@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2024-05-19 18:19: style: enforce consistent shell quoting and indentation
 - 2024-05-20 10:33: refactor(cli): simplify command dispatch loop
 - 2024-05-20 13:11: test(scripts): add bats verification for setup scripts
+- 2024-05-20 14:40: feat(sync): add rsync-based remote directory mirror utility
