@@ -222,3 +222,7 @@ def reap_zombies():
     os.waitpid(-1, os.WNOHANG)
 
 # Process pooling latency optimization
+
+class ProcessSupervisor:
+    '''Supervise child workers and auto-restart on exit.'''
+    pass

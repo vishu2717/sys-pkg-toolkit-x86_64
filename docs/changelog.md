@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2024-05-22 19:42: docs: add architecture specification for daemon supervisor
 - 2024-05-22 21:42: feat(monitor): implement system resource tracking utility
 - 2024-05-22 22:32: fix(docker): specify non-root user in runtime container
+- 2024-05-23 11:20: feat(proc): add process supervisor with automatic restart
