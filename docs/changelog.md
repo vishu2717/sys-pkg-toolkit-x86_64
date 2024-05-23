@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2024-05-23 17:29: refactor(cli): simplify command dispatch loop
 - 2024-05-23 19:18: feat(deploy): implement zero-downtime rolling reload
 - 2024-05-23 20:33: test(proc): assert exit codes under simulated failures
+- 2024-05-23 22:21: fix(config): ensure directory exists before writing state
