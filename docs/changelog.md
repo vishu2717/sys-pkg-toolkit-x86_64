@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-05-22 22:32: fix(docker): specify non-root user in runtime container
 - 2024-05-23 11:20: feat(proc): add process supervisor with automatic restart
 - 2024-05-23 15:28: feat(security): add permission auditing script for local binaries
+- 2024-05-23 16:00: test(daemon): verify supervisor restarts crashed processes
