@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-05-23 20:33: test(proc): assert exit codes under simulated failures
 - 2024-05-23 22:21: fix(config): ensure directory exists before writing state
 - 2024-05-23 23:27: docs: update changelog with recent utility enhancements
+- 2024-05-24 10:11: test(cli): add unit test coverage for argument parsing
