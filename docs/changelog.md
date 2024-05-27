@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2024-05-25 20:41: feat(docker): optimize multi-stage build layers
 - 2024-05-27 10:44: feat(proc): add process supervisor with automatic restart
 - 2024-05-27 11:16: test(daemon): verify supervisor restarts crashed processes
+- 2024-05-27 11:23: docs: document environment variables and override flags
