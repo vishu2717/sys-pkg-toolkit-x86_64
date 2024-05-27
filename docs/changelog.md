@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2024-05-27 17:48: test(proc): assert exit codes under simulated failures
 - 2024-05-27 19:12: feat(metrics): track memory usage and cpu thread statistics
 - 2024-05-27 21:14: feat(metrics): track memory usage and cpu thread statistics
+- 2024-05-27 23:06: feat(config): add JSON and YAML configuration loader
