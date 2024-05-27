@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2024-05-27 14:47: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-05-27 15:16: refactor(daemon): separate socket listening from worker queue
 - 2024-05-27 16:38: feat(config): add JSON and YAML configuration loader
+- 2024-05-27 17:48: test(proc): assert exit codes under simulated failures
