@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2024-05-27 12:58: feat(shell): implement safe pipe execution helper
 - 2024-05-27 14:35: test(cli): add unit test coverage for argument parsing
 - 2024-05-27 14:38: feat(env): add automated dotfiles symlink manager
+- 2024-05-27 14:47: fix(monitor): resolve division by zero on idle cpu calculation
