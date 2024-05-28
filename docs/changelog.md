@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2024-05-28 12:10: feat(security): add permission auditing script for local binaries
 - 2024-05-28 16:20: docs: update system administration runbooks and troubleshooting
 - 2024-05-28 17:20: feat(security): add permission auditing script for local binaries
+- 2024-05-28 19:09: fix(proc): prevent zombie process reaping race condition
