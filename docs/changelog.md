@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2024-05-28 17:20: feat(security): add permission auditing script for local binaries
 - 2024-05-28 19:09: fix(proc): prevent zombie process reaping race condition
 - 2024-05-28 21:22: fix(proc): prevent zombie process reaping race condition
+- 2024-05-29 13:57: feat(docker): optimize multi-stage build layers
