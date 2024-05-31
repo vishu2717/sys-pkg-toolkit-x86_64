@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2024-05-29 13:57: feat(docker): optimize multi-stage build layers
 - 2024-05-31 12:42: feat(docker): optimize multi-stage build layers
 - 2024-05-31 12:42: fix(docker): specify non-root user in runtime container
+- 2024-05-31 17:01: feat(env): add automated dotfiles symlink manager
