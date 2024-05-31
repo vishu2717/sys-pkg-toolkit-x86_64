@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2024-05-28 21:22: fix(proc): prevent zombie process reaping race condition
 - 2024-05-29 13:57: feat(docker): optimize multi-stage build layers
 - 2024-05-31 12:42: feat(docker): optimize multi-stage build layers
+- 2024-05-31 12:42: fix(docker): specify non-root user in runtime container
