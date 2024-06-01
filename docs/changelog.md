@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2024-06-01 14:54: fix(proc): prevent zombie process reaping race condition
 - 2024-06-01 20:02: feat(cli): add command-line argument parser for daemon
 - 2024-06-01 20:50: perf: reduce process spawn latency using fork pool
+- 2024-06-01 21:38: docs: add architecture specification for daemon supervisor
