@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2024-05-31 12:42: fix(docker): specify non-root user in runtime container
 - 2024-05-31 17:01: feat(env): add automated dotfiles symlink manager
 - 2024-05-31 22:42: refactor(cli): simplify command dispatch loop
+- 2024-06-01 14:03: refactor(daemon): separate socket listening from worker queue
