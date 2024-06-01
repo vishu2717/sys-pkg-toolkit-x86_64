@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2024-05-31 22:42: refactor(cli): simplify command dispatch loop
 - 2024-06-01 14:03: refactor(daemon): separate socket listening from worker queue
 - 2024-06-01 14:54: fix(proc): prevent zombie process reaping race condition
+- 2024-06-01 20:02: feat(cli): add command-line argument parser for daemon
