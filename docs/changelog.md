@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2024-06-01 20:50: perf: reduce process spawn latency using fork pool
 - 2024-06-01 21:38: docs: add architecture specification for daemon supervisor
 - 2024-06-02 10:48: test(scripts): add bats verification for setup scripts
+- 2024-06-02 21:03: fix(config): ensure directory exists before writing state
