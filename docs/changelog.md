@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2024-06-03 18:56: docs: update changelog with recent utility enhancements
 - 2024-06-03 20:23: fix(bash): escape arguments in deployment script
 - 2024-06-03 22:15: feat(deploy): implement zero-downtime rolling reload
+- 2024-06-03 22:43: perf: reduce process spawn latency using fork pool
