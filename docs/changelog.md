@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2024-06-03 14:13: feat(sync): add rsync-based remote directory mirror utility
 - 2024-06-03 14:38: perf: reduce process spawn latency using fork pool
 - 2024-06-03 16:31: fix(proc): prevent zombie process reaping race condition
+- 2024-06-03 16:44: fix(docker): specify non-root user in runtime container
