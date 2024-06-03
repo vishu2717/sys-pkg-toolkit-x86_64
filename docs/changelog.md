@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2024-06-02 21:03: fix(config): ensure directory exists before writing state
 - 2024-06-03 10:12: test(daemon): verify supervisor restarts crashed processes
 - 2024-06-03 10:27: test(proc): assert exit codes under simulated failures
+- 2024-06-03 14:13: feat(sync): add rsync-based remote directory mirror utility
