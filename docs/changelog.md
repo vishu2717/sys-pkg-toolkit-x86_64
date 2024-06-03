@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2024-06-03 18:10: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-06-03 18:40: fix(cli): exit with non-zero status code on unknown command
 - 2024-06-03 18:56: docs: update changelog with recent utility enhancements
+- 2024-06-03 20:23: fix(bash): escape arguments in deployment script
