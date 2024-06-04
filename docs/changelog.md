@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2024-06-03 22:15: feat(deploy): implement zero-downtime rolling reload
 - 2024-06-03 22:43: perf: reduce process spawn latency using fork pool
 - 2024-06-04 12:32: test(daemon): verify supervisor restarts crashed processes
+- 2024-06-04 12:53: fix(cli): exit with non-zero status code on unknown command
