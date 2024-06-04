@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2024-06-04 12:53: fix(cli): exit with non-zero status code on unknown command
 - 2024-06-04 13:11: chore: configure shellcheck and ruff linter hooks
 - 2024-06-04 13:16: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-06-04 13:58: refactor(cli): simplify command dispatch loop
