@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2024-06-04 12:32: test(daemon): verify supervisor restarts crashed processes
 - 2024-06-04 12:53: fix(cli): exit with non-zero status code on unknown command
 - 2024-06-04 13:11: chore: configure shellcheck and ruff linter hooks
+- 2024-06-04 13:16: refactor(monitor): optimize sampling frequency and buffer size
