@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2024-06-04 13:58: refactor(cli): simplify command dispatch loop
 - 2024-06-04 14:44: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-06-04 15:44: test(daemon): verify supervisor restarts crashed processes
+- 2024-06-05 19:06: feat(metrics): track memory usage and cpu thread statistics
