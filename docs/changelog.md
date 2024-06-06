@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2024-06-05 19:06: feat(metrics): track memory usage and cpu thread statistics
 - 2024-06-05 22:48: test(cli): add unit test coverage for argument parsing
 - 2024-06-06 17:26: docs: update changelog with recent utility enhancements
+- 2024-06-06 18:39: feat(proc): add process supervisor with automatic restart
