@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2024-06-06 18:39: feat(proc): add process supervisor with automatic restart
 - 2024-06-06 20:46: fix(docker): specify non-root user in runtime container
 - 2024-06-06 20:59: refactor(cli): simplify command dispatch loop
+- 2024-06-07 10:02: refactor(monitor): optimize sampling frequency and buffer size
