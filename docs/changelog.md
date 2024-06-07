@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-06-07 10:15: feat(daemon): add background heartbeat and ping interval
 - 2024-06-07 12:55: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-06-07 16:58: feat(deploy): implement zero-downtime rolling reload
+- 2024-06-07 19:02: docs: update system administration runbooks and troubleshooting

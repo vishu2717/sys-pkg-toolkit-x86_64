@@ -313,3 +313,6 @@ Recent enhancements to command-line toolchain.
 
 ### Maintenance Notes
 Recent enhancements to command-line toolchain.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
