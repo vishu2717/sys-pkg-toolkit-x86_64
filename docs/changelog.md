@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2024-06-07 16:58: feat(deploy): implement zero-downtime rolling reload
 - 2024-06-07 19:02: docs: update system administration runbooks and troubleshooting
 - 2024-06-07 20:26: refactor(scripts): modularize helper functions across shell scripts
+- 2024-06-08 10:08: refactor(monitor): optimize sampling frequency and buffer size
