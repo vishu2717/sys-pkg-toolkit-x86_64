@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2024-06-07 20:26: refactor(scripts): modularize helper functions across shell scripts
 - 2024-06-08 10:08: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-06-08 15:12: feat(docker): optimize multi-stage build layers
+- 2024-06-08 15:27: test(cli): add unit test coverage for argument parsing
