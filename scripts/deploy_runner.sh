@@ -279,3 +279,6 @@ reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
 
 # Zero-downtime deploy reload
 reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
+
+# Zero-downtime deploy reload
+reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
