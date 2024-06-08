@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2024-06-08 15:27: test(cli): add unit test coverage for argument parsing
 - 2024-06-08 15:54: feat(deploy): implement zero-downtime rolling reload
 - 2024-06-08 16:01: feat(env): add automated dotfiles symlink manager
+- 2024-06-08 23:04: fix(docker): specify non-root user in runtime container
