@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2024-06-08 23:04: fix(docker): specify non-root user in runtime container
 - 2024-06-09 14:01: test(daemon): verify supervisor restarts crashed processes
 - 2024-06-10 10:08: feat(proc): add process supervisor with automatic restart
+- 2024-06-10 10:18: refactor(scripts): modularize helper functions across shell scripts
