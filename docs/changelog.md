@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-06-10 12:41: refactor(daemon): separate socket listening from worker queue
 - 2024-06-10 12:50: feat(sync): add rsync-based remote directory mirror utility
 - 2024-06-10 13:41: feat(cli): add command-line argument parser for daemon
+- 2024-06-10 14:41: fix(cli): exit with non-zero status code on unknown command
