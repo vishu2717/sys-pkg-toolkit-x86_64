@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-06-10 10:08: feat(proc): add process supervisor with automatic restart
 - 2024-06-10 10:18: refactor(scripts): modularize helper functions across shell scripts
 - 2024-06-10 11:52: feat(docker): optimize multi-stage build layers
+- 2024-06-10 12:41: refactor(daemon): separate socket listening from worker queue
