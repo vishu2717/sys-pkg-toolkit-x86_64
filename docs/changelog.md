@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2024-06-10 14:41: fix(cli): exit with non-zero status code on unknown command
 - 2024-06-10 14:50: fix(bash): escape arguments in deployment script
 - 2024-06-10 14:56: refactor(daemon): separate socket listening from worker queue
+- 2024-06-10 16:41: fix(config): ensure directory exists before writing state
