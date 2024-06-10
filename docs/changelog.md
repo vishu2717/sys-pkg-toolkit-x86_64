@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2024-06-10 16:41: fix(config): ensure directory exists before writing state
 - 2024-06-10 19:10: refactor(cli): simplify command dispatch loop
 - 2024-06-10 21:06: fix(bash): escape arguments in deployment script
+- 2024-06-10 21:43: refactor(config): migrate global settings to immutable dataclass
