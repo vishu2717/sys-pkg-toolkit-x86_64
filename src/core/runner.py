@@ -270,3 +270,7 @@ class SystemMetrics:
 class ProcessSupervisor:
     '''Supervise child workers and auto-restart on exit.'''
     pass
+
+class ProcessSupervisor:
+    '''Supervise child workers and auto-restart on exit.'''
+    pass
