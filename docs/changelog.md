@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2024-06-10 21:06: fix(bash): escape arguments in deployment script
 - 2024-06-10 21:43: refactor(config): migrate global settings to immutable dataclass
 - 2024-06-10 22:23: fix(bash): escape arguments in deployment script
+- 2024-06-11 13:20: test(proc): assert exit codes under simulated failures
