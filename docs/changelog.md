@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2024-06-11 14:57: style: enforce consistent shell quoting and indentation
 - 2024-06-11 21:40: feat(sync): add rsync-based remote directory mirror utility
 - 2024-06-12 11:57: docs: update changelog with recent utility enhancements
+- 2024-06-12 12:25: chore: update base container image to latest alpine
