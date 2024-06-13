@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2024-06-12 11:57: docs: update changelog with recent utility enhancements
 - 2024-06-12 12:25: chore: update base container image to latest alpine
 - 2024-06-12 21:34: fix(proc): prevent zombie process reaping race condition
+- 2024-06-13 12:51: refactor(config): migrate global settings to immutable dataclass
