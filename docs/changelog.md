@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2024-06-13 23:22: test(proc): assert exit codes under simulated failures
 - 2024-06-14 11:29: fix(config): ensure directory exists before writing state
 - 2024-06-14 13:03: fix(docker): specify non-root user in runtime container
+- 2024-06-14 17:31: refactor(scripts): modularize helper functions across shell scripts
