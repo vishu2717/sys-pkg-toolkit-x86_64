@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2024-06-13 13:56: fix(bash): escape arguments in deployment script
 - 2024-06-13 20:22: feat(env): add automated dotfiles symlink manager
 - 2024-06-13 23:22: test(proc): assert exit codes under simulated failures
+- 2024-06-14 11:29: fix(config): ensure directory exists before writing state
