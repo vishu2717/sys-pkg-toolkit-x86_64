@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2024-06-14 21:41: feat(shell): implement safe pipe execution helper
 - 2024-06-14 22:41: refactor(config): migrate global settings to immutable dataclass
 - 2024-06-16 11:26: refactor(config): migrate global settings to immutable dataclass
+- 2024-06-17 11:55: feat(metrics): track memory usage and cpu thread statistics
