@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2024-06-18 14:47: fix(config): ensure directory exists before writing state
 - 2024-06-18 17:55: feat(monitor): implement system resource tracking utility
 - 2024-06-18 18:21: feat(security): add permission auditing script for local binaries
+- 2024-06-18 19:27: fix(daemon): gracefully handle sigterm during log rotation
