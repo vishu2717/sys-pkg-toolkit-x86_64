@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2024-06-20 12:53: refactor(scripts): modularize helper functions across shell scripts
 - 2024-06-20 13:55: feat(config): add JSON and YAML configuration loader
 - 2024-06-20 14:46: style: enforce consistent shell quoting and indentation
+- 2024-06-20 15:34: feat(env): add automated dotfiles symlink manager
