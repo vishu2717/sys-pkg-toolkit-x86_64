@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2024-06-20 15:34: feat(env): add automated dotfiles symlink manager
 - 2024-06-20 16:40: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-06-20 17:47: docs: update system administration runbooks and troubleshooting
+- 2024-06-20 19:01: feat(proc): add process supervisor with automatic restart
