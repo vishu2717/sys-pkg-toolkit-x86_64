@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2024-06-20 19:01: feat(proc): add process supervisor with automatic restart
 - 2024-06-20 19:38: refactor(cli): simplify command dispatch loop
 - 2024-06-20 23:28: feat(monitor): implement system resource tracking utility
+- 2024-06-21 14:01: chore: configure shellcheck and ruff linter hooks
