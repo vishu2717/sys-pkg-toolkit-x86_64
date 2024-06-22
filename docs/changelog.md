@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2024-06-21 14:01: chore: configure shellcheck and ruff linter hooks
 - 2024-06-22 11:19: feat(proc): add process supervisor with automatic restart
 - 2024-06-22 17:11: feat(env): add automated dotfiles symlink manager
+- 2024-06-22 20:34: docs: document environment variables and override flags
