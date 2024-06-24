@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2024-06-24 12:13: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-06-24 14:31: test(daemon): verify supervisor restarts crashed processes
 - 2024-06-24 15:03: feat(proc): add process supervisor with automatic restart
+- 2024-06-24 15:55: refactor(cli): simplify command dispatch loop
