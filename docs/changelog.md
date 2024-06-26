@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2024-06-26 13:09: fix(bash): escape arguments in deployment script
 - 2024-06-26 14:46: feat(config): add JSON and YAML configuration loader
 - 2024-06-26 16:40: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-06-26 17:05: fix(cli): exit with non-zero status code on unknown command
