@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2024-06-26 17:05: fix(cli): exit with non-zero status code on unknown command
 - 2024-06-26 20:28: feat(daemon): add background heartbeat and ping interval
 - 2024-06-26 21:13: docs: update changelog with recent utility enhancements
+- 2024-06-26 21:33: perf: reduce process spawn latency using fork pool
