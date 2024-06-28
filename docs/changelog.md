@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2024-06-28 15:24: fix(config): ensure directory exists before writing state
 - 2024-06-28 21:42: feat(monitor): implement system resource tracking utility
 - 2024-06-28 22:03: feat(proc): add process supervisor with automatic restart
+- 2024-06-28 22:28: fix(docker): specify non-root user in runtime container
