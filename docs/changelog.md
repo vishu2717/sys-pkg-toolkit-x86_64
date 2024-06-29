@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2024-06-28 22:03: feat(proc): add process supervisor with automatic restart
 - 2024-06-28 22:28: fix(docker): specify non-root user in runtime container
 - 2024-06-29 15:23: feat(daemon): add background heartbeat and ping interval
+- 2024-06-29 19:28: fix(bash): escape arguments in deployment script
