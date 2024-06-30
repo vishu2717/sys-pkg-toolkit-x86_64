@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2024-06-29 19:28: fix(bash): escape arguments in deployment script
 - 2024-06-29 20:03: refactor(daemon): separate socket listening from worker queue
 - 2024-06-29 20:39: docs: update system administration runbooks and troubleshooting
+- 2024-06-30 10:06: docs: add architecture specification for daemon supervisor
