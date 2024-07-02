@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2024-06-30 10:06: docs: add architecture specification for daemon supervisor
 - 2024-06-30 12:43: feat(config): add JSON and YAML configuration loader
 - 2024-07-02 10:42: feat(monitor): implement system resource tracking utility
+- 2024-07-02 12:28: chore: configure shellcheck and ruff linter hooks
