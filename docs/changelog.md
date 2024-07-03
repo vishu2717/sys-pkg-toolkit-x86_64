@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2024-07-02 16:12: fix(cli): exit with non-zero status code on unknown command
 - 2024-07-02 20:33: feat(docker): optimize multi-stage build layers
 - 2024-07-02 22:56: test(cli): add unit test coverage for argument parsing
+- 2024-07-03 12:34: test(scripts): add bats verification for setup scripts
