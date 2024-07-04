@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2024-07-03 19:01: feat(docker): optimize multi-stage build layers
 - 2024-07-03 21:34: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-07-04 12:20: test(scripts): add bats verification for setup scripts
+- 2024-07-04 12:32: feat(cli): add command-line argument parser for daemon
