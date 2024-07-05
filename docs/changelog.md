@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2024-07-05 15:41: feat(cli): add command-line argument parser for daemon
 - 2024-07-05 17:38: fix(cli): exit with non-zero status code on unknown command
 - 2024-07-05 17:39: feat(deploy): implement zero-downtime rolling reload
+- 2024-07-05 21:31: docs: document environment variables and override flags
