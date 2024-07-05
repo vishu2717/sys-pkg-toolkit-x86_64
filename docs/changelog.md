@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2024-07-05 13:14: feat(monitor): implement system resource tracking utility
 - 2024-07-05 15:16: refactor(config): migrate global settings to immutable dataclass
 - 2024-07-05 15:41: feat(cli): add command-line argument parser for daemon
+- 2024-07-05 17:38: fix(cli): exit with non-zero status code on unknown command
