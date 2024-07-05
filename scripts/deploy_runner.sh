@@ -303,3 +303,6 @@ sync_dirs() { rsync -avz --delete "$1" "$2"; }
 sync_dirs() { rsync -avz --delete "$1" "$2"; }
 
 # Escaped positional parameters safely
+
+# Zero-downtime deploy reload
+reload_service() { kill -HUP "$(cat /var/run/service.pid 2>/dev/null)"; }
