@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2024-07-04 12:20: test(scripts): add bats verification for setup scripts
 - 2024-07-04 12:32: feat(cli): add command-line argument parser for daemon
 - 2024-07-05 11:36: fix(proc): prevent zombie process reaping race condition
+- 2024-07-05 11:47: fix(proc): prevent zombie process reaping race condition
