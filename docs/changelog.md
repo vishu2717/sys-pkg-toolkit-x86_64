@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2024-07-05 12:33: feat(env): add automated dotfiles symlink manager
 - 2024-07-05 13:14: feat(monitor): implement system resource tracking utility
 - 2024-07-05 15:16: refactor(config): migrate global settings to immutable dataclass
+- 2024-07-05 15:41: feat(cli): add command-line argument parser for daemon
