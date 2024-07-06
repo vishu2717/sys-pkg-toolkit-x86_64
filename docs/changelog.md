@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2024-07-05 17:38: fix(cli): exit with non-zero status code on unknown command
 - 2024-07-05 17:39: feat(deploy): implement zero-downtime rolling reload
 - 2024-07-05 21:31: docs: document environment variables and override flags
+- 2024-07-06 10:24: test(scripts): add bats verification for setup scripts
