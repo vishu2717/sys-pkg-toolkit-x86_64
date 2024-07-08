@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2024-07-06 19:57: docs: document environment variables and override flags
 - 2024-07-06 20:37: style: enforce consistent shell quoting and indentation
 - 2024-07-06 23:24: test(proc): assert exit codes under simulated failures
+- 2024-07-08 15:12: fix(proc): prevent zombie process reaping race condition
