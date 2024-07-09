@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-07-08 21:55: fix(cli): exit with non-zero status code on unknown command
 - 2024-07-09 13:40: feat(shell): implement safe pipe execution helper
 - 2024-07-09 13:52: chore: configure shellcheck and ruff linter hooks
+- 2024-07-09 17:28: refactor(monitor): optimize sampling frequency and buffer size
