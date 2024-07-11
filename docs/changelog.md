@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2024-07-10 20:05: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-07-10 23:08: fix(bash): escape arguments in deployment script
 - 2024-07-11 11:33: fix(config): ensure directory exists before writing state
+- 2024-07-11 22:24: feat(security): add permission auditing script for local binaries
