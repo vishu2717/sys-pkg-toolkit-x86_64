@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2024-07-10 14:54: refactor(daemon): separate socket listening from worker queue
 - 2024-07-10 20:05: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-07-10 23:08: fix(bash): escape arguments in deployment script
+- 2024-07-11 11:33: fix(config): ensure directory exists before writing state
