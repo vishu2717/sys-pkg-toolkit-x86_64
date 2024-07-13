@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2024-07-11 11:33: fix(config): ensure directory exists before writing state
 - 2024-07-11 22:24: feat(security): add permission auditing script for local binaries
 - 2024-07-13 12:10: feat(monitor): implement system resource tracking utility
+- 2024-07-13 22:40: fix(bash): escape arguments in deployment script
