@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-07-14 11:48: fix(config): ensure directory exists before writing state
 - 2024-07-14 16:24: feat(shell): implement safe pipe execution helper
 - 2024-07-14 19:06: test(cli): add unit test coverage for argument parsing
+- 2024-07-14 20:04: fix(docker): specify non-root user in runtime container
