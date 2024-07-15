@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2024-07-15 15:12: feat(deploy): implement zero-downtime rolling reload
 - 2024-07-15 16:27: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-07-15 16:52: refactor(daemon): separate socket listening from worker queue
+- 2024-07-15 17:32: docs: document environment variables and override flags
