@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2024-07-14 19:06: test(cli): add unit test coverage for argument parsing
 - 2024-07-14 20:04: fix(docker): specify non-root user in runtime container
 - 2024-07-14 20:32: docs: document environment variables and override flags
+- 2024-07-15 10:24: feat(cli): add command-line argument parser for daemon
