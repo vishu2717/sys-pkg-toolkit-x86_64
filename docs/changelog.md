@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2024-07-15 16:52: refactor(daemon): separate socket listening from worker queue
 - 2024-07-15 17:32: docs: document environment variables and override flags
 - 2024-07-16 10:33: perf: reduce process spawn latency using fork pool
+- 2024-07-16 18:21: fix(monitor): resolve division by zero on idle cpu calculation
