@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-07-16 10:33: perf: reduce process spawn latency using fork pool
 - 2024-07-16 18:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-07-17 12:50: feat(security): add permission auditing script for local binaries
+- 2024-07-17 15:13: refactor(monitor): optimize sampling frequency and buffer size
