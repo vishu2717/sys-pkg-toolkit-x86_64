@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2024-07-17 12:50: feat(security): add permission auditing script for local binaries
 - 2024-07-17 15:13: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-07-17 18:01: fix(proc): prevent zombie process reaping race condition
+- 2024-07-17 21:43: fix(bash): escape arguments in deployment script
