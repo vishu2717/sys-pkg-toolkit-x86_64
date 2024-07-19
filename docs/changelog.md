@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2024-07-19 17:07: fix(docker): specify non-root user in runtime container
 - 2024-07-19 17:19: feat(sync): add rsync-based remote directory mirror utility
 - 2024-07-19 17:41: feat(daemon): add background heartbeat and ping interval
+- 2024-07-19 17:53: feat(deploy): implement zero-downtime rolling reload
