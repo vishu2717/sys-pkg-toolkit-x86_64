@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2024-07-19 11:37: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-07-19 11:53: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-07-19 12:29: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-07-19 12:30: fix(daemon): gracefully handle sigterm during log rotation
