@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2024-07-17 18:01: fix(proc): prevent zombie process reaping race condition
 - 2024-07-17 21:43: fix(bash): escape arguments in deployment script
 - 2024-07-19 11:37: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-07-19 11:53: refactor(monitor): optimize sampling frequency and buffer size
