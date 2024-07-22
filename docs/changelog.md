@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2024-07-22 12:40: fix(proc): prevent zombie process reaping race condition
 - 2024-07-22 13:22: test(scripts): add bats verification for setup scripts
 - 2024-07-22 14:02: refactor(scripts): modularize helper functions across shell scripts
+- 2024-07-22 15:03: feat(metrics): track memory usage and cpu thread statistics
