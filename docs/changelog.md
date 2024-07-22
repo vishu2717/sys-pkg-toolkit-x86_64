@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2024-07-19 20:26: feat(config): add JSON and YAML configuration loader
 - 2024-07-22 12:12: docs: update system administration runbooks and troubleshooting
 - 2024-07-22 12:40: fix(proc): prevent zombie process reaping race condition
+- 2024-07-22 13:22: test(scripts): add bats verification for setup scripts
