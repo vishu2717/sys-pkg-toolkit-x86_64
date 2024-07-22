@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2024-07-22 14:02: refactor(scripts): modularize helper functions across shell scripts
 - 2024-07-22 15:03: feat(metrics): track memory usage and cpu thread statistics
 - 2024-07-22 17:54: perf: reduce process spawn latency using fork pool
+- 2024-07-22 18:02: fix(daemon): gracefully handle sigterm during log rotation
