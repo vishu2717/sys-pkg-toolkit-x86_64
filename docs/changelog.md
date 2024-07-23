@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-07-23 15:31: feat(monitor): implement system resource tracking utility
 - 2024-07-23 16:34: feat(metrics): track memory usage and cpu thread statistics
 - 2024-07-23 18:07: fix(bash): escape arguments in deployment script
+- 2024-07-23 18:28: fix(docker): specify non-root user in runtime container
