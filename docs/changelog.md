@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2024-07-23 18:28: fix(docker): specify non-root user in runtime container
 - 2024-07-24 10:21: docs: update system administration runbooks and troubleshooting
 - 2024-07-24 13:23: fix(docker): specify non-root user in runtime container
+- 2024-07-24 19:16: refactor(monitor): optimize sampling frequency and buffer size
