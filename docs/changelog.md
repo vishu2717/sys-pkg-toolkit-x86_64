@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2024-07-24 19:36: feat(metrics): track memory usage and cpu thread statistics
 - 2024-07-26 14:28: feat(daemon): add background heartbeat and ping interval
 - 2024-07-26 19:35: feat(config): add JSON and YAML configuration loader
+- 2024-07-26 22:39: fix(proc): prevent zombie process reaping race condition
