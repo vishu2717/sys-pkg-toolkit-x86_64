@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2024-07-27 15:55: test(scripts): add bats verification for setup scripts
 - 2024-07-27 21:17: feat(security): add permission auditing script for local binaries
 - 2024-07-27 22:44: fix(proc): prevent zombie process reaping race condition
+- 2024-07-27 23:14: fix(docker): specify non-root user in runtime container
