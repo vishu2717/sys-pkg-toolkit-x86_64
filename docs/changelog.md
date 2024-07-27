@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2024-07-26 22:39: fix(proc): prevent zombie process reaping race condition
 - 2024-07-27 11:58: docs: update system administration runbooks and troubleshooting
 - 2024-07-27 15:07: fix(docker): specify non-root user in runtime container
+- 2024-07-27 15:55: test(scripts): add bats verification for setup scripts
