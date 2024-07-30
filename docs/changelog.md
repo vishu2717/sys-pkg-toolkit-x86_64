@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2024-07-27 22:44: fix(proc): prevent zombie process reaping race condition
 - 2024-07-27 23:14: fix(docker): specify non-root user in runtime container
 - 2024-07-28 14:43: fix(bash): escape arguments in deployment script
+- 2024-07-30 10:04: feat(deploy): implement zero-downtime rolling reload
