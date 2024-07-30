@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2024-07-30 10:04: feat(deploy): implement zero-downtime rolling reload
 - 2024-07-30 10:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-07-30 10:44: fix(config): ensure directory exists before writing state
+- 2024-07-30 17:01: feat(sync): add rsync-based remote directory mirror utility
