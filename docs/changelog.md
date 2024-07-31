@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2024-07-31 10:54: test(daemon): verify supervisor restarts crashed processes
 - 2024-07-31 11:58: style: enforce consistent shell quoting and indentation
 - 2024-07-31 13:33: feat(config): add JSON and YAML configuration loader
+- 2024-07-31 14:12: fix(proc): prevent zombie process reaping race condition
