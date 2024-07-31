@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2024-07-31 15:19: fix(proc): prevent zombie process reaping race condition
 - 2024-07-31 19:27: refactor(scripts): modularize helper functions across shell scripts
 - 2024-07-31 21:15: refactor(cli): simplify command dispatch loop
+- 2024-07-31 23:04: feat(security): add permission auditing script for local binaries
