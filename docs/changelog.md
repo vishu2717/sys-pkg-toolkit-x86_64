@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2024-08-02 12:33: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-02 15:00: refactor(cli): simplify command dispatch loop
 - 2024-08-02 15:41: feat(monitor): implement system resource tracking utility
+- 2024-08-02 16:56: fix(bash): escape arguments in deployment script
