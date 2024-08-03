@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2024-08-02 16:56: fix(bash): escape arguments in deployment script
 - 2024-08-02 21:14: feat(daemon): add background heartbeat and ping interval
 - 2024-08-02 22:20: chore: update base container image to latest alpine
+- 2024-08-03 10:04: feat(proc): add process supervisor with automatic restart
