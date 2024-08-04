@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2024-08-04 12:11: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-08-04 13:21: feat(security): add permission auditing script for local binaries
 - 2024-08-04 13:53: feat(daemon): add background heartbeat and ping interval
+- 2024-08-04 15:06: fix(cli): exit with non-zero status code on unknown command
