@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2024-08-04 15:06: fix(cli): exit with non-zero status code on unknown command
 - 2024-08-04 15:51: feat(shell): implement safe pipe execution helper
 - 2024-08-04 16:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-08-04 17:32: docs: add architecture specification for daemon supervisor
