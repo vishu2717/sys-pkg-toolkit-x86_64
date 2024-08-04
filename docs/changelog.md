@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2024-08-03 21:05: refactor(cli): simplify command dispatch loop
 - 2024-08-03 22:25: feat(env): add automated dotfiles symlink manager
 - 2024-08-04 12:11: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-08-04 13:21: feat(security): add permission auditing script for local binaries
