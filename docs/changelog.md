@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2024-08-04 17:32: docs: add architecture specification for daemon supervisor
 - 2024-08-04 22:32: feat(proc): add process supervisor with automatic restart
 - 2024-08-05 11:31: feat(sync): add rsync-based remote directory mirror utility
+- 2024-08-05 13:00: refactor(config): migrate global settings to immutable dataclass
