@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2024-08-05 21:45: feat(daemon): add background heartbeat and ping interval
 - 2024-08-07 12:43: test(proc): assert exit codes under simulated failures
 - 2024-08-07 22:45: style: enforce consistent shell quoting and indentation
+- 2024-08-08 10:14: test(daemon): verify supervisor restarts crashed processes
