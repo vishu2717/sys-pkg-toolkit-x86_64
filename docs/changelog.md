@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2024-08-07 22:45: style: enforce consistent shell quoting and indentation
 - 2024-08-08 10:14: test(daemon): verify supervisor restarts crashed processes
 - 2024-08-08 12:24: refactor(config): migrate global settings to immutable dataclass
+- 2024-08-09 11:45: feat(proc): add process supervisor with automatic restart
