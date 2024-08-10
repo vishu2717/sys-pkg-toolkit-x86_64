@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2024-08-09 11:45: feat(proc): add process supervisor with automatic restart
 - 2024-08-09 18:51: feat(config): add JSON and YAML configuration loader
 - 2024-08-09 21:37: fix(proc): prevent zombie process reaping race condition
+- 2024-08-10 16:53: refactor(cli): simplify command dispatch loop
