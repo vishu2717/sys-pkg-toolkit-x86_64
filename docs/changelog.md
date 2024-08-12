@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2024-08-10 17:18: feat(config): add JSON and YAML configuration loader
 - 2024-08-10 22:30: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-08-12 13:48: test(cli): add unit test coverage for argument parsing
+- 2024-08-12 15:41: fix(config): ensure directory exists before writing state
