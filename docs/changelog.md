@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2024-08-12 21:07: feat(daemon): add background heartbeat and ping interval
 - 2024-08-12 21:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-08-12 22:26: feat(proc): add process supervisor with automatic restart
+- 2024-08-12 22:56: docs: add architecture specification for daemon supervisor
