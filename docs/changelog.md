@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 18:31: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-08-13 18:42: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-08-13 19:25: refactor(cli): simplify command dispatch loop
+- 2024-08-13 19:57: docs: document environment variables and override flags
