@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 14:21: fix(proc): prevent zombie process reaping race condition
 - 2024-08-13 16:08: fix(cli): exit with non-zero status code on unknown command
 - 2024-08-13 18:13: feat(env): add automated dotfiles symlink manager
+- 2024-08-13 18:31: fix(monitor): resolve division by zero on idle cpu calculation
