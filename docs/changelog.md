@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2024-08-12 22:26: feat(proc): add process supervisor with automatic restart
 - 2024-08-12 22:56: docs: add architecture specification for daemon supervisor
 - 2024-08-12 22:58: docs: update system administration runbooks and troubleshooting
+- 2024-08-13 12:03: feat(deploy): implement zero-downtime rolling reload
