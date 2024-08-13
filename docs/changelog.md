@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 12:51: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-08-13 13:24: feat(sync): add rsync-based remote directory mirror utility
 - 2024-08-13 14:10: test(proc): assert exit codes under simulated failures
+- 2024-08-13 14:21: fix(proc): prevent zombie process reaping race condition
