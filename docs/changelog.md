@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 13:24: feat(sync): add rsync-based remote directory mirror utility
 - 2024-08-13 14:10: test(proc): assert exit codes under simulated failures
 - 2024-08-13 14:21: fix(proc): prevent zombie process reaping race condition
+- 2024-08-13 16:08: fix(cli): exit with non-zero status code on unknown command
