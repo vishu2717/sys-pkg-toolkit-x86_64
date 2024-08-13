@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 18:13: feat(env): add automated dotfiles symlink manager
 - 2024-08-13 18:31: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-08-13 18:42: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-08-13 19:25: refactor(cli): simplify command dispatch loop
