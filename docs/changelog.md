@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 19:57: docs: document environment variables and override flags
 - 2024-08-13 20:09: feat(security): add permission auditing script for local binaries
 - 2024-08-13 23:15: refactor(config): migrate global settings to immutable dataclass
+- 2024-08-13 23:27: test(daemon): verify supervisor restarts crashed processes
