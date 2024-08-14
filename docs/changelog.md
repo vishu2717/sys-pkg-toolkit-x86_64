@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2024-08-13 23:15: refactor(config): migrate global settings to immutable dataclass
 - 2024-08-13 23:27: test(daemon): verify supervisor restarts crashed processes
 - 2024-08-14 10:30: feat(docker): optimize multi-stage build layers
+- 2024-08-14 13:50: fix(bash): escape arguments in deployment script
