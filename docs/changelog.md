@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2024-08-14 14:43: test(scripts): add bats verification for setup scripts
 - 2024-08-14 16:26: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-14 18:06: refactor(daemon): separate socket listening from worker queue
+- 2024-08-15 12:11: refactor(monitor): optimize sampling frequency and buffer size
