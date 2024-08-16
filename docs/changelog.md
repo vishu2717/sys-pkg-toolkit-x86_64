@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2024-08-15 21:42: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-15 22:50: test(proc): assert exit codes under simulated failures
 - 2024-08-16 14:04: feat(security): add permission auditing script for local binaries
+- 2024-08-16 14:32: docs: document environment variables and override flags
