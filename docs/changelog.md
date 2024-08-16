@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2024-08-16 14:32: docs: document environment variables and override flags
 - 2024-08-16 15:09: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-16 16:37: refactor(scripts): modularize helper functions across shell scripts
+- 2024-08-16 16:55: fix(proc): prevent zombie process reaping race condition
