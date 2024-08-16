@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-08-16 18:51: refactor(config): migrate global settings to immutable dataclass
 - 2024-08-16 18:54: refactor(cli): simplify command dispatch loop
 - 2024-08-16 19:30: test(daemon): verify supervisor restarts crashed processes
+- 2024-08-16 19:37: feat(security): add permission auditing script for local binaries
