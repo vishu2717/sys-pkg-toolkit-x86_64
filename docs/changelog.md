@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2024-08-17 11:06: feat(proc): add process supervisor with automatic restart
 - 2024-08-17 12:49: refactor(config): migrate global settings to immutable dataclass
 - 2024-08-17 19:16: refactor(cli): simplify command dispatch loop
+- 2024-08-17 23:25: test(daemon): verify supervisor restarts crashed processes
