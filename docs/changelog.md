@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2024-08-19 18:23: feat(metrics): track memory usage and cpu thread statistics
 - 2024-08-19 20:58: feat(daemon): add background heartbeat and ping interval
 - 2024-08-19 23:12: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-08-21 16:43: feat(env): add automated dotfiles symlink manager
