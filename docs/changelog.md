@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2024-08-19 23:12: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-08-21 16:43: feat(env): add automated dotfiles symlink manager
 - 2024-08-22 11:08: refactor(scripts): modularize helper functions across shell scripts
+- 2024-08-22 20:43: fix(cli): exit with non-zero status code on unknown command
