@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2024-08-23 15:50: feat(deploy): implement zero-downtime rolling reload
 - 2024-08-23 17:56: feat(proc): add process supervisor with automatic restart
 - 2024-08-24 11:44: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-08-24 19:23: test(cli): add unit test coverage for argument parsing
