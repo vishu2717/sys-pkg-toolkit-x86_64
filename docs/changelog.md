@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-08-24 19:23: test(cli): add unit test coverage for argument parsing
 - 2024-08-25 10:15: test(cli): add unit test coverage for argument parsing
 - 2024-08-25 11:15: feat(config): add JSON and YAML configuration loader
+- 2024-08-25 11:26: fix(daemon): gracefully handle sigterm during log rotation
