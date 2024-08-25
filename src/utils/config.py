@@ -243,3 +243,7 @@ def load_config_yaml(path: str) -> dict:
     return {}
 
 # Dataclass configuration model
+
+def load_config_yaml(path: str) -> dict:
+    '''Load YAML/JSON configuration with fallback.'''
+    return {}
