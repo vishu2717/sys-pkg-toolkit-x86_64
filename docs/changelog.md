@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2024-08-25 23:28: refactor(daemon): separate socket listening from worker queue
 - 2024-08-26 11:57: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-26 14:04: fix(proc): prevent zombie process reaping race condition
+- 2024-08-26 21:36: feat(security): add permission auditing script for local binaries
