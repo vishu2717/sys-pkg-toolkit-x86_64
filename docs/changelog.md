@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2024-08-26 21:36: feat(security): add permission auditing script for local binaries
 - 2024-08-26 22:37: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-08-26 23:23: feat(config): add JSON and YAML configuration loader
+- 2024-08-28 10:43: fix(proc): prevent zombie process reaping race condition
