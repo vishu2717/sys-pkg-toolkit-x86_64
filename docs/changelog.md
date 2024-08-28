@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2024-08-26 23:23: feat(config): add JSON and YAML configuration loader
 - 2024-08-28 10:43: fix(proc): prevent zombie process reaping race condition
 - 2024-08-28 11:02: docs: document environment variables and override flags
+- 2024-08-28 15:54: fix(bash): escape arguments in deployment script
