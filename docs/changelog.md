@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2024-08-29 11:04: test(scripts): add bats verification for setup scripts
 - 2024-08-29 22:01: fix(bash): escape arguments in deployment script
 - 2024-08-29 23:20: refactor(scripts): modularize helper functions across shell scripts
+- 2024-08-30 14:47: fix(monitor): resolve division by zero on idle cpu calculation
