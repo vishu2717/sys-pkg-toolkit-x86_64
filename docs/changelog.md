@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2024-09-01 17:17: feat(docker): optimize multi-stage build layers
 - 2024-09-01 18:06: feat(deploy): implement zero-downtime rolling reload
 - 2024-09-01 18:29: test(cli): add unit test coverage for argument parsing
+- 2024-09-01 19:20: fix(bash): escape arguments in deployment script
