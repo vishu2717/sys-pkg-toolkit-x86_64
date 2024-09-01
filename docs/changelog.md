@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-09-01 10:53: test(cli): add unit test coverage for argument parsing
 - 2024-09-01 14:23: docs: add architecture specification for daemon supervisor
 - 2024-09-01 14:55: refactor(scripts): modularize helper functions across shell scripts
+- 2024-09-01 16:55: fix(docker): specify non-root user in runtime container
