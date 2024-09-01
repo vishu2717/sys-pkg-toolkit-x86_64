@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2024-08-29 23:20: refactor(scripts): modularize helper functions across shell scripts
 - 2024-08-30 14:47: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-08-31 13:41: test(cli): add unit test coverage for argument parsing
+- 2024-09-01 10:04: fix(cli): exit with non-zero status code on unknown command
