@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2024-09-01 20:21: docs: update changelog with recent utility enhancements
 - 2024-09-01 20:54: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-01 22:29: fix(proc): prevent zombie process reaping race condition
+- 2024-09-01 22:34: test(daemon): verify supervisor restarts crashed processes
