@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2024-09-02 12:02: feat(metrics): track memory usage and cpu thread statistics
 - 2024-09-02 18:05: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-02 18:22: refactor(cli): simplify command dispatch loop
+- 2024-09-02 21:10: fix(monitor): resolve division by zero on idle cpu calculation
