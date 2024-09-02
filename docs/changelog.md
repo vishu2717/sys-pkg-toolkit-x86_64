@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2024-09-01 22:29: fix(proc): prevent zombie process reaping race condition
 - 2024-09-01 22:34: test(daemon): verify supervisor restarts crashed processes
 - 2024-09-02 11:26: test(proc): assert exit codes under simulated failures
+- 2024-09-02 12:02: feat(metrics): track memory usage and cpu thread statistics
