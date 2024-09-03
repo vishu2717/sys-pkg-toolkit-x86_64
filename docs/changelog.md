@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2024-09-02 18:05: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-02 18:22: refactor(cli): simplify command dispatch loop
 - 2024-09-02 21:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-09-03 12:43: feat(security): add permission auditing script for local binaries
