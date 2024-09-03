@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2024-09-03 12:43: feat(security): add permission auditing script for local binaries
 - 2024-09-03 16:16: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-09-03 16:31: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-03 17:25: test(cli): add unit test coverage for argument parsing
