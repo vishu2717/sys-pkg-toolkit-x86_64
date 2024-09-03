@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2024-09-02 21:10: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-09-03 12:43: feat(security): add permission auditing script for local binaries
 - 2024-09-03 16:16: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-09-03 16:31: refactor(config): migrate global settings to immutable dataclass
