@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2024-09-04 13:11: fix(docker): specify non-root user in runtime container
 - 2024-09-04 17:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-04 18:31: test(scripts): add bats verification for setup scripts
+- 2024-09-04 19:52: test(daemon): verify supervisor restarts crashed processes
