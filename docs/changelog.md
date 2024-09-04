@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2024-09-03 22:01: feat(config): add JSON and YAML configuration loader
 - 2024-09-03 22:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-03 23:11: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-04 10:06: test(proc): assert exit codes under simulated failures
