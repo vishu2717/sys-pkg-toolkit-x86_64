@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2024-09-04 17:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-04 18:31: test(scripts): add bats verification for setup scripts
 - 2024-09-04 19:52: test(daemon): verify supervisor restarts crashed processes
+- 2024-09-04 23:23: test(cli): add unit test coverage for argument parsing
