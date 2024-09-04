@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2024-09-04 12:43: test(scripts): add bats verification for setup scripts
 - 2024-09-04 13:06: feat(monitor): implement system resource tracking utility
 - 2024-09-04 13:11: fix(docker): specify non-root user in runtime container
+- 2024-09-04 17:25: fix(daemon): gracefully handle sigterm during log rotation
