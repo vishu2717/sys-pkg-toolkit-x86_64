@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2024-09-03 23:11: refactor(config): migrate global settings to immutable dataclass
 - 2024-09-04 10:06: test(proc): assert exit codes under simulated failures
 - 2024-09-04 10:22: fix(config): ensure directory exists before writing state
+- 2024-09-04 12:21: feat(config): add JSON and YAML configuration loader
