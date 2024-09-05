@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2024-09-05 10:20: feat(monitor): implement system resource tracking utility
 - 2024-09-05 13:04: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-09-05 15:51: fix(docker): specify non-root user in runtime container
+- 2024-09-05 17:40: fix(cli): exit with non-zero status code on unknown command
