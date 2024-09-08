@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2024-09-05 13:04: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-09-05 15:51: fix(docker): specify non-root user in runtime container
 - 2024-09-05 17:40: fix(cli): exit with non-zero status code on unknown command
+- 2024-09-08 10:03: docs: document environment variables and override flags
