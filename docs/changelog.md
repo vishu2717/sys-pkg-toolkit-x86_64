@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2024-09-08 14:33: fix(cli): exit with non-zero status code on unknown command
 - 2024-09-08 14:35: feat(daemon): add background heartbeat and ping interval
 - 2024-09-08 15:26: feat(config): add JSON and YAML configuration loader
+- 2024-09-08 16:19: refactor(cli): simplify command dispatch loop
