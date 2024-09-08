@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2024-09-05 17:40: fix(cli): exit with non-zero status code on unknown command
 - 2024-09-08 10:03: docs: document environment variables and override flags
 - 2024-09-08 13:19: refactor(cli): simplify command dispatch loop
+- 2024-09-08 13:57: test(scripts): add bats verification for setup scripts
