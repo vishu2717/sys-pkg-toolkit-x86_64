@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2024-09-08 17:35: feat(shell): implement safe pipe execution helper
 - 2024-09-08 17:37: feat(deploy): implement zero-downtime rolling reload
 - 2024-09-08 19:21: fix(bash): escape arguments in deployment script
+- 2024-09-08 20:09: feat(deploy): implement zero-downtime rolling reload
