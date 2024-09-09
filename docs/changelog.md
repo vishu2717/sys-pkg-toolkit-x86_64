@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2024-09-09 14:51: chore: configure shellcheck and ruff linter hooks
 - 2024-09-09 17:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-09-09 18:13: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-09 18:39: test(scripts): add bats verification for setup scripts
