@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2024-09-09 10:54: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-09 11:11: fix(docker): specify non-root user in runtime container
 - 2024-09-09 11:33: chore: update base container image to latest alpine
+- 2024-09-09 13:16: test(daemon): verify supervisor restarts crashed processes
