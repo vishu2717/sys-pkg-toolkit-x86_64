@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2024-09-08 19:21: fix(bash): escape arguments in deployment script
 - 2024-09-08 20:09: feat(deploy): implement zero-downtime rolling reload
 - 2024-09-09 10:28: feat(metrics): track memory usage and cpu thread statistics
+- 2024-09-09 10:54: fix(daemon): gracefully handle sigterm during log rotation
