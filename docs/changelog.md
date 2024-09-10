@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2024-09-09 18:39: test(scripts): add bats verification for setup scripts
 - 2024-09-09 20:45: feat(deploy): implement zero-downtime rolling reload
 - 2024-09-09 21:26: fix(proc): prevent zombie process reaping race condition
+- 2024-09-10 10:59: fix(config): ensure directory exists before writing state
