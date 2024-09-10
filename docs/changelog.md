@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2024-09-10 11:08: chore: configure shellcheck and ruff linter hooks
 - 2024-09-10 12:45: test(cli): add unit test coverage for argument parsing
 - 2024-09-10 16:59: feat(proc): add process supervisor with automatic restart
+- 2024-09-10 19:07: refactor(monitor): optimize sampling frequency and buffer size
