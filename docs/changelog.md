@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-09-10 19:07: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-09-10 23:05: feat(config): add JSON and YAML configuration loader
 - 2024-09-11 14:30: docs: document environment variables and override flags
+- 2024-09-11 15:01: feat(monitor): implement system resource tracking utility
