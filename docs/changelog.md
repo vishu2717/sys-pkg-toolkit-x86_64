@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2024-09-12 12:47: docs: add architecture specification for daemon supervisor
 - 2024-09-12 13:12: feat(cli): add command-line argument parser for daemon
 - 2024-09-12 13:36: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-12 14:18: fix(cli): exit with non-zero status code on unknown command
