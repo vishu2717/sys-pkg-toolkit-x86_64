@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2024-09-12 14:18: fix(cli): exit with non-zero status code on unknown command
 - 2024-09-12 14:47: feat(proc): add process supervisor with automatic restart
 - 2024-09-12 16:06: feat(env): add automated dotfiles symlink manager
+- 2024-09-13 16:51: feat(proc): add process supervisor with automatic restart
