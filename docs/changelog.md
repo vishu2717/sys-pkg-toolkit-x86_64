@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2024-09-14 10:42: feat(docker): optimize multi-stage build layers
 - 2024-09-14 20:16: feat(docker): optimize multi-stage build layers
 - 2024-09-14 21:33: refactor(cli): simplify command dispatch loop
+- 2024-09-14 22:31: feat(deploy): implement zero-downtime rolling reload
