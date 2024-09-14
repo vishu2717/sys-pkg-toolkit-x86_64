@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2024-09-13 16:51: feat(proc): add process supervisor with automatic restart
 - 2024-09-13 18:40: test(scripts): add bats verification for setup scripts
 - 2024-09-13 21:28: feat(env): add automated dotfiles symlink manager
+- 2024-09-14 10:24: perf: reduce process spawn latency using fork pool
