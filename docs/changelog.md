@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-09-15 14:31: feat(config): add JSON and YAML configuration loader
 - 2024-09-15 15:50: test(scripts): add bats verification for setup scripts
 - 2024-09-15 17:20: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-15 19:40: feat(security): add permission auditing script for local binaries
