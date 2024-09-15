@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-09-15 10:38: refactor(cli): simplify command dispatch loop
 - 2024-09-15 12:09: fix(cli): exit with non-zero status code on unknown command
 - 2024-09-15 12:40: feat(monitor): implement system resource tracking utility
+- 2024-09-15 14:31: feat(config): add JSON and YAML configuration loader
