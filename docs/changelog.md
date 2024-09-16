@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2024-09-16 10:49: feat(daemon): add background heartbeat and ping interval
 - 2024-09-16 14:04: refactor(daemon): separate socket listening from worker queue
 - 2024-09-16 16:29: perf: reduce process spawn latency using fork pool
+- 2024-09-16 18:14: fix(cli): exit with non-zero status code on unknown command
