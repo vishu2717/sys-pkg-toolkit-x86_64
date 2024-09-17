@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2024-09-17 12:27: chore: update base container image to latest alpine
 - 2024-09-17 13:04: test(scripts): add bats verification for setup scripts
 - 2024-09-17 14:37: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-17 14:38: refactor(monitor): optimize sampling frequency and buffer size
