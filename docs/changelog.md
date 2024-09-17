@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2024-09-17 14:37: refactor(config): migrate global settings to immutable dataclass
 - 2024-09-17 14:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-09-17 16:48: refactor(scripts): modularize helper functions across shell scripts
+- 2024-09-17 17:10: feat(config): add JSON and YAML configuration loader
