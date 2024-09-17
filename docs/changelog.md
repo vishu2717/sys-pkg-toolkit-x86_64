@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2024-09-16 18:19: perf: reduce process spawn latency using fork pool
 - 2024-09-17 10:05: feat(security): add permission auditing script for local binaries
 - 2024-09-17 10:43: feat(cli): add command-line argument parser for daemon
+- 2024-09-17 12:27: chore: update base container image to latest alpine
