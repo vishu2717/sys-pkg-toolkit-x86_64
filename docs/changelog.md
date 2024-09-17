@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2024-09-16 18:14: fix(cli): exit with non-zero status code on unknown command
 - 2024-09-16 18:19: perf: reduce process spawn latency using fork pool
 - 2024-09-17 10:05: feat(security): add permission auditing script for local binaries
+- 2024-09-17 10:43: feat(cli): add command-line argument parser for daemon
