@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-09-20 19:12: docs: update system administration runbooks and troubleshooting
 - 2024-09-20 20:41: fix(config): ensure directory exists before writing state
 - 2024-09-20 22:28: fix(docker): specify non-root user in runtime container
+- 2024-09-20 22:29: feat(deploy): implement zero-downtime rolling reload
