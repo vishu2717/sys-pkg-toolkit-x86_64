@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2024-09-20 22:29: feat(deploy): implement zero-downtime rolling reload
 - 2024-09-21 10:52: docs: update system administration runbooks and troubleshooting
 - 2024-09-21 11:16: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-09-21 11:24: fix(monitor): resolve division by zero on idle cpu calculation
