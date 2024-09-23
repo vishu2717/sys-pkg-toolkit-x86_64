@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2024-09-22 21:32: refactor(scripts): modularize helper functions across shell scripts
 - 2024-09-22 21:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-23 19:05: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-23 20:03: feat(deploy): implement zero-downtime rolling reload
