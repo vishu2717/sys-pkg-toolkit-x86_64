@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2024-09-25 16:54: refactor(cli): simplify command dispatch loop
 - 2024-09-25 20:59: test(daemon): verify supervisor restarts crashed processes
 - 2024-09-25 22:11: feat(monitor): implement system resource tracking utility
+- 2024-09-25 22:34: docs: document environment variables and override flags
