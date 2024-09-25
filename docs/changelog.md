@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2024-09-25 10:20: feat(env): add automated dotfiles symlink manager
 - 2024-09-25 13:21: feat(monitor): implement system resource tracking utility
 - 2024-09-25 13:45: feat(docker): optimize multi-stage build layers
+- 2024-09-25 13:58: refactor(config): migrate global settings to immutable dataclass
