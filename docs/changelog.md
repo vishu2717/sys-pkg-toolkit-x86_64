@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2024-09-25 22:34: docs: document environment variables and override flags
 - 2024-09-26 11:49: feat(monitor): implement system resource tracking utility
 - 2024-09-26 12:18: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-09-26 12:49: feat(cli): add command-line argument parser for daemon
