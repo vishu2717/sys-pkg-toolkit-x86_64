@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2024-09-26 11:49: feat(monitor): implement system resource tracking utility
 - 2024-09-26 12:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-26 12:49: feat(cli): add command-line argument parser for daemon
+- 2024-09-26 13:49: fix(config): ensure directory exists before writing state
