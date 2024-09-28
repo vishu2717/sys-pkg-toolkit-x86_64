@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2024-09-28 20:53: feat(metrics): track memory usage and cpu thread statistics
 - 2024-09-28 21:07: fix(proc): prevent zombie process reaping race condition
 - 2024-09-28 21:23: feat(docker): optimize multi-stage build layers
+- 2024-09-28 21:43: fix(bash): escape arguments in deployment script
