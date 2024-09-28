@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2024-09-28 10:30: refactor(config): migrate global settings to immutable dataclass
 - 2024-09-28 12:33: fix(proc): prevent zombie process reaping race condition
 - 2024-09-28 13:12: fix(bash): escape arguments in deployment script
+- 2024-09-28 13:59: test(cli): add unit test coverage for argument parsing
