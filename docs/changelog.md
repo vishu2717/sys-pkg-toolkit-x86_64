@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2024-09-28 15:24: fix(proc): prevent zombie process reaping race condition
 - 2024-09-28 15:52: feat(daemon): add background heartbeat and ping interval
 - 2024-09-28 16:05: feat(sync): add rsync-based remote directory mirror utility
+- 2024-09-28 20:53: feat(metrics): track memory usage and cpu thread statistics
