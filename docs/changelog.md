@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2024-09-27 19:25: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-09-28 10:07: refactor(scripts): modularize helper functions across shell scripts
 - 2024-09-28 10:30: refactor(config): migrate global settings to immutable dataclass
+- 2024-09-28 12:33: fix(proc): prevent zombie process reaping race condition
