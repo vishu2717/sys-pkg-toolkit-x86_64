@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2024-09-29 15:55: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-09-29 16:19: test(daemon): verify supervisor restarts crashed processes
 - 2024-09-29 16:41: refactor(cli): simplify command dispatch loop
+- 2024-09-29 17:08: refactor(config): migrate global settings to immutable dataclass
