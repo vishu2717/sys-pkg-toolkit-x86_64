@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2024-09-30 10:43: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-09-30 16:12: test(scripts): add bats verification for setup scripts
 - 2024-09-30 21:24: test(daemon): verify supervisor restarts crashed processes
+- 2024-09-30 21:38: fix(cli): exit with non-zero status code on unknown command
