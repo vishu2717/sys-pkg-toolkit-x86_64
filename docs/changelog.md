@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2024-10-02 17:39: feat(shell): implement safe pipe execution helper
 - 2024-10-02 18:37: test(cli): add unit test coverage for argument parsing
 - 2024-10-02 18:45: fix(proc): prevent zombie process reaping race condition
+- 2024-10-02 18:51: docs: update changelog with recent utility enhancements
