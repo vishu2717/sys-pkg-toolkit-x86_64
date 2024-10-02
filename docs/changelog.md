@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2024-09-30 21:24: test(daemon): verify supervisor restarts crashed processes
 - 2024-09-30 21:38: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-01 13:09: feat(metrics): track memory usage and cpu thread statistics
+- 2024-10-02 11:31: fix(config): ensure directory exists before writing state
