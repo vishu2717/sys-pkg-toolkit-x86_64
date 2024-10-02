@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2024-10-02 14:57: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-02 15:49: fix(bash): escape arguments in deployment script
 - 2024-10-02 17:39: feat(shell): implement safe pipe execution helper
+- 2024-10-02 18:37: test(cli): add unit test coverage for argument parsing
