@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2024-10-02 13:12: test(daemon): verify supervisor restarts crashed processes
 - 2024-10-02 14:05: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-10-02 14:57: fix(cli): exit with non-zero status code on unknown command
+- 2024-10-02 15:49: fix(bash): escape arguments in deployment script
