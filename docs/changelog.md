@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-10-02 20:24: refactor(daemon): separate socket listening from worker queue
 - 2024-10-02 20:55: docs: update changelog with recent utility enhancements
 - 2024-10-02 21:21: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-10-02 21:32: feat(cli): add command-line argument parser for daemon
