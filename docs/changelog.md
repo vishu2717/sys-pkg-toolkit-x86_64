@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2024-10-02 21:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-02 21:32: feat(cli): add command-line argument parser for daemon
 - 2024-10-02 23:15: feat(cli): add command-line argument parser for daemon
+- 2024-10-04 10:42: fix(bash): escape arguments in deployment script
