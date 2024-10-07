@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-10-07 13:02: feat(env): add automated dotfiles symlink manager
 - 2024-10-07 13:11: feat(daemon): add background heartbeat and ping interval
 - 2024-10-07 13:26: feat(env): add automated dotfiles symlink manager
+- 2024-10-07 14:29: test(scripts): add bats verification for setup scripts
