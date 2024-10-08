@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2024-10-07 19:32: docs: document environment variables and override flags
 - 2024-10-07 21:41: fix(config): ensure directory exists before writing state
 - 2024-10-07 23:16: fix(proc): prevent zombie process reaping race condition
+- 2024-10-08 10:27: fix(cli): exit with non-zero status code on unknown command
