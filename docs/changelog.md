@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2024-10-08 10:27: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-08 10:29: test(scripts): add bats verification for setup scripts
 - 2024-10-08 14:37: feat(docker): optimize multi-stage build layers
+- 2024-10-08 14:57: fix(monitor): resolve division by zero on idle cpu calculation
