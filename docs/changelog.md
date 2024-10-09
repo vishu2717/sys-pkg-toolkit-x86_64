@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2024-10-08 14:57: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-08 22:49: feat(metrics): track memory usage and cpu thread statistics
 - 2024-10-09 12:20: fix(proc): prevent zombie process reaping race condition
+- 2024-10-09 12:40: feat(metrics): track memory usage and cpu thread statistics
