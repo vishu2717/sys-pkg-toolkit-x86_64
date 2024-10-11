@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2024-10-09 19:19: feat(cli): add command-line argument parser for daemon
 - 2024-10-09 22:27: docs: document environment variables and override flags
 - 2024-10-11 18:12: refactor(config): migrate global settings to immutable dataclass
+- 2024-10-11 18:37: test(scripts): add bats verification for setup scripts
