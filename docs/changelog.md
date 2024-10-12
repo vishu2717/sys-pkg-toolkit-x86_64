@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2024-10-11 18:12: refactor(config): migrate global settings to immutable dataclass
 - 2024-10-11 18:37: test(scripts): add bats verification for setup scripts
 - 2024-10-12 12:52: fix(bash): escape arguments in deployment script
+- 2024-10-12 17:16: fix(docker): specify non-root user in runtime container
