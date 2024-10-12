@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2024-10-12 19:38: feat(daemon): add background heartbeat and ping interval
 - 2024-10-12 20:04: feat(security): add permission auditing script for local binaries
 - 2024-10-12 20:26: feat(docker): optimize multi-stage build layers
+- 2024-10-12 21:54: feat(deploy): implement zero-downtime rolling reload
