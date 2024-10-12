@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2024-10-12 17:49: test(scripts): add bats verification for setup scripts
 - 2024-10-12 18:16: fix(config): ensure directory exists before writing state
 - 2024-10-12 19:38: feat(daemon): add background heartbeat and ping interval
+- 2024-10-12 20:04: feat(security): add permission auditing script for local binaries
