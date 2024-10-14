@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2024-10-13 13:32: docs: document environment variables and override flags
 - 2024-10-13 14:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-14 12:08: chore: update base container image to latest alpine
+- 2024-10-14 16:16: test(cli): add unit test coverage for argument parsing
