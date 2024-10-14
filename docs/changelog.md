@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2024-10-14 16:16: test(cli): add unit test coverage for argument parsing
 - 2024-10-14 18:47: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-14 20:17: feat(sync): add rsync-based remote directory mirror utility
+- 2024-10-14 20:54: test(scripts): add bats verification for setup scripts
