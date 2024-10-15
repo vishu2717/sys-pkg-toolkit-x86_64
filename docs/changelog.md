@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2024-10-14 20:54: test(scripts): add bats verification for setup scripts
 - 2024-10-14 20:57: feat(sync): add rsync-based remote directory mirror utility
 - 2024-10-15 12:17: feat(daemon): add background heartbeat and ping interval
+- 2024-10-15 13:00: feat(config): add JSON and YAML configuration loader
