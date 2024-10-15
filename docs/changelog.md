@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2024-10-15 12:17: feat(daemon): add background heartbeat and ping interval
 - 2024-10-15 13:00: feat(config): add JSON and YAML configuration loader
 - 2024-10-15 15:56: test(cli): add unit test coverage for argument parsing
+- 2024-10-15 16:17: refactor(config): migrate global settings to immutable dataclass
