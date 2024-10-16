@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2024-10-15 23:04: test(cli): add unit test coverage for argument parsing
 - 2024-10-16 10:04: feat(sync): add rsync-based remote directory mirror utility
 - 2024-10-16 10:29: test(proc): assert exit codes under simulated failures
+- 2024-10-16 11:32: feat(deploy): implement zero-downtime rolling reload
