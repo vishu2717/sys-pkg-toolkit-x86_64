@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2024-10-16 13:29: fix(bash): escape arguments in deployment script
 - 2024-10-16 15:13: fix(docker): specify non-root user in runtime container
 - 2024-10-16 17:34: feat(config): add JSON and YAML configuration loader
+- 2024-10-16 21:16: feat(metrics): track memory usage and cpu thread statistics
