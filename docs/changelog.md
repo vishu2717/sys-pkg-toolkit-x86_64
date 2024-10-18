@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2024-10-18 12:01: fix(bash): escape arguments in deployment script
 - 2024-10-18 12:43: fix(docker): specify non-root user in runtime container
 - 2024-10-18 14:46: refactor(daemon): separate socket listening from worker queue
+- 2024-10-18 16:42: fix(monitor): resolve division by zero on idle cpu calculation
