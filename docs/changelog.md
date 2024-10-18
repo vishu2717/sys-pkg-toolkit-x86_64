@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2024-10-18 14:46: refactor(daemon): separate socket listening from worker queue
 - 2024-10-18 16:42: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-18 17:34: test(daemon): verify supervisor restarts crashed processes
+- 2024-10-18 19:07: chore: configure shellcheck and ruff linter hooks
