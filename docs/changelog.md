@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2024-10-18 20:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-10-18 21:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-10-18 21:40: refactor(config): migrate global settings to immutable dataclass
+- 2024-10-18 22:11: feat(config): add JSON and YAML configuration loader
