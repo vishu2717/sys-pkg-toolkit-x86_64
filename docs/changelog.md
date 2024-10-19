@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2024-10-19 11:00: perf: reduce process spawn latency using fork pool
 - 2024-10-19 13:12: test(proc): assert exit codes under simulated failures
 - 2024-10-19 13:56: fix(bash): escape arguments in deployment script
+- 2024-10-19 15:06: fix(cli): exit with non-zero status code on unknown command
