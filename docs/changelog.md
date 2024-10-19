@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2024-10-18 22:11: feat(config): add JSON and YAML configuration loader
 - 2024-10-19 10:38: test(proc): assert exit codes under simulated failures
 - 2024-10-19 11:00: perf: reduce process spawn latency using fork pool
+- 2024-10-19 13:12: test(proc): assert exit codes under simulated failures
