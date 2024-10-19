@@ -207,3 +207,6 @@ audit_perms() { find /usr/local/bin -type f -perm /4000; }
 audit_perms() { find /usr/local/bin -type f -perm /4000; }
 
 # Enforced strict POSIX styling
+
+# Dotfiles symlink manager
+link_dotfile() { ln -sf "$1" "$2"; }

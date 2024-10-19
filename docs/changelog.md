@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2024-10-19 16:23: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-19 17:35: style: enforce consistent shell quoting and indentation
 - 2024-10-19 19:26: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-10-19 19:30: feat(env): add automated dotfiles symlink manager
