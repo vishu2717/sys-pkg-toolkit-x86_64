@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2024-10-19 13:56: fix(bash): escape arguments in deployment script
 - 2024-10-19 15:06: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-19 16:23: fix(cli): exit with non-zero status code on unknown command
+- 2024-10-19 17:35: style: enforce consistent shell quoting and indentation
