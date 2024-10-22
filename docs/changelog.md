@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2024-10-22 14:06: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-10-22 16:44: fix(docker): specify non-root user in runtime container
 - 2024-10-22 19:12: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-10-22 21:23: docs: update changelog with recent utility enhancements
