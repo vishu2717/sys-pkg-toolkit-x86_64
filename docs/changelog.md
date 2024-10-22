@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-10-22 11:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-22 13:51: feat(security): add permission auditing script for local binaries
 - 2024-10-22 14:06: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-10-22 16:44: fix(docker): specify non-root user in runtime container
