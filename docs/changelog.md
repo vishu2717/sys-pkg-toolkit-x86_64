@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2024-10-22 19:12: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-10-22 21:23: docs: update changelog with recent utility enhancements
 - 2024-10-23 10:17: feat(env): add automated dotfiles symlink manager
+- 2024-10-23 11:50: refactor(config): migrate global settings to immutable dataclass
