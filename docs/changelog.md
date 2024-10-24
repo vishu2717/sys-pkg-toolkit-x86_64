@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2024-10-23 10:17: feat(env): add automated dotfiles symlink manager
 - 2024-10-23 11:50: refactor(config): migrate global settings to immutable dataclass
 - 2024-10-23 13:36: feat(deploy): implement zero-downtime rolling reload
+- 2024-10-24 21:51: fix(monitor): resolve division by zero on idle cpu calculation
