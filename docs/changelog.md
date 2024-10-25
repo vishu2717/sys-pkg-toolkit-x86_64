@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2024-10-25 15:42: fix(bash): escape arguments in deployment script
 - 2024-10-25 20:03: docs: add architecture specification for daemon supervisor
 - 2024-10-25 21:09: feat(daemon): add background heartbeat and ping interval
+- 2024-10-25 22:00: test(proc): assert exit codes under simulated failures
