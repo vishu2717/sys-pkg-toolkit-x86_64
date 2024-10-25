@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2024-10-24 21:51: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-10-24 23:11: feat(env): add automated dotfiles symlink manager
 - 2024-10-25 10:40: chore: configure shellcheck and ruff linter hooks
+- 2024-10-25 14:27: refactor(daemon): separate socket listening from worker queue
