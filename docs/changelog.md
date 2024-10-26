@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2024-10-25 22:50: feat(cli): add command-line argument parser for daemon
 - 2024-10-26 16:41: refactor(daemon): separate socket listening from worker queue
 - 2024-10-26 17:21: docs: document environment variables and override flags
+- 2024-10-26 19:56: feat(deploy): implement zero-downtime rolling reload
