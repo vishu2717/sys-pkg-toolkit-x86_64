@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2024-10-28 12:41: feat(security): add permission auditing script for local binaries
 - 2024-10-28 14:25: fix(cli): exit with non-zero status code on unknown command
 - 2024-10-28 16:48: chore: configure shellcheck and ruff linter hooks
+- 2024-10-28 18:14: feat(sync): add rsync-based remote directory mirror utility
