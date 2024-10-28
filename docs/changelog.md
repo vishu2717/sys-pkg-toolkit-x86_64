@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2024-10-26 17:21: docs: document environment variables and override flags
 - 2024-10-26 19:56: feat(deploy): implement zero-downtime rolling reload
 - 2024-10-26 20:06: feat(proc): add process supervisor with automatic restart
+- 2024-10-28 10:59: feat(env): add automated dotfiles symlink manager
