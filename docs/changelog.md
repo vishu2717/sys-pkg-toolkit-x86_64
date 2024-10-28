@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2024-10-28 10:59: feat(env): add automated dotfiles symlink manager
 - 2024-10-28 11:59: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-10-28 12:33: feat(config): add JSON and YAML configuration loader
+- 2024-10-28 12:41: feat(security): add permission auditing script for local binaries
