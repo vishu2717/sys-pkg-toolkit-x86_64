@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2024-10-28 16:48: chore: configure shellcheck and ruff linter hooks
 - 2024-10-28 18:14: feat(sync): add rsync-based remote directory mirror utility
 - 2024-10-28 18:21: fix(docker): specify non-root user in runtime container
+- 2024-10-28 18:26: feat(config): add JSON and YAML configuration loader
