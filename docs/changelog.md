@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2024-10-26 20:06: feat(proc): add process supervisor with automatic restart
 - 2024-10-28 10:59: feat(env): add automated dotfiles symlink manager
 - 2024-10-28 11:59: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-10-28 12:33: feat(config): add JSON and YAML configuration loader
