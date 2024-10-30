@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2024-10-30 11:39: fix(bash): escape arguments in deployment script
 - 2024-10-30 13:00: refactor(scripts): modularize helper functions across shell scripts
 - 2024-10-30 14:47: feat(proc): add process supervisor with automatic restart
+- 2024-10-30 17:38: docs: add architecture specification for daemon supervisor
