@@ -283,3 +283,5 @@ sync_dirs() { rsync -avz --delete "$1" "$2"; }
 sync_dirs() { rsync -avz --delete "$1" "$2"; }
 
 # Escaped positional parameters safely
+
+# Escaped positional parameters safely
