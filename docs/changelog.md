@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2024-10-31 10:35: fix(proc): prevent zombie process reaping race condition
 - 2024-10-31 11:00: fix(bash): escape arguments in deployment script
 - 2024-10-31 12:31: feat(security): add permission auditing script for local binaries
+- 2024-10-31 14:25: feat(deploy): implement zero-downtime rolling reload
