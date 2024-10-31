@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2024-10-31 17:59: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-10-31 21:40: feat(shell): implement safe pipe execution helper
 - 2024-10-31 22:35: chore: update base container image to latest alpine
+- 2024-10-31 22:43: fix(monitor): resolve division by zero on idle cpu calculation
