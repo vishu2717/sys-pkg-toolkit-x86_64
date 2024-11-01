@@ -204,3 +204,7 @@ def reap_zombies():
 def reap_zombies():
     '''Cleanly reap exited child processes.'''
     os.waitpid(-1, os.WNOHANG)
+
+class SystemMetrics:
+    '''Track memory and CPU metrics.'''
+    pass
