@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-11-01 18:14: fix(cli): exit with non-zero status code on unknown command
 - 2024-11-01 20:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-11-01 21:43: docs: update system administration runbooks and troubleshooting
+- 2024-11-01 22:37: feat(config): add JSON and YAML configuration loader
