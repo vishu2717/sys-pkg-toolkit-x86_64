@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2024-11-01 12:52: feat(env): add automated dotfiles symlink manager
 - 2024-11-01 13:55: feat(shell): implement safe pipe execution helper
 - 2024-11-01 14:09: docs: update changelog with recent utility enhancements
+- 2024-11-01 15:45: fix(bash): escape arguments in deployment script
