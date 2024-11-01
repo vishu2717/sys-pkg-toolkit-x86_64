@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2024-11-01 10:23: refactor(config): migrate global settings to immutable dataclass
 - 2024-11-01 11:21: feat(metrics): track memory usage and cpu thread statistics
 - 2024-11-01 12:39: feat(config): add JSON and YAML configuration loader
+- 2024-11-01 12:52: feat(env): add automated dotfiles symlink manager
