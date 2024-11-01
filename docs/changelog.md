@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2024-11-01 15:45: fix(bash): escape arguments in deployment script
 - 2024-11-01 15:58: feat(cli): add command-line argument parser for daemon
 - 2024-11-01 16:09: feat(env): add automated dotfiles symlink manager
+- 2024-11-01 17:39: test(proc): assert exit codes under simulated failures
