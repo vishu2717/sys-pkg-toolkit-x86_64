@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2024-11-02 18:54: refactor(daemon): separate socket listening from worker queue
 - 2024-11-02 19:07: feat(env): add automated dotfiles symlink manager
 - 2024-11-02 19:25: feat(sync): add rsync-based remote directory mirror utility
+- 2024-11-02 19:41: refactor(config): migrate global settings to immutable dataclass
