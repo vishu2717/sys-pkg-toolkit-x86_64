@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2024-11-06 12:53: feat(docker): optimize multi-stage build layers
 - 2024-11-06 14:32: feat(proc): add process supervisor with automatic restart
 - 2024-11-06 15:11: feat(cli): add command-line argument parser for daemon
+- 2024-11-06 16:12: fix(daemon): gracefully handle sigterm during log rotation
