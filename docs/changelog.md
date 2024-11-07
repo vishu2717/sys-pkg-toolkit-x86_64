@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2024-11-07 16:23: fix(bash): escape arguments in deployment script
 - 2024-11-07 16:49: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-11-07 17:37: fix(proc): prevent zombie process reaping race condition
+- 2024-11-07 21:45: refactor(config): migrate global settings to immutable dataclass
