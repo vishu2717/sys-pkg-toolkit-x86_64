@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2024-11-06 20:22: feat(monitor): implement system resource tracking utility
 - 2024-11-06 20:59: feat(monitor): implement system resource tracking utility
 - 2024-11-07 10:02: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-11-07 16:23: fix(bash): escape arguments in deployment script
