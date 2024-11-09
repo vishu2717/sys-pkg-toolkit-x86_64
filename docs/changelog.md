@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2024-11-09 15:19: fix(cli): exit with non-zero status code on unknown command
 - 2024-11-09 17:03: test(daemon): verify supervisor restarts crashed processes
 - 2024-11-09 18:50: feat(shell): implement safe pipe execution helper
+- 2024-11-09 19:55: docs: update system administration runbooks and troubleshooting
