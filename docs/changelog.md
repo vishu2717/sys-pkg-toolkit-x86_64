@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2024-11-09 11:39: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-11-09 12:46: test(scripts): add bats verification for setup scripts
 - 2024-11-09 15:19: fix(cli): exit with non-zero status code on unknown command
+- 2024-11-09 17:03: test(daemon): verify supervisor restarts crashed processes
