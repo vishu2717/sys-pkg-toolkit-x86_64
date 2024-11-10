@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2024-11-09 22:56: feat(env): add automated dotfiles symlink manager
 - 2024-11-09 23:09: feat(shell): implement safe pipe execution helper
 - 2024-11-10 10:51: feat(config): add JSON and YAML configuration loader
+- 2024-11-10 11:17: feat(proc): add process supervisor with automatic restart
