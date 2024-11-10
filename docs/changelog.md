@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2024-11-10 15:48: feat(env): add automated dotfiles symlink manager
 - 2024-11-10 16:26: feat(config): add JSON and YAML configuration loader
 - 2024-11-10 20:17: feat(sync): add rsync-based remote directory mirror utility
+- 2024-11-10 20:18: feat(proc): add process supervisor with automatic restart
