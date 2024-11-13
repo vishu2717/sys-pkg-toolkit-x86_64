@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-11-13 15:57: test(daemon): verify supervisor restarts crashed processes
 - 2024-11-13 17:01: test(cli): add unit test coverage for argument parsing
 - 2024-11-13 17:34: feat(daemon): add background heartbeat and ping interval
+- 2024-11-13 17:51: chore: configure shellcheck and ruff linter hooks
