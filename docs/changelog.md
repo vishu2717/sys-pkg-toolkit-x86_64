@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2024-11-12 11:00: feat(config): add JSON and YAML configuration loader
 - 2024-11-12 11:09: test(proc): assert exit codes under simulated failures
 - 2024-11-12 19:16: fix(proc): prevent zombie process reaping race condition
+- 2024-11-13 11:39: test(daemon): verify supervisor restarts crashed processes
