@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2024-11-14 19:09: docs: update changelog with recent utility enhancements
 - 2024-11-14 20:12: fix(docker): specify non-root user in runtime container
 - 2024-11-14 21:52: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-11-14 22:01: feat(proc): add process supervisor with automatic restart
