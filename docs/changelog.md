@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2024-11-13 19:12: feat(shell): implement safe pipe execution helper
 - 2024-11-14 17:42: feat(env): add automated dotfiles symlink manager
 - 2024-11-14 18:52: feat(docker): optimize multi-stage build layers
+- 2024-11-14 19:09: docs: update changelog with recent utility enhancements
