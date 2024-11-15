@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2024-11-15 11:28: feat(deploy): implement zero-downtime rolling reload
 - 2024-11-15 13:08: refactor(scripts): modularize helper functions across shell scripts
 - 2024-11-15 14:28: chore: configure shellcheck and ruff linter hooks
+- 2024-11-15 16:53: test(daemon): verify supervisor restarts crashed processes
