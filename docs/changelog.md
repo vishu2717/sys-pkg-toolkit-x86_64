@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2024-11-14 22:15: fix(cli): exit with non-zero status code on unknown command
 - 2024-11-15 11:28: feat(deploy): implement zero-downtime rolling reload
 - 2024-11-15 13:08: refactor(scripts): modularize helper functions across shell scripts
+- 2024-11-15 14:28: chore: configure shellcheck and ruff linter hooks
