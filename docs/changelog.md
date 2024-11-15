@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2024-11-14 21:52: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-11-14 22:01: feat(proc): add process supervisor with automatic restart
 - 2024-11-14 22:15: fix(cli): exit with non-zero status code on unknown command
+- 2024-11-15 11:28: feat(deploy): implement zero-downtime rolling reload
