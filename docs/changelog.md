@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2024-11-17 12:11: fix(proc): prevent zombie process reaping race condition
 - 2024-11-17 19:23: feat(daemon): add background heartbeat and ping interval
 - 2024-11-17 22:16: refactor(config): migrate global settings to immutable dataclass
+- 2024-11-17 23:03: feat(cli): add command-line argument parser for daemon
