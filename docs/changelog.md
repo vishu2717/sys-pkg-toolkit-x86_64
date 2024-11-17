@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2024-11-16 22:59: feat(proc): add process supervisor with automatic restart
 - 2024-11-16 23:18: test(cli): add unit test coverage for argument parsing
 - 2024-11-17 10:26: refactor(config): migrate global settings to immutable dataclass
+- 2024-11-17 10:59: feat(proc): add process supervisor with automatic restart
