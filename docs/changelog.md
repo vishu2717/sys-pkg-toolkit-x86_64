@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2024-11-17 22:16: refactor(config): migrate global settings to immutable dataclass
 - 2024-11-17 23:03: feat(cli): add command-line argument parser for daemon
 - 2024-11-18 14:23: feat(env): add automated dotfiles symlink manager
+- 2024-11-18 17:20: refactor(daemon): separate socket listening from worker queue
