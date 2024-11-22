@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2024-11-18 17:20: refactor(daemon): separate socket listening from worker queue
 - 2024-11-19 17:04: feat(shell): implement safe pipe execution helper
 - 2024-11-20 16:23: feat(cli): add command-line argument parser for daemon
+- 2024-11-22 10:16: fix(docker): specify non-root user in runtime container
