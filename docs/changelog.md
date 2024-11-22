@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2024-11-22 12:02: fix(docker): specify non-root user in runtime container
 - 2024-11-22 14:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-11-22 15:46: refactor(scripts): modularize helper functions across shell scripts
+- 2024-11-22 16:14: chore: update base container image to latest alpine
