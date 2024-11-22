@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2024-11-20 16:23: feat(cli): add command-line argument parser for daemon
 - 2024-11-22 10:16: fix(docker): specify non-root user in runtime container
 - 2024-11-22 10:32: test(scripts): add bats verification for setup scripts
+- 2024-11-22 10:48: feat(config): add JSON and YAML configuration loader
