@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2024-11-22 15:46: refactor(scripts): modularize helper functions across shell scripts
 - 2024-11-22 16:14: chore: update base container image to latest alpine
 - 2024-11-22 16:22: fix(proc): prevent zombie process reaping race condition
+- 2024-11-22 18:39: feat(sync): add rsync-based remote directory mirror utility
