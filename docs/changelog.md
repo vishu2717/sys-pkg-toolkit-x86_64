@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2024-11-23 14:30: feat(monitor): implement system resource tracking utility
 - 2024-11-23 18:03: test(cli): add unit test coverage for argument parsing
 - 2024-11-23 19:28: refactor(daemon): separate socket listening from worker queue
+- 2024-11-23 21:22: fix(docker): specify non-root user in runtime container
