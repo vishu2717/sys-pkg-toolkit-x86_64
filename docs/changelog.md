@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2024-11-23 11:53: test(proc): assert exit codes under simulated failures
 - 2024-11-23 13:23: refactor(daemon): separate socket listening from worker queue
 - 2024-11-23 14:30: feat(monitor): implement system resource tracking utility
+- 2024-11-23 18:03: test(cli): add unit test coverage for argument parsing
