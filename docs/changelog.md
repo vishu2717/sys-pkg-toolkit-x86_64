@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2024-11-22 18:39: feat(sync): add rsync-based remote directory mirror utility
 - 2024-11-23 11:15: feat(docker): optimize multi-stage build layers
 - 2024-11-23 11:53: test(proc): assert exit codes under simulated failures
+- 2024-11-23 13:23: refactor(daemon): separate socket listening from worker queue
