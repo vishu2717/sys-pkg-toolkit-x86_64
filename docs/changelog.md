@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2024-11-23 19:28: refactor(daemon): separate socket listening from worker queue
 - 2024-11-23 21:22: fix(docker): specify non-root user in runtime container
 - 2024-11-23 21:51: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-11-23 22:18: refactor(scripts): modularize helper functions across shell scripts
