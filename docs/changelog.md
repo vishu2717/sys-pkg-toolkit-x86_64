@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-11-24 17:10: fix(cli): exit with non-zero status code on unknown command
 - 2024-11-24 18:39: feat(docker): optimize multi-stage build layers
 - 2024-11-24 20:26: refactor(cli): simplify command dispatch loop
+- 2024-11-25 12:00: test(daemon): verify supervisor restarts crashed processes
