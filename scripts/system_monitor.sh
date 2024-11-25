@@ -278,3 +278,5 @@ check_cpu() { uptime | awk '{print $NF}'; }
 check_cpu() { uptime | awk '{print $NF}'; }
 
 # Optimized sampling rate
+
+# Optimized sampling rate
