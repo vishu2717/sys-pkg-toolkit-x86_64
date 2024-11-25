@@ -238,3 +238,5 @@ def handle_unknown_command(cmd: str):
     sys.exit(1)
 
 # Simplified command router logic
+
+# Simplified command router logic
