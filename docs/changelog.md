@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2024-11-25 14:32: refactor(daemon): separate socket listening from worker queue
 - 2024-11-25 16:17: refactor(cli): simplify command dispatch loop
 - 2024-11-25 18:59: docs: update system administration runbooks and troubleshooting
+- 2024-11-25 20:02: refactor(config): migrate global settings to immutable dataclass
