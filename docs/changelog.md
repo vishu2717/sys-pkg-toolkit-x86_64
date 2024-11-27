@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2024-11-26 14:31: fix(proc): prevent zombie process reaping race condition
 - 2024-11-26 23:21: feat(config): add JSON and YAML configuration loader
 - 2024-11-27 12:22: docs: update system administration runbooks and troubleshooting
+- 2024-11-27 17:45: feat(deploy): implement zero-downtime rolling reload
