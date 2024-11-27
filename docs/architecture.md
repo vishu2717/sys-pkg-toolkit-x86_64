@@ -292,3 +292,6 @@ Details on IPC communication channels and process tree.
 
 ### Runbook & Troubleshooting
 Instructions for operational triage and cluster recovery.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
