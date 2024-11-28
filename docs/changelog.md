@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2024-11-27 21:23: refactor(scripts): modularize helper functions across shell scripts
 - 2024-11-28 11:50: docs: add architecture specification for daemon supervisor
 - 2024-11-28 12:18: docs: update changelog with recent utility enhancements
+- 2024-11-28 13:15: refactor(daemon): separate socket listening from worker queue
