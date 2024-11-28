@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2024-11-28 16:26: feat(security): add permission auditing script for local binaries
 - 2024-11-28 18:52: feat(security): add permission auditing script for local binaries
 - 2024-11-28 19:30: refactor(monitor): optimize sampling frequency and buffer size
+- 2024-11-28 21:15: fix(cli): exit with non-zero status code on unknown command
