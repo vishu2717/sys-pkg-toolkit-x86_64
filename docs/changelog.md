@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2024-11-28 13:15: refactor(daemon): separate socket listening from worker queue
 - 2024-11-28 14:15: test(scripts): add bats verification for setup scripts
 - 2024-11-28 16:26: feat(security): add permission auditing script for local binaries
+- 2024-11-28 18:52: feat(security): add permission auditing script for local binaries
