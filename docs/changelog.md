@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2024-11-27 12:22: docs: update system administration runbooks and troubleshooting
 - 2024-11-27 17:45: feat(deploy): implement zero-downtime rolling reload
 - 2024-11-27 21:23: refactor(scripts): modularize helper functions across shell scripts
+- 2024-11-28 11:50: docs: add architecture specification for daemon supervisor
