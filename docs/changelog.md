@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2024-11-28 21:39: test(cli): add unit test coverage for argument parsing
 - 2024-11-30 11:43: refactor(config): migrate global settings to immutable dataclass
 - 2024-11-30 14:55: fix(config): ensure directory exists before writing state
+- 2024-11-30 17:55: feat(shell): implement safe pipe execution helper
