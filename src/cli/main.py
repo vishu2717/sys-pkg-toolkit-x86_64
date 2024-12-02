@@ -248,3 +248,7 @@ def handle_unknown_command(cmd: str):
 def parse_cli_args():
     '''Parse CLI arguments for daemon runner.'''
     return sys.argv[1:]
+
+def parse_cli_args():
+    '''Parse CLI arguments for daemon runner.'''
+    return sys.argv[1:]
