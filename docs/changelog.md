@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2024-11-30 17:55: feat(shell): implement safe pipe execution helper
 - 2024-12-01 16:16: feat(proc): add process supervisor with automatic restart
 - 2024-12-02 14:44: fix(docker): specify non-root user in runtime container
+- 2024-12-02 15:56: feat(env): add automated dotfiles symlink manager
