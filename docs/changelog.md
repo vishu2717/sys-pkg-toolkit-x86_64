@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2024-12-04 10:17: feat(env): add automated dotfiles symlink manager
 - 2024-12-04 11:09: fix(cli): exit with non-zero status code on unknown command
 - 2024-12-04 11:50: feat(metrics): track memory usage and cpu thread statistics
+- 2024-12-04 14:29: fix(proc): prevent zombie process reaping race condition
