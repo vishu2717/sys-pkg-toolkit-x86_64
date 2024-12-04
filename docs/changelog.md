@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2024-12-04 14:31: feat(shell): implement safe pipe execution helper
 - 2024-12-04 14:59: feat(sync): add rsync-based remote directory mirror utility
 - 2024-12-04 17:24: feat(daemon): add background heartbeat and ping interval
+- 2024-12-04 20:32: feat(proc): add process supervisor with automatic restart
