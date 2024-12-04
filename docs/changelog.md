@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2024-12-02 23:25: feat(cli): add command-line argument parser for daemon
 - 2024-12-03 20:34: refactor(daemon): separate socket listening from worker queue
 - 2024-12-03 20:51: fix(bash): escape arguments in deployment script
+- 2024-12-04 10:17: feat(env): add automated dotfiles symlink manager
