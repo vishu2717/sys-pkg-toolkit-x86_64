@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2024-12-03 20:51: fix(bash): escape arguments in deployment script
 - 2024-12-04 10:17: feat(env): add automated dotfiles symlink manager
 - 2024-12-04 11:09: fix(cli): exit with non-zero status code on unknown command
+- 2024-12-04 11:50: feat(metrics): track memory usage and cpu thread statistics
