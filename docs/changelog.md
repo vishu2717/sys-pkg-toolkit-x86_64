@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2024-12-04 14:59: feat(sync): add rsync-based remote directory mirror utility
 - 2024-12-04 17:24: feat(daemon): add background heartbeat and ping interval
 - 2024-12-04 20:32: feat(proc): add process supervisor with automatic restart
+- 2024-12-05 16:18: fix(daemon): gracefully handle sigterm during log rotation
