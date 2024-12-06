@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2024-12-04 20:32: feat(proc): add process supervisor with automatic restart
 - 2024-12-05 16:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-12-05 19:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2024-12-06 12:44: refactor(config): migrate global settings to immutable dataclass
