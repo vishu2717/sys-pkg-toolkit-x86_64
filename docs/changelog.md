@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2024-12-05 19:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-12-06 12:44: refactor(config): migrate global settings to immutable dataclass
 - 2024-12-06 15:50: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-12-06 16:30: fix(config): ensure directory exists before writing state
