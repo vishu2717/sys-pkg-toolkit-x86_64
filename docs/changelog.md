@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2024-12-09 16:03: feat(deploy): implement zero-downtime rolling reload
 - 2024-12-09 17:43: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-12-09 18:41: chore: configure shellcheck and ruff linter hooks
+- 2024-12-09 22:44: fix(daemon): gracefully handle sigterm during log rotation
