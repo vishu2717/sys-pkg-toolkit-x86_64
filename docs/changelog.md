@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2024-12-06 16:50: refactor(daemon): separate socket listening from worker queue
 - 2024-12-08 15:12: refactor(config): migrate global settings to immutable dataclass
 - 2024-12-08 16:49: test(cli): add unit test coverage for argument parsing
+- 2024-12-09 16:03: feat(deploy): implement zero-downtime rolling reload
