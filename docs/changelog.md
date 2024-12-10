@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2024-12-09 18:41: chore: configure shellcheck and ruff linter hooks
 - 2024-12-09 22:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-12-10 13:20: fix(docker): specify non-root user in runtime container
+- 2024-12-10 17:17: fix(config): ensure directory exists before writing state
