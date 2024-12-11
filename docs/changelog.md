@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2024-12-10 17:17: fix(config): ensure directory exists before writing state
 - 2024-12-10 18:08: docs: update changelog with recent utility enhancements
 - 2024-12-11 10:16: fix(monitor): resolve division by zero on idle cpu calculation
+- 2024-12-11 14:44: feat(monitor): implement system resource tracking utility
