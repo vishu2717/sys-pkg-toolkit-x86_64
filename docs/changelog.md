@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2024-12-13 14:18: fix(monitor): resolve division by zero on idle cpu calculation
 - 2024-12-13 14:57: feat(daemon): add background heartbeat and ping interval
 - 2024-12-13 17:09: fix(docker): specify non-root user in runtime container
+- 2024-12-13 20:24: refactor(config): migrate global settings to immutable dataclass
