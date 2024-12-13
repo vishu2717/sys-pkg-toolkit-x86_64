@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2024-12-11 14:44: feat(monitor): implement system resource tracking utility
 - 2024-12-11 21:46: test(daemon): verify supervisor restarts crashed processes
 - 2024-12-13 13:37: feat(metrics): track memory usage and cpu thread statistics
+- 2024-12-13 14:18: fix(monitor): resolve division by zero on idle cpu calculation
