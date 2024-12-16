@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2024-12-16 10:52: refactor(monitor): optimize sampling frequency and buffer size
 - 2024-12-16 13:19: test(scripts): add bats verification for setup scripts
 - 2024-12-16 13:35: refactor(config): migrate global settings to immutable dataclass
+- 2024-12-16 15:50: feat(shell): implement safe pipe execution helper
