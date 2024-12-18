@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2024-12-18 11:26: fix(config): ensure directory exists before writing state
 - 2024-12-18 11:29: docs: update changelog with recent utility enhancements
 - 2024-12-18 11:38: test(scripts): add bats verification for setup scripts
+- 2024-12-18 12:09: feat(sync): add rsync-based remote directory mirror utility
