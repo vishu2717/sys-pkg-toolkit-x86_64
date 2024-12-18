@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2024-12-18 18:59: fix(config): ensure directory exists before writing state
 - 2024-12-18 19:08: chore: configure shellcheck and ruff linter hooks
 - 2024-12-18 20:02: refactor(scripts): modularize helper functions across shell scripts
+- 2024-12-18 20:54: fix(proc): prevent zombie process reaping race condition
