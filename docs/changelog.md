@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2024-12-18 20:02: refactor(scripts): modularize helper functions across shell scripts
 - 2024-12-18 20:54: fix(proc): prevent zombie process reaping race condition
 - 2024-12-18 22:00: refactor(scripts): modularize helper functions across shell scripts
+- 2024-12-19 11:03: fix(proc): prevent zombie process reaping race condition
