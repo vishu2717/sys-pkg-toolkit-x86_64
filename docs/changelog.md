@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2024-12-19 20:21: feat(proc): add process supervisor with automatic restart
 - 2024-12-19 23:15: feat(metrics): track memory usage and cpu thread statistics
 - 2024-12-20 13:06: feat(deploy): implement zero-downtime rolling reload
+- 2024-12-20 16:14: fix(daemon): gracefully handle sigterm during log rotation
