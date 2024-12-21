@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2024-12-20 13:06: feat(deploy): implement zero-downtime rolling reload
 - 2024-12-20 16:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2024-12-21 10:13: refactor(scripts): modularize helper functions across shell scripts
+- 2024-12-21 11:49: feat(metrics): track memory usage and cpu thread statistics
