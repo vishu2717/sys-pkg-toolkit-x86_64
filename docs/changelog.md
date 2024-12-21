@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2024-12-21 13:50: fix(config): ensure directory exists before writing state
 - 2024-12-21 14:19: refactor(config): migrate global settings to immutable dataclass
 - 2024-12-21 15:01: feat(metrics): track memory usage and cpu thread statistics
+- 2024-12-21 15:32: test(proc): assert exit codes under simulated failures
