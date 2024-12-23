@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2024-12-23 11:42: docs: update system administration runbooks and troubleshooting
 - 2024-12-23 13:03: feat(cli): add command-line argument parser for daemon
 - 2024-12-23 14:04: feat(sync): add rsync-based remote directory mirror utility
+- 2024-12-23 14:18: fix(bash): escape arguments in deployment script
