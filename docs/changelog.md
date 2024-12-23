@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2024-12-23 17:55: feat(docker): optimize multi-stage build layers
 - 2024-12-23 18:14: fix(cli): exit with non-zero status code on unknown command
 - 2024-12-23 18:51: feat(proc): add process supervisor with automatic restart
+- 2024-12-23 19:08: fix(cli): exit with non-zero status code on unknown command
