@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2024-12-21 15:32: test(proc): assert exit codes under simulated failures
 - 2024-12-21 17:24: refactor(cli): simplify command dispatch loop
 - 2024-12-23 10:10: feat(proc): add process supervisor with automatic restart
+- 2024-12-23 11:42: docs: update system administration runbooks and troubleshooting
