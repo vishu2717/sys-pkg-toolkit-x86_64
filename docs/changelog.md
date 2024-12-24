@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2024-12-23 19:08: fix(cli): exit with non-zero status code on unknown command
 - 2024-12-23 21:43: refactor(daemon): separate socket listening from worker queue
 - 2024-12-24 17:08: fix(cli): exit with non-zero status code on unknown command
+- 2024-12-24 18:26: refactor(daemon): separate socket listening from worker queue
