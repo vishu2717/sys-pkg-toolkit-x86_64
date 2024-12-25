@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2024-12-25 18:08: test(daemon): verify supervisor restarts crashed processes
 - 2024-12-25 18:15: docs: update system administration runbooks and troubleshooting
 - 2024-12-25 19:04: refactor(config): migrate global settings to immutable dataclass
+- 2024-12-25 19:33: feat(security): add permission auditing script for local binaries
