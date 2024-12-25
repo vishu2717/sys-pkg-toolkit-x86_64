@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2024-12-25 13:51: docs: update changelog with recent utility enhancements
 - 2024-12-25 14:33: chore: update base container image to latest alpine
 - 2024-12-25 15:33: feat(daemon): add background heartbeat and ping interval
+- 2024-12-25 16:31: refactor(cli): simplify command dispatch loop
