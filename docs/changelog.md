@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2024-12-24 18:26: refactor(daemon): separate socket listening from worker queue
 - 2024-12-24 23:21: test(proc): assert exit codes under simulated failures
 - 2024-12-25 11:41: docs: document environment variables and override flags
+- 2024-12-25 11:57: chore: configure shellcheck and ruff linter hooks
