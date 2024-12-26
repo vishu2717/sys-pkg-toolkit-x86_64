@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2024-12-25 19:33: feat(security): add permission auditing script for local binaries
 - 2024-12-25 20:42: fix(config): ensure directory exists before writing state
 - 2024-12-25 21:10: docs: update system administration runbooks and troubleshooting
+- 2024-12-26 10:01: fix(bash): escape arguments in deployment script
