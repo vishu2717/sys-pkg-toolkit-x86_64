@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2024-12-27 10:16: feat(daemon): add background heartbeat and ping interval
 - 2024-12-27 15:18: feat(shell): implement safe pipe execution helper
 - 2024-12-29 10:09: docs: document environment variables and override flags
+- 2024-12-29 13:29: fix(config): ensure directory exists before writing state
