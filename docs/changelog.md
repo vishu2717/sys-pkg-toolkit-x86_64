@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2024-12-29 14:45: docs: update system administration runbooks and troubleshooting
 - 2024-12-29 16:02: refactor(daemon): separate socket listening from worker queue
 - 2024-12-29 16:31: fix(config): ensure directory exists before writing state
+- 2024-12-29 17:24: feat(metrics): track memory usage and cpu thread statistics
