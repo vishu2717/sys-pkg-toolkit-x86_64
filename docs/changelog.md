@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2024-12-29 16:31: fix(config): ensure directory exists before writing state
 - 2024-12-29 17:24: feat(metrics): track memory usage and cpu thread statistics
 - 2024-12-29 20:07: fix(docker): specify non-root user in runtime container
+- 2024-12-30 12:10: test(scripts): add bats verification for setup scripts
