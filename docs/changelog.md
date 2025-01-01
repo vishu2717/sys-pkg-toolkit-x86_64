@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2025-01-01 19:28: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-01 21:01: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-01 21:46: feat(monitor): implement system resource tracking utility
+- 2025-01-01 22:39: docs: document environment variables and override flags
