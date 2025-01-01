@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2024-12-30 12:10: test(scripts): add bats verification for setup scripts
 - 2024-12-30 14:58: refactor(cli): simplify command dispatch loop
 - 2024-12-30 19:12: feat(docker): optimize multi-stage build layers
+- 2025-01-01 13:13: feat(config): add JSON and YAML configuration loader
