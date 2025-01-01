@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2024-12-30 19:12: feat(docker): optimize multi-stage build layers
 - 2025-01-01 13:13: feat(config): add JSON and YAML configuration loader
 - 2025-01-01 15:24: refactor(scripts): modularize helper functions across shell scripts
+- 2025-01-01 19:28: feat(deploy): implement zero-downtime rolling reload
