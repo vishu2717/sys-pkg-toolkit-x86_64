@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2025-01-04 11:10: docs: update changelog with recent utility enhancements
 - 2025-01-04 11:36: fix(cli): exit with non-zero status code on unknown command
 - 2025-01-04 13:15: chore: configure shellcheck and ruff linter hooks
+- 2025-01-04 13:22: feat(docker): optimize multi-stage build layers
