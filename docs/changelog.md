@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-01-03 20:28: fix(config): ensure directory exists before writing state
 - 2025-01-03 21:34: test(scripts): add bats verification for setup scripts
 - 2025-01-03 21:36: feat(monitor): implement system resource tracking utility
+- 2025-01-04 11:10: docs: update changelog with recent utility enhancements
