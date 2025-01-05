@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-01-04 22:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-01-04 22:53: docs: update changelog with recent utility enhancements
 - 2025-01-05 12:15: fix(config): ensure directory exists before writing state
+- 2025-01-05 13:47: docs: document environment variables and override flags
