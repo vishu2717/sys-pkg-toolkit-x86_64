@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-01-05 12:15: fix(config): ensure directory exists before writing state
 - 2025-01-05 13:47: docs: document environment variables and override flags
 - 2025-01-05 14:50: fix(config): ensure directory exists before writing state
+- 2025-01-05 14:55: refactor(scripts): modularize helper functions across shell scripts
