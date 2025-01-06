@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2025-01-05 14:55: refactor(scripts): modularize helper functions across shell scripts
 - 2025-01-05 19:40: fix(cli): exit with non-zero status code on unknown command
 - 2025-01-06 11:43: test(proc): assert exit codes under simulated failures
+- 2025-01-06 12:16: test(cli): add unit test coverage for argument parsing
