@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-01-06 14:17: test(daemon): verify supervisor restarts crashed processes
 - 2025-01-06 14:44: feat(security): add permission auditing script for local binaries
 - 2025-01-06 17:41: refactor(daemon): separate socket listening from worker queue
+- 2025-01-06 20:55: fix(bash): escape arguments in deployment script
