@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2025-01-06 20:55: fix(bash): escape arguments in deployment script
 - 2025-01-06 21:12: fix(config): ensure directory exists before writing state
 - 2025-01-07 10:49: feat(monitor): implement system resource tracking utility
+- 2025-01-07 14:50: fix(daemon): gracefully handle sigterm during log rotation
