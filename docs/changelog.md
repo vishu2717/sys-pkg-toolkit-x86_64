@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2025-01-07 19:55: refactor(daemon): separate socket listening from worker queue
 - 2025-01-07 21:59: feat(metrics): track memory usage and cpu thread statistics
 - 2025-01-09 10:08: refactor(scripts): modularize helper functions across shell scripts
+- 2025-01-09 15:54: feat(deploy): implement zero-downtime rolling reload
