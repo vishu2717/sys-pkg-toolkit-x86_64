@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2025-01-09 20:52: feat(cli): add command-line argument parser for daemon
 - 2025-01-11 13:15: perf: reduce process spawn latency using fork pool
 - 2025-01-11 14:37: fix(bash): escape arguments in deployment script
+- 2025-01-11 17:22: feat(cli): add command-line argument parser for daemon
