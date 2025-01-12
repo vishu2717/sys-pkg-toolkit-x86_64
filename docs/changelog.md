@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2025-01-11 17:22: feat(cli): add command-line argument parser for daemon
 - 2025-01-11 17:26: test(cli): add unit test coverage for argument parsing
 - 2025-01-11 17:45: test(cli): add unit test coverage for argument parsing
+- 2025-01-12 10:51: fix(docker): specify non-root user in runtime container
