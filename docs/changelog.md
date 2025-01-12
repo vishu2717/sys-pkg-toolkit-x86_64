@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-01-12 10:51: fix(docker): specify non-root user in runtime container
 - 2025-01-12 10:59: feat(metrics): track memory usage and cpu thread statistics
 - 2025-01-12 12:19: fix(proc): prevent zombie process reaping race condition
+- 2025-01-12 13:40: docs: update system administration runbooks and troubleshooting
