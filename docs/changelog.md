@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-01-12 12:19: fix(proc): prevent zombie process reaping race condition
 - 2025-01-12 13:40: docs: update system administration runbooks and troubleshooting
 - 2025-01-12 14:20: refactor(cli): simplify command dispatch loop
+- 2025-01-12 15:26: feat(metrics): track memory usage and cpu thread statistics
