@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2025-01-12 17:13: feat(proc): add process supervisor with automatic restart
 - 2025-01-12 19:19: fix(cli): exit with non-zero status code on unknown command
 - 2025-01-12 22:20: feat(cli): add command-line argument parser for daemon
+- 2025-01-12 23:14: test(scripts): add bats verification for setup scripts
