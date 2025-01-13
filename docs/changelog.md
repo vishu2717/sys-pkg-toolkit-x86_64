@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2025-01-12 22:20: feat(cli): add command-line argument parser for daemon
 - 2025-01-12 23:14: test(scripts): add bats verification for setup scripts
 - 2025-01-13 19:08: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-01-13 19:18: fix(bash): escape arguments in deployment script
