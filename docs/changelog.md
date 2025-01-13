@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2025-01-13 19:22: feat(proc): add process supervisor with automatic restart
 - 2025-01-13 19:36: fix(config): ensure directory exists before writing state
 - 2025-01-13 21:05: refactor(config): migrate global settings to immutable dataclass
+- 2025-01-13 21:55: feat(env): add automated dotfiles symlink manager
