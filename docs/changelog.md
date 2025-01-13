@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-01-12 23:14: test(scripts): add bats verification for setup scripts
 - 2025-01-13 19:08: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-01-13 19:18: fix(bash): escape arguments in deployment script
+- 2025-01-13 19:22: feat(proc): add process supervisor with automatic restart
