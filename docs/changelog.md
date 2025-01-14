@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2025-01-13 21:55: feat(env): add automated dotfiles symlink manager
 - 2025-01-13 22:54: test(proc): assert exit codes under simulated failures
 - 2025-01-14 15:06: feat(metrics): track memory usage and cpu thread statistics
+- 2025-01-14 18:42: docs: update system administration runbooks and troubleshooting
