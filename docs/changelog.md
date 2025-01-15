@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-01-15 10:46: feat(security): add permission auditing script for local binaries
 - 2025-01-15 11:16: test(scripts): add bats verification for setup scripts
 - 2025-01-15 15:54: docs: update changelog with recent utility enhancements
+- 2025-01-15 16:17: feat(monitor): implement system resource tracking utility
