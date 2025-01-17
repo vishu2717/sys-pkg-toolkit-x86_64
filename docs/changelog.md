@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2025-01-17 12:05: feat(proc): add process supervisor with automatic restart
 - 2025-01-17 13:59: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-01-17 17:09: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-01-17 19:58: fix(bash): escape arguments in deployment script
