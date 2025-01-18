@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2025-01-17 19:58: fix(bash): escape arguments in deployment script
 - 2025-01-18 17:48: feat(sync): add rsync-based remote directory mirror utility
 - 2025-01-18 18:03: fix(bash): escape arguments in deployment script
+- 2025-01-18 19:51: feat(env): add automated dotfiles symlink manager
