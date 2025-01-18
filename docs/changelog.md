@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-01-17 13:59: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-01-17 17:09: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-01-17 19:58: fix(bash): escape arguments in deployment script
+- 2025-01-18 17:48: feat(sync): add rsync-based remote directory mirror utility
