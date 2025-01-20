@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2025-01-19 21:18: docs: document environment variables and override flags
 - 2025-01-20 17:32: refactor(config): migrate global settings to immutable dataclass
 - 2025-01-20 19:26: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-01-20 22:45: fix(docker): specify non-root user in runtime container
