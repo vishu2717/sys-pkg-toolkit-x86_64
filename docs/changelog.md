@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2025-01-18 18:03: fix(bash): escape arguments in deployment script
 - 2025-01-18 19:51: feat(env): add automated dotfiles symlink manager
 - 2025-01-19 21:18: docs: document environment variables and override flags
+- 2025-01-20 17:32: refactor(config): migrate global settings to immutable dataclass
