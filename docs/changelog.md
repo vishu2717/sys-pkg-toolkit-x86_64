@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2025-01-20 19:26: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-01-20 22:45: fix(docker): specify non-root user in runtime container
 - 2025-01-20 23:01: fix(cli): exit with non-zero status code on unknown command
+- 2025-01-20 23:04: feat(deploy): implement zero-downtime rolling reload
