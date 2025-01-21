@@ -190,3 +190,6 @@ Instructions for operational triage and cluster recovery.
 
 ### Environment Reference
 Supported environment variables and daemon override flags.
+
+### Maintenance Notes
+Recent enhancements to command-line toolchain.

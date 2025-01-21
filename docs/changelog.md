@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2025-01-21 19:37: test(cli): add unit test coverage for argument parsing
 - 2025-01-21 19:41: test(cli): add unit test coverage for argument parsing
 - 2025-01-21 20:29: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-01-21 21:14: docs: update changelog with recent utility enhancements
