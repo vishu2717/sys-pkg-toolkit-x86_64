@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-01-20 22:45: fix(docker): specify non-root user in runtime container
 - 2025-01-20 23:01: fix(cli): exit with non-zero status code on unknown command
 - 2025-01-20 23:04: feat(deploy): implement zero-downtime rolling reload
+- 2025-01-21 10:08: fix(monitor): resolve division by zero on idle cpu calculation
