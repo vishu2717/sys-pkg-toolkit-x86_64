@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2025-01-21 10:12: fix(bash): escape arguments in deployment script
 - 2025-01-21 10:35: test(proc): assert exit codes under simulated failures
 - 2025-01-21 15:39: feat(sync): add rsync-based remote directory mirror utility
+- 2025-01-21 16:04: test(scripts): add bats verification for setup scripts
