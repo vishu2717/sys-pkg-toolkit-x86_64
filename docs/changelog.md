@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-01-21 18:55: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-01-21 19:37: test(cli): add unit test coverage for argument parsing
 - 2025-01-21 19:41: test(cli): add unit test coverage for argument parsing
+- 2025-01-21 20:29: fix(daemon): gracefully handle sigterm during log rotation
