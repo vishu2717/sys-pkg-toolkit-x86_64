@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-01-21 16:04: test(scripts): add bats verification for setup scripts
 - 2025-01-21 17:34: feat(shell): implement safe pipe execution helper
 - 2025-01-21 18:55: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-01-21 19:37: test(cli): add unit test coverage for argument parsing
