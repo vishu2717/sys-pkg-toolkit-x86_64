@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-01-23 10:35: refactor(config): migrate global settings to immutable dataclass
 - 2025-01-23 10:46: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-23 11:10: test(scripts): add bats verification for setup scripts
+- 2025-01-23 13:32: fix(bash): escape arguments in deployment script
