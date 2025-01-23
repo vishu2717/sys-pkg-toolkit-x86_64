@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2025-01-23 11:10: test(scripts): add bats verification for setup scripts
 - 2025-01-23 13:32: fix(bash): escape arguments in deployment script
 - 2025-01-23 13:59: chore: update base container image to latest alpine
+- 2025-01-23 14:42: chore: update base container image to latest alpine
