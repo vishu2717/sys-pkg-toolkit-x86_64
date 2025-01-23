@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2025-01-21 20:29: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-01-21 21:14: docs: update changelog with recent utility enhancements
 - 2025-01-22 11:21: refactor(config): migrate global settings to immutable dataclass
+- 2025-01-23 10:16: docs: update system administration runbooks and troubleshooting
