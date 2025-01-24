@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-01-23 23:10: style: enforce consistent shell quoting and indentation
 - 2025-01-24 15:09: feat(config): add JSON and YAML configuration loader
 - 2025-01-24 18:36: test(scripts): add bats verification for setup scripts
+- 2025-01-24 20:28: fix(config): ensure directory exists before writing state
