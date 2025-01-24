@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2025-01-23 19:38: test(daemon): verify supervisor restarts crashed processes
 - 2025-01-23 21:00: test(daemon): verify supervisor restarts crashed processes
 - 2025-01-23 23:10: style: enforce consistent shell quoting and indentation
+- 2025-01-24 15:09: feat(config): add JSON and YAML configuration loader
