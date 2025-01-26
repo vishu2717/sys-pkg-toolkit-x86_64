@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-01-24 18:36: test(scripts): add bats verification for setup scripts
 - 2025-01-24 20:28: fix(config): ensure directory exists before writing state
 - 2025-01-26 15:13: perf: reduce process spawn latency using fork pool
+- 2025-01-26 15:25: feat(daemon): add background heartbeat and ping interval
