@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2025-01-24 20:28: fix(config): ensure directory exists before writing state
 - 2025-01-26 15:13: perf: reduce process spawn latency using fork pool
 - 2025-01-26 15:25: feat(daemon): add background heartbeat and ping interval
+- 2025-01-26 18:42: refactor(config): migrate global settings to immutable dataclass
