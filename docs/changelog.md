@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-01-26 18:42: refactor(config): migrate global settings to immutable dataclass
 - 2025-01-26 21:16: feat(security): add permission auditing script for local binaries
 - 2025-01-27 10:15: fix(bash): escape arguments in deployment script
+- 2025-01-27 10:37: style: enforce consistent shell quoting and indentation
