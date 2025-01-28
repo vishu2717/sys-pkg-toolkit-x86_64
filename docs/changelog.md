@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2025-01-27 11:16: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-28 11:46: style: enforce consistent shell quoting and indentation
 - 2025-01-28 11:53: test(scripts): add bats verification for setup scripts
+- 2025-01-28 15:31: feat(deploy): implement zero-downtime rolling reload
