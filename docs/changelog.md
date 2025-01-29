@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2025-01-29 13:52: fix(config): ensure directory exists before writing state
 - 2025-01-29 14:30: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-01-29 17:13: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-01-29 18:50: refactor(config): migrate global settings to immutable dataclass
