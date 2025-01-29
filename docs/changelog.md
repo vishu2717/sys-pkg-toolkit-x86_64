@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2025-01-28 15:31: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-28 22:30: feat(cli): add command-line argument parser for daemon
 - 2025-01-28 22:35: feat(deploy): implement zero-downtime rolling reload
+- 2025-01-29 10:20: refactor(daemon): separate socket listening from worker queue
