@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2025-01-28 22:35: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-29 10:20: refactor(daemon): separate socket listening from worker queue
 - 2025-01-29 11:44: refactor(cli): simplify command dispatch loop
+- 2025-01-29 13:52: fix(config): ensure directory exists before writing state
