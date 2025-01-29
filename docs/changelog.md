@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2025-01-29 17:13: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-01-29 18:50: refactor(config): migrate global settings to immutable dataclass
 - 2025-01-29 20:02: feat(monitor): implement system resource tracking utility
+- 2025-01-29 22:18: feat(deploy): implement zero-downtime rolling reload
