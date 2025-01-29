@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2025-01-29 10:20: refactor(daemon): separate socket listening from worker queue
 - 2025-01-29 11:44: refactor(cli): simplify command dispatch loop
 - 2025-01-29 13:52: fix(config): ensure directory exists before writing state
+- 2025-01-29 14:30: fix(daemon): gracefully handle sigterm during log rotation
