@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-01-29 22:55: fix(docker): specify non-root user in runtime container
 - 2025-01-30 12:00: feat(metrics): track memory usage and cpu thread statistics
 - 2025-01-30 13:14: test(cli): add unit test coverage for argument parsing
+- 2025-01-30 13:29: fix(monitor): resolve division by zero on idle cpu calculation
