@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-01-30 13:29: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-01-30 13:35: feat(config): add JSON and YAML configuration loader
 - 2025-01-30 14:09: fix(config): ensure directory exists before writing state
+- 2025-01-30 18:54: feat(shell): implement safe pipe execution helper
