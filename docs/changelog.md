@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2025-01-29 20:02: feat(monitor): implement system resource tracking utility
 - 2025-01-29 22:18: feat(deploy): implement zero-downtime rolling reload
 - 2025-01-29 22:55: fix(docker): specify non-root user in runtime container
+- 2025-01-30 12:00: feat(metrics): track memory usage and cpu thread statistics
