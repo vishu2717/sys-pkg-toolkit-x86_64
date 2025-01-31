@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2025-01-30 14:09: fix(config): ensure directory exists before writing state
 - 2025-01-30 18:54: feat(shell): implement safe pipe execution helper
 - 2025-01-30 20:26: fix(config): ensure directory exists before writing state
+- 2025-01-31 10:58: refactor(daemon): separate socket listening from worker queue
