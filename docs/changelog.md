@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-01-31 10:58: refactor(daemon): separate socket listening from worker queue
 - 2025-01-31 12:56: feat(cli): add command-line argument parser for daemon
 - 2025-01-31 15:47: test(scripts): add bats verification for setup scripts
+- 2025-01-31 16:19: fix(daemon): gracefully handle sigterm during log rotation
