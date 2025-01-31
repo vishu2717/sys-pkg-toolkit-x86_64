@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2025-01-30 20:26: fix(config): ensure directory exists before writing state
 - 2025-01-31 10:58: refactor(daemon): separate socket listening from worker queue
 - 2025-01-31 12:56: feat(cli): add command-line argument parser for daemon
+- 2025-01-31 15:47: test(scripts): add bats verification for setup scripts
