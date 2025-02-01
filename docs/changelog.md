@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2025-01-31 15:47: test(scripts): add bats verification for setup scripts
 - 2025-01-31 16:19: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-02-01 12:40: test(scripts): add bats verification for setup scripts
+- 2025-02-01 13:58: fix(cli): exit with non-zero status code on unknown command
