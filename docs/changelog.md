@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2025-02-01 13:58: fix(cli): exit with non-zero status code on unknown command
 - 2025-02-01 19:10: refactor(scripts): modularize helper functions across shell scripts
 - 2025-02-01 20:38: test(cli): add unit test coverage for argument parsing
+- 2025-02-03 12:33: refactor(config): migrate global settings to immutable dataclass
