@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 20:39: test(proc): assert exit codes under simulated failures
 - 2025-02-05 22:38: feat(security): add permission auditing script for local binaries
 - 2025-02-05 22:56: feat(metrics): track memory usage and cpu thread statistics
+- 2025-02-05 23:04: test(scripts): add bats verification for setup scripts
