@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 15:00: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-05 16:18: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-02-05 20:39: test(proc): assert exit codes under simulated failures
+- 2025-02-05 22:38: feat(security): add permission auditing script for local binaries
