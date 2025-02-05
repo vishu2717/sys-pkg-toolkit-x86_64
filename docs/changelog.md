@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 14:58: fix(docker): specify non-root user in runtime container
 - 2025-02-05 15:00: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-05 16:18: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-02-05 20:39: test(proc): assert exit codes under simulated failures
