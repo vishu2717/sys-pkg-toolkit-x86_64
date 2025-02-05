@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2025-02-03 14:56: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-02-03 16:08: refactor(cli): simplify command dispatch loop
 - 2025-02-03 20:09: feat(monitor): implement system resource tracking utility
+- 2025-02-05 11:07: refactor(scripts): modularize helper functions across shell scripts
