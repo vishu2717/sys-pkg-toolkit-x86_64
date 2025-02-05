@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 11:07: refactor(scripts): modularize helper functions across shell scripts
 - 2025-02-05 11:34: chore: configure shellcheck and ruff linter hooks
 - 2025-02-05 13:47: fix(cli): exit with non-zero status code on unknown command
+- 2025-02-05 14:58: fix(docker): specify non-root user in runtime container
