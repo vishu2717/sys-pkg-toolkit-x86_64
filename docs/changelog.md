@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 23:17: feat(config): add JSON and YAML configuration loader
 - 2025-02-07 10:29: fix(docker): specify non-root user in runtime container
 - 2025-02-07 16:41: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-02-07 17:52: perf: reduce process spawn latency using fork pool
