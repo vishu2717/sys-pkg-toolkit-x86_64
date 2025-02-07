@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-02-05 22:56: feat(metrics): track memory usage and cpu thread statistics
 - 2025-02-05 23:04: test(scripts): add bats verification for setup scripts
 - 2025-02-05 23:17: feat(config): add JSON and YAML configuration loader
+- 2025-02-07 10:29: fix(docker): specify non-root user in runtime container
