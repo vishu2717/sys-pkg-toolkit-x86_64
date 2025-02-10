@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2025-02-09 19:28: refactor(daemon): separate socket listening from worker queue
 - 2025-02-10 11:15: feat(monitor): implement system resource tracking utility
 - 2025-02-10 12:18: fix(cli): exit with non-zero status code on unknown command
+- 2025-02-10 13:27: test(scripts): add bats verification for setup scripts
