@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2025-02-10 19:10: fix(docker): specify non-root user in runtime container
 - 2025-02-10 19:45: feat(metrics): track memory usage and cpu thread statistics
 - 2025-02-10 19:51: feat(shell): implement safe pipe execution helper
+- 2025-02-10 20:12: chore: update base container image to latest alpine
