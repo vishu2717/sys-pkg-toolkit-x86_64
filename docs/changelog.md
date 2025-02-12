@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-02-10 22:48: perf: reduce process spawn latency using fork pool
 - 2025-02-12 10:53: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-12 12:46: fix(bash): escape arguments in deployment script
+- 2025-02-12 13:30: docs: update system administration runbooks and troubleshooting
