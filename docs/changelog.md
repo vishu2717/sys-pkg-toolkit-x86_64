@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2025-02-12 13:30: docs: update system administration runbooks and troubleshooting
 - 2025-02-12 14:00: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-02-12 16:33: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-02-12 17:27: docs: update changelog with recent utility enhancements
