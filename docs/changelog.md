@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-02-10 21:37: feat(daemon): add background heartbeat and ping interval
 - 2025-02-10 22:14: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-02-10 22:48: perf: reduce process spawn latency using fork pool
+- 2025-02-12 10:53: feat(sync): add rsync-based remote directory mirror utility
