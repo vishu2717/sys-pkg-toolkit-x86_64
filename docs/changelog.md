@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2025-02-13 12:03: feat(daemon): add background heartbeat and ping interval
 - 2025-02-13 12:53: fix(docker): specify non-root user in runtime container
 - 2025-02-13 14:40: docs: document environment variables and override flags
+- 2025-02-13 20:01: feat(metrics): track memory usage and cpu thread statistics
