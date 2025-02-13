@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2025-02-13 14:40: docs: document environment variables and override flags
 - 2025-02-13 20:01: feat(metrics): track memory usage and cpu thread statistics
 - 2025-02-13 20:11: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-02-13 21:11: test(cli): add unit test coverage for argument parsing
