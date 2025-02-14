@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2025-02-13 21:11: test(cli): add unit test coverage for argument parsing
 - 2025-02-13 21:18: feat(shell): implement safe pipe execution helper
 - 2025-02-14 13:25: refactor(scripts): modularize helper functions across shell scripts
+- 2025-02-14 14:34: fix(docker): specify non-root user in runtime container
