@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-02-16 13:21: feat(shell): implement safe pipe execution helper
 - 2025-02-16 13:50: feat(config): add JSON and YAML configuration loader
 - 2025-02-16 16:32: fix(docker): specify non-root user in runtime container
+- 2025-02-16 21:10: docs: update changelog with recent utility enhancements
