@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2025-02-14 13:25: refactor(scripts): modularize helper functions across shell scripts
 - 2025-02-14 14:34: fix(docker): specify non-root user in runtime container
 - 2025-02-16 13:21: feat(shell): implement safe pipe execution helper
+- 2025-02-16 13:50: feat(config): add JSON and YAML configuration loader
