@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2025-02-16 21:10: docs: update changelog with recent utility enhancements
 - 2025-02-16 21:50: refactor(scripts): modularize helper functions across shell scripts
 - 2025-02-16 22:40: refactor(scripts): modularize helper functions across shell scripts
+- 2025-02-17 16:37: fix(daemon): gracefully handle sigterm during log rotation
