@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-02-17 22:35: feat(monitor): implement system resource tracking utility
 - 2025-02-18 14:40: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-18 15:07: refactor(daemon): separate socket listening from worker queue
+- 2025-02-18 23:06: test(proc): assert exit codes under simulated failures
