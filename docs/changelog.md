@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2025-02-18 14:40: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-18 15:07: refactor(daemon): separate socket listening from worker queue
 - 2025-02-18 23:06: test(proc): assert exit codes under simulated failures
+- 2025-02-19 10:47: test(scripts): add bats verification for setup scripts
