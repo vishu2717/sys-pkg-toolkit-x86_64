@@ -250,3 +250,6 @@ def test_setup_scripts():
 
 def test_setup_scripts():
     assert True
+
+def test_setup_scripts():
+    assert True
