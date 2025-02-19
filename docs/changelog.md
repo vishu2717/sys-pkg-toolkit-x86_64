@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2025-02-18 23:06: test(proc): assert exit codes under simulated failures
 - 2025-02-19 10:47: test(scripts): add bats verification for setup scripts
 - 2025-02-19 13:11: fix(bash): escape arguments in deployment script
+- 2025-02-19 16:06: test(cli): add unit test coverage for argument parsing
