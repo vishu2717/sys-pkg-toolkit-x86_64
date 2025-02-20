@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-02-20 12:10: test(scripts): add bats verification for setup scripts
 - 2025-02-20 13:00: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-02-20 13:40: refactor(config): migrate global settings to immutable dataclass
+- 2025-02-20 13:48: feat(sync): add rsync-based remote directory mirror utility
