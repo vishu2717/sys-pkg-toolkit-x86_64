@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2025-02-19 21:17: docs: document environment variables and override flags
 - 2025-02-20 10:30: test(cli): add unit test coverage for argument parsing
 - 2025-02-20 12:10: test(scripts): add bats verification for setup scripts
+- 2025-02-20 13:00: fix(monitor): resolve division by zero on idle cpu calculation
