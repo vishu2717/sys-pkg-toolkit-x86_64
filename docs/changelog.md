@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2025-02-20 13:40: refactor(config): migrate global settings to immutable dataclass
 - 2025-02-20 13:48: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-20 16:46: feat(config): add JSON and YAML configuration loader
+- 2025-02-20 19:23: docs: document environment variables and override flags
