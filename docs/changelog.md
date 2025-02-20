@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2025-02-19 19:33: test(scripts): add bats verification for setup scripts
 - 2025-02-19 19:39: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-02-19 21:17: docs: document environment variables and override flags
+- 2025-02-20 10:30: test(cli): add unit test coverage for argument parsing
