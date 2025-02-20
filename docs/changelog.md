@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2025-02-20 10:30: test(cli): add unit test coverage for argument parsing
 - 2025-02-20 12:10: test(scripts): add bats verification for setup scripts
 - 2025-02-20 13:00: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-02-20 13:40: refactor(config): migrate global settings to immutable dataclass
