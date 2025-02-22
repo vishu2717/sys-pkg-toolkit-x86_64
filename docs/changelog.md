@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2025-02-22 11:53: feat(sync): add rsync-based remote directory mirror utility
 - 2025-02-22 12:50: refactor(cli): simplify command dispatch loop
 - 2025-02-22 13:29: test(cli): add unit test coverage for argument parsing
+- 2025-02-22 17:21: refactor(daemon): separate socket listening from worker queue
