@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-02-22 17:21: refactor(daemon): separate socket listening from worker queue
 - 2025-02-22 20:39: fix(proc): prevent zombie process reaping race condition
 - 2025-02-22 22:27: feat(sync): add rsync-based remote directory mirror utility
+- 2025-02-22 23:00: fix(bash): escape arguments in deployment script
