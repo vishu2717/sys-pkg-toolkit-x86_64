@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-02-22 23:00: fix(bash): escape arguments in deployment script
 - 2025-02-23 10:29: feat(docker): optimize multi-stage build layers
 - 2025-02-23 23:02: refactor(cli): simplify command dispatch loop
+- 2025-02-24 15:02: test(proc): assert exit codes under simulated failures
