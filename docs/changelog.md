@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2025-02-24 15:02: test(proc): assert exit codes under simulated failures
 - 2025-02-25 21:29: feat(proc): add process supervisor with automatic restart
 - 2025-02-25 21:36: feat(metrics): track memory usage and cpu thread statistics
+- 2025-02-25 22:11: test(proc): assert exit codes under simulated failures
