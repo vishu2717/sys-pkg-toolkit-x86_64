@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2025-02-25 21:36: feat(metrics): track memory usage and cpu thread statistics
 - 2025-02-25 22:11: test(proc): assert exit codes under simulated failures
 - 2025-02-26 13:47: feat(metrics): track memory usage and cpu thread statistics
+- 2025-02-26 14:35: fix(proc): prevent zombie process reaping race condition
