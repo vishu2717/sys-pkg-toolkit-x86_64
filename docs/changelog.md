@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-02-27 17:11: chore: update base container image to latest alpine
 - 2025-02-27 17:44: feat(config): add JSON and YAML configuration loader
 - 2025-02-27 18:41: docs: update system administration runbooks and troubleshooting
+- 2025-02-27 19:53: docs: document environment variables and override flags
