@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-02-27 15:23: style: enforce consistent shell quoting and indentation
 - 2025-02-27 16:07: feat(daemon): add background heartbeat and ping interval
 - 2025-02-27 17:11: chore: update base container image to latest alpine
+- 2025-02-27 17:44: feat(config): add JSON and YAML configuration loader
