@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2025-02-27 18:41: docs: update system administration runbooks and troubleshooting
 - 2025-02-27 19:53: docs: document environment variables and override flags
 - 2025-02-27 22:39: fix(cli): exit with non-zero status code on unknown command
+- 2025-02-28 13:09: fix(monitor): resolve division by zero on idle cpu calculation
