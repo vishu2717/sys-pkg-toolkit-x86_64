@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2025-03-01 14:17: refactor(cli): simplify command dispatch loop
 - 2025-03-01 14:38: feat(sync): add rsync-based remote directory mirror utility
 - 2025-03-01 15:41: feat(sync): add rsync-based remote directory mirror utility
+- 2025-03-01 17:20: feat(shell): implement safe pipe execution helper
