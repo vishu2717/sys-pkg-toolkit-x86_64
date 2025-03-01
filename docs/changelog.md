@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2025-02-28 13:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-02-28 19:19: feat(deploy): implement zero-downtime rolling reload
 - 2025-02-28 20:29: refactor(scripts): modularize helper functions across shell scripts
+- 2025-03-01 12:10: fix(monitor): resolve division by zero on idle cpu calculation
