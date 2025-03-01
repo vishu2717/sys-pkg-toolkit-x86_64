@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2025-03-01 17:52: feat(security): add permission auditing script for local binaries
 - 2025-03-01 19:16: fix(cli): exit with non-zero status code on unknown command
 - 2025-03-01 20:24: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-03-01 22:33: fix(daemon): gracefully handle sigterm during log rotation
