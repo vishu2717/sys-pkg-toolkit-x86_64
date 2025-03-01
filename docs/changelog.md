@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2025-03-01 17:20: feat(shell): implement safe pipe execution helper
 - 2025-03-01 17:45: feat(config): add JSON and YAML configuration loader
 - 2025-03-01 17:52: feat(security): add permission auditing script for local binaries
+- 2025-03-01 19:16: fix(cli): exit with non-zero status code on unknown command
