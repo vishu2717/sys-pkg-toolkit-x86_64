@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-03-01 20:24: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-03-01 22:33: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-02 11:48: fix(bash): escape arguments in deployment script
+- 2025-03-02 19:00: refactor(daemon): separate socket listening from worker queue
