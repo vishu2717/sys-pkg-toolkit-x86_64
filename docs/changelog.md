@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-03-02 11:48: fix(bash): escape arguments in deployment script
 - 2025-03-02 19:00: refactor(daemon): separate socket listening from worker queue
 - 2025-03-02 19:09: feat(docker): optimize multi-stage build layers
+- 2025-03-02 23:06: feat(env): add automated dotfiles symlink manager
