@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2025-03-04 11:49: test(scripts): add bats verification for setup scripts
 - 2025-03-04 13:34: fix(cli): exit with non-zero status code on unknown command
 - 2025-03-04 14:53: feat(config): add JSON and YAML configuration loader
+- 2025-03-04 16:28: feat(proc): add process supervisor with automatic restart
