@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2025-03-04 20:49: feat(config): add JSON and YAML configuration loader
 - 2025-03-04 23:26: fix(cli): exit with non-zero status code on unknown command
 - 2025-03-05 10:52: feat(config): add JSON and YAML configuration loader
+- 2025-03-05 12:22: feat(proc): add process supervisor with automatic restart
