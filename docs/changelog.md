@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2025-03-05 12:22: feat(proc): add process supervisor with automatic restart
 - 2025-03-05 15:09: feat(security): add permission auditing script for local binaries
 - 2025-03-05 21:12: feat(env): add automated dotfiles symlink manager
+- 2025-03-06 14:23: fix(bash): escape arguments in deployment script
