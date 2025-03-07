@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-03-07 17:11: feat(cli): add command-line argument parser for daemon
 - 2025-03-07 17:23: feat(env): add automated dotfiles symlink manager
 - 2025-03-07 17:29: perf: reduce process spawn latency using fork pool
+- 2025-03-07 20:44: fix(cli): exit with non-zero status code on unknown command
