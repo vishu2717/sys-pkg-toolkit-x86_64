@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-03-07 12:29: test(proc): assert exit codes under simulated failures
 - 2025-03-07 16:47: chore: configure shellcheck and ruff linter hooks
 - 2025-03-07 17:11: feat(cli): add command-line argument parser for daemon
+- 2025-03-07 17:23: feat(env): add automated dotfiles symlink manager
