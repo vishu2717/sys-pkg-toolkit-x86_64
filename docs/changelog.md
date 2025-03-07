@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2025-03-05 21:12: feat(env): add automated dotfiles symlink manager
 - 2025-03-06 14:23: fix(bash): escape arguments in deployment script
 - 2025-03-07 12:26: refactor(scripts): modularize helper functions across shell scripts
+- 2025-03-07 12:29: test(proc): assert exit codes under simulated failures
