@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2025-03-09 18:26: feat(proc): add process supervisor with automatic restart
 - 2025-03-09 19:36: feat(proc): add process supervisor with automatic restart
 - 2025-03-09 22:14: fix(bash): escape arguments in deployment script
+- 2025-03-09 23:28: test(proc): assert exit codes under simulated failures
