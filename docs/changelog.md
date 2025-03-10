@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2025-03-10 10:53: feat(metrics): track memory usage and cpu thread statistics
 - 2025-03-10 11:43: fix(cli): exit with non-zero status code on unknown command
 - 2025-03-10 13:50: refactor(scripts): modularize helper functions across shell scripts
+- 2025-03-10 15:19: feat(sync): add rsync-based remote directory mirror utility
