@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2025-03-10 19:39: docs: update system administration runbooks and troubleshooting
 - 2025-03-10 19:46: docs: document environment variables and override flags
 - 2025-03-10 20:23: refactor(daemon): separate socket listening from worker queue
+- 2025-03-10 21:26: fix(config): ensure directory exists before writing state
