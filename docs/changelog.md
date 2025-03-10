@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2025-03-10 20:23: refactor(daemon): separate socket listening from worker queue
 - 2025-03-10 21:26: fix(config): ensure directory exists before writing state
 - 2025-03-10 21:33: fix(docker): specify non-root user in runtime container
+- 2025-03-10 21:57: perf: reduce process spawn latency using fork pool
