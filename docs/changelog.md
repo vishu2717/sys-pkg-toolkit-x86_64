@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-03-10 23:13: docs: update changelog with recent utility enhancements
 - 2025-03-11 18:05: feat(shell): implement safe pipe execution helper
 - 2025-03-11 18:11: feat(proc): add process supervisor with automatic restart
+- 2025-03-11 21:14: fix(bash): escape arguments in deployment script
