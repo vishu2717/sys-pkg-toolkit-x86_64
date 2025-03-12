@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-03-12 15:35: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-12 18:18: docs: add architecture specification for daemon supervisor
 - 2025-03-12 20:20: fix(docker): specify non-root user in runtime container
+- 2025-03-12 20:44: feat(proc): add process supervisor with automatic restart
