@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-03-11 18:11: feat(proc): add process supervisor with automatic restart
 - 2025-03-11 21:14: fix(bash): escape arguments in deployment script
 - 2025-03-12 15:35: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-03-12 18:18: docs: add architecture specification for daemon supervisor
