@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2025-03-14 18:58: feat(docker): optimize multi-stage build layers
 - 2025-03-14 21:02: feat(docker): optimize multi-stage build layers
 - 2025-03-16 11:14: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-03-16 13:08: test(scripts): add bats verification for setup scripts
