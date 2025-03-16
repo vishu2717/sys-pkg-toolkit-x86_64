@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2025-03-16 11:14: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-03-16 13:08: test(scripts): add bats verification for setup scripts
 - 2025-03-16 14:53: refactor(daemon): separate socket listening from worker queue
+- 2025-03-16 14:53: test(daemon): verify supervisor restarts crashed processes
