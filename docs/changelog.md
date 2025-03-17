@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2025-03-16 14:53: test(daemon): verify supervisor restarts crashed processes
 - 2025-03-16 15:16: test(scripts): add bats verification for setup scripts
 - 2025-03-16 21:19: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-03-17 11:01: fix(cli): exit with non-zero status code on unknown command
