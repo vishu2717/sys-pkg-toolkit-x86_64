@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2025-03-18 13:25: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-18 13:40: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-18 14:33: feat(config): add JSON and YAML configuration loader
+- 2025-03-18 16:06: refactor(scripts): modularize helper functions across shell scripts
