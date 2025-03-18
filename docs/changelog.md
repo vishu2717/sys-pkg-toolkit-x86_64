@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-03-18 14:33: feat(config): add JSON and YAML configuration loader
 - 2025-03-18 16:06: refactor(scripts): modularize helper functions across shell scripts
 - 2025-03-18 17:54: feat(cli): add command-line argument parser for daemon
+- 2025-03-18 19:24: refactor(cli): simplify command dispatch loop
