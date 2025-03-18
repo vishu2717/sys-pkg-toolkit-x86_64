@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2025-03-18 19:24: refactor(cli): simplify command dispatch loop
 - 2025-03-18 19:57: test(scripts): add bats verification for setup scripts
 - 2025-03-18 22:20: test(proc): assert exit codes under simulated failures
+- 2025-03-18 22:46: docs: update system administration runbooks and troubleshooting
