@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 18:39: refactor(scripts): modularize helper functions across shell scripts
 - 2025-03-20 21:12: fix(proc): prevent zombie process reaping race condition
 - 2025-03-20 21:21: docs: update system administration runbooks and troubleshooting
+- 2025-03-20 21:25: fix(cli): exit with non-zero status code on unknown command
