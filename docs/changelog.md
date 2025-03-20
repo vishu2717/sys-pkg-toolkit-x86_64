@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 13:07: docs: update changelog with recent utility enhancements
 - 2025-03-20 14:44: docs: update system administration runbooks and troubleshooting
 - 2025-03-20 14:54: feat(sync): add rsync-based remote directory mirror utility
+- 2025-03-20 16:52: fix(daemon): gracefully handle sigterm during log rotation
