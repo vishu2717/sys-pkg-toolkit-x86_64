@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 10:33: feat(docker): optimize multi-stage build layers
 - 2025-03-20 13:07: docs: update changelog with recent utility enhancements
 - 2025-03-20 14:44: docs: update system administration runbooks and troubleshooting
+- 2025-03-20 14:54: feat(sync): add rsync-based remote directory mirror utility
