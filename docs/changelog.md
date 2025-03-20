@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2025-03-19 11:04: test(proc): assert exit codes under simulated failures
 - 2025-03-19 15:45: fix(config): ensure directory exists before writing state
 - 2025-03-20 10:33: feat(docker): optimize multi-stage build layers
+- 2025-03-20 13:07: docs: update changelog with recent utility enhancements
