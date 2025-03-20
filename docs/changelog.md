@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 18:20: fix(docker): specify non-root user in runtime container
 - 2025-03-20 18:39: refactor(scripts): modularize helper functions across shell scripts
 - 2025-03-20 21:12: fix(proc): prevent zombie process reaping race condition
+- 2025-03-20 21:21: docs: update system administration runbooks and troubleshooting
