@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 21:21: docs: update system administration runbooks and troubleshooting
 - 2025-03-20 21:25: fix(cli): exit with non-zero status code on unknown command
 - 2025-03-20 22:40: refactor(config): migrate global settings to immutable dataclass
+- 2025-03-21 10:18: refactor(cli): simplify command dispatch loop
