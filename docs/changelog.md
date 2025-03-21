@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2025-03-21 11:12: refactor(daemon): separate socket listening from worker queue
 - 2025-03-21 11:35: feat(shell): implement safe pipe execution helper
 - 2025-03-21 11:51: docs: add architecture specification for daemon supervisor
+- 2025-03-21 12:12: feat(env): add automated dotfiles symlink manager
