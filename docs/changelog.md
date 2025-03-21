@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2025-03-20 22:40: refactor(config): migrate global settings to immutable dataclass
 - 2025-03-21 10:18: refactor(cli): simplify command dispatch loop
 - 2025-03-21 10:54: test(scripts): add bats verification for setup scripts
+- 2025-03-21 11:12: refactor(daemon): separate socket listening from worker queue
