@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-03-23 15:30: style: enforce consistent shell quoting and indentation
 - 2025-03-23 17:46: refactor(cli): simplify command dispatch loop
 - 2025-03-23 19:04: feat(daemon): add background heartbeat and ping interval
+- 2025-03-23 23:01: refactor(daemon): separate socket listening from worker queue
