@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2025-03-23 11:32: feat(deploy): implement zero-downtime rolling reload
 - 2025-03-23 11:48: feat(docker): optimize multi-stage build layers
 - 2025-03-23 12:04: feat(sync): add rsync-based remote directory mirror utility
+- 2025-03-23 12:26: fix(daemon): gracefully handle sigterm during log rotation
