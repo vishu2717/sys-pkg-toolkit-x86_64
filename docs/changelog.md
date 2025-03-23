@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2025-03-21 19:09: fix(docker): specify non-root user in runtime container
 - 2025-03-21 19:42: feat(docker): optimize multi-stage build layers
 - 2025-03-21 23:14: chore: configure shellcheck and ruff linter hooks
+- 2025-03-23 11:21: fix(monitor): resolve division by zero on idle cpu calculation
