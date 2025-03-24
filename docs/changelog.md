@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2025-03-23 23:01: refactor(daemon): separate socket listening from worker queue
 - 2025-03-24 10:08: feat(daemon): add background heartbeat and ping interval
 - 2025-03-24 13:13: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-03-24 22:09: docs: update system administration runbooks and troubleshooting
