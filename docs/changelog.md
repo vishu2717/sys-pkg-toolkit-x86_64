@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-03-24 10:08: feat(daemon): add background heartbeat and ping interval
 - 2025-03-24 13:13: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-03-24 22:09: docs: update system administration runbooks and troubleshooting
+- 2025-03-25 14:10: test(cli): add unit test coverage for argument parsing
