@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2025-03-25 14:10: test(cli): add unit test coverage for argument parsing
 - 2025-03-25 14:29: docs: add architecture specification for daemon supervisor
 - 2025-03-27 11:10: refactor(config): migrate global settings to immutable dataclass
+- 2025-03-27 11:55: feat(cli): add command-line argument parser for daemon
