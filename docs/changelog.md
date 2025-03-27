@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-03-25 14:29: docs: add architecture specification for daemon supervisor
 - 2025-03-27 11:10: refactor(config): migrate global settings to immutable dataclass
 - 2025-03-27 11:55: feat(cli): add command-line argument parser for daemon
+- 2025-03-27 12:58: fix(cli): exit with non-zero status code on unknown command
