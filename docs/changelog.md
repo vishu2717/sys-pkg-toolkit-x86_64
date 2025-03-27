@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2025-03-27 15:07: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-27 15:42: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-03-27 16:17: feat(security): add permission auditing script for local binaries
+- 2025-03-27 19:35: test(cli): add unit test coverage for argument parsing
