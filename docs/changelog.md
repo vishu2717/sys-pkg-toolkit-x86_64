@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2025-03-28 18:08: feat(sync): add rsync-based remote directory mirror utility
 - 2025-03-28 18:39: fix(proc): prevent zombie process reaping race condition
 - 2025-03-28 18:50: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-03-28 19:33: refactor(config): migrate global settings to immutable dataclass
