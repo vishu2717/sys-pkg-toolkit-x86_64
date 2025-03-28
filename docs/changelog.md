@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-03-28 18:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-03-28 19:33: refactor(config): migrate global settings to immutable dataclass
 - 2025-03-28 22:32: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-03-28 23:25: refactor(daemon): separate socket listening from worker queue
