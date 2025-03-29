@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-03-29 12:11: feat(deploy): implement zero-downtime rolling reload
 - 2025-03-29 12:29: refactor(scripts): modularize helper functions across shell scripts
 - 2025-03-29 13:13: test(scripts): add bats verification for setup scripts
+- 2025-03-29 13:18: feat(env): add automated dotfiles symlink manager
