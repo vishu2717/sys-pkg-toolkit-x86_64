@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2025-03-29 13:18: feat(env): add automated dotfiles symlink manager
 - 2025-03-29 15:56: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-03-29 18:05: fix(config): ensure directory exists before writing state
+- 2025-03-29 18:12: test(daemon): verify supervisor restarts crashed processes
