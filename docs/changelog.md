@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2025-03-28 22:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-03-28 23:25: refactor(daemon): separate socket listening from worker queue
 - 2025-03-29 10:45: feat(cli): add command-line argument parser for daemon
+- 2025-03-29 12:11: feat(deploy): implement zero-downtime rolling reload
