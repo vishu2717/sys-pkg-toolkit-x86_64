@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-03-30 17:43: fix(proc): prevent zombie process reaping race condition
 - 2025-03-30 19:22: docs: update system administration runbooks and troubleshooting
 - 2025-03-30 20:16: perf: reduce process spawn latency using fork pool
+- 2025-03-30 20:18: fix(bash): escape arguments in deployment script
