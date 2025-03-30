@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-03-29 21:01: refactor(config): migrate global settings to immutable dataclass
 - 2025-03-29 21:29: fix(config): ensure directory exists before writing state
 - 2025-03-29 22:51: test(daemon): verify supervisor restarts crashed processes
+- 2025-03-30 14:23: feat(config): add JSON and YAML configuration loader
