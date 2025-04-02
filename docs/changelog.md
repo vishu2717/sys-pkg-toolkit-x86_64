@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-04-02 14:54: fix(proc): prevent zombie process reaping race condition
 - 2025-04-02 19:29: refactor(config): migrate global settings to immutable dataclass
 - 2025-04-02 20:58: feat(config): add JSON and YAML configuration loader
+- 2025-04-02 21:16: fix(cli): exit with non-zero status code on unknown command
