@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-04-02 12:34: fix(proc): prevent zombie process reaping race condition
 - 2025-04-02 13:26: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-04-02 14:54: fix(proc): prevent zombie process reaping race condition
+- 2025-04-02 19:29: refactor(config): migrate global settings to immutable dataclass
