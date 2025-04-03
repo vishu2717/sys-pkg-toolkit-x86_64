@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2025-04-02 20:58: feat(config): add JSON and YAML configuration loader
 - 2025-04-02 21:16: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-03 12:13: docs: update changelog with recent utility enhancements
+- 2025-04-03 13:44: fix(daemon): gracefully handle sigterm during log rotation
