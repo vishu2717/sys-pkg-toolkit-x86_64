@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2025-04-03 12:13: docs: update changelog with recent utility enhancements
 - 2025-04-03 13:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-04-03 14:10: fix(proc): prevent zombie process reaping race condition
+- 2025-04-03 14:22: feat(docker): optimize multi-stage build layers
