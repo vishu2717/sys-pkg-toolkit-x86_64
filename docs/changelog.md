@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2025-04-03 13:44: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-04-03 14:10: fix(proc): prevent zombie process reaping race condition
 - 2025-04-03 14:22: feat(docker): optimize multi-stage build layers
+- 2025-04-03 14:27: fix(cli): exit with non-zero status code on unknown command
