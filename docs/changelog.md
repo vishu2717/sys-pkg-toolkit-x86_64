@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2025-04-03 14:27: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-03 20:05: test(scripts): add bats verification for setup scripts
 - 2025-04-04 14:00: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-04-04 17:43: fix(proc): prevent zombie process reaping race condition
