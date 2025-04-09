@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2025-04-06 21:36: feat(cli): add command-line argument parser for daemon
 - 2025-04-06 23:11: feat(proc): add process supervisor with automatic restart
 - 2025-04-09 12:59: feat(shell): implement safe pipe execution helper
+- 2025-04-09 17:53: fix(daemon): gracefully handle sigterm during log rotation
