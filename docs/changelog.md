@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-04-10 15:07: docs: update changelog with recent utility enhancements
 - 2025-04-10 15:50: feat(daemon): add background heartbeat and ping interval
 - 2025-04-10 16:20: docs: add architecture specification for daemon supervisor
+- 2025-04-10 16:22: fix(monitor): resolve division by zero on idle cpu calculation
