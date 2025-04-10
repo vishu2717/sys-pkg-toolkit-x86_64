@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2025-04-10 17:16: feat(sync): add rsync-based remote directory mirror utility
 - 2025-04-10 17:56: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-04-10 20:08: feat(deploy): implement zero-downtime rolling reload
+- 2025-04-10 20:09: refactor(cli): simplify command dispatch loop
