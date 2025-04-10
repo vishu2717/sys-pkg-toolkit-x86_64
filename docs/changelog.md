@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-04-09 12:59: feat(shell): implement safe pipe execution helper
 - 2025-04-09 17:53: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-04-09 18:36: test(cli): add unit test coverage for argument parsing
+- 2025-04-10 13:31: fix(cli): exit with non-zero status code on unknown command
