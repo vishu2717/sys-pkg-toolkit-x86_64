@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-04-09 18:36: test(cli): add unit test coverage for argument parsing
 - 2025-04-10 13:31: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-10 15:07: docs: update changelog with recent utility enhancements
+- 2025-04-10 15:50: feat(daemon): add background heartbeat and ping interval
