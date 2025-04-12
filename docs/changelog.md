@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2025-04-10 21:29: feat(metrics): track memory usage and cpu thread statistics
 - 2025-04-10 23:13: fix(bash): escape arguments in deployment script
 - 2025-04-12 13:07: feat(config): add JSON and YAML configuration loader
+- 2025-04-12 18:30: fix(config): ensure directory exists before writing state
