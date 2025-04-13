@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2025-04-13 10:59: feat(shell): implement safe pipe execution helper
 - 2025-04-13 12:27: refactor(scripts): modularize helper functions across shell scripts
 - 2025-04-13 12:52: refactor(config): migrate global settings to immutable dataclass
+- 2025-04-13 15:09: perf: reduce process spawn latency using fork pool
