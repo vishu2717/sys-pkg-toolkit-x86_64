@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-04-12 23:03: feat(shell): implement safe pipe execution helper
 - 2025-04-12 23:26: fix(proc): prevent zombie process reaping race condition
 - 2025-04-13 10:59: feat(shell): implement safe pipe execution helper
+- 2025-04-13 12:27: refactor(scripts): modularize helper functions across shell scripts
