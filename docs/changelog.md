@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2025-04-13 12:52: refactor(config): migrate global settings to immutable dataclass
 - 2025-04-13 15:09: perf: reduce process spawn latency using fork pool
 - 2025-04-13 17:47: test(scripts): add bats verification for setup scripts
+- 2025-04-13 19:42: feat(security): add permission auditing script for local binaries
