@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2025-04-13 22:20: refactor(cli): simplify command dispatch loop
 - 2025-04-15 10:28: docs: update changelog with recent utility enhancements
 - 2025-04-15 13:21: test(scripts): add bats verification for setup scripts
+- 2025-04-15 17:18: fix(bash): escape arguments in deployment script
