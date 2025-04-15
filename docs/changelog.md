@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2025-04-15 17:18: fix(bash): escape arguments in deployment script
 - 2025-04-15 17:26: feat(metrics): track memory usage and cpu thread statistics
 - 2025-04-15 18:17: docs: document environment variables and override flags
+- 2025-04-15 18:26: feat(security): add permission auditing script for local binaries
