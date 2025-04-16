@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2025-04-16 16:04: feat(security): add permission auditing script for local binaries
 - 2025-04-16 16:54: feat(metrics): track memory usage and cpu thread statistics
 - 2025-04-16 17:04: test(cli): add unit test coverage for argument parsing
+- 2025-04-16 17:36: fix(proc): prevent zombie process reaping race condition
