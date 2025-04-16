@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2025-04-16 14:20: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-04-16 15:43: test(scripts): add bats verification for setup scripts
 - 2025-04-16 16:04: feat(security): add permission auditing script for local binaries
+- 2025-04-16 16:54: feat(metrics): track memory usage and cpu thread statistics
