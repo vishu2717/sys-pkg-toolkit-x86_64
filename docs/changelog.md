@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2025-04-15 19:48: fix(docker): specify non-root user in runtime container
 - 2025-04-15 20:00: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-04-15 21:58: fix(bash): escape arguments in deployment script
+- 2025-04-16 10:26: fix(monitor): resolve division by zero on idle cpu calculation
