@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2025-04-16 22:35: feat(daemon): add background heartbeat and ping interval
 - 2025-04-17 11:17: feat(env): add automated dotfiles symlink manager
 - 2025-04-17 13:24: fix(docker): specify non-root user in runtime container
+- 2025-04-17 19:16: feat(sync): add rsync-based remote directory mirror utility
