@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2025-04-18 13:22: fix(docker): specify non-root user in runtime container
 - 2025-04-18 14:07: test(scripts): add bats verification for setup scripts
 - 2025-04-18 21:40: feat(shell): implement safe pipe execution helper
+- 2025-04-18 22:38: fix(cli): exit with non-zero status code on unknown command
