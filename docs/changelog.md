@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-04-17 19:16: feat(sync): add rsync-based remote directory mirror utility
 - 2025-04-17 21:51: test(daemon): verify supervisor restarts crashed processes
 - 2025-04-17 22:35: test(cli): add unit test coverage for argument parsing
+- 2025-04-18 13:22: fix(docker): specify non-root user in runtime container
