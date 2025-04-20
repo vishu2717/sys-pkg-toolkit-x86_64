@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2025-04-18 22:38: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-19 16:38: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-04-20 11:32: feat(cli): add command-line argument parser for daemon
+- 2025-04-20 13:13: fix(cli): exit with non-zero status code on unknown command
