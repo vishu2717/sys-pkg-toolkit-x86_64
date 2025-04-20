@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-04-20 11:32: feat(cli): add command-line argument parser for daemon
 - 2025-04-20 13:13: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-20 14:46: feat(daemon): add background heartbeat and ping interval
+- 2025-04-20 15:21: docs: document environment variables and override flags
