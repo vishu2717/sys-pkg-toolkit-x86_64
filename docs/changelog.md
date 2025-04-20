@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2025-04-20 13:13: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-20 14:46: feat(daemon): add background heartbeat and ping interval
 - 2025-04-20 15:21: docs: document environment variables and override flags
+- 2025-04-20 15:26: feat(sync): add rsync-based remote directory mirror utility
