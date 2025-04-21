@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-04-20 18:57: fix(config): ensure directory exists before writing state
 - 2025-04-20 20:22: feat(monitor): implement system resource tracking utility
 - 2025-04-21 11:13: refactor(daemon): separate socket listening from worker queue
+- 2025-04-21 13:22: fix(proc): prevent zombie process reaping race condition
