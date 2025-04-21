@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2025-04-21 11:13: refactor(daemon): separate socket listening from worker queue
 - 2025-04-21 13:22: fix(proc): prevent zombie process reaping race condition
 - 2025-04-21 15:36: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-04-21 16:28: test(proc): assert exit codes under simulated failures
