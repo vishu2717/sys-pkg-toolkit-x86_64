@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-04-22 11:06: feat(proc): add process supervisor with automatic restart
 - 2025-04-22 12:18: refactor(scripts): modularize helper functions across shell scripts
 - 2025-04-22 15:29: test(cli): add unit test coverage for argument parsing
+- 2025-04-22 17:04: feat(security): add permission auditing script for local binaries
