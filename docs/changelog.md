@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2025-04-21 16:28: test(proc): assert exit codes under simulated failures
 - 2025-04-21 19:18: refactor(config): migrate global settings to immutable dataclass
 - 2025-04-21 23:25: docs: add architecture specification for daemon supervisor
+- 2025-04-22 11:06: feat(proc): add process supervisor with automatic restart
