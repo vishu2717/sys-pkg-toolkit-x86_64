@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2025-04-24 16:00: fix(bash): escape arguments in deployment script
 - 2025-04-24 18:00: feat(env): add automated dotfiles symlink manager
 - 2025-04-24 19:29: fix(proc): prevent zombie process reaping race condition
+- 2025-04-24 19:53: test(daemon): verify supervisor restarts crashed processes
