@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2025-04-24 13:40: feat(proc): add process supervisor with automatic restart
 - 2025-04-24 15:46: docs: document environment variables and override flags
 - 2025-04-24 16:00: fix(bash): escape arguments in deployment script
+- 2025-04-24 18:00: feat(env): add automated dotfiles symlink manager
