@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2025-04-22 17:04: feat(security): add permission auditing script for local binaries
 - 2025-04-23 18:21: feat(daemon): add background heartbeat and ping interval
 - 2025-04-24 10:44: chore: configure shellcheck and ruff linter hooks
+- 2025-04-24 11:51: feat(metrics): track memory usage and cpu thread statistics
