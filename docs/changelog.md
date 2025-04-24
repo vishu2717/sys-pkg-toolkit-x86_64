@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2025-04-24 11:51: feat(metrics): track memory usage and cpu thread statistics
 - 2025-04-24 13:39: fix(config): ensure directory exists before writing state
 - 2025-04-24 13:40: feat(proc): add process supervisor with automatic restart
+- 2025-04-24 15:46: docs: document environment variables and override flags
