@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2025-04-24 19:53: test(daemon): verify supervisor restarts crashed processes
 - 2025-04-24 19:53: refactor(cli): simplify command dispatch loop
 - 2025-04-24 22:31: feat(docker): optimize multi-stage build layers
+- 2025-04-25 13:00: feat(deploy): implement zero-downtime rolling reload
