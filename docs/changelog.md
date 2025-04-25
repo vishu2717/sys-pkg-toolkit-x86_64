@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2025-04-25 16:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-04-25 17:40: feat(docker): optimize multi-stage build layers
 - 2025-04-25 19:35: refactor(cli): simplify command dispatch loop
+- 2025-04-25 22:03: feat(deploy): implement zero-downtime rolling reload
