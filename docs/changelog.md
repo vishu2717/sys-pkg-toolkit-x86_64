@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-04-26 10:23: fix(docker): specify non-root user in runtime container
 - 2025-04-26 10:57: refactor(config): migrate global settings to immutable dataclass
 - 2025-04-26 11:14: docs: update system administration runbooks and troubleshooting
+- 2025-04-26 11:42: feat(daemon): add background heartbeat and ping interval
