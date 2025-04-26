@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2025-04-26 11:14: docs: update system administration runbooks and troubleshooting
 - 2025-04-26 11:42: feat(daemon): add background heartbeat and ping interval
 - 2025-04-26 14:13: feat(metrics): track memory usage and cpu thread statistics
+- 2025-04-26 15:22: feat(config): add JSON and YAML configuration loader
