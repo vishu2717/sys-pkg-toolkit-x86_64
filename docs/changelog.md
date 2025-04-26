@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-04-25 19:35: refactor(cli): simplify command dispatch loop
 - 2025-04-25 22:03: feat(deploy): implement zero-downtime rolling reload
 - 2025-04-26 10:23: fix(docker): specify non-root user in runtime container
+- 2025-04-26 10:57: refactor(config): migrate global settings to immutable dataclass
