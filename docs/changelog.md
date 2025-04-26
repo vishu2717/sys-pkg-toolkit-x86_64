@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-04-26 16:07: fix(proc): prevent zombie process reaping race condition
 - 2025-04-26 17:05: fix(bash): escape arguments in deployment script
 - 2025-04-26 17:11: fix(proc): prevent zombie process reaping race condition
+- 2025-04-26 22:32: refactor(daemon): separate socket listening from worker queue
