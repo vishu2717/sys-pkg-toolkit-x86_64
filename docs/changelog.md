@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2025-04-27 11:02: test(proc): assert exit codes under simulated failures
 - 2025-04-27 12:20: test(scripts): add bats verification for setup scripts
 - 2025-04-27 19:27: perf: reduce process spawn latency using fork pool
+- 2025-04-27 22:21: feat(config): add JSON and YAML configuration loader
