@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-04-27 22:21: feat(config): add JSON and YAML configuration loader
 - 2025-04-28 10:18: docs: update changelog with recent utility enhancements
 - 2025-04-28 12:28: fix(cli): exit with non-zero status code on unknown command
+- 2025-04-28 18:32: test(scripts): add bats verification for setup scripts
