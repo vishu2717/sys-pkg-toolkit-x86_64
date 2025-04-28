@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2025-04-28 12:28: fix(cli): exit with non-zero status code on unknown command
 - 2025-04-28 18:32: test(scripts): add bats verification for setup scripts
 - 2025-04-28 18:36: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-04-28 21:01: perf: reduce process spawn latency using fork pool
