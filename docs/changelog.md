@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2025-04-27 12:20: test(scripts): add bats verification for setup scripts
 - 2025-04-27 19:27: perf: reduce process spawn latency using fork pool
 - 2025-04-27 22:21: feat(config): add JSON and YAML configuration loader
+- 2025-04-28 10:18: docs: update changelog with recent utility enhancements
