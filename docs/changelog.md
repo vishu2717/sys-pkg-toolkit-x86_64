@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2025-04-28 21:01: perf: reduce process spawn latency using fork pool
 - 2025-04-28 22:50: docs: update system administration runbooks and troubleshooting
 - 2025-04-29 16:08: feat(docker): optimize multi-stage build layers
+- 2025-04-29 20:15: feat(cli): add command-line argument parser for daemon
