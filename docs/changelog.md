@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-04-29 16:08: feat(docker): optimize multi-stage build layers
 - 2025-04-29 20:15: feat(cli): add command-line argument parser for daemon
 - 2025-04-30 10:14: refactor(cli): simplify command dispatch loop
+- 2025-04-30 21:28: fix(monitor): resolve division by zero on idle cpu calculation
