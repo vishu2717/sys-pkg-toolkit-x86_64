@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2025-05-01 16:14: feat(cli): add command-line argument parser for daemon
 - 2025-05-01 20:01: fix(bash): escape arguments in deployment script
 - 2025-05-01 23:02: feat(metrics): track memory usage and cpu thread statistics
+- 2025-05-03 10:14: docs: document environment variables and override flags
