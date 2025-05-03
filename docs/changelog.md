@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2025-05-01 23:02: feat(metrics): track memory usage and cpu thread statistics
 - 2025-05-03 10:14: docs: document environment variables and override flags
 - 2025-05-03 11:20: refactor(cli): simplify command dispatch loop
+- 2025-05-03 14:34: fix(bash): escape arguments in deployment script
