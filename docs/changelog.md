@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-05-03 14:34: fix(bash): escape arguments in deployment script
 - 2025-05-04 10:27: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-04 12:45: feat(monitor): implement system resource tracking utility
+- 2025-05-04 13:37: fix(daemon): gracefully handle sigterm during log rotation
