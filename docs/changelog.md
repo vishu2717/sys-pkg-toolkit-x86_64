@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2025-05-04 13:37: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-05-04 15:08: feat(security): add permission auditing script for local binaries
 - 2025-05-04 15:26: feat(monitor): implement system resource tracking utility
+- 2025-05-04 15:44: refactor(daemon): separate socket listening from worker queue
