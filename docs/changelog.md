@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-05-03 10:14: docs: document environment variables and override flags
 - 2025-05-03 11:20: refactor(cli): simplify command dispatch loop
 - 2025-05-03 14:34: fix(bash): escape arguments in deployment script
+- 2025-05-04 10:27: fix(cli): exit with non-zero status code on unknown command
