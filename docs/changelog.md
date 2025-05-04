@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2025-05-04 15:44: refactor(daemon): separate socket listening from worker queue
 - 2025-05-04 16:09: feat(shell): implement safe pipe execution helper
 - 2025-05-04 17:39: fix(bash): escape arguments in deployment script
+- 2025-05-04 17:43: docs: document environment variables and override flags
