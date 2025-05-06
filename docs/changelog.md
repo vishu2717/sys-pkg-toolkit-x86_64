@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2025-05-04 17:43: docs: document environment variables and override flags
 - 2025-05-04 20:10: feat(metrics): track memory usage and cpu thread statistics
 - 2025-05-04 20:36: feat(security): add permission auditing script for local binaries
+- 2025-05-06 16:28: test(daemon): verify supervisor restarts crashed processes
