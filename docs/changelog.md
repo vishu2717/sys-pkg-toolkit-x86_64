@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-05-08 12:36: refactor(cli): simplify command dispatch loop
 - 2025-05-08 13:46: feat(env): add automated dotfiles symlink manager
 - 2025-05-08 14:32: refactor(cli): simplify command dispatch loop
+- 2025-05-08 14:50: chore: update base container image to latest alpine
