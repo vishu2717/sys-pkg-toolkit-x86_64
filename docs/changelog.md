@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-05-08 14:32: refactor(cli): simplify command dispatch loop
 - 2025-05-08 14:50: chore: update base container image to latest alpine
 - 2025-05-08 14:52: fix(proc): prevent zombie process reaping race condition
+- 2025-05-08 15:04: feat(shell): implement safe pipe execution helper
