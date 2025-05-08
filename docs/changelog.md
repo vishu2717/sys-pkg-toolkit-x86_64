@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2025-05-06 23:15: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-08 12:24: feat(sync): add rsync-based remote directory mirror utility
 - 2025-05-08 12:36: refactor(cli): simplify command dispatch loop
+- 2025-05-08 13:46: feat(env): add automated dotfiles symlink manager
