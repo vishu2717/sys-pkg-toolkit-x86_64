@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2025-05-08 18:13: docs: update system administration runbooks and troubleshooting
 - 2025-05-08 20:16: test(cli): add unit test coverage for argument parsing
 - 2025-05-08 22:45: refactor(config): migrate global settings to immutable dataclass
+- 2025-05-09 10:00: refactor(monitor): optimize sampling frequency and buffer size
