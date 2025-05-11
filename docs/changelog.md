@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2025-05-11 22:20: chore: configure shellcheck and ruff linter hooks
 - 2025-05-11 22:31: docs: document environment variables and override flags
 - 2025-05-11 23:07: test(scripts): add bats verification for setup scripts
+- 2025-05-11 23:25: docs: update changelog with recent utility enhancements
