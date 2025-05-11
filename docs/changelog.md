@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-05-10 22:37: docs: update system administration runbooks and troubleshooting
 - 2025-05-11 11:26: refactor(cli): simplify command dispatch loop
 - 2025-05-11 11:32: test(daemon): verify supervisor restarts crashed processes
+- 2025-05-11 12:28: feat(env): add automated dotfiles symlink manager
