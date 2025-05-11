@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2025-05-11 12:28: feat(env): add automated dotfiles symlink manager
 - 2025-05-11 13:37: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-05-11 15:13: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-05-11 15:41: feat(deploy): implement zero-downtime rolling reload
