@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2025-05-11 15:41: feat(deploy): implement zero-downtime rolling reload
 - 2025-05-11 16:27: perf: reduce process spawn latency using fork pool
 - 2025-05-11 22:20: chore: configure shellcheck and ruff linter hooks
+- 2025-05-11 22:31: docs: document environment variables and override flags
