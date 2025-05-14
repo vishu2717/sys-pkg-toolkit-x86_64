@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2025-05-13 10:35: feat(docker): optimize multi-stage build layers
 - 2025-05-13 12:28: docs: update changelog with recent utility enhancements
 - 2025-05-14 10:58: feat(env): add automated dotfiles symlink manager
+- 2025-05-14 12:12: fix(monitor): resolve division by zero on idle cpu calculation
