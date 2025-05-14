@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 19:07: fix(docker): specify non-root user in runtime container
 - 2025-05-14 21:42: test(proc): assert exit codes under simulated failures
 - 2025-05-14 21:50: test(daemon): verify supervisor restarts crashed processes
+- 2025-05-14 22:34: feat(monitor): implement system resource tracking utility
