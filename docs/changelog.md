@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 15:33: test(proc): assert exit codes under simulated failures
 - 2025-05-14 18:41: feat(metrics): track memory usage and cpu thread statistics
 - 2025-05-14 18:43: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-05-14 19:07: fix(docker): specify non-root user in runtime container
