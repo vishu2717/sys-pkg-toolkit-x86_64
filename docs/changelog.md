@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 10:58: feat(env): add automated dotfiles symlink manager
 - 2025-05-14 12:12: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-05-14 13:35: refactor(daemon): separate socket listening from worker queue
+- 2025-05-14 14:27: refactor(config): migrate global settings to immutable dataclass
