@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 21:50: test(daemon): verify supervisor restarts crashed processes
 - 2025-05-14 22:34: feat(monitor): implement system resource tracking utility
 - 2025-05-14 22:41: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-05-14 22:55: fix(daemon): gracefully handle sigterm during log rotation
