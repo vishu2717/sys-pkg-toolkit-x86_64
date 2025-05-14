@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 13:35: refactor(daemon): separate socket listening from worker queue
 - 2025-05-14 14:27: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-14 15:33: test(proc): assert exit codes under simulated failures
+- 2025-05-14 18:41: feat(metrics): track memory usage and cpu thread statistics
