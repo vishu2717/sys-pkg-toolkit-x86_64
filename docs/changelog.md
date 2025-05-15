@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2025-05-14 22:57: fix(bash): escape arguments in deployment script
 - 2025-05-14 23:19: feat(daemon): add background heartbeat and ping interval
 - 2025-05-15 14:06: feat(sync): add rsync-based remote directory mirror utility
+- 2025-05-15 20:51: fix(config): ensure directory exists before writing state
