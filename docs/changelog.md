@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-05-16 10:53: chore: update base container image to latest alpine
 - 2025-05-16 17:54: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-16 20:44: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-05-17 16:06: fix(proc): prevent zombie process reaping race condition
