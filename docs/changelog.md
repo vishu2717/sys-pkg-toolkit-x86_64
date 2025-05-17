@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2025-05-17 16:06: fix(proc): prevent zombie process reaping race condition
 - 2025-05-17 17:42: test(cli): add unit test coverage for argument parsing
 - 2025-05-17 20:30: feat(sync): add rsync-based remote directory mirror utility
+- 2025-05-17 23:05: feat(env): add automated dotfiles symlink manager
