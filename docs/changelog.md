@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-05-18 14:06: feat(shell): implement safe pipe execution helper
 - 2025-05-18 15:52: feat(sync): add rsync-based remote directory mirror utility
 - 2025-05-18 17:02: docs: add architecture specification for daemon supervisor
+- 2025-05-18 22:45: refactor(config): migrate global settings to immutable dataclass
