@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-05-17 20:30: feat(sync): add rsync-based remote directory mirror utility
 - 2025-05-17 23:05: feat(env): add automated dotfiles symlink manager
 - 2025-05-18 12:59: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-05-18 14:06: feat(shell): implement safe pipe execution helper
