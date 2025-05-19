@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2025-05-18 22:45: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-19 16:19: feat(docker): optimize multi-stage build layers
 - 2025-05-19 21:29: fix(bash): escape arguments in deployment script
+- 2025-05-19 23:03: fix(docker): specify non-root user in runtime container
