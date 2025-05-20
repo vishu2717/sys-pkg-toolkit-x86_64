@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2025-05-20 15:56: feat(config): add JSON and YAML configuration loader
 - 2025-05-20 17:03: feat(deploy): implement zero-downtime rolling reload
 - 2025-05-20 18:22: feat(security): add permission auditing script for local binaries
+- 2025-05-20 18:56: perf: reduce process spawn latency using fork pool
