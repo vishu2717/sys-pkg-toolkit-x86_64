@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-05-19 23:03: fix(docker): specify non-root user in runtime container
 - 2025-05-20 13:11: refactor(cli): simplify command dispatch loop
 - 2025-05-20 15:56: feat(config): add JSON and YAML configuration loader
+- 2025-05-20 17:03: feat(deploy): implement zero-downtime rolling reload
