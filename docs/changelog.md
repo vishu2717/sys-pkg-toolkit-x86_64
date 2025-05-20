@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2025-05-19 16:19: feat(docker): optimize multi-stage build layers
 - 2025-05-19 21:29: fix(bash): escape arguments in deployment script
 - 2025-05-19 23:03: fix(docker): specify non-root user in runtime container
+- 2025-05-20 13:11: refactor(cli): simplify command dispatch loop
