@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2025-05-21 12:34: feat(docker): optimize multi-stage build layers
 - 2025-05-21 13:35: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-05-21 14:18: fix(cli): exit with non-zero status code on unknown command
+- 2025-05-21 17:18: refactor(daemon): separate socket listening from worker queue
