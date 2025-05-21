@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2025-05-21 14:18: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-21 17:18: refactor(daemon): separate socket listening from worker queue
 - 2025-05-21 20:35: docs: document environment variables and override flags
+- 2025-05-21 20:44: fix(proc): prevent zombie process reaping race condition

@@ -260,3 +260,7 @@ def reap_zombies():
     os.waitpid(-1, os.WNOHANG)
 
 # Process pooling latency optimization
+
+def reap_zombies():
+    '''Cleanly reap exited child processes.'''
+    os.waitpid(-1, os.WNOHANG)
