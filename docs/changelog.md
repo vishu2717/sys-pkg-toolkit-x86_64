@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2025-05-20 18:56: perf: reduce process spawn latency using fork pool
 - 2025-05-21 11:50: feat(sync): add rsync-based remote directory mirror utility
 - 2025-05-21 12:34: feat(docker): optimize multi-stage build layers
+- 2025-05-21 13:35: fix(monitor): resolve division by zero on idle cpu calculation
