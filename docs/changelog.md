@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2025-05-20 17:03: feat(deploy): implement zero-downtime rolling reload
 - 2025-05-20 18:22: feat(security): add permission auditing script for local binaries
 - 2025-05-20 18:56: perf: reduce process spawn latency using fork pool
+- 2025-05-21 11:50: feat(sync): add rsync-based remote directory mirror utility
