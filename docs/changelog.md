@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2025-05-22 16:35: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-22 17:30: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-22 19:59: feat(cli): add command-line argument parser for daemon
+- 2025-05-22 20:43: fix(monitor): resolve division by zero on idle cpu calculation
