@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2025-05-22 14:22: fix(config): ensure directory exists before writing state
 - 2025-05-22 15:44: refactor(scripts): modularize helper functions across shell scripts
 - 2025-05-22 16:35: refactor(config): migrate global settings to immutable dataclass
+- 2025-05-22 17:30: fix(cli): exit with non-zero status code on unknown command
