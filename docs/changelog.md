@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2025-05-22 20:43: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-05-22 22:55: refactor(daemon): separate socket listening from worker queue
 - 2025-05-23 11:46: test(cli): add unit test coverage for argument parsing
+- 2025-05-23 12:40: feat(env): add automated dotfiles symlink manager
