@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 17:21: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-05-25 18:57: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-05-25 19:11: refactor(config): migrate global settings to immutable dataclass
+- 2025-05-25 20:20: fix(docker): specify non-root user in runtime container
