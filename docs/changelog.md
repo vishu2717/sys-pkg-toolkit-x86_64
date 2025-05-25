@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 19:11: refactor(config): migrate global settings to immutable dataclass
 - 2025-05-25 20:20: fix(docker): specify non-root user in runtime container
 - 2025-05-25 21:04: chore: configure shellcheck and ruff linter hooks
+- 2025-05-25 22:07: fix(cli): exit with non-zero status code on unknown command
