@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 10:25: chore: configure shellcheck and ruff linter hooks
 - 2025-05-25 10:51: test(daemon): verify supervisor restarts crashed processes
 - 2025-05-25 11:16: feat(proc): add process supervisor with automatic restart
+- 2025-05-25 15:29: feat(cli): add command-line argument parser for daemon
