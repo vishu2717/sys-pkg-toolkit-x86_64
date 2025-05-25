@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 21:04: chore: configure shellcheck and ruff linter hooks
 - 2025-05-25 22:07: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-25 23:12: feat(docker): optimize multi-stage build layers
+- 2025-05-25 23:18: docs: add architecture specification for daemon supervisor
