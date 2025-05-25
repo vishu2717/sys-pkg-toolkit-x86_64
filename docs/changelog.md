@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 15:29: feat(cli): add command-line argument parser for daemon
 - 2025-05-25 15:34: fix(proc): prevent zombie process reaping race condition
 - 2025-05-25 15:52: fix(config): ensure directory exists before writing state
+- 2025-05-25 16:19: feat(sync): add rsync-based remote directory mirror utility
