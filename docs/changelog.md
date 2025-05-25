@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2025-05-23 13:39: feat(monitor): implement system resource tracking utility
 - 2025-05-23 19:20: fix(config): ensure directory exists before writing state
 - 2025-05-25 10:25: chore: configure shellcheck and ruff linter hooks
+- 2025-05-25 10:51: test(daemon): verify supervisor restarts crashed processes
