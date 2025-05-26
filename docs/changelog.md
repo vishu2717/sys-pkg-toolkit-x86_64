@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-05-25 23:18: docs: add architecture specification for daemon supervisor
 - 2025-05-26 10:03: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-26 14:03: feat(shell): implement safe pipe execution helper
+- 2025-05-26 20:31: fix(cli): exit with non-zero status code on unknown command
