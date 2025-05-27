@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-05-27 10:57: feat(proc): add process supervisor with automatic restart
 - 2025-05-27 15:49: docs: add architecture specification for daemon supervisor
 - 2025-05-27 18:00: feat(deploy): implement zero-downtime rolling reload
+- 2025-05-27 21:49: test(cli): add unit test coverage for argument parsing
