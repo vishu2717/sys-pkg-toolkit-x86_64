@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2025-05-26 21:30: refactor(daemon): separate socket listening from worker queue
 - 2025-05-26 22:52: test(proc): assert exit codes under simulated failures
 - 2025-05-27 10:57: feat(proc): add process supervisor with automatic restart
+- 2025-05-27 15:49: docs: add architecture specification for daemon supervisor
