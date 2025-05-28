@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-05-28 13:43: feat(daemon): add background heartbeat and ping interval
 - 2025-05-28 14:23: docs: add architecture specification for daemon supervisor
 - 2025-05-28 14:52: feat(security): add permission auditing script for local binaries
+- 2025-05-28 16:09: fix(cli): exit with non-zero status code on unknown command
