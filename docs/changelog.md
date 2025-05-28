@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2025-05-27 21:49: test(cli): add unit test coverage for argument parsing
 - 2025-05-28 12:12: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-28 12:33: test(daemon): verify supervisor restarts crashed processes
+- 2025-05-28 12:58: refactor(config): migrate global settings to immutable dataclass
