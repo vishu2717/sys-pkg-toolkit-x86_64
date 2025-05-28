@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2025-05-28 16:09: fix(cli): exit with non-zero status code on unknown command
 - 2025-05-28 17:36: feat(security): add permission auditing script for local binaries
 - 2025-05-28 19:14: refactor(daemon): separate socket listening from worker queue
+- 2025-05-28 21:20: fix(bash): escape arguments in deployment script
