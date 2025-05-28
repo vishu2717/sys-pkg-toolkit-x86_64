@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-05-27 18:00: feat(deploy): implement zero-downtime rolling reload
 - 2025-05-27 21:49: test(cli): add unit test coverage for argument parsing
 - 2025-05-28 12:12: fix(cli): exit with non-zero status code on unknown command
+- 2025-05-28 12:33: test(daemon): verify supervisor restarts crashed processes
