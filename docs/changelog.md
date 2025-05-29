@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2025-05-29 12:05: test(scripts): add bats verification for setup scripts
 - 2025-05-29 13:01: test(proc): assert exit codes under simulated failures
 - 2025-05-29 13:10: fix(proc): prevent zombie process reaping race condition
+- 2025-05-29 16:42: refactor(scripts): modularize helper functions across shell scripts
