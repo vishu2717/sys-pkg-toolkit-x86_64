@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2025-05-28 22:10: test(proc): assert exit codes under simulated failures
 - 2025-05-28 22:25: test(proc): assert exit codes under simulated failures
 - 2025-05-29 11:13: feat(docker): optimize multi-stage build layers
+- 2025-05-29 11:36: feat(sync): add rsync-based remote directory mirror utility
