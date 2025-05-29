@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2025-05-28 21:20: fix(bash): escape arguments in deployment script
 - 2025-05-28 22:10: test(proc): assert exit codes under simulated failures
 - 2025-05-28 22:25: test(proc): assert exit codes under simulated failures
+- 2025-05-29 11:13: feat(docker): optimize multi-stage build layers
