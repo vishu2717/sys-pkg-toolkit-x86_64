@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2025-05-29 11:13: feat(docker): optimize multi-stage build layers
 - 2025-05-29 11:36: feat(sync): add rsync-based remote directory mirror utility
 - 2025-05-29 11:48: feat(metrics): track memory usage and cpu thread statistics
+- 2025-05-29 12:05: test(scripts): add bats verification for setup scripts
