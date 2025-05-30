@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-05-30 13:29: feat(cli): add command-line argument parser for daemon
 - 2025-05-30 15:40: feat(daemon): add background heartbeat and ping interval
 - 2025-05-30 15:55: refactor(cli): simplify command dispatch loop
+- 2025-05-30 17:02: docs: update system administration runbooks and troubleshooting
