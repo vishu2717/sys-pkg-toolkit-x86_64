@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2025-05-30 15:40: feat(daemon): add background heartbeat and ping interval
 - 2025-05-30 15:55: refactor(cli): simplify command dispatch loop
 - 2025-05-30 17:02: docs: update system administration runbooks and troubleshooting
+- 2025-05-30 17:54: fix(daemon): gracefully handle sigterm during log rotation
