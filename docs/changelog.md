@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 20:41: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-05-31 20:57: feat(cli): add command-line argument parser for daemon
 - 2025-05-31 20:59: test(scripts): add bats verification for setup scripts
+- 2025-05-31 21:05: fix(config): ensure directory exists before writing state
