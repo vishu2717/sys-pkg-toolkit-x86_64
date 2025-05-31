@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 20:08: fix(bash): escape arguments in deployment script
 - 2025-05-31 20:13: feat(deploy): implement zero-downtime rolling reload
 - 2025-05-31 20:23: feat(sync): add rsync-based remote directory mirror utility
+- 2025-05-31 20:41: fix(daemon): gracefully handle sigterm during log rotation
