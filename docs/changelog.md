@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 11:30: docs: update changelog with recent utility enhancements
 - 2025-05-31 13:31: feat(cli): add command-line argument parser for daemon
 - 2025-05-31 14:53: feat(proc): add process supervisor with automatic restart
+- 2025-05-31 15:31: feat(env): add automated dotfiles symlink manager
