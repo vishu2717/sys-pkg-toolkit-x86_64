@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 14:53: feat(proc): add process supervisor with automatic restart
 - 2025-05-31 15:31: feat(env): add automated dotfiles symlink manager
 - 2025-05-31 16:49: refactor(scripts): modularize helper functions across shell scripts
+- 2025-05-31 20:08: fix(bash): escape arguments in deployment script
