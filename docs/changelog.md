@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 21:05: fix(config): ensure directory exists before writing state
 - 2025-05-31 21:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-05-31 21:52: chore: update base container image to latest alpine
+- 2025-06-01 12:27: feat(cli): add command-line argument parser for daemon
