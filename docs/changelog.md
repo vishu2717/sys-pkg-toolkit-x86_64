@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2025-06-01 14:23: test(scripts): add bats verification for setup scripts
 - 2025-06-01 15:28: feat(proc): add process supervisor with automatic restart
 - 2025-06-01 16:20: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-01 16:58: fix(cli): exit with non-zero status code on unknown command
