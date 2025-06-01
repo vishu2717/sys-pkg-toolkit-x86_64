@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-05-31 21:52: chore: update base container image to latest alpine
 - 2025-06-01 12:27: feat(cli): add command-line argument parser for daemon
 - 2025-06-01 14:23: test(scripts): add bats verification for setup scripts
+- 2025-06-01 15:28: feat(proc): add process supervisor with automatic restart
