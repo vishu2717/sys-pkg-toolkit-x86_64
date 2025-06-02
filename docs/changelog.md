@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2025-06-01 15:28: feat(proc): add process supervisor with automatic restart
 - 2025-06-01 16:20: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-01 16:58: fix(cli): exit with non-zero status code on unknown command
+- 2025-06-02 11:16: refactor(monitor): optimize sampling frequency and buffer size
