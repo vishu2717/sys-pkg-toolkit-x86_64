@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2025-06-02 21:24: feat(config): add JSON and YAML configuration loader
 - 2025-06-02 21:37: feat(security): add permission auditing script for local binaries
 - 2025-06-04 12:50: feat(proc): add process supervisor with automatic restart
+- 2025-06-04 13:09: fix(proc): prevent zombie process reaping race condition
