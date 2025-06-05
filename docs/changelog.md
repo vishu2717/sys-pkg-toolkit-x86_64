@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 13:12: docs: update system administration runbooks and troubleshooting
 - 2025-06-05 13:35: chore: update base container image to latest alpine
 - 2025-06-05 13:52: feat(shell): implement safe pipe execution helper
+- 2025-06-05 14:13: feat(config): add JSON and YAML configuration loader
