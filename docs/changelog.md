@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 15:45: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-05 16:32: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-05 16:42: docs: update changelog with recent utility enhancements
+- 2025-06-05 19:53: refactor(daemon): separate socket listening from worker queue
