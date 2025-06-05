@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2025-06-04 23:08: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-05 10:03: feat(cli): add command-line argument parser for daemon
 - 2025-06-05 11:35: refactor(scripts): modularize helper functions across shell scripts
+- 2025-06-05 11:38: docs: add architecture specification for daemon supervisor
