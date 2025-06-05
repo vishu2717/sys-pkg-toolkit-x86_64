@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 16:42: docs: update changelog with recent utility enhancements
 - 2025-06-05 19:53: refactor(daemon): separate socket listening from worker queue
 - 2025-06-05 22:08: feat(monitor): implement system resource tracking utility
+- 2025-06-05 22:34: fix(daemon): gracefully handle sigterm during log rotation
