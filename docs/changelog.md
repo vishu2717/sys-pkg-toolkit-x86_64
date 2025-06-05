@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 14:57: feat(daemon): add background heartbeat and ping interval
 - 2025-06-05 15:45: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-05 16:32: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-05 16:42: docs: update changelog with recent utility enhancements
