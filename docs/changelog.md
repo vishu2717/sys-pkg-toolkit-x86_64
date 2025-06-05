@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 13:52: feat(shell): implement safe pipe execution helper
 - 2025-06-05 14:13: feat(config): add JSON and YAML configuration loader
 - 2025-06-05 14:57: feat(daemon): add background heartbeat and ping interval
+- 2025-06-05 15:45: feat(deploy): implement zero-downtime rolling reload
