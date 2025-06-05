@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 11:35: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-05 11:38: docs: add architecture specification for daemon supervisor
 - 2025-06-05 13:07: refactor(config): migrate global settings to immutable dataclass
+- 2025-06-05 13:12: docs: update system administration runbooks and troubleshooting
