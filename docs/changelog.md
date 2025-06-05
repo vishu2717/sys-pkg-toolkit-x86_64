@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-06-04 12:50: feat(proc): add process supervisor with automatic restart
 - 2025-06-04 13:09: fix(proc): prevent zombie process reaping race condition
 - 2025-06-04 23:08: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-05 10:03: feat(cli): add command-line argument parser for daemon
