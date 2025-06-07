@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 22:08: feat(monitor): implement system resource tracking utility
 - 2025-06-05 22:34: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-05 23:13: feat(docker): optimize multi-stage build layers
+- 2025-06-07 11:05: feat(config): add JSON and YAML configuration loader
