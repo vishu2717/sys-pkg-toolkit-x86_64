@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-06-05 23:13: feat(docker): optimize multi-stage build layers
 - 2025-06-07 11:05: feat(config): add JSON and YAML configuration loader
 - 2025-06-07 18:08: refactor(cli): simplify command dispatch loop
+- 2025-06-07 20:10: feat(sync): add rsync-based remote directory mirror utility
