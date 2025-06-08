@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-06-07 21:29: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-08 10:04: chore: update base container image to latest alpine
 - 2025-06-08 12:50: feat(config): add JSON and YAML configuration loader
+- 2025-06-08 13:46: fix(monitor): resolve division by zero on idle cpu calculation
