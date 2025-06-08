@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2025-06-08 17:18: feat(security): add permission auditing script for local binaries
 - 2025-06-08 17:37: fix(config): ensure directory exists before writing state
 - 2025-06-08 21:42: fix(config): ensure directory exists before writing state
+- 2025-06-08 22:54: feat(shell): implement safe pipe execution helper
