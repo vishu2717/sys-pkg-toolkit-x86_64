@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-06-09 17:47: docs: update system administration runbooks and troubleshooting
 - 2025-06-09 19:01: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-09 19:08: test(daemon): verify supervisor restarts crashed processes
+- 2025-06-09 22:28: fix(daemon): gracefully handle sigterm during log rotation
