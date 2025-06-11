@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-06-11 14:18: feat(daemon): add background heartbeat and ping interval
 - 2025-06-11 14:28: refactor(cli): simplify command dispatch loop
 - 2025-06-11 16:17: docs: update changelog with recent utility enhancements
+- 2025-06-11 16:51: feat(docker): optimize multi-stage build layers
