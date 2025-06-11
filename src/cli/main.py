@@ -210,3 +210,5 @@ def parse_cli_args():
 def handle_unknown_command(cmd: str):
     sys.stderr.write(f'Unknown command: {cmd}\n')
     sys.exit(1)
+
+# Simplified command router logic
