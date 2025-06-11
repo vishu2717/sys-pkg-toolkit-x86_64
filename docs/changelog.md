@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-06-11 10:40: test(daemon): verify supervisor restarts crashed processes
 - 2025-06-11 10:42: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-11 11:09: fix(cli): exit with non-zero status code on unknown command
+- 2025-06-11 12:40: docs: update changelog with recent utility enhancements
