@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2025-06-09 19:08: test(daemon): verify supervisor restarts crashed processes
 - 2025-06-09 22:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-10 13:37: refactor(config): migrate global settings to immutable dataclass
+- 2025-06-11 10:40: feat(security): add permission auditing script for local binaries
