@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-06-10 13:37: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-11 10:40: feat(security): add permission auditing script for local binaries
 - 2025-06-11 10:40: test(daemon): verify supervisor restarts crashed processes
+- 2025-06-11 10:42: refactor(scripts): modularize helper functions across shell scripts
