@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2025-06-11 16:51: feat(docker): optimize multi-stage build layers
 - 2025-06-11 16:53: feat(config): add JSON and YAML configuration loader
 - 2025-06-11 18:05: refactor(cli): simplify command dispatch loop
+- 2025-06-11 20:36: feat(config): add JSON and YAML configuration loader
