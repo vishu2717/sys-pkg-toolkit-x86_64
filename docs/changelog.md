@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2025-06-12 15:12: feat(daemon): add background heartbeat and ping interval
 - 2025-06-12 19:17: feat(sync): add rsync-based remote directory mirror utility
 - 2025-06-12 22:08: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-14 17:15: feat(security): add permission auditing script for local binaries
