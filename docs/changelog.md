@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2025-06-12 22:08: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-14 17:15: feat(security): add permission auditing script for local binaries
 - 2025-06-14 17:51: refactor(daemon): separate socket listening from worker queue
+- 2025-06-14 22:28: refactor(monitor): optimize sampling frequency and buffer size
