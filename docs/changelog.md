@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2025-06-15 15:32: test(cli): add unit test coverage for argument parsing
 - 2025-06-15 18:56: refactor(daemon): separate socket listening from worker queue
 - 2025-06-15 20:07: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-06-15 21:40: refactor(cli): simplify command dispatch loop
