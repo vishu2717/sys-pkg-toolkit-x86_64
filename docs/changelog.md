@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2025-06-14 17:15: feat(security): add permission auditing script for local binaries
 - 2025-06-14 17:51: refactor(daemon): separate socket listening from worker queue
 - 2025-06-14 22:28: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-06-15 12:56: test(cli): add unit test coverage for argument parsing
