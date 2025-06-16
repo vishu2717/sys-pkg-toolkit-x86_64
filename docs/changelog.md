@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-06-16 10:51: fix(docker): specify non-root user in runtime container
 - 2025-06-16 13:22: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-16 15:00: fix(bash): escape arguments in deployment script
+- 2025-06-16 19:21: refactor(monitor): optimize sampling frequency and buffer size
