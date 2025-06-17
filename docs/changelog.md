@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2025-06-16 13:22: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-16 15:00: fix(bash): escape arguments in deployment script
 - 2025-06-16 19:21: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-06-17 13:12: fix(daemon): gracefully handle sigterm during log rotation
