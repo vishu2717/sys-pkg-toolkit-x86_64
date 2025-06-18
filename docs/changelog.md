@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2025-06-18 11:47: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-06-18 12:49: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-18 14:45: fix(bash): escape arguments in deployment script
+- 2025-06-18 16:51: test(scripts): add bats verification for setup scripts
