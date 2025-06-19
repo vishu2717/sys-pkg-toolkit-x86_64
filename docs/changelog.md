@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2025-06-18 16:51: test(scripts): add bats verification for setup scripts
 - 2025-06-18 17:31: refactor(daemon): separate socket listening from worker queue
 - 2025-06-19 11:01: test(scripts): add bats verification for setup scripts
+- 2025-06-19 11:10: refactor(config): migrate global settings to immutable dataclass
