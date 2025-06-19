@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2025-06-19 11:01: test(scripts): add bats verification for setup scripts
 - 2025-06-19 11:10: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-19 12:39: refactor(cli): simplify command dispatch loop
+- 2025-06-19 13:44: feat(security): add permission auditing script for local binaries
