@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2025-06-20 12:15: docs: update system administration runbooks and troubleshooting
 - 2025-06-20 14:11: fix(config): ensure directory exists before writing state
 - 2025-06-20 14:56: test(proc): assert exit codes under simulated failures
+- 2025-06-20 15:02: feat(metrics): track memory usage and cpu thread statistics
