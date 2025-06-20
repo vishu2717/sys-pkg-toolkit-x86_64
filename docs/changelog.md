@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2025-06-20 14:56: test(proc): assert exit codes under simulated failures
 - 2025-06-20 15:02: feat(metrics): track memory usage and cpu thread statistics
 - 2025-06-20 15:10: feat(proc): add process supervisor with automatic restart
+- 2025-06-20 15:33: perf: reduce process spawn latency using fork pool
