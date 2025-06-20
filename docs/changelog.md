@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2025-06-19 20:44: feat(proc): add process supervisor with automatic restart
 - 2025-06-20 12:12: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-20 12:15: docs: update system administration runbooks and troubleshooting
+- 2025-06-20 14:11: fix(config): ensure directory exists before writing state
