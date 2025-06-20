@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-06-20 15:02: feat(metrics): track memory usage and cpu thread statistics
 - 2025-06-20 15:10: feat(proc): add process supervisor with automatic restart
 - 2025-06-20 15:33: perf: reduce process spawn latency using fork pool
+- 2025-06-20 17:58: refactor(daemon): separate socket listening from worker queue
