@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2025-06-20 20:06: feat(monitor): implement system resource tracking utility
 - 2025-06-20 20:12: feat(env): add automated dotfiles symlink manager
 - 2025-06-21 10:27: docs: add architecture specification for daemon supervisor
+- 2025-06-21 11:28: test(daemon): verify supervisor restarts crashed processes
