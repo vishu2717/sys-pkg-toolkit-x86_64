@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2025-06-21 13:47: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-21 17:17: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-21 20:43: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-06-21 21:35: fix(daemon): gracefully handle sigterm during log rotation
