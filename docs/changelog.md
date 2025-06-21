@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2025-06-21 12:29: chore: configure shellcheck and ruff linter hooks
 - 2025-06-21 12:32: feat(daemon): add background heartbeat and ping interval
 - 2025-06-21 13:26: fix(bash): escape arguments in deployment script
+- 2025-06-21 13:47: refactor(config): migrate global settings to immutable dataclass
