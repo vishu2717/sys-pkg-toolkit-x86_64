@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2025-06-20 17:58: refactor(daemon): separate socket listening from worker queue
 - 2025-06-20 20:06: feat(monitor): implement system resource tracking utility
 - 2025-06-20 20:12: feat(env): add automated dotfiles symlink manager
+- 2025-06-21 10:27: docs: add architecture specification for daemon supervisor
