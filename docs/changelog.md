@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2025-06-23 16:17: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-23 18:41: feat(config): add JSON and YAML configuration loader
 - 2025-06-23 18:44: refactor(config): migrate global settings to immutable dataclass
+- 2025-06-23 20:08: feat(metrics): track memory usage and cpu thread statistics
