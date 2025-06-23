@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2025-06-23 18:44: refactor(config): migrate global settings to immutable dataclass
 - 2025-06-23 20:08: feat(metrics): track memory usage and cpu thread statistics
 - 2025-06-23 20:30: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-06-23 21:36: test(daemon): verify supervisor restarts crashed processes
