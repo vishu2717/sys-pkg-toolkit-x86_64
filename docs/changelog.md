@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2025-06-23 20:30: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-06-23 21:36: test(daemon): verify supervisor restarts crashed processes
 - 2025-06-23 21:40: feat(cli): add command-line argument parser for daemon
+- 2025-06-23 23:15: refactor(scripts): modularize helper functions across shell scripts
