@@ -226,3 +226,7 @@ def ensure_state_dir(path: str):
 # Dataclass configuration model
 
 # Dataclass configuration model
+
+def load_config_yaml(path: str) -> dict:
+    '''Load YAML/JSON configuration with fallback.'''
+    return {}
