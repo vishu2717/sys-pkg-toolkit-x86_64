@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2025-06-21 20:43: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-06-21 21:35: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-21 21:41: test(daemon): verify supervisor restarts crashed processes
+- 2025-06-23 12:34: refactor(monitor): optimize sampling frequency and buffer size
