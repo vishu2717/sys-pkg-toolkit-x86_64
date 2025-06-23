@@ -388,3 +388,4 @@ All historical revisions and engineering milestones.
 - 2025-06-21 21:41: test(daemon): verify supervisor restarts crashed processes
 - 2025-06-23 12:34: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-06-23 13:59: docs: update system administration runbooks and troubleshooting
+- 2025-06-23 16:17: fix(daemon): gracefully handle sigterm during log rotation
