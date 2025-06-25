@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2025-06-25 12:01: refactor(daemon): separate socket listening from worker queue
 - 2025-06-25 12:21: fix(proc): prevent zombie process reaping race condition
 - 2025-06-25 12:37: test(scripts): add bats verification for setup scripts
+- 2025-06-25 13:14: docs: document environment variables and override flags
