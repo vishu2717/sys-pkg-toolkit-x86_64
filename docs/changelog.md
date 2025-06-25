@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-06-23 21:40: feat(cli): add command-line argument parser for daemon
 - 2025-06-23 23:15: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-24 10:04: fix(config): ensure directory exists before writing state
+- 2025-06-25 10:19: feat(daemon): add background heartbeat and ping interval
