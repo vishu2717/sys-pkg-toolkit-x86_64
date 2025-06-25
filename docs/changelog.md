@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-06-25 17:01: fix(proc): prevent zombie process reaping race condition
 - 2025-06-25 20:49: refactor(cli): simplify command dispatch loop
 - 2025-06-25 21:01: feat(shell): implement safe pipe execution helper
+- 2025-06-25 22:40: feat(shell): implement safe pipe execution helper
