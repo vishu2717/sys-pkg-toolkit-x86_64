@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2025-06-25 15:40: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-25 16:02: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-06-25 17:01: fix(proc): prevent zombie process reaping race condition
+- 2025-06-25 20:49: refactor(cli): simplify command dispatch loop
