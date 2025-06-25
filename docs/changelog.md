@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-06-24 10:04: fix(config): ensure directory exists before writing state
 - 2025-06-25 10:19: feat(daemon): add background heartbeat and ping interval
 - 2025-06-25 11:17: feat(metrics): track memory usage and cpu thread statistics
+- 2025-06-25 12:01: refactor(daemon): separate socket listening from worker queue
