@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2025-06-25 12:21: fix(proc): prevent zombie process reaping race condition
 - 2025-06-25 12:37: test(scripts): add bats verification for setup scripts
 - 2025-06-25 13:14: docs: document environment variables and override flags
+- 2025-06-25 15:21: fix(proc): prevent zombie process reaping race condition
