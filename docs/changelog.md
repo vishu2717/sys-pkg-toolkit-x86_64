@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2025-06-25 13:14: docs: document environment variables and override flags
 - 2025-06-25 15:21: fix(proc): prevent zombie process reaping race condition
 - 2025-06-25 15:40: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-25 16:02: fix(monitor): resolve division by zero on idle cpu calculation
