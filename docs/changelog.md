@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-06-27 10:51: fix(config): ensure directory exists before writing state
 - 2025-06-27 12:01: feat(shell): implement safe pipe execution helper
 - 2025-06-27 13:03: refactor(scripts): modularize helper functions across shell scripts
+- 2025-06-27 14:01: feat(cli): add command-line argument parser for daemon
