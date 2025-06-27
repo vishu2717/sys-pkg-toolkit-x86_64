@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2025-06-26 21:34: feat(monitor): implement system resource tracking utility
 - 2025-06-26 21:56: perf: reduce process spawn latency using fork pool
 - 2025-06-26 22:28: feat(deploy): implement zero-downtime rolling reload
+- 2025-06-27 10:51: docs: update system administration runbooks and troubleshooting
