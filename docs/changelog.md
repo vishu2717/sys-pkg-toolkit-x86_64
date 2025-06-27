@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2025-06-27 13:03: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-27 14:01: feat(cli): add command-line argument parser for daemon
 - 2025-06-27 16:19: refactor(config): migrate global settings to immutable dataclass
+- 2025-06-27 17:01: refactor(scripts): modularize helper functions across shell scripts
