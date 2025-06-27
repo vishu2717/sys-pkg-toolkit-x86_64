@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-06-26 22:28: feat(deploy): implement zero-downtime rolling reload
 - 2025-06-27 10:51: docs: update system administration runbooks and troubleshooting
 - 2025-06-27 10:51: fix(config): ensure directory exists before writing state
+- 2025-06-27 12:01: feat(shell): implement safe pipe execution helper
