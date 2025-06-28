@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-06-27 17:01: refactor(scripts): modularize helper functions across shell scripts
 - 2025-06-27 20:29: fix(docker): specify non-root user in runtime container
 - 2025-06-27 20:38: fix(config): ensure directory exists before writing state
+- 2025-06-28 15:36: perf: reduce process spawn latency using fork pool
