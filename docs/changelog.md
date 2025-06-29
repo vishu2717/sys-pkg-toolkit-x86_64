@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-06-28 21:44: fix(cli): exit with non-zero status code on unknown command
 - 2025-06-28 22:40: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-06-29 11:34: feat(security): add permission auditing script for local binaries
+- 2025-06-29 12:40: feat(docker): optimize multi-stage build layers
