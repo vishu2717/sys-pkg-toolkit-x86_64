@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2025-06-29 22:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-06-29 22:55: docs: update system administration runbooks and troubleshooting
 - 2025-06-29 22:59: fix(proc): prevent zombie process reaping race condition
+- 2025-06-30 11:47: fix(proc): prevent zombie process reaping race condition
