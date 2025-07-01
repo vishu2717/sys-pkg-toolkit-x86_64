@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-06-29 22:59: fix(proc): prevent zombie process reaping race condition
 - 2025-06-30 11:47: fix(proc): prevent zombie process reaping race condition
 - 2025-06-30 19:53: feat(daemon): add background heartbeat and ping interval
+- 2025-07-01 10:53: test(daemon): verify supervisor restarts crashed processes
