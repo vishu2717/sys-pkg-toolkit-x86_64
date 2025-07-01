@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2025-07-01 10:53: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-01 12:50: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-01 16:34: feat(deploy): implement zero-downtime rolling reload
+- 2025-07-01 20:18: refactor(daemon): separate socket listening from worker queue
