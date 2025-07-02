@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2025-07-01 22:05: feat(metrics): track memory usage and cpu thread statistics
 - 2025-07-02 12:54: feat(metrics): track memory usage and cpu thread statistics
 - 2025-07-02 15:40: refactor(config): migrate global settings to immutable dataclass
+- 2025-07-02 17:27: docs: update system administration runbooks and troubleshooting
