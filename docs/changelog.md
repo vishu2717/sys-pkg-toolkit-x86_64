@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2025-07-02 18:17: feat(daemon): add background heartbeat and ping interval
 - 2025-07-02 19:58: feat(metrics): track memory usage and cpu thread statistics
 - 2025-07-02 21:14: test(daemon): verify supervisor restarts crashed processes
+- 2025-07-03 10:53: refactor(scripts): modularize helper functions across shell scripts
