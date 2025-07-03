@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2025-07-03 17:52: feat(env): add automated dotfiles symlink manager
 - 2025-07-03 18:20: fix(bash): escape arguments in deployment script
 - 2025-07-03 18:41: fix(docker): specify non-root user in runtime container
+- 2025-07-03 21:43: feat(sync): add rsync-based remote directory mirror utility
