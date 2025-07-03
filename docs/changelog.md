@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2025-07-03 12:16: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-03 13:22: refactor(config): migrate global settings to immutable dataclass
 - 2025-07-03 13:45: test(proc): assert exit codes under simulated failures
+- 2025-07-03 16:29: feat(sync): add rsync-based remote directory mirror utility
