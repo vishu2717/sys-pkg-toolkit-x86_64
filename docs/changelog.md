@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-07-02 21:14: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-03 10:53: refactor(scripts): modularize helper functions across shell scripts
 - 2025-07-03 12:16: test(daemon): verify supervisor restarts crashed processes
+- 2025-07-03 13:22: refactor(config): migrate global settings to immutable dataclass
