@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-07-03 13:22: refactor(config): migrate global settings to immutable dataclass
 - 2025-07-03 13:45: test(proc): assert exit codes under simulated failures
 - 2025-07-03 16:29: feat(sync): add rsync-based remote directory mirror utility
+- 2025-07-03 16:36: feat(proc): add process supervisor with automatic restart
