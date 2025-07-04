@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-07-03 21:43: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-03 23:09: docs: add architecture specification for daemon supervisor
 - 2025-07-03 23:13: feat(docker): optimize multi-stage build layers
+- 2025-07-04 10:36: fix(docker): specify non-root user in runtime container
