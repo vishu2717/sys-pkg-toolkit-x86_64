@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2025-07-04 11:21: feat(security): add permission auditing script for local binaries
 - 2025-07-05 11:11: docs: document environment variables and override flags
 - 2025-07-05 21:09: test(proc): assert exit codes under simulated failures
+- 2025-07-05 22:46: fix(daemon): gracefully handle sigterm during log rotation
