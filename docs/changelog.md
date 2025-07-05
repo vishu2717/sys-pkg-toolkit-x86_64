@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2025-07-03 23:13: feat(docker): optimize multi-stage build layers
 - 2025-07-04 10:36: fix(docker): specify non-root user in runtime container
 - 2025-07-04 11:21: feat(security): add permission auditing script for local binaries
+- 2025-07-05 11:11: docs: document environment variables and override flags
