@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-07-05 22:46: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-07-06 10:14: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-06 12:38: feat(sync): add rsync-based remote directory mirror utility
+- 2025-07-06 12:50: fix(bash): escape arguments in deployment script
