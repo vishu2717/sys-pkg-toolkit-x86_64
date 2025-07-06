@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2025-07-06 19:01: docs: add architecture specification for daemon supervisor
 - 2025-07-06 19:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-06 19:49: feat(docker): optimize multi-stage build layers
+- 2025-07-06 22:51: feat(cli): add command-line argument parser for daemon
