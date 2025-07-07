@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2025-07-07 18:50: feat(deploy): implement zero-downtime rolling reload
 - 2025-07-07 19:54: test(proc): assert exit codes under simulated failures
 - 2025-07-07 21:35: feat(sync): add rsync-based remote directory mirror utility
+- 2025-07-07 22:19: fix(daemon): gracefully handle sigterm during log rotation
