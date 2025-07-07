@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2025-07-06 22:51: feat(cli): add command-line argument parser for daemon
 - 2025-07-07 13:45: fix(docker): specify non-root user in runtime container
 - 2025-07-07 13:46: feat(daemon): add background heartbeat and ping interval
+- 2025-07-07 15:42: feat(config): add JSON and YAML configuration loader
