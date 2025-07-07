@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2025-07-07 13:46: feat(daemon): add background heartbeat and ping interval
 - 2025-07-07 15:42: feat(config): add JSON and YAML configuration loader
 - 2025-07-07 15:50: refactor(cli): simplify command dispatch loop
+- 2025-07-07 16:59: feat(proc): add process supervisor with automatic restart
