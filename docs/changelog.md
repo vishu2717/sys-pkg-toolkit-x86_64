@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2025-07-06 19:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-06 19:49: feat(docker): optimize multi-stage build layers
 - 2025-07-06 22:51: feat(cli): add command-line argument parser for daemon
+- 2025-07-07 13:45: fix(docker): specify non-root user in runtime container
