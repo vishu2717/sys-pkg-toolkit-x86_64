@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2025-07-07 15:50: refactor(cli): simplify command dispatch loop
 - 2025-07-07 16:59: feat(proc): add process supervisor with automatic restart
 - 2025-07-07 17:42: feat(env): add automated dotfiles symlink manager
+- 2025-07-07 18:50: feat(deploy): implement zero-downtime rolling reload
