@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-07-08 14:45: refactor(daemon): separate socket listening from worker queue
 - 2025-07-08 15:16: docs: add architecture specification for daemon supervisor
 - 2025-07-08 16:58: fix(proc): prevent zombie process reaping race condition
+- 2025-07-08 17:20: refactor(daemon): separate socket listening from worker queue
