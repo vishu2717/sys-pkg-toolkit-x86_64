@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2025-07-08 19:45: feat(security): add permission auditing script for local binaries
 - 2025-07-08 20:46: feat(config): add JSON and YAML configuration loader
 - 2025-07-08 21:33: perf: reduce process spawn latency using fork pool
+- 2025-07-08 21:49: docs: update changelog with recent utility enhancements
