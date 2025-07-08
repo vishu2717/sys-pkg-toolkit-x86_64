@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2025-07-08 10:16: fix(bash): escape arguments in deployment script
 - 2025-07-08 11:55: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-08 14:45: refactor(daemon): separate socket listening from worker queue
+- 2025-07-08 15:16: docs: add architecture specification for daemon supervisor
