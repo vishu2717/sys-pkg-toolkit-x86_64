@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2025-07-08 23:10: test(scripts): add bats verification for setup scripts
 - 2025-07-11 10:07: refactor(cli): simplify command dispatch loop
 - 2025-07-11 10:29: feat(daemon): add background heartbeat and ping interval
+- 2025-07-11 12:55: style: enforce consistent shell quoting and indentation
