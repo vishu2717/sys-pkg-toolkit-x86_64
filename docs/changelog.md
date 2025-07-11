@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2025-07-08 21:49: docs: update changelog with recent utility enhancements
 - 2025-07-08 22:03: feat(daemon): add background heartbeat and ping interval
 - 2025-07-08 23:10: test(scripts): add bats verification for setup scripts
+- 2025-07-11 10:07: refactor(cli): simplify command dispatch loop
