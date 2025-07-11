@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2025-07-11 14:33: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-11 18:17: test(proc): assert exit codes under simulated failures
 - 2025-07-11 19:07: test(cli): add unit test coverage for argument parsing
+- 2025-07-11 23:20: fix(proc): prevent zombie process reaping race condition
