@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-07-13 18:15: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-07-13 21:09: feat(monitor): implement system resource tracking utility
 - 2025-07-13 21:11: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-07-13 21:53: fix(proc): prevent zombie process reaping race condition
