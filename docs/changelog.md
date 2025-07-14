@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-07-14 14:31: feat(shell): implement safe pipe execution helper
 - 2025-07-14 14:40: docs: update changelog with recent utility enhancements
 - 2025-07-14 15:12: docs: add architecture specification for daemon supervisor
+- 2025-07-14 15:20: test(proc): assert exit codes under simulated failures
