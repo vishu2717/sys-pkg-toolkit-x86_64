@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2025-07-14 15:12: docs: add architecture specification for daemon supervisor
 - 2025-07-14 15:20: test(proc): assert exit codes under simulated failures
 - 2025-07-14 15:29: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-07-14 16:59: chore: update base container image to latest alpine
