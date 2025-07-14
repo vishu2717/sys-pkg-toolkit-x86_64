@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2025-07-14 11:34: feat(daemon): add background heartbeat and ping interval
 - 2025-07-14 12:45: refactor(config): migrate global settings to immutable dataclass
 - 2025-07-14 14:22: feat(metrics): track memory usage and cpu thread statistics
+- 2025-07-14 14:31: feat(shell): implement safe pipe execution helper
