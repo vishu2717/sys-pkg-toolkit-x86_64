@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2025-07-14 15:29: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-07-14 16:59: chore: update base container image to latest alpine
 - 2025-07-15 10:22: refactor(cli): simplify command dispatch loop
+- 2025-07-15 10:30: docs: add architecture specification for daemon supervisor
