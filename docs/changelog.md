@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2025-07-15 10:30: docs: add architecture specification for daemon supervisor
 - 2025-07-15 11:55: test(proc): assert exit codes under simulated failures
 - 2025-07-15 12:00: test(proc): assert exit codes under simulated failures
+- 2025-07-15 12:13: chore: update base container image to latest alpine
