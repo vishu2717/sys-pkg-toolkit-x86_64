@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2025-07-15 12:00: test(proc): assert exit codes under simulated failures
 - 2025-07-15 12:13: chore: update base container image to latest alpine
 - 2025-07-15 16:23: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-07-15 20:35: fix(docker): specify non-root user in runtime container
