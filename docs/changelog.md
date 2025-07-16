@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2025-07-16 14:11: fix(bash): escape arguments in deployment script
 - 2025-07-16 17:31: feat(shell): implement safe pipe execution helper
 - 2025-07-16 17:45: feat(daemon): add background heartbeat and ping interval
+- 2025-07-16 20:36: feat(security): add permission auditing script for local binaries
