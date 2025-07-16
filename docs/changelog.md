@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-07-16 17:31: feat(shell): implement safe pipe execution helper
 - 2025-07-16 17:45: feat(daemon): add background heartbeat and ping interval
 - 2025-07-16 20:36: feat(security): add permission auditing script for local binaries
+- 2025-07-16 21:43: feat(env): add automated dotfiles symlink manager
