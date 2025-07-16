@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-07-16 11:55: feat(monitor): implement system resource tracking utility
 - 2025-07-16 12:17: feat(env): add automated dotfiles symlink manager
 - 2025-07-16 13:35: feat(config): add JSON and YAML configuration loader
+- 2025-07-16 14:11: fix(bash): escape arguments in deployment script
