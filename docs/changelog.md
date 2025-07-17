@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2025-07-16 21:43: feat(env): add automated dotfiles symlink manager
 - 2025-07-17 11:41: fix(config): ensure directory exists before writing state
 - 2025-07-17 15:14: feat(proc): add process supervisor with automatic restart
+- 2025-07-17 20:28: docs: document environment variables and override flags
