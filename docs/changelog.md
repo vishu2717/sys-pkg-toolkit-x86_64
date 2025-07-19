@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-07-19 15:21: refactor(daemon): separate socket listening from worker queue
 - 2025-07-19 15:36: fix(proc): prevent zombie process reaping race condition
 - 2025-07-19 16:35: feat(sync): add rsync-based remote directory mirror utility
+- 2025-07-19 17:05: test(cli): add unit test coverage for argument parsing
