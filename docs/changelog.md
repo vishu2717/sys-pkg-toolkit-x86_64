@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2025-07-17 15:14: feat(proc): add process supervisor with automatic restart
 - 2025-07-17 20:28: docs: document environment variables and override flags
 - 2025-07-19 10:23: feat(monitor): implement system resource tracking utility
+- 2025-07-19 12:05: feat(metrics): track memory usage and cpu thread statistics
