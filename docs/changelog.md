@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-07-19 12:05: feat(metrics): track memory usage and cpu thread statistics
 - 2025-07-19 13:11: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-07-19 13:18: test(scripts): add bats verification for setup scripts
+- 2025-07-19 13:57: feat(sync): add rsync-based remote directory mirror utility
