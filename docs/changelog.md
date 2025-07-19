@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2025-07-19 13:18: test(scripts): add bats verification for setup scripts
 - 2025-07-19 13:57: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-19 14:39: fix(docker): specify non-root user in runtime container
+- 2025-07-19 15:21: refactor(daemon): separate socket listening from worker queue
