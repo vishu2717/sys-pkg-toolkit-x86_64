@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-07-19 22:31: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-19 22:41: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-20 13:37: feat(proc): add process supervisor with automatic restart
+- 2025-07-20 15:52: refactor(scripts): modularize helper functions across shell scripts
