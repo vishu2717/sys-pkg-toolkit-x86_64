@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2025-07-20 13:37: feat(proc): add process supervisor with automatic restart
 - 2025-07-20 15:52: refactor(scripts): modularize helper functions across shell scripts
 - 2025-07-21 10:55: docs: update changelog with recent utility enhancements
+- 2025-07-21 17:29: feat(security): add permission auditing script for local binaries
