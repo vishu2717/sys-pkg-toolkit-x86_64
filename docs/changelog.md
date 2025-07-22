@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2025-07-21 23:03: feat(config): add JSON and YAML configuration loader
 - 2025-07-22 12:04: test(proc): assert exit codes under simulated failures
 - 2025-07-22 12:30: refactor(daemon): separate socket listening from worker queue
+- 2025-07-22 14:25: test(daemon): verify supervisor restarts crashed processes
