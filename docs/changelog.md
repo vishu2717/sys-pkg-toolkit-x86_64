@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-07-22 14:59: feat(docker): optimize multi-stage build layers
 - 2025-07-22 17:43: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-22 18:03: feat(shell): implement safe pipe execution helper
+- 2025-07-22 19:41: test(cli): add unit test coverage for argument parsing
