@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-07-21 17:29: feat(security): add permission auditing script for local binaries
 - 2025-07-21 18:35: fix(bash): escape arguments in deployment script
 - 2025-07-21 23:03: feat(config): add JSON and YAML configuration loader
+- 2025-07-22 12:04: test(proc): assert exit codes under simulated failures
