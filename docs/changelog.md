@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2025-07-23 11:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-23 11:59: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-23 15:28: refactor(cli): simplify command dispatch loop
+- 2025-07-23 15:39: feat(cli): add command-line argument parser for daemon
