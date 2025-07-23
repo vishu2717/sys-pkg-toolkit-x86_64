@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-07-23 15:28: refactor(cli): simplify command dispatch loop
 - 2025-07-23 15:39: feat(cli): add command-line argument parser for daemon
 - 2025-07-23 16:11: feat(daemon): add background heartbeat and ping interval
+- 2025-07-23 17:23: test(daemon): verify supervisor restarts crashed processes
