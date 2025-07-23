@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2025-07-23 16:11: feat(daemon): add background heartbeat and ping interval
 - 2025-07-23 17:23: test(daemon): verify supervisor restarts crashed processes
 - 2025-07-23 18:05: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-07-23 20:59: feat(sync): add rsync-based remote directory mirror utility
