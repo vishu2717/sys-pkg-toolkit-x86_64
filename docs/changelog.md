@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2025-07-22 19:41: test(cli): add unit test coverage for argument parsing
 - 2025-07-22 20:11: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-22 21:09: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-07-23 11:25: refactor(daemon): separate socket listening from worker queue
