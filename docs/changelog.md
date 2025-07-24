@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-07-24 11:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-24 11:26: refactor(config): migrate global settings to immutable dataclass
 - 2025-07-24 12:54: feat(daemon): add background heartbeat and ping interval
+- 2025-07-24 13:22: fix(config): ensure directory exists before writing state
