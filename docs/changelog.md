@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2025-07-23 20:59: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-24 10:36: feat(sync): add rsync-based remote directory mirror utility
 - 2025-07-24 11:19: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-07-24 11:26: refactor(config): migrate global settings to immutable dataclass
