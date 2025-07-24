@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-07-24 12:54: feat(daemon): add background heartbeat and ping interval
 - 2025-07-24 13:22: fix(config): ensure directory exists before writing state
 - 2025-07-24 14:11: test(daemon): verify supervisor restarts crashed processes
+- 2025-07-24 14:35: refactor(monitor): optimize sampling frequency and buffer size
