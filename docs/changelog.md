@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-07-24 16:15: feat(shell): implement safe pipe execution helper
 - 2025-07-24 19:07: feat(proc): add process supervisor with automatic restart
 - 2025-07-24 20:03: refactor(cli): simplify command dispatch loop
+- 2025-07-24 21:10: docs: add architecture specification for daemon supervisor
