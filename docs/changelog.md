@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2025-07-24 22:03: test(proc): assert exit codes under simulated failures
 - 2025-07-24 22:25: fix(cli): exit with non-zero status code on unknown command
 - 2025-07-24 22:28: refactor(daemon): separate socket listening from worker queue
+- 2025-07-25 11:34: docs: update changelog with recent utility enhancements
