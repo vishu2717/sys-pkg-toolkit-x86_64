@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2025-07-25 11:34: docs: update changelog with recent utility enhancements
 - 2025-07-25 14:32: fix(cli): exit with non-zero status code on unknown command
 - 2025-07-25 16:17: feat(docker): optimize multi-stage build layers
+- 2025-07-25 23:10: fix(proc): prevent zombie process reaping race condition
