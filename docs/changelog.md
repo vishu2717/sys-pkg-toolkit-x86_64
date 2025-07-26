@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-07-25 23:10: fix(proc): prevent zombie process reaping race condition
 - 2025-07-26 12:00: style: enforce consistent shell quoting and indentation
 - 2025-07-26 13:39: feat(daemon): add background heartbeat and ping interval
+- 2025-07-26 19:15: feat(config): add JSON and YAML configuration loader
