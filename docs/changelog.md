@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-07-26 19:15: feat(config): add JSON and YAML configuration loader
 - 2025-07-26 19:30: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-07-27 13:57: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-07-27 14:28: test(proc): assert exit codes under simulated failures
