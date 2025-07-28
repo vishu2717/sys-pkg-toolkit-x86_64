@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2025-07-27 14:28: test(proc): assert exit codes under simulated failures
 - 2025-07-27 16:20: docs: update changelog with recent utility enhancements
 - 2025-07-27 19:57: fix(cli): exit with non-zero status code on unknown command
+- 2025-07-28 11:30: feat(config): add JSON and YAML configuration loader
