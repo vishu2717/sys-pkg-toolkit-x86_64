@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2025-07-28 17:59: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-07-28 20:57: refactor(cli): simplify command dispatch loop
 - 2025-07-28 22:26: feat(metrics): track memory usage and cpu thread statistics
+- 2025-07-28 23:25: fix(docker): specify non-root user in runtime container
