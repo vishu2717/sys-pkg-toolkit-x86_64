@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2025-07-27 19:57: fix(cli): exit with non-zero status code on unknown command
 - 2025-07-28 11:30: feat(config): add JSON and YAML configuration loader
 - 2025-07-28 11:32: docs: document environment variables and override flags
+- 2025-07-28 15:26: feat(cli): add command-line argument parser for daemon
