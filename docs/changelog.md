@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2025-07-28 11:32: docs: document environment variables and override flags
 - 2025-07-28 15:26: feat(cli): add command-line argument parser for daemon
 - 2025-07-28 16:23: feat(proc): add process supervisor with automatic restart
+- 2025-07-28 16:26: refactor(daemon): separate socket listening from worker queue
