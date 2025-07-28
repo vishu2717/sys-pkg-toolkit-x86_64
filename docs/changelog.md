@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2025-07-28 16:23: feat(proc): add process supervisor with automatic restart
 - 2025-07-28 16:26: refactor(daemon): separate socket listening from worker queue
 - 2025-07-28 17:59: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-07-28 20:57: refactor(cli): simplify command dispatch loop
