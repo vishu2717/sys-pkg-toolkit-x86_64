@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2025-07-29 12:03: docs: update changelog with recent utility enhancements
 - 2025-07-29 12:09: fix(docker): specify non-root user in runtime container
 - 2025-07-29 13:38: docs: update changelog with recent utility enhancements
+- 2025-07-29 14:08: feat(sync): add rsync-based remote directory mirror utility
