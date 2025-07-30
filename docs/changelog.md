@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2025-07-29 23:04: fix(config): ensure directory exists before writing state
 - 2025-07-29 23:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-07-30 15:21: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-07-30 18:53: feat(shell): implement safe pipe execution helper
