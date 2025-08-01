@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 11:41: feat(sync): add rsync-based remote directory mirror utility
 - 2025-08-01 11:58: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-08-01 15:11: fix(docker): specify non-root user in runtime container
+- 2025-08-01 16:07: fix(cli): exit with non-zero status code on unknown command
