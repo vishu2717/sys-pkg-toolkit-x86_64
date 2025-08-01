@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 17:56: test(cli): add unit test coverage for argument parsing
 - 2025-08-01 20:17: fix(docker): specify non-root user in runtime container
 - 2025-08-01 22:05: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-08-01 22:06: feat(proc): add process supervisor with automatic restart
