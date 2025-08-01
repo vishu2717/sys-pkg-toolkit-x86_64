@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 10:01: fix(docker): specify non-root user in runtime container
 - 2025-08-01 11:10: test(proc): assert exit codes under simulated failures
 - 2025-08-01 11:12: style: enforce consistent shell quoting and indentation
+- 2025-08-01 11:18: feat(config): add JSON and YAML configuration loader
