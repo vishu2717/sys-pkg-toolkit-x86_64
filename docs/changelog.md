@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 16:07: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-01 16:22: fix(docker): specify non-root user in runtime container
 - 2025-08-01 17:15: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-08-01 17:51: fix(proc): prevent zombie process reaping race condition
