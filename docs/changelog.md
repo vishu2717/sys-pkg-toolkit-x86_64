@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-07-30 18:53: feat(shell): implement safe pipe execution helper
 - 2025-07-30 22:21: test(daemon): verify supervisor restarts crashed processes
 - 2025-08-01 10:01: fix(docker): specify non-root user in runtime container
+- 2025-08-01 11:10: test(proc): assert exit codes under simulated failures
