@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 11:12: style: enforce consistent shell quoting and indentation
 - 2025-08-01 11:18: feat(config): add JSON and YAML configuration loader
 - 2025-08-01 11:41: feat(sync): add rsync-based remote directory mirror utility
+- 2025-08-01 11:58: fix(daemon): gracefully handle sigterm during log rotation
