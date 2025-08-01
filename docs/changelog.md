@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 17:15: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-08-01 17:51: fix(proc): prevent zombie process reaping race condition
 - 2025-08-01 17:56: test(cli): add unit test coverage for argument parsing
+- 2025-08-01 20:17: fix(docker): specify non-root user in runtime container
