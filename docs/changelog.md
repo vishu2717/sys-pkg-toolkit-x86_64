@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-08-01 22:05: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-08-01 22:06: feat(proc): add process supervisor with automatic restart
 - 2025-08-03 19:08: feat(security): add permission auditing script for local binaries
+- 2025-08-03 22:13: test(proc): assert exit codes under simulated failures
