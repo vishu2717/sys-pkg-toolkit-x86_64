@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-08-04 19:14: fix(bash): escape arguments in deployment script
 - 2025-08-04 21:10: test(proc): assert exit codes under simulated failures
 - 2025-08-04 22:59: fix(cli): exit with non-zero status code on unknown command
+- 2025-08-04 23:10: feat(daemon): add background heartbeat and ping interval
