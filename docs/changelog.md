@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2025-08-04 15:01: docs: update changelog with recent utility enhancements
 - 2025-08-04 17:02: refactor(cli): simplify command dispatch loop
 - 2025-08-04 18:34: docs: add architecture specification for daemon supervisor
+- 2025-08-04 19:14: fix(bash): escape arguments in deployment script
