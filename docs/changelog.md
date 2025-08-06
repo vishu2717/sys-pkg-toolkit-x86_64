@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-08-04 22:59: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-04 23:10: feat(daemon): add background heartbeat and ping interval
 - 2025-08-06 12:22: feat(proc): add process supervisor with automatic restart
+- 2025-08-06 22:52: refactor(daemon): separate socket listening from worker queue
