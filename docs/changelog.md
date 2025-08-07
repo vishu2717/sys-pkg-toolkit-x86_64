@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2025-08-04 23:10: feat(daemon): add background heartbeat and ping interval
 - 2025-08-06 12:22: feat(proc): add process supervisor with automatic restart
 - 2025-08-06 22:52: refactor(daemon): separate socket listening from worker queue
+- 2025-08-07 10:44: docs: update system administration runbooks and troubleshooting
