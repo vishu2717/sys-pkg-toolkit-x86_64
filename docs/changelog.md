@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-08-07 10:47: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-08-07 11:04: fix(bash): escape arguments in deployment script
 - 2025-08-07 16:06: test(daemon): verify supervisor restarts crashed processes
+- 2025-08-07 19:18: fix(proc): prevent zombie process reaping race condition
