@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-08-07 16:06: test(daemon): verify supervisor restarts crashed processes
 - 2025-08-07 19:18: fix(proc): prevent zombie process reaping race condition
 - 2025-08-07 20:56: refactor(daemon): separate socket listening from worker queue
+- 2025-08-08 14:32: fix(monitor): resolve division by zero on idle cpu calculation
