@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2025-08-09 15:04: docs: update changelog with recent utility enhancements
 - 2025-08-09 16:31: refactor(config): migrate global settings to immutable dataclass
 - 2025-08-09 17:07: refactor(cli): simplify command dispatch loop
+- 2025-08-09 21:16: fix(config): ensure directory exists before writing state
