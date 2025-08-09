@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2025-08-08 19:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-08-09 10:41: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-09 11:40: feat(shell): implement safe pipe execution helper
+- 2025-08-09 12:09: feat(metrics): track memory usage and cpu thread statistics
