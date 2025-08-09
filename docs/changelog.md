@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2025-08-09 11:40: feat(shell): implement safe pipe execution helper
 - 2025-08-09 12:09: feat(metrics): track memory usage and cpu thread statistics
 - 2025-08-09 15:04: docs: update changelog with recent utility enhancements
+- 2025-08-09 16:31: refactor(config): migrate global settings to immutable dataclass
