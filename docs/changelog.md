@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2025-08-08 14:32: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-08-08 17:31: docs: add architecture specification for daemon supervisor
 - 2025-08-08 19:28: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-08-09 10:41: fix(cli): exit with non-zero status code on unknown command
