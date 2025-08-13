@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2025-08-13 12:23: perf: reduce process spawn latency using fork pool
 - 2025-08-13 13:43: fix(config): ensure directory exists before writing state
 - 2025-08-13 18:21: feat(monitor): implement system resource tracking utility
+- 2025-08-13 20:06: feat(config): add JSON and YAML configuration loader
