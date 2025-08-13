@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2025-08-09 21:35: feat(shell): implement safe pipe execution helper
 - 2025-08-09 21:53: docs: update changelog with recent utility enhancements
 - 2025-08-09 21:56: feat(config): add JSON and YAML configuration loader
+- 2025-08-13 12:23: perf: reduce process spawn latency using fork pool
