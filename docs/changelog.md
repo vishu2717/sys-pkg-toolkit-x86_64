@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-08-14 22:55: feat(docker): optimize multi-stage build layers
 - 2025-08-14 23:12: feat(daemon): add background heartbeat and ping interval
 - 2025-08-15 17:24: test(scripts): add bats verification for setup scripts
+- 2025-08-15 20:17: feat(deploy): implement zero-downtime rolling reload
