@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-08-15 22:07: fix(proc): prevent zombie process reaping race condition
 - 2025-08-15 23:12: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-15 23:20: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-08-18 21:19: refactor(monitor): optimize sampling frequency and buffer size
