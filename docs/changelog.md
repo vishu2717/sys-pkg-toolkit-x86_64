@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2025-08-15 23:20: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-08-18 21:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-08-18 23:05: refactor(scripts): modularize helper functions across shell scripts
+- 2025-08-19 10:58: refactor(cli): simplify command dispatch loop
