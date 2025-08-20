@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2025-08-18 23:05: refactor(scripts): modularize helper functions across shell scripts
 - 2025-08-19 10:58: refactor(cli): simplify command dispatch loop
 - 2025-08-19 12:39: fix(bash): escape arguments in deployment script
+- 2025-08-20 16:18: fix(proc): prevent zombie process reaping race condition
