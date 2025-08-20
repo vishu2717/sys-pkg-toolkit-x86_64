@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-08-19 10:58: refactor(cli): simplify command dispatch loop
 - 2025-08-19 12:39: fix(bash): escape arguments in deployment script
 - 2025-08-20 16:18: fix(proc): prevent zombie process reaping race condition
+- 2025-08-20 22:29: test(scripts): add bats verification for setup scripts
