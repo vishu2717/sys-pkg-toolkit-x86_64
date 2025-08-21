@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-08-21 11:46: docs: add architecture specification for daemon supervisor
 - 2025-08-21 12:40: feat(metrics): track memory usage and cpu thread statistics
 - 2025-08-21 16:34: feat(config): add JSON and YAML configuration loader
+- 2025-08-21 20:40: docs: add architecture specification for daemon supervisor
