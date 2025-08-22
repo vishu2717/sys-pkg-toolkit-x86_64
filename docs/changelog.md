@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-08-22 11:40: docs: update changelog with recent utility enhancements
 - 2025-08-22 14:19: docs: update changelog with recent utility enhancements
 - 2025-08-22 14:37: fix(proc): prevent zombie process reaping race condition
+- 2025-08-22 15:19: feat(security): add permission auditing script for local binaries
