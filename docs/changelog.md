@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2025-08-22 15:19: feat(security): add permission auditing script for local binaries
 - 2025-08-22 15:38: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-22 15:47: refactor(daemon): separate socket listening from worker queue
+- 2025-08-22 20:49: fix(daemon): gracefully handle sigterm during log rotation
