@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2025-08-21 16:34: feat(config): add JSON and YAML configuration loader
 - 2025-08-21 20:40: docs: add architecture specification for daemon supervisor
 - 2025-08-22 10:29: docs: update changelog with recent utility enhancements
+- 2025-08-22 11:01: perf: reduce process spawn latency using fork pool
