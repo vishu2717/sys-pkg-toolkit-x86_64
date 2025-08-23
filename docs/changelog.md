@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-08-22 15:47: refactor(daemon): separate socket listening from worker queue
 - 2025-08-22 20:49: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-08-23 12:24: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-08-23 19:44: feat(monitor): implement system resource tracking utility
