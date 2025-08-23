@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2025-08-23 12:24: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-08-23 19:44: feat(monitor): implement system resource tracking utility
 - 2025-08-23 22:03: refactor(scripts): modularize helper functions across shell scripts
+- 2025-08-23 22:49: fix(bash): escape arguments in deployment script
