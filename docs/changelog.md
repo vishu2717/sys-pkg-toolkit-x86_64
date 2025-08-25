@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2025-08-24 20:01: feat(daemon): add background heartbeat and ping interval
 - 2025-08-24 21:06: fix(proc): prevent zombie process reaping race condition
 - 2025-08-25 18:20: feat(docker): optimize multi-stage build layers
+- 2025-08-25 19:08: refactor(config): migrate global settings to immutable dataclass
