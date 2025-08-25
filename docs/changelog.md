@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2025-08-24 18:07: fix(cli): exit with non-zero status code on unknown command
 - 2025-08-24 20:01: feat(daemon): add background heartbeat and ping interval
 - 2025-08-24 21:06: fix(proc): prevent zombie process reaping race condition
+- 2025-08-25 18:20: feat(docker): optimize multi-stage build layers
