@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2025-08-24 21:06: fix(proc): prevent zombie process reaping race condition
 - 2025-08-25 18:20: feat(docker): optimize multi-stage build layers
 - 2025-08-25 19:08: refactor(config): migrate global settings to immutable dataclass
+- 2025-08-25 20:47: feat(config): add JSON and YAML configuration loader
