@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-08-25 19:08: refactor(config): migrate global settings to immutable dataclass
 - 2025-08-25 20:47: feat(config): add JSON and YAML configuration loader
 - 2025-08-25 21:45: feat(sync): add rsync-based remote directory mirror utility
+- 2025-08-26 13:11: fix(cli): exit with non-zero status code on unknown command
