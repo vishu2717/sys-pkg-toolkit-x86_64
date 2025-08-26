@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2025-08-26 13:17: style: enforce consistent shell quoting and indentation
 - 2025-08-26 16:23: feat(monitor): implement system resource tracking utility
 - 2025-08-26 17:04: feat(proc): add process supervisor with automatic restart
+- 2025-08-26 23:26: fix(proc): prevent zombie process reaping race condition
