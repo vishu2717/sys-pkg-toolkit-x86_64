@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-08-27 11:59: feat(config): add JSON and YAML configuration loader
 - 2025-08-27 12:47: feat(proc): add process supervisor with automatic restart
 - 2025-08-27 14:06: fix(bash): escape arguments in deployment script
+- 2025-08-27 16:11: docs: document environment variables and override flags
