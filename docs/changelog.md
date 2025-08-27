@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2025-08-26 17:04: feat(proc): add process supervisor with automatic restart
 - 2025-08-26 23:26: fix(proc): prevent zombie process reaping race condition
 - 2025-08-27 10:38: feat(metrics): track memory usage and cpu thread statistics
+- 2025-08-27 11:23: feat(deploy): implement zero-downtime rolling reload
