@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2025-08-27 10:38: feat(metrics): track memory usage and cpu thread statistics
 - 2025-08-27 11:23: feat(deploy): implement zero-downtime rolling reload
 - 2025-08-27 11:59: feat(config): add JSON and YAML configuration loader
+- 2025-08-27 12:47: feat(proc): add process supervisor with automatic restart
