@@ -239,3 +239,5 @@ audit_perms() { find /usr/local/bin -type f -perm /4000; }
 # Enforced strict POSIX styling
 
 # Modularized shell helpers
+
+# Modularized shell helpers

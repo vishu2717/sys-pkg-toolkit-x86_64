@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2025-08-27 16:11: docs: document environment variables and override flags
 - 2025-08-27 17:17: refactor(daemon): separate socket listening from worker queue
 - 2025-08-27 19:23: refactor(scripts): modularize helper functions across shell scripts
+- 2025-08-28 10:01: refactor(scripts): modularize helper functions across shell scripts
