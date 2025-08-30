@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-08-28 10:01: refactor(scripts): modularize helper functions across shell scripts
 - 2025-08-28 11:51: fix(proc): prevent zombie process reaping race condition
 - 2025-08-28 16:42: feat(env): add automated dotfiles symlink manager
+- 2025-08-30 14:55: docs: update changelog with recent utility enhancements
