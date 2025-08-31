@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-08-30 17:01: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-08-30 19:50: feat(security): add permission auditing script for local binaries
 - 2025-08-31 10:33: test(proc): assert exit codes under simulated failures
+- 2025-08-31 12:10: fix(monitor): resolve division by zero on idle cpu calculation
