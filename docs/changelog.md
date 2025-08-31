@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-08-31 13:35: feat(env): add automated dotfiles symlink manager
 - 2025-08-31 16:46: fix(config): ensure directory exists before writing state
 - 2025-08-31 21:30: fix(bash): escape arguments in deployment script
+- 2025-08-31 21:45: feat(env): add automated dotfiles symlink manager
