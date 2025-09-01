@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-08-31 21:30: fix(bash): escape arguments in deployment script
 - 2025-08-31 21:45: feat(env): add automated dotfiles symlink manager
 - 2025-09-01 10:13: feat(cli): add command-line argument parser for daemon
+- 2025-09-01 10:37: fix(docker): specify non-root user in runtime container
