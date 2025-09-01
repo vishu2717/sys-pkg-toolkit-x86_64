@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2025-09-01 10:37: fix(docker): specify non-root user in runtime container
 - 2025-09-01 13:33: test(cli): add unit test coverage for argument parsing
 - 2025-09-01 14:08: test(scripts): add bats verification for setup scripts
+- 2025-09-01 15:33: feat(metrics): track memory usage and cpu thread statistics
