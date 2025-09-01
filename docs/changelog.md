@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2025-09-01 13:33: test(cli): add unit test coverage for argument parsing
 - 2025-09-01 14:08: test(scripts): add bats verification for setup scripts
 - 2025-09-01 15:33: feat(metrics): track memory usage and cpu thread statistics
+- 2025-09-01 17:21: test(daemon): verify supervisor restarts crashed processes
