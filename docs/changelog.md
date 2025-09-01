@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2025-09-01 17:21: test(daemon): verify supervisor restarts crashed processes
 - 2025-09-01 18:28: fix(docker): specify non-root user in runtime container
 - 2025-09-01 19:59: feat(proc): add process supervisor with automatic restart
+- 2025-09-01 21:51: feat(sync): add rsync-based remote directory mirror utility
