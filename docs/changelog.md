@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2025-09-01 19:59: feat(proc): add process supervisor with automatic restart
 - 2025-09-01 21:51: feat(sync): add rsync-based remote directory mirror utility
 - 2025-09-03 11:43: fix(proc): prevent zombie process reaping race condition
+- 2025-09-03 19:14: feat(cli): add command-line argument parser for daemon
