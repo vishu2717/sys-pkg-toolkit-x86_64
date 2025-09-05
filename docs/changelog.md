@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-09-05 17:09: fix(config): ensure directory exists before writing state
 - 2025-09-05 17:50: feat(shell): implement safe pipe execution helper
 - 2025-09-05 21:12: fix(bash): escape arguments in deployment script
+- 2025-09-05 22:56: fix(proc): prevent zombie process reaping race condition
