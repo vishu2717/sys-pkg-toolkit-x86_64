@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2025-09-04 16:00: feat(proc): add process supervisor with automatic restart
 - 2025-09-04 17:23: test(daemon): verify supervisor restarts crashed processes
 - 2025-09-05 10:39: fix(cli): exit with non-zero status code on unknown command
+- 2025-09-05 11:21: feat(deploy): implement zero-downtime rolling reload
