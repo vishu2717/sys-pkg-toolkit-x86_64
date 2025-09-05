@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2025-09-05 10:39: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-05 11:21: feat(deploy): implement zero-downtime rolling reload
 - 2025-09-05 12:57: feat(metrics): track memory usage and cpu thread statistics
+- 2025-09-05 17:09: fix(config): ensure directory exists before writing state
