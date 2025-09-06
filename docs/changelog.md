@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2025-09-06 16:01: feat(daemon): add background heartbeat and ping interval
 - 2025-09-06 16:03: feat(env): add automated dotfiles symlink manager
 - 2025-09-06 16:53: fix(bash): escape arguments in deployment script
+- 2025-09-06 17:23: refactor(daemon): separate socket listening from worker queue
