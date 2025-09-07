@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-09-07 11:27: refactor(scripts): modularize helper functions across shell scripts
 - 2025-09-07 11:58: test(scripts): add bats verification for setup scripts
 - 2025-09-07 12:38: feat(deploy): implement zero-downtime rolling reload
+- 2025-09-07 12:41: fix(docker): specify non-root user in runtime container
