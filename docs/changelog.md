@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2025-09-07 12:38: feat(deploy): implement zero-downtime rolling reload
 - 2025-09-07 12:41: fix(docker): specify non-root user in runtime container
 - 2025-09-07 13:37: test(scripts): add bats verification for setup scripts
+- 2025-09-07 14:40: docs: add architecture specification for daemon supervisor
