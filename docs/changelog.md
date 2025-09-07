@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2025-09-06 17:23: refactor(daemon): separate socket listening from worker queue
 - 2025-09-06 21:03: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-07 11:27: refactor(scripts): modularize helper functions across shell scripts
+- 2025-09-07 11:58: test(scripts): add bats verification for setup scripts
