@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2025-09-07 14:40: docs: add architecture specification for daemon supervisor
 - 2025-09-07 15:41: fix(docker): specify non-root user in runtime container
 - 2025-09-07 20:55: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-09-12 15:50: refactor(monitor): optimize sampling frequency and buffer size
