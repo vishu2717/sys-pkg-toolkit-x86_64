@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-09-07 20:55: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-09-12 15:50: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-12 17:27: docs: add architecture specification for daemon supervisor
+- 2025-09-12 19:00: fix(daemon): gracefully handle sigterm during log rotation
