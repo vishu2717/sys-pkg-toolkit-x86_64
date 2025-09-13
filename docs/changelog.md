@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-09-12 17:27: docs: add architecture specification for daemon supervisor
 - 2025-09-12 19:00: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-12 22:59: feat(metrics): track memory usage and cpu thread statistics
+- 2025-09-13 22:43: feat(deploy): implement zero-downtime rolling reload
