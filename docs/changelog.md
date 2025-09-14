@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2025-09-14 11:59: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-14 12:13: fix(bash): escape arguments in deployment script
 - 2025-09-14 14:01: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-09-14 14:39: refactor(config): migrate global settings to immutable dataclass
