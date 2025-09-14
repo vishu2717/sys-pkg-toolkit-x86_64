@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2025-09-14 14:39: refactor(config): migrate global settings to immutable dataclass
 - 2025-09-14 15:43: docs: document environment variables and override flags
 - 2025-09-14 16:57: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-09-14 18:31: test(scripts): add bats verification for setup scripts
