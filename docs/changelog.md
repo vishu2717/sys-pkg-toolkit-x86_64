@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2025-09-14 19:51: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-14 20:33: fix(proc): prevent zombie process reaping race condition
 - 2025-09-14 20:42: fix(config): ensure directory exists before writing state
+- 2025-09-14 20:49: docs: update changelog with recent utility enhancements
