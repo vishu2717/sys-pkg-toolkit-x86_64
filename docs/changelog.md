@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2025-09-14 16:57: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-14 18:31: test(scripts): add bats verification for setup scripts
 - 2025-09-14 19:43: fix(bash): escape arguments in deployment script
+- 2025-09-14 19:51: fix(cli): exit with non-zero status code on unknown command
