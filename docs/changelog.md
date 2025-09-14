@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2025-09-12 22:59: feat(metrics): track memory usage and cpu thread statistics
 - 2025-09-13 22:43: feat(deploy): implement zero-downtime rolling reload
 - 2025-09-14 11:50: fix(cli): exit with non-zero status code on unknown command
+- 2025-09-14 11:59: fix(daemon): gracefully handle sigterm during log rotation
