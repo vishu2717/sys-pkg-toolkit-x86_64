@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2025-09-14 20:49: docs: update changelog with recent utility enhancements
 - 2025-09-14 22:02: feat(proc): add process supervisor with automatic restart
 - 2025-09-14 22:51: feat(config): add JSON and YAML configuration loader
+- 2025-09-15 10:15: feat(env): add automated dotfiles symlink manager
