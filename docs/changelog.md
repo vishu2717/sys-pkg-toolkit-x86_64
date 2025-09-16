@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2025-09-15 18:17: fix(config): ensure directory exists before writing state
 - 2025-09-15 21:58: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-15 22:54: feat(security): add permission auditing script for local binaries
+- 2025-09-16 12:49: refactor(cli): simplify command dispatch loop
