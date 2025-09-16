@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-09-16 12:49: refactor(cli): simplify command dispatch loop
 - 2025-09-16 13:12: feat(security): add permission auditing script for local binaries
 - 2025-09-16 16:20: test(proc): assert exit codes under simulated failures
+- 2025-09-16 17:04: fix(docker): specify non-root user in runtime container
