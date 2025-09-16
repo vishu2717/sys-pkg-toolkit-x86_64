@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-09-16 16:20: test(proc): assert exit codes under simulated failures
 - 2025-09-16 17:04: fix(docker): specify non-root user in runtime container
 - 2025-09-16 17:42: feat(daemon): add background heartbeat and ping interval
+- 2025-09-16 18:02: chore: update base container image to latest alpine
