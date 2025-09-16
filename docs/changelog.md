@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2025-09-16 18:02: chore: update base container image to latest alpine
 - 2025-09-16 20:04: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-16 20:31: refactor(cli): simplify command dispatch loop
+- 2025-09-16 21:30: docs: update changelog with recent utility enhancements
