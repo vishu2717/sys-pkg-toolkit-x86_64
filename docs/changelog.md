@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-09-16 17:42: feat(daemon): add background heartbeat and ping interval
 - 2025-09-16 18:02: chore: update base container image to latest alpine
 - 2025-09-16 20:04: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-09-16 20:31: refactor(cli): simplify command dispatch loop
