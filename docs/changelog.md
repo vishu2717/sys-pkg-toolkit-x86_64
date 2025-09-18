@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2025-09-17 14:28: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-17 21:26: docs: update changelog with recent utility enhancements
 - 2025-09-18 16:13: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-09-18 16:49: refactor(cli): simplify command dispatch loop
