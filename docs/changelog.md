@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-09-18 22:05: perf: reduce process spawn latency using fork pool
 - 2025-09-18 22:48: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-19 13:19: test(daemon): verify supervisor restarts crashed processes
+- 2025-09-19 16:42: test(scripts): add bats verification for setup scripts
