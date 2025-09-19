@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2025-09-18 22:48: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-19 13:19: test(daemon): verify supervisor restarts crashed processes
 - 2025-09-19 16:42: test(scripts): add bats verification for setup scripts
+- 2025-09-19 19:14: feat(proc): add process supervisor with automatic restart
