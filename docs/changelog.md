@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-09-19 22:13: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-20 11:29: feat(security): add permission auditing script for local binaries
 - 2025-09-20 12:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-09-20 21:09: fix(proc): prevent zombie process reaping race condition
