@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2025-09-19 19:14: feat(proc): add process supervisor with automatic restart
 - 2025-09-19 22:13: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-20 11:29: feat(security): add permission auditing script for local binaries
+- 2025-09-20 12:10: fix(monitor): resolve division by zero on idle cpu calculation
