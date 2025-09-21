@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-09-21 10:24: feat(sync): add rsync-based remote directory mirror utility
 - 2025-09-21 14:22: feat(metrics): track memory usage and cpu thread statistics
 - 2025-09-21 17:41: refactor(daemon): separate socket listening from worker queue
+- 2025-09-21 18:55: fix(cli): exit with non-zero status code on unknown command
