@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2025-09-22 14:14: feat(config): add JSON and YAML configuration loader
 - 2025-09-22 14:37: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-22 16:23: feat(metrics): track memory usage and cpu thread statistics
+- 2025-09-22 17:38: feat(security): add permission auditing script for local binaries
