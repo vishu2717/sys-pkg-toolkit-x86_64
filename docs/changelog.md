@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2025-09-22 10:31: feat(cli): add command-line argument parser for daemon
 - 2025-09-22 14:14: feat(config): add JSON and YAML configuration loader
 - 2025-09-22 14:37: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-09-22 16:23: feat(metrics): track memory usage and cpu thread statistics
