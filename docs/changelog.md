@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-09-23 12:49: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-23 13:22: feat(docker): optimize multi-stage build layers
 - 2025-09-23 13:57: feat(daemon): add background heartbeat and ping interval
+- 2025-09-23 14:29: refactor(monitor): optimize sampling frequency and buffer size
