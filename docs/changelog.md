@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2025-09-23 14:29: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-23 17:21: feat(sync): add rsync-based remote directory mirror utility
 - 2025-09-23 17:27: test(proc): assert exit codes under simulated failures
+- 2025-09-23 17:53: fix(daemon): gracefully handle sigterm during log rotation
