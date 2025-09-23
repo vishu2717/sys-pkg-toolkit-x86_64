@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2025-09-22 17:38: feat(security): add permission auditing script for local binaries
 - 2025-09-22 19:12: feat(monitor): implement system resource tracking utility
 - 2025-09-22 20:43: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-09-23 12:49: fix(cli): exit with non-zero status code on unknown command
