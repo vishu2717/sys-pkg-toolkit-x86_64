@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2025-09-23 13:22: feat(docker): optimize multi-stage build layers
 - 2025-09-23 13:57: feat(daemon): add background heartbeat and ping interval
 - 2025-09-23 14:29: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-09-23 17:21: feat(sync): add rsync-based remote directory mirror utility
