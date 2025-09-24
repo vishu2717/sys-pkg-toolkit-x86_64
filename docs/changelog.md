@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2025-09-23 17:27: test(proc): assert exit codes under simulated failures
 - 2025-09-23 17:53: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-23 18:57: fix(cli): exit with non-zero status code on unknown command
+- 2025-09-24 10:11: fix(cli): exit with non-zero status code on unknown command
