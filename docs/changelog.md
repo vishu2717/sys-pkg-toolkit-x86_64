@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2025-09-25 13:53: fix(bash): escape arguments in deployment script
 - 2025-09-25 18:21: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-09-25 21:20: docs: document environment variables and override flags
+- 2025-09-25 23:21: fix(daemon): gracefully handle sigterm during log rotation
