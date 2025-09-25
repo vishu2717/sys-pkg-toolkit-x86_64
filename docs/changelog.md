@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2025-09-23 18:57: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-24 10:11: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-25 13:05: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-09-25 13:53: fix(bash): escape arguments in deployment script
