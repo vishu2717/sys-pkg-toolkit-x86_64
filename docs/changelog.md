@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2025-09-27 20:00: fix(docker): specify non-root user in runtime container
 - 2025-09-27 20:08: test(cli): add unit test coverage for argument parsing
 - 2025-09-27 21:41: feat(shell): implement safe pipe execution helper
+- 2025-09-27 21:53: fix(daemon): gracefully handle sigterm during log rotation
