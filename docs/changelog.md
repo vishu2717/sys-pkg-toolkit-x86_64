@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2025-09-27 17:03: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-27 19:26: feat(security): add permission auditing script for local binaries
 - 2025-09-27 20:00: fix(docker): specify non-root user in runtime container
+- 2025-09-27 20:08: test(cli): add unit test coverage for argument parsing
