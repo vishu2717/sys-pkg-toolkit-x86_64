@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-09-25 23:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-27 10:40: feat(shell): implement safe pipe execution helper
 - 2025-09-27 11:09: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-09-27 11:44: test(scripts): add bats verification for setup scripts
