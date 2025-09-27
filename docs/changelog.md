@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-09-27 16:33: feat(cli): add command-line argument parser for daemon
 - 2025-09-27 17:03: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-09-27 19:26: feat(security): add permission auditing script for local binaries
+- 2025-09-27 20:00: fix(docker): specify non-root user in runtime container
