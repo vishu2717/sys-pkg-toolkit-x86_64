@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2025-09-29 15:57: feat(shell): implement safe pipe execution helper
 - 2025-09-29 19:27: fix(bash): escape arguments in deployment script
 - 2025-09-29 21:00: refactor(daemon): separate socket listening from worker queue
+- 2025-09-29 21:37: feat(cli): add command-line argument parser for daemon
