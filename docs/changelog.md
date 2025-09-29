@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2025-09-29 12:59: test(proc): assert exit codes under simulated failures
 - 2025-09-29 14:35: fix(cli): exit with non-zero status code on unknown command
 - 2025-09-29 15:57: feat(shell): implement safe pipe execution helper
+- 2025-09-29 19:27: fix(bash): escape arguments in deployment script
