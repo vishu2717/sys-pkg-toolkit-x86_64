@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-09-27 22:34: test(daemon): verify supervisor restarts crashed processes
 - 2025-09-28 19:50: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-09-29 12:59: test(proc): assert exit codes under simulated failures
+- 2025-09-29 14:35: fix(cli): exit with non-zero status code on unknown command
