@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-09-29 19:27: fix(bash): escape arguments in deployment script
 - 2025-09-29 21:00: refactor(daemon): separate socket listening from worker queue
 - 2025-09-29 21:37: feat(cli): add command-line argument parser for daemon
+- 2025-09-30 13:20: fix(docker): specify non-root user in runtime container
