@@ -188,3 +188,7 @@ def handle_sigterm(signum, frame):
     sys.exit(0)
 
 # Decoupled socket server and worker thread
+
+def daemon_heartbeat():
+    '''Emit periodic heartbeat signal.'''
+    return {'status': 'healthy', 'time': time.time()}
