@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2025-10-02 14:28: refactor(scripts): modularize helper functions across shell scripts
 - 2025-10-02 17:02: feat(metrics): track memory usage and cpu thread statistics
 - 2025-10-02 17:46: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-10-02 19:40: refactor(scripts): modularize helper functions across shell scripts
