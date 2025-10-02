@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-09-30 14:38: test(scripts): add bats verification for setup scripts
 - 2025-09-30 18:31: feat(daemon): add background heartbeat and ping interval
 - 2025-10-02 11:15: refactor(cli): simplify command dispatch loop
+- 2025-10-02 13:40: fix(config): ensure directory exists before writing state
