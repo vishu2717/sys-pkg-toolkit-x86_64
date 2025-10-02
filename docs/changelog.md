@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2025-10-02 13:40: fix(config): ensure directory exists before writing state
 - 2025-10-02 14:03: refactor(daemon): separate socket listening from worker queue
 - 2025-10-02 14:28: refactor(scripts): modularize helper functions across shell scripts
+- 2025-10-02 17:02: feat(metrics): track memory usage and cpu thread statistics
