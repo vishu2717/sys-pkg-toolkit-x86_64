@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2025-10-02 21:19: refactor(cli): simplify command dispatch loop
 - 2025-10-02 22:53: refactor(config): migrate global settings to immutable dataclass
 - 2025-10-03 10:10: feat(monitor): implement system resource tracking utility
+- 2025-10-03 13:45: test(proc): assert exit codes under simulated failures
