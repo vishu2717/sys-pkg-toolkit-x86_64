@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2025-10-06 13:55: feat(security): add permission auditing script for local binaries
 - 2025-10-06 17:44: feat(sync): add rsync-based remote directory mirror utility
 - 2025-10-06 18:04: feat(cli): add command-line argument parser for daemon
+- 2025-10-06 22:27: test(proc): assert exit codes under simulated failures
