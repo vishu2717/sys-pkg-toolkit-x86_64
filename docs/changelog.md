@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2025-10-06 17:44: feat(sync): add rsync-based remote directory mirror utility
 - 2025-10-06 18:04: feat(cli): add command-line argument parser for daemon
 - 2025-10-06 22:27: test(proc): assert exit codes under simulated failures
+- 2025-10-06 23:25: fix(config): ensure directory exists before writing state
