@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2025-10-06 11:46: fix(config): ensure directory exists before writing state
 - 2025-10-06 11:50: feat(config): add JSON and YAML configuration loader
 - 2025-10-06 13:55: feat(security): add permission auditing script for local binaries
+- 2025-10-06 17:44: feat(sync): add rsync-based remote directory mirror utility
