@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-10-06 10:29: fix(bash): escape arguments in deployment script
 - 2025-10-06 11:46: fix(config): ensure directory exists before writing state
 - 2025-10-06 11:50: feat(config): add JSON and YAML configuration loader
+- 2025-10-06 13:55: feat(security): add permission auditing script for local binaries
