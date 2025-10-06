@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2025-10-05 11:23: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-10-05 13:47: refactor(scripts): modularize helper functions across shell scripts
 - 2025-10-06 10:29: fix(bash): escape arguments in deployment script
+- 2025-10-06 11:46: fix(config): ensure directory exists before writing state
