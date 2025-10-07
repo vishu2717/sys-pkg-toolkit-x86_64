@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2025-10-07 16:22: feat(deploy): implement zero-downtime rolling reload
 - 2025-10-07 18:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-10-07 20:04: fix(config): ensure directory exists before writing state
+- 2025-10-07 21:42: fix(bash): escape arguments in deployment script
