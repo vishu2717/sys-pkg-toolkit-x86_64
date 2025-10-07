@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2025-10-07 20:04: fix(config): ensure directory exists before writing state
 - 2025-10-07 21:42: fix(bash): escape arguments in deployment script
 - 2025-10-07 21:44: feat(docker): optimize multi-stage build layers
+- 2025-10-07 22:22: docs: update changelog with recent utility enhancements
