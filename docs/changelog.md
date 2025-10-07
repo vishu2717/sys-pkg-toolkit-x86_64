@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2025-10-06 22:27: test(proc): assert exit codes under simulated failures
 - 2025-10-06 23:25: fix(config): ensure directory exists before writing state
 - 2025-10-07 11:17: test(daemon): verify supervisor restarts crashed processes
+- 2025-10-07 11:20: test(proc): assert exit codes under simulated failures
