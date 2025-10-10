@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2025-10-07 21:44: feat(docker): optimize multi-stage build layers
 - 2025-10-07 22:22: docs: update changelog with recent utility enhancements
 - 2025-10-09 18:29: fix(bash): escape arguments in deployment script
+- 2025-10-10 12:47: test(proc): assert exit codes under simulated failures
