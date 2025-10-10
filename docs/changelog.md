@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2025-10-10 12:47: test(proc): assert exit codes under simulated failures
 - 2025-10-10 14:09: feat(env): add automated dotfiles symlink manager
 - 2025-10-10 14:31: fix(config): ensure directory exists before writing state
+- 2025-10-10 15:22: feat(shell): implement safe pipe execution helper
