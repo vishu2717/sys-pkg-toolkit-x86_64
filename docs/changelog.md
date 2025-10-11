@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2025-10-11 10:02: feat(daemon): add background heartbeat and ping interval
 - 2025-10-11 10:40: test(proc): assert exit codes under simulated failures
 - 2025-10-11 12:30: fix(config): ensure directory exists before writing state
+- 2025-10-11 15:15: fix(proc): prevent zombie process reaping race condition
