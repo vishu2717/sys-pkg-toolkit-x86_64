@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2025-10-11 12:30: fix(config): ensure directory exists before writing state
 - 2025-10-11 15:15: fix(proc): prevent zombie process reaping race condition
 - 2025-10-11 16:30: feat(docker): optimize multi-stage build layers
+- 2025-10-11 18:18: fix(cli): exit with non-zero status code on unknown command
