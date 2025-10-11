@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2025-10-10 15:22: feat(shell): implement safe pipe execution helper
 - 2025-10-10 22:19: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-10-10 23:12: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-10-11 10:02: feat(daemon): add background heartbeat and ping interval
