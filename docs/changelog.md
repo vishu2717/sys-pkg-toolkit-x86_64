@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2025-10-11 22:51: feat(daemon): add background heartbeat and ping interval
 - 2025-10-12 10:01: refactor(cli): simplify command dispatch loop
 - 2025-10-12 12:34: fix(cli): exit with non-zero status code on unknown command
+- 2025-10-12 17:46: fix(docker): specify non-root user in runtime container
