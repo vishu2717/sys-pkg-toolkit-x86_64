@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-10-11 19:19: feat(cli): add command-line argument parser for daemon
 - 2025-10-11 21:51: feat(shell): implement safe pipe execution helper
 - 2025-10-11 22:51: feat(daemon): add background heartbeat and ping interval
+- 2025-10-12 10:01: refactor(cli): simplify command dispatch loop
