@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2025-10-14 16:44: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-10-14 17:38: feat(env): add automated dotfiles symlink manager
 - 2025-10-14 18:09: feat(docker): optimize multi-stage build layers
+- 2025-10-14 21:00: fix(proc): prevent zombie process reaping race condition
