@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2025-10-12 21:11: feat(monitor): implement system resource tracking utility
 - 2025-10-14 12:09: feat(docker): optimize multi-stage build layers
 - 2025-10-14 16:44: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-10-14 17:38: feat(env): add automated dotfiles symlink manager
