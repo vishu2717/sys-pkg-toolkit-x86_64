@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2025-10-14 17:38: feat(env): add automated dotfiles symlink manager
 - 2025-10-14 18:09: feat(docker): optimize multi-stage build layers
 - 2025-10-14 21:00: fix(proc): prevent zombie process reaping race condition
+- 2025-10-15 21:45: fix(docker): specify non-root user in runtime container
