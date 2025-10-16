@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2025-10-16 13:32: docs: add architecture specification for daemon supervisor
 - 2025-10-16 14:28: feat(daemon): add background heartbeat and ping interval
 - 2025-10-16 16:50: docs: update changelog with recent utility enhancements
+- 2025-10-16 19:43: feat(deploy): implement zero-downtime rolling reload
