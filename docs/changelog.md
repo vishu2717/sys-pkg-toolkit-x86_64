@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2025-10-14 21:00: fix(proc): prevent zombie process reaping race condition
 - 2025-10-15 21:45: fix(docker): specify non-root user in runtime container
 - 2025-10-16 11:43: perf: reduce process spawn latency using fork pool
+- 2025-10-16 13:32: docs: add architecture specification for daemon supervisor
