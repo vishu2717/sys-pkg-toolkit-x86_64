@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2025-10-16 14:28: feat(daemon): add background heartbeat and ping interval
 - 2025-10-16 16:50: docs: update changelog with recent utility enhancements
 - 2025-10-16 19:43: feat(deploy): implement zero-downtime rolling reload
+- 2025-10-17 11:15: refactor(config): migrate global settings to immutable dataclass
