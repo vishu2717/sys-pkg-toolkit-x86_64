@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2025-10-17 11:15: refactor(config): migrate global settings to immutable dataclass
 - 2025-10-17 13:02: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-10-17 15:19: feat(shell): implement safe pipe execution helper
+- 2025-10-17 19:28: fix(bash): escape arguments in deployment script
