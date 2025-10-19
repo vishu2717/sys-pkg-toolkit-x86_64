@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2025-10-18 13:08: feat(config): add JSON and YAML configuration loader
 - 2025-10-18 23:12: test(daemon): verify supervisor restarts crashed processes
 - 2025-10-19 11:07: feat(daemon): add background heartbeat and ping interval
+- 2025-10-19 15:06: fix(bash): escape arguments in deployment script
