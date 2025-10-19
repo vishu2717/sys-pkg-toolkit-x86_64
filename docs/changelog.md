@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2025-10-19 15:06: fix(bash): escape arguments in deployment script
 - 2025-10-19 15:49: feat(monitor): implement system resource tracking utility
 - 2025-10-19 16:48: refactor(config): migrate global settings to immutable dataclass
+- 2025-10-19 17:52: docs: update changelog with recent utility enhancements
