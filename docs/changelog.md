@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2025-10-19 20:09: feat(config): add JSON and YAML configuration loader
 - 2025-10-19 21:41: feat(docker): optimize multi-stage build layers
 - 2025-10-19 21:55: fix(bash): escape arguments in deployment script
+- 2025-10-19 22:46: refactor(cli): simplify command dispatch loop
