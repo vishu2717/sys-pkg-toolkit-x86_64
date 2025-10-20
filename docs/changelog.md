@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2025-10-20 11:25: feat(env): add automated dotfiles symlink manager
 - 2025-10-20 14:31: fix(bash): escape arguments in deployment script
 - 2025-10-20 15:16: test(daemon): verify supervisor restarts crashed processes
+- 2025-10-20 16:16: test(daemon): verify supervisor restarts crashed processes
