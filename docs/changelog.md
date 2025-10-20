@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2025-10-19 22:46: refactor(cli): simplify command dispatch loop
 - 2025-10-20 10:33: test(proc): assert exit codes under simulated failures
 - 2025-10-20 11:25: feat(env): add automated dotfiles symlink manager
+- 2025-10-20 14:31: fix(bash): escape arguments in deployment script
