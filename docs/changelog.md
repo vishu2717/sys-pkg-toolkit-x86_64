@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-10-21 17:21: feat(env): add automated dotfiles symlink manager
 - 2025-10-21 17:38: test(daemon): verify supervisor restarts crashed processes
 - 2025-10-21 19:56: feat(config): add JSON and YAML configuration loader
+- 2025-10-21 21:09: fix(docker): specify non-root user in runtime container
