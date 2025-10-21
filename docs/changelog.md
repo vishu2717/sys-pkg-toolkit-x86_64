@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2025-10-21 12:20: test(proc): assert exit codes under simulated failures
 - 2025-10-21 17:21: feat(env): add automated dotfiles symlink manager
 - 2025-10-21 17:38: test(daemon): verify supervisor restarts crashed processes
+- 2025-10-21 19:56: feat(config): add JSON and YAML configuration loader
