@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 12:37: feat(env): add automated dotfiles symlink manager
 - 2025-10-22 14:24: feat(proc): add process supervisor with automatic restart
 - 2025-10-22 14:27: feat(config): add JSON and YAML configuration loader
+- 2025-10-22 16:08: docs: document environment variables and override flags
