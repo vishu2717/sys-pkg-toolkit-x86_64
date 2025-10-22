@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 14:24: feat(proc): add process supervisor with automatic restart
 - 2025-10-22 14:27: feat(config): add JSON and YAML configuration loader
 - 2025-10-22 16:08: docs: document environment variables and override flags
+- 2025-10-22 16:49: refactor(daemon): separate socket listening from worker queue
