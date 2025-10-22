@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 10:50: refactor(scripts): modularize helper functions across shell scripts
 - 2025-10-22 12:23: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-10-22 12:37: feat(env): add automated dotfiles symlink manager
+- 2025-10-22 14:24: feat(proc): add process supervisor with automatic restart
