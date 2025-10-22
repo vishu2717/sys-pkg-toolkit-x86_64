@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 18:45: test(proc): assert exit codes under simulated failures
 - 2025-10-22 19:38: test(daemon): verify supervisor restarts crashed processes
 - 2025-10-22 21:50: fix(proc): prevent zombie process reaping race condition
+- 2025-10-22 22:32: docs: update changelog with recent utility enhancements
