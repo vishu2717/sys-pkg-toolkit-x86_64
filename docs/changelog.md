@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 16:49: refactor(daemon): separate socket listening from worker queue
 - 2025-10-22 18:45: test(proc): assert exit codes under simulated failures
 - 2025-10-22 19:38: test(daemon): verify supervisor restarts crashed processes
+- 2025-10-22 21:50: fix(proc): prevent zombie process reaping race condition
