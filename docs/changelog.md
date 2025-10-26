@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2025-10-22 23:23: test(cli): add unit test coverage for argument parsing
 - 2025-10-25 11:08: fix(docker): specify non-root user in runtime container
 - 2025-10-25 23:14: perf: reduce process spawn latency using fork pool
+- 2025-10-26 18:21: feat(sync): add rsync-based remote directory mirror utility
