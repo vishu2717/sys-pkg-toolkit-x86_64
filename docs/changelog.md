@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2025-10-27 13:17: docs: add architecture specification for daemon supervisor
 - 2025-10-27 13:21: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-10-27 16:02: refactor(daemon): separate socket listening from worker queue
+- 2025-10-27 16:53: test(daemon): verify supervisor restarts crashed processes
