@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-10-27 16:53: test(daemon): verify supervisor restarts crashed processes
 - 2025-10-27 19:11: fix(config): ensure directory exists before writing state
 - 2025-10-27 19:32: test(scripts): add bats verification for setup scripts
+- 2025-10-27 19:36: test(daemon): verify supervisor restarts crashed processes
