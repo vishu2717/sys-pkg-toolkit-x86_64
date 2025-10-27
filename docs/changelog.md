@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2025-10-26 18:21: feat(sync): add rsync-based remote directory mirror utility
 - 2025-10-27 12:10: feat(config): add JSON and YAML configuration loader
 - 2025-10-27 13:17: docs: add architecture specification for daemon supervisor
+- 2025-10-27 13:21: fix(daemon): gracefully handle sigterm during log rotation
