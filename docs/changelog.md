@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-10-28 13:56: fix(proc): prevent zombie process reaping race condition
 - 2025-10-28 16:34: fix(docker): specify non-root user in runtime container
 - 2025-10-28 17:41: feat(env): add automated dotfiles symlink manager
+- 2025-10-28 17:44: docs: update system administration runbooks and troubleshooting
