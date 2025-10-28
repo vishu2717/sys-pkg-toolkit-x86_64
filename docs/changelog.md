@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2025-10-27 19:36: test(daemon): verify supervisor restarts crashed processes
 - 2025-10-27 21:25: refactor(scripts): modularize helper functions across shell scripts
 - 2025-10-28 13:56: fix(proc): prevent zombie process reaping race condition
+- 2025-10-28 16:34: fix(docker): specify non-root user in runtime container
