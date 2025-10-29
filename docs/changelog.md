@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2025-10-28 17:41: feat(env): add automated dotfiles symlink manager
 - 2025-10-28 17:44: docs: update system administration runbooks and troubleshooting
 - 2025-10-29 11:13: test(proc): assert exit codes under simulated failures
+- 2025-10-29 13:50: fix(proc): prevent zombie process reaping race condition
