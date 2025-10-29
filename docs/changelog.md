@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2025-10-29 11:13: test(proc): assert exit codes under simulated failures
 - 2025-10-29 13:50: fix(proc): prevent zombie process reaping race condition
 - 2025-10-29 13:53: fix(bash): escape arguments in deployment script
+- 2025-10-29 14:04: fix(config): ensure directory exists before writing state
