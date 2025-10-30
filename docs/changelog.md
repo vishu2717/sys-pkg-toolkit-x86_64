@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2025-10-29 15:00: feat(config): add JSON and YAML configuration loader
 - 2025-10-29 20:54: fix(proc): prevent zombie process reaping race condition
 - 2025-10-29 22:08: docs: add architecture specification for daemon supervisor
+- 2025-10-30 10:17: fix(config): ensure directory exists before writing state
