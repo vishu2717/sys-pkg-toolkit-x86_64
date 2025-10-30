@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-10-30 16:48: fix(cli): exit with non-zero status code on unknown command
 - 2025-10-30 17:18: feat(shell): implement safe pipe execution helper
 - 2025-10-30 17:27: fix(config): ensure directory exists before writing state
+- 2025-10-30 18:44: feat(monitor): implement system resource tracking utility
