@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-10-30 17:27: fix(config): ensure directory exists before writing state
 - 2025-10-30 18:44: feat(monitor): implement system resource tracking utility
 - 2025-10-30 20:50: feat(shell): implement safe pipe execution helper
+- 2025-10-30 21:47: test(cli): add unit test coverage for argument parsing
