@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-10-29 22:08: docs: add architecture specification for daemon supervisor
 - 2025-10-30 10:17: fix(config): ensure directory exists before writing state
 - 2025-10-30 13:30: fix(docker): specify non-root user in runtime container
+- 2025-10-30 16:48: fix(cli): exit with non-zero status code on unknown command
