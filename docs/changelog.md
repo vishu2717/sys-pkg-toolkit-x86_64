@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2025-10-30 21:47: test(cli): add unit test coverage for argument parsing
 - 2025-11-01 11:18: feat(daemon): add background heartbeat and ping interval
 - 2025-11-01 11:32: feat(monitor): implement system resource tracking utility
+- 2025-11-01 16:08: fix(cli): exit with non-zero status code on unknown command
