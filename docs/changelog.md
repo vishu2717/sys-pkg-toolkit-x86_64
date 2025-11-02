@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2025-11-02 16:25: fix(cli): exit with non-zero status code on unknown command
 - 2025-11-02 16:49: docs: update changelog with recent utility enhancements
 - 2025-11-02 17:53: test(scripts): add bats verification for setup scripts
+- 2025-11-02 18:09: fix(config): ensure directory exists before writing state
