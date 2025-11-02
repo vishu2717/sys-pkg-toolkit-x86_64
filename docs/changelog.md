@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2025-11-02 17:53: test(scripts): add bats verification for setup scripts
 - 2025-11-02 18:09: fix(config): ensure directory exists before writing state
 - 2025-11-02 19:03: test(proc): assert exit codes under simulated failures
+- 2025-11-02 20:10: feat(config): add JSON and YAML configuration loader
