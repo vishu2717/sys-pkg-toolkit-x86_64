@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-11-01 11:18: feat(daemon): add background heartbeat and ping interval
 - 2025-11-01 11:32: feat(monitor): implement system resource tracking utility
 - 2025-11-01 16:08: fix(cli): exit with non-zero status code on unknown command
+- 2025-11-02 10:16: feat(metrics): track memory usage and cpu thread statistics
