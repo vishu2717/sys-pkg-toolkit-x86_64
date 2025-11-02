@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2025-11-01 16:08: fix(cli): exit with non-zero status code on unknown command
 - 2025-11-02 10:16: feat(metrics): track memory usage and cpu thread statistics
 - 2025-11-02 13:05: feat(config): add JSON and YAML configuration loader
+- 2025-11-02 13:18: docs: add architecture specification for daemon supervisor
