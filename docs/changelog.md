@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2025-11-02 19:03: test(proc): assert exit codes under simulated failures
 - 2025-11-02 20:10: feat(config): add JSON and YAML configuration loader
 - 2025-11-02 21:21: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-11-02 21:29: refactor(config): migrate global settings to immutable dataclass
