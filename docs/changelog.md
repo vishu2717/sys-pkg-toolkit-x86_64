@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2025-11-02 10:16: feat(metrics): track memory usage and cpu thread statistics
 - 2025-11-02 13:05: feat(config): add JSON and YAML configuration loader
 - 2025-11-02 13:18: docs: add architecture specification for daemon supervisor
+- 2025-11-02 13:26: fix(monitor): resolve division by zero on idle cpu calculation
