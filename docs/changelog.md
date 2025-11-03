@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2025-11-03 16:33: docs: update system administration runbooks and troubleshooting
 - 2025-11-03 17:19: feat(deploy): implement zero-downtime rolling reload
 - 2025-11-03 19:06: test(daemon): verify supervisor restarts crashed processes
+- 2025-11-03 19:32: feat(config): add JSON and YAML configuration loader
