@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-11-03 14:14: refactor(cli): simplify command dispatch loop
 - 2025-11-03 14:59: feat(cli): add command-line argument parser for daemon
 - 2025-11-03 15:03: fix(proc): prevent zombie process reaping race condition
+- 2025-11-03 15:53: test(daemon): verify supervisor restarts crashed processes
