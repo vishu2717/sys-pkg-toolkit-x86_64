@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2025-11-03 19:06: test(daemon): verify supervisor restarts crashed processes
 - 2025-11-03 19:32: feat(config): add JSON and YAML configuration loader
 - 2025-11-03 22:30: fix(config): ensure directory exists before writing state
+- 2025-11-03 22:45: refactor(scripts): modularize helper functions across shell scripts
