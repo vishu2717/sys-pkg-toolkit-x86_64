@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2025-11-04 11:29: chore: update base container image to latest alpine
 - 2025-11-04 11:51: fix(cli): exit with non-zero status code on unknown command
 - 2025-11-04 13:13: refactor(daemon): separate socket listening from worker queue
+- 2025-11-04 16:39: fix(proc): prevent zombie process reaping race condition
