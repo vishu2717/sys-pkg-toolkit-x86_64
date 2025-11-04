@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2025-11-04 13:13: refactor(daemon): separate socket listening from worker queue
 - 2025-11-04 16:39: fix(proc): prevent zombie process reaping race condition
 - 2025-11-04 19:21: test(scripts): add bats verification for setup scripts
+- 2025-11-04 22:54: fix(monitor): resolve division by zero on idle cpu calculation
