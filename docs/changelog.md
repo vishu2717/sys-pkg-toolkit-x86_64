@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2025-11-04 19:21: test(scripts): add bats verification for setup scripts
 - 2025-11-04 22:54: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-11-05 10:46: docs: document environment variables and override flags
+- 2025-11-05 13:41: test(proc): assert exit codes under simulated failures
