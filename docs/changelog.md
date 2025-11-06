@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2025-11-06 18:54: fix(bash): escape arguments in deployment script
 - 2025-11-06 20:49: feat(security): add permission auditing script for local binaries
 - 2025-11-06 21:04: feat(shell): implement safe pipe execution helper
+- 2025-11-06 22:46: refactor(config): migrate global settings to immutable dataclass
