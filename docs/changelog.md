@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2025-11-06 13:12: test(daemon): verify supervisor restarts crashed processes
 - 2025-11-06 16:30: fix(docker): specify non-root user in runtime container
 - 2025-11-06 18:54: fix(bash): escape arguments in deployment script
+- 2025-11-06 20:49: feat(security): add permission auditing script for local binaries
