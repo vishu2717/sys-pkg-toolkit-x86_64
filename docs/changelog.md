@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2025-11-05 13:41: test(proc): assert exit codes under simulated failures
 - 2025-11-05 17:14: refactor(daemon): separate socket listening from worker queue
 - 2025-11-05 20:00: docs: document environment variables and override flags
+- 2025-11-06 11:31: fix(proc): prevent zombie process reaping race condition
