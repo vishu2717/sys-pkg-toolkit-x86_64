@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2025-11-07 15:24: feat(monitor): implement system resource tracking utility
 - 2025-11-07 15:29: fix(proc): prevent zombie process reaping race condition
 - 2025-11-07 15:50: fix(docker): specify non-root user in runtime container
+- 2025-11-07 17:42: feat(shell): implement safe pipe execution helper
