@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2025-11-07 17:42: feat(shell): implement safe pipe execution helper
 - 2025-11-07 18:28: feat(monitor): implement system resource tracking utility
 - 2025-11-07 20:06: feat(env): add automated dotfiles symlink manager
+- 2025-11-07 20:42: test(cli): add unit test coverage for argument parsing
