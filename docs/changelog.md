@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2025-11-06 21:04: feat(shell): implement safe pipe execution helper
 - 2025-11-06 22:46: refactor(config): migrate global settings to immutable dataclass
 - 2025-11-07 11:43: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-11-07 12:47: fix(bash): escape arguments in deployment script
