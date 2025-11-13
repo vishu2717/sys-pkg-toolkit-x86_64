@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2025-11-12 19:15: test(scripts): add bats verification for setup scripts
 - 2025-11-12 20:43: feat(deploy): implement zero-downtime rolling reload
 - 2025-11-12 21:19: refactor(daemon): separate socket listening from worker queue
+- 2025-11-13 11:07: fix(docker): specify non-root user in runtime container
