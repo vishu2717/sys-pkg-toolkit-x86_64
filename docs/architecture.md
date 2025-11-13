@@ -223,3 +223,6 @@ Supported environment variables and daemon override flags.
 
 ### Environment Reference
 Supported environment variables and daemon override flags.
+
+### Supervisor Architecture
+Details on IPC communication channels and process tree.
