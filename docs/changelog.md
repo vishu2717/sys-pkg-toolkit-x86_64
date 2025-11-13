@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2025-11-12 21:19: refactor(daemon): separate socket listening from worker queue
 - 2025-11-13 11:07: fix(docker): specify non-root user in runtime container
 - 2025-11-13 15:37: docs: add architecture specification for daemon supervisor
+- 2025-11-13 17:46: test(scripts): add bats verification for setup scripts
