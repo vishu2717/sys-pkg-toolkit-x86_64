@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2025-11-13 17:46: test(scripts): add bats verification for setup scripts
 - 2025-11-14 16:01: fix(docker): specify non-root user in runtime container
 - 2025-11-14 20:33: fix(bash): escape arguments in deployment script
+- 2025-11-14 22:00: fix(daemon): gracefully handle sigterm during log rotation
