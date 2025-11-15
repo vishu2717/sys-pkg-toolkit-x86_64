@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2025-11-15 18:58: fix(config): ensure directory exists before writing state
 - 2025-11-15 19:23: feat(cli): add command-line argument parser for daemon
 - 2025-11-15 20:27: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-11-15 21:16: docs: add architecture specification for daemon supervisor
