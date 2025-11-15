@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2025-11-15 10:10: feat(proc): add process supervisor with automatic restart
 - 2025-11-15 16:56: fix(config): ensure directory exists before writing state
 - 2025-11-15 18:58: fix(config): ensure directory exists before writing state
+- 2025-11-15 19:23: feat(cli): add command-line argument parser for daemon
