@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2025-11-14 22:00: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-11-15 10:10: feat(proc): add process supervisor with automatic restart
 - 2025-11-15 16:56: fix(config): ensure directory exists before writing state
+- 2025-11-15 18:58: fix(config): ensure directory exists before writing state
