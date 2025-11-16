@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2025-11-15 21:16: docs: add architecture specification for daemon supervisor
 - 2025-11-15 21:18: refactor(daemon): separate socket listening from worker queue
 - 2025-11-16 12:01: docs: add architecture specification for daemon supervisor
+- 2025-11-16 14:35: refactor(monitor): optimize sampling frequency and buffer size
