@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2025-11-16 12:01: docs: add architecture specification for daemon supervisor
 - 2025-11-16 14:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-11-16 18:41: docs: document environment variables and override flags
+- 2025-11-16 18:46: feat(daemon): add background heartbeat and ping interval
