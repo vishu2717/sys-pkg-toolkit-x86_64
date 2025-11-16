@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-11-16 14:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-11-16 18:41: docs: document environment variables and override flags
 - 2025-11-16 18:46: feat(daemon): add background heartbeat and ping interval
+- 2025-11-16 22:33: fix(config): ensure directory exists before writing state
