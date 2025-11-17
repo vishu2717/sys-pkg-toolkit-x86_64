@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2025-11-16 18:46: feat(daemon): add background heartbeat and ping interval
 - 2025-11-16 22:33: fix(config): ensure directory exists before writing state
 - 2025-11-16 22:41: docs: update changelog with recent utility enhancements
+- 2025-11-17 16:11: test(scripts): add bats verification for setup scripts
