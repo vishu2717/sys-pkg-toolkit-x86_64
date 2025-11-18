@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2025-11-17 16:11: test(scripts): add bats verification for setup scripts
 - 2025-11-17 19:33: feat(config): add JSON and YAML configuration loader
 - 2025-11-18 13:24: feat(cli): add command-line argument parser for daemon
+- 2025-11-18 16:46: docs: add architecture specification for daemon supervisor
