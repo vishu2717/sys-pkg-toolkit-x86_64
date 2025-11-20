@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-11-18 16:46: docs: add architecture specification for daemon supervisor
 - 2025-11-18 19:50: fix(bash): escape arguments in deployment script
 - 2025-11-20 10:28: feat(monitor): implement system resource tracking utility
+- 2025-11-20 12:31: docs: update system administration runbooks and troubleshooting
