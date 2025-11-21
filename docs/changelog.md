@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2025-11-20 21:30: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-11-20 21:33: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-11-20 23:11: docs: add architecture specification for daemon supervisor
+- 2025-11-21 10:19: fix(cli): exit with non-zero status code on unknown command
