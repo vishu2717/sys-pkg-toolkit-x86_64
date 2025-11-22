@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-11-22 13:57: test(cli): add unit test coverage for argument parsing
 - 2025-11-22 15:10: docs: add architecture specification for daemon supervisor
 - 2025-11-22 16:37: test(scripts): add bats verification for setup scripts
+- 2025-11-22 16:37: feat(sync): add rsync-based remote directory mirror utility
