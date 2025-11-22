@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-11-20 21:33: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-11-20 23:11: docs: add architecture specification for daemon supervisor
 - 2025-11-21 10:19: fix(cli): exit with non-zero status code on unknown command
+- 2025-11-22 10:36: feat(security): add permission auditing script for local binaries
