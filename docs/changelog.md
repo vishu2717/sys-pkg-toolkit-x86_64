@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2025-11-22 15:10: docs: add architecture specification for daemon supervisor
 - 2025-11-22 16:37: test(scripts): add bats verification for setup scripts
 - 2025-11-22 16:37: feat(sync): add rsync-based remote directory mirror utility
+- 2025-11-22 17:54: feat(cli): add command-line argument parser for daemon
