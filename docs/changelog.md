@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2025-11-22 18:15: fix(config): ensure directory exists before writing state
 - 2025-11-22 18:49: test(cli): add unit test coverage for argument parsing
 - 2025-11-22 20:09: fix(proc): prevent zombie process reaping race condition
+- 2025-11-22 21:20: fix(bash): escape arguments in deployment script
