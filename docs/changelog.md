@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2025-11-22 12:54: style: enforce consistent shell quoting and indentation
 - 2025-11-22 13:57: test(cli): add unit test coverage for argument parsing
 - 2025-11-22 15:10: docs: add architecture specification for daemon supervisor
+- 2025-11-22 16:37: test(scripts): add bats verification for setup scripts
