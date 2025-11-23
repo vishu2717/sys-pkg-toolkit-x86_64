@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2025-11-23 15:41: test(proc): assert exit codes under simulated failures
 - 2025-11-23 18:15: refactor(config): migrate global settings to immutable dataclass
 - 2025-11-23 20:03: refactor(scripts): modularize helper functions across shell scripts
+- 2025-11-23 20:09: feat(daemon): add background heartbeat and ping interval
