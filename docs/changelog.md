@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2025-11-23 20:09: feat(daemon): add background heartbeat and ping interval
 - 2025-11-23 21:22: fix(proc): prevent zombie process reaping race condition
 - 2025-11-23 21:48: fix(config): ensure directory exists before writing state
+- 2025-11-23 22:36: fix(docker): specify non-root user in runtime container
