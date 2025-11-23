@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-11-23 18:15: refactor(config): migrate global settings to immutable dataclass
 - 2025-11-23 20:03: refactor(scripts): modularize helper functions across shell scripts
 - 2025-11-23 20:09: feat(daemon): add background heartbeat and ping interval
+- 2025-11-23 21:22: fix(proc): prevent zombie process reaping race condition
