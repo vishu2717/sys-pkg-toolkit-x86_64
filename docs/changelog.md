@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2025-11-23 11:42: feat(daemon): add background heartbeat and ping interval
 - 2025-11-23 12:23: fix(docker): specify non-root user in runtime container
 - 2025-11-23 12:30: refactor(cli): simplify command dispatch loop
+- 2025-11-23 12:55: style: enforce consistent shell quoting and indentation
