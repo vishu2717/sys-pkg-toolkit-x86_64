@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2025-11-23 21:48: fix(config): ensure directory exists before writing state
 - 2025-11-23 22:36: fix(docker): specify non-root user in runtime container
 - 2025-11-23 23:08: fix(bash): escape arguments in deployment script
+- 2025-11-23 23:21: test(proc): assert exit codes under simulated failures
