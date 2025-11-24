@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2025-11-24 11:20: fix(proc): prevent zombie process reaping race condition
 - 2025-11-24 11:42: refactor(daemon): separate socket listening from worker queue
 - 2025-11-24 17:26: fix(bash): escape arguments in deployment script
+- 2025-11-24 19:55: test(cli): add unit test coverage for argument parsing
