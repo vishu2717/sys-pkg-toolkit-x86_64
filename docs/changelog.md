@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2025-11-24 23:23: feat(daemon): add background heartbeat and ping interval
 - 2025-11-25 10:23: feat(config): add JSON and YAML configuration loader
 - 2025-11-25 10:54: test(daemon): verify supervisor restarts crashed processes
+- 2025-11-25 11:21: docs: add architecture specification for daemon supervisor
