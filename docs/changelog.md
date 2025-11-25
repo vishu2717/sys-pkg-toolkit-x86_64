@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 11:21: docs: add architecture specification for daemon supervisor
 - 2025-11-25 14:40: docs: add architecture specification for daemon supervisor
 - 2025-11-25 15:42: fix(config): ensure directory exists before writing state
+- 2025-11-25 17:37: refactor(daemon): separate socket listening from worker queue
