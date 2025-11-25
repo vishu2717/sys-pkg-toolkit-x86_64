@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2025-11-24 21:40: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-11-24 22:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-11-24 23:23: feat(daemon): add background heartbeat and ping interval
+- 2025-11-25 10:23: feat(config): add JSON and YAML configuration loader
