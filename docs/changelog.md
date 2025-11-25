@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 18:50: refactor(cli): simplify command dispatch loop
 - 2025-11-25 20:24: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-11-25 20:34: feat(proc): add process supervisor with automatic restart
+- 2025-11-25 21:18: test(proc): assert exit codes under simulated failures
