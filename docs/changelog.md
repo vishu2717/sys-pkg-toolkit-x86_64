@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 17:37: refactor(daemon): separate socket listening from worker queue
 - 2025-11-25 17:41: feat(config): add JSON and YAML configuration loader
 - 2025-11-25 18:10: fix(config): ensure directory exists before writing state
+- 2025-11-25 18:50: refactor(cli): simplify command dispatch loop
