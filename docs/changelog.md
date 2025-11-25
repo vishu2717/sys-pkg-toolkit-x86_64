@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 18:10: fix(config): ensure directory exists before writing state
 - 2025-11-25 18:50: refactor(cli): simplify command dispatch loop
 - 2025-11-25 20:24: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-11-25 20:34: feat(proc): add process supervisor with automatic restart
