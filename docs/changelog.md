@@ -321,3 +321,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 10:54: test(daemon): verify supervisor restarts crashed processes
 - 2025-11-25 11:21: docs: add architecture specification for daemon supervisor
 - 2025-11-25 14:40: docs: add architecture specification for daemon supervisor
+- 2025-11-25 15:42: fix(config): ensure directory exists before writing state
