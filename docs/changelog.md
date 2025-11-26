@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 21:18: test(proc): assert exit codes under simulated failures
 - 2025-11-25 21:40: fix(proc): prevent zombie process reaping race condition
 - 2025-11-26 13:06: feat(deploy): implement zero-downtime rolling reload
+- 2025-11-26 15:25: docs: add architecture specification for daemon supervisor
