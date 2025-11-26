@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2025-11-26 21:48: refactor(config): migrate global settings to immutable dataclass
 - 2025-11-26 22:25: feat(env): add automated dotfiles symlink manager
 - 2025-11-26 22:44: feat(metrics): track memory usage and cpu thread statistics
+- 2025-11-26 23:20: refactor(monitor): optimize sampling frequency and buffer size
