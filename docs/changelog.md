@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2025-11-25 21:40: fix(proc): prevent zombie process reaping race condition
 - 2025-11-26 13:06: feat(deploy): implement zero-downtime rolling reload
 - 2025-11-26 15:25: docs: add architecture specification for daemon supervisor
+- 2025-11-26 21:48: refactor(config): migrate global settings to immutable dataclass
