@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2025-11-26 23:20: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-11-28 12:35: refactor(cli): simplify command dispatch loop
 - 2025-11-29 10:03: feat(docker): optimize multi-stage build layers
+- 2025-12-01 15:11: fix(proc): prevent zombie process reaping race condition
