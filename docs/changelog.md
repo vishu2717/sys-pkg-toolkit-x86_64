@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2025-12-03 16:15: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-03 16:29: test(proc): assert exit codes under simulated failures
 - 2025-12-03 16:32: feat(docker): optimize multi-stage build layers
+- 2025-12-03 22:26: test(cli): add unit test coverage for argument parsing
