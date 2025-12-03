@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2025-12-03 13:21: feat(sync): add rsync-based remote directory mirror utility
 - 2025-12-03 14:27: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-12-03 16:15: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-12-03 16:29: test(proc): assert exit codes under simulated failures
