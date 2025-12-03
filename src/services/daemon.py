@@ -290,3 +290,7 @@ def daemon_heartbeat():
 def handle_sigterm(signum, frame):
     '''Graceful SIGTERM termination.'''
     sys.exit(0)
+
+def handle_sigterm(signum, frame):
+    '''Graceful SIGTERM termination.'''
+    sys.exit(0)
