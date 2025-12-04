@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-12-03 22:26: test(cli): add unit test coverage for argument parsing
 - 2025-12-03 23:05: docs: add architecture specification for daemon supervisor
 - 2025-12-04 12:12: feat(daemon): add background heartbeat and ping interval
+- 2025-12-04 13:07: test(scripts): add bats verification for setup scripts
