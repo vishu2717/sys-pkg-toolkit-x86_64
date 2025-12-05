@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2025-12-05 17:03: docs: add architecture specification for daemon supervisor
 - 2025-12-05 17:32: docs: update system administration runbooks and troubleshooting
 - 2025-12-05 18:08: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-12-05 23:10: fix(daemon): gracefully handle sigterm during log rotation
