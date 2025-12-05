@@ -268,3 +268,6 @@ Details on IPC communication channels and process tree.
 
 ### Supervisor Architecture
 Details on IPC communication channels and process tree.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
