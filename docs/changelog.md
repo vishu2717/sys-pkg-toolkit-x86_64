@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2025-12-05 23:10: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-05 23:22: test(cli): add unit test coverage for argument parsing
 - 2025-12-06 12:28: feat(sync): add rsync-based remote directory mirror utility
+- 2025-12-06 13:42: fix(daemon): gracefully handle sigterm during log rotation
