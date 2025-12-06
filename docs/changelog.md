@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2025-12-06 12:28: feat(sync): add rsync-based remote directory mirror utility
 - 2025-12-06 13:42: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-06 17:47: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-12-06 20:52: fix(daemon): gracefully handle sigterm during log rotation
