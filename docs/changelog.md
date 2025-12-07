@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2025-12-06 20:52: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-06 21:57: fix(config): ensure directory exists before writing state
 - 2025-12-07 12:45: docs: update changelog with recent utility enhancements
+- 2025-12-07 21:01: feat(env): add automated dotfiles symlink manager
