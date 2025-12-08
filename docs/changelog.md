@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2025-12-07 12:45: docs: update changelog with recent utility enhancements
 - 2025-12-07 21:01: feat(env): add automated dotfiles symlink manager
 - 2025-12-08 18:12: test(scripts): add bats verification for setup scripts
+- 2025-12-08 20:41: refactor(config): migrate global settings to immutable dataclass
