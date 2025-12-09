@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2025-12-09 11:43: feat(metrics): track memory usage and cpu thread statistics
 - 2025-12-09 11:44: test(daemon): verify supervisor restarts crashed processes
 - 2025-12-09 12:32: chore: update base container image to latest alpine
+- 2025-12-09 14:49: test(cli): add unit test coverage for argument parsing
