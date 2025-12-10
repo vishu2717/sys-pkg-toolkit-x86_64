@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2025-12-09 12:32: chore: update base container image to latest alpine
 - 2025-12-09 14:49: test(cli): add unit test coverage for argument parsing
 - 2025-12-10 12:04: feat(monitor): implement system resource tracking utility
+- 2025-12-10 20:23: fix(monitor): resolve division by zero on idle cpu calculation
