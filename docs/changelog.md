@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2025-12-12 18:23: test(daemon): verify supervisor restarts crashed processes
 - 2025-12-12 18:54: test(daemon): verify supervisor restarts crashed processes
 - 2025-12-12 19:54: feat(monitor): implement system resource tracking utility
+- 2025-12-12 20:58: refactor(config): migrate global settings to immutable dataclass
