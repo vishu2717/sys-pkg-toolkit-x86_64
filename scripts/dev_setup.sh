@@ -340,3 +340,5 @@ link_dotfile() { ln -sf "$1" "$2"; }
 link_dotfile() { ln -sf "$1" "$2"; }
 
 # Enforced strict POSIX styling
+
+# Enforced strict POSIX styling
