@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2025-12-12 10:41: style: enforce consistent shell quoting and indentation
 - 2025-12-12 12:43: fix(docker): specify non-root user in runtime container
 - 2025-12-12 13:20: style: enforce consistent shell quoting and indentation
+- 2025-12-12 18:23: test(daemon): verify supervisor restarts crashed processes
