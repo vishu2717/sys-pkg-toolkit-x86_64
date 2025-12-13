@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2025-12-13 11:35: style: enforce consistent shell quoting and indentation
 - 2025-12-13 16:57: feat(cli): add command-line argument parser for daemon
 - 2025-12-13 17:50: feat(deploy): implement zero-downtime rolling reload
+- 2025-12-13 20:51: fix(docker): specify non-root user in runtime container
