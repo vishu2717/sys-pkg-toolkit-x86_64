@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2025-12-12 20:58: refactor(config): migrate global settings to immutable dataclass
 - 2025-12-12 21:52: test(scripts): add bats verification for setup scripts
 - 2025-12-12 21:57: feat(monitor): implement system resource tracking utility
+- 2025-12-13 11:35: style: enforce consistent shell quoting and indentation
