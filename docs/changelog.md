@@ -391,3 +391,4 @@ All historical revisions and engineering milestones.
 - 2025-12-14 14:21: feat(proc): add process supervisor with automatic restart
 - 2025-12-14 17:49: docs: update system administration runbooks and troubleshooting
 - 2025-12-14 18:15: feat(sync): add rsync-based remote directory mirror utility
+- 2025-12-14 19:11: feat(metrics): track memory usage and cpu thread statistics
