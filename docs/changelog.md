@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2025-12-14 10:42: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-14 14:21: feat(proc): add process supervisor with automatic restart
 - 2025-12-14 17:49: docs: update system administration runbooks and troubleshooting
+- 2025-12-14 18:15: feat(sync): add rsync-based remote directory mirror utility
