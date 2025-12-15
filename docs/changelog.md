@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2025-12-15 13:59: fix(cli): exit with non-zero status code on unknown command
 - 2025-12-15 14:35: docs: add architecture specification for daemon supervisor
 - 2025-12-15 14:59: fix(bash): escape arguments in deployment script
+- 2025-12-15 15:14: fix(monitor): resolve division by zero on idle cpu calculation
