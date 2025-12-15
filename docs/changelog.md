@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2025-12-14 19:11: feat(metrics): track memory usage and cpu thread statistics
 - 2025-12-14 22:50: refactor(daemon): separate socket listening from worker queue
 - 2025-12-15 13:59: fix(cli): exit with non-zero status code on unknown command
+- 2025-12-15 14:35: docs: add architecture specification for daemon supervisor
