@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2025-12-15 20:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2025-12-15 21:09: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-15 22:05: feat(deploy): implement zero-downtime rolling reload
+- 2025-12-15 22:32: feat(daemon): add background heartbeat and ping interval
