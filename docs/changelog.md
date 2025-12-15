@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2025-12-15 22:05: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-15 22:32: feat(daemon): add background heartbeat and ping interval
 - 2025-12-15 23:07: perf: reduce process spawn latency using fork pool
+- 2025-12-15 23:24: feat(deploy): implement zero-downtime rolling reload
