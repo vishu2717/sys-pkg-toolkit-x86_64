@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2025-12-15 16:14: fix(cli): exit with non-zero status code on unknown command
 - 2025-12-15 19:35: fix(proc): prevent zombie process reaping race condition
 - 2025-12-15 20:50: docs: update system administration runbooks and troubleshooting
+- 2025-12-15 20:58: fix(monitor): resolve division by zero on idle cpu calculation
