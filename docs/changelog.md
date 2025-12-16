@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 10:38: refactor(daemon): separate socket listening from worker queue
 - 2025-12-16 12:18: docs: document environment variables and override flags
 - 2025-12-16 12:57: feat(sync): add rsync-based remote directory mirror utility
+- 2025-12-16 13:30: fix(daemon): gracefully handle sigterm during log rotation
