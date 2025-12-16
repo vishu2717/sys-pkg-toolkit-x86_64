@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2025-12-15 23:07: perf: reduce process spawn latency using fork pool
 - 2025-12-15 23:24: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-16 10:13: test(scripts): add bats verification for setup scripts
+- 2025-12-16 10:38: refactor(daemon): separate socket listening from worker queue
