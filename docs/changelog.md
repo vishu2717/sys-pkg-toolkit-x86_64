@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 12:18: docs: document environment variables and override flags
 - 2025-12-16 12:57: feat(sync): add rsync-based remote directory mirror utility
 - 2025-12-16 13:30: fix(daemon): gracefully handle sigterm during log rotation
+- 2025-12-16 17:00: feat(metrics): track memory usage and cpu thread statistics
