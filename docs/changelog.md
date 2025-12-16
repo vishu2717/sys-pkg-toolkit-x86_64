@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 18:17: fix(docker): specify non-root user in runtime container
 - 2025-12-16 18:31: feat(proc): add process supervisor with automatic restart
 - 2025-12-16 19:17: feat(config): add JSON and YAML configuration loader
+- 2025-12-16 19:24: feat(proc): add process supervisor with automatic restart
