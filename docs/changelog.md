@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 19:35: feat(config): add JSON and YAML configuration loader
 - 2025-12-16 20:12: refactor(scripts): modularize helper functions across shell scripts
 - 2025-12-16 21:32: feat(metrics): track memory usage and cpu thread statistics
+- 2025-12-16 23:27: fix(cli): exit with non-zero status code on unknown command
