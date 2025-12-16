@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 10:13: test(scripts): add bats verification for setup scripts
 - 2025-12-16 10:38: refactor(daemon): separate socket listening from worker queue
 - 2025-12-16 12:18: docs: document environment variables and override flags
+- 2025-12-16 12:57: feat(sync): add rsync-based remote directory mirror utility
