@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 13:30: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-16 17:00: feat(metrics): track memory usage and cpu thread statistics
 - 2025-12-16 17:13: chore: configure shellcheck and ruff linter hooks
+- 2025-12-16 17:43: feat(env): add automated dotfiles symlink manager
