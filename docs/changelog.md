@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 19:17: feat(config): add JSON and YAML configuration loader
 - 2025-12-16 19:24: feat(proc): add process supervisor with automatic restart
 - 2025-12-16 19:35: feat(config): add JSON and YAML configuration loader
+- 2025-12-16 20:12: refactor(scripts): modularize helper functions across shell scripts
