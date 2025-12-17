@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2025-12-16 23:27: fix(cli): exit with non-zero status code on unknown command
 - 2025-12-17 10:36: feat(daemon): add background heartbeat and ping interval
 - 2025-12-17 13:00: test(scripts): add bats verification for setup scripts
+- 2025-12-17 19:06: test(scripts): add bats verification for setup scripts
