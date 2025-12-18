@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2025-12-18 10:05: feat(config): add JSON and YAML configuration loader
 - 2025-12-18 11:34: refactor(config): migrate global settings to immutable dataclass
 - 2025-12-18 12:00: refactor(scripts): modularize helper functions across shell scripts
+- 2025-12-18 13:54: fix(docker): specify non-root user in runtime container
