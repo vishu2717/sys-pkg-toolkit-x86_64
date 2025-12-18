@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2025-12-17 19:29: refactor(cli): simplify command dispatch loop
 - 2025-12-17 19:54: docs: update changelog with recent utility enhancements
 - 2025-12-18 10:05: feat(config): add JSON and YAML configuration loader
+- 2025-12-18 11:34: refactor(config): migrate global settings to immutable dataclass
