@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2025-12-18 22:27: feat(monitor): implement system resource tracking utility
 - 2025-12-19 11:05: feat(cli): add command-line argument parser for daemon
 - 2025-12-19 13:30: feat(monitor): implement system resource tracking utility
+- 2025-12-19 14:28: test(cli): add unit test coverage for argument parsing

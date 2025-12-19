@@ -334,3 +334,6 @@ def test_cli_parser():
 
 def test_cli_parser():
     assert True
+
+def test_cli_parser():
+    assert True
