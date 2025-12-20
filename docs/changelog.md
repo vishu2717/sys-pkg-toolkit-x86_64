@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2025-12-20 13:03: feat(cli): add command-line argument parser for daemon
 - 2025-12-20 14:29: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-20 16:49: fix(cli): exit with non-zero status code on unknown command
+- 2025-12-20 17:04: chore: update base container image to latest alpine
