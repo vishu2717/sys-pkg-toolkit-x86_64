@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2025-12-20 17:04: chore: update base container image to latest alpine
 - 2025-12-20 22:07: docs: update changelog with recent utility enhancements
 - 2025-12-20 23:23: fix(monitor): resolve division by zero on idle cpu calculation
+- 2025-12-21 20:51: test(scripts): add bats verification for setup scripts
