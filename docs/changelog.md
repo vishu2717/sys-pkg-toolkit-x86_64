@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2025-12-22 13:09: feat(proc): add process supervisor with automatic restart
 - 2025-12-22 17:09: refactor(scripts): modularize helper functions across shell scripts
 - 2025-12-22 19:47: refactor(config): migrate global settings to immutable dataclass
+- 2025-12-22 20:43: fix(proc): prevent zombie process reaping race condition
