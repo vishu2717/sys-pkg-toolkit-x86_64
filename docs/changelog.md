@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2025-12-22 19:47: refactor(config): migrate global settings to immutable dataclass
 - 2025-12-22 20:43: fix(proc): prevent zombie process reaping race condition
 - 2025-12-22 21:25: feat(proc): add process supervisor with automatic restart
+- 2025-12-22 22:35: fix(bash): escape arguments in deployment script
