@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2025-12-21 20:51: test(scripts): add bats verification for setup scripts
 - 2025-12-21 22:40: refactor(cli): simplify command dispatch loop
 - 2025-12-22 10:38: perf: reduce process spawn latency using fork pool
+- 2025-12-22 11:09: refactor(monitor): optimize sampling frequency and buffer size
