@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2025-12-21 22:40: refactor(cli): simplify command dispatch loop
 - 2025-12-22 10:38: perf: reduce process spawn latency using fork pool
 - 2025-12-22 11:09: refactor(monitor): optimize sampling frequency and buffer size
+- 2025-12-22 13:09: feat(proc): add process supervisor with automatic restart
