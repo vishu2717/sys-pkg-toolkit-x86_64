@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2025-12-22 22:35: fix(bash): escape arguments in deployment script
 - 2025-12-24 10:51: fix(config): ensure directory exists before writing state
 - 2025-12-24 12:30: fix(proc): prevent zombie process reaping race condition
+- 2025-12-24 13:01: fix(cli): exit with non-zero status code on unknown command
