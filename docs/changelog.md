@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2025-12-24 18:44: chore: update base container image to latest alpine
 - 2025-12-24 18:54: fix(daemon): gracefully handle sigterm during log rotation
 - 2025-12-24 20:27: fix(cli): exit with non-zero status code on unknown command
+- 2025-12-24 22:51: refactor(monitor): optimize sampling frequency and buffer size
