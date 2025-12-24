@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2025-12-24 18:30: feat(deploy): implement zero-downtime rolling reload
 - 2025-12-24 18:31: feat(config): add JSON and YAML configuration loader
 - 2025-12-24 18:44: chore: update base container image to latest alpine
+- 2025-12-24 18:54: fix(daemon): gracefully handle sigterm during log rotation
