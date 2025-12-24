@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2025-12-22 20:43: fix(proc): prevent zombie process reaping race condition
 - 2025-12-22 21:25: feat(proc): add process supervisor with automatic restart
 - 2025-12-22 22:35: fix(bash): escape arguments in deployment script
+- 2025-12-24 10:51: fix(config): ensure directory exists before writing state
