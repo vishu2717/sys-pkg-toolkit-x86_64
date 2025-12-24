@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2025-12-24 13:01: fix(cli): exit with non-zero status code on unknown command
 - 2025-12-24 15:37: refactor(scripts): modularize helper functions across shell scripts
 - 2025-12-24 18:30: feat(deploy): implement zero-downtime rolling reload
+- 2025-12-24 18:31: feat(config): add JSON and YAML configuration loader
