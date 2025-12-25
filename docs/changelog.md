@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2025-12-24 22:51: refactor(monitor): optimize sampling frequency and buffer size
 - 2025-12-25 16:14: fix(cli): exit with non-zero status code on unknown command
 - 2025-12-25 20:32: feat(cli): add command-line argument parser for daemon
+- 2025-12-25 23:11: feat(env): add automated dotfiles symlink manager
