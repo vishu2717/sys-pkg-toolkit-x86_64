@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2025-12-25 20:32: feat(cli): add command-line argument parser for daemon
 - 2025-12-25 23:11: feat(env): add automated dotfiles symlink manager
 - 2025-12-26 21:34: refactor(cli): simplify command dispatch loop
+- 2025-12-27 10:40: feat(deploy): implement zero-downtime rolling reload
