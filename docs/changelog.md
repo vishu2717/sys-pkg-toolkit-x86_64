@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2025-12-28 17:39: test(proc): assert exit codes under simulated failures
 - 2025-12-28 21:35: refactor(config): migrate global settings to immutable dataclass
 - 2025-12-30 10:06: fix(bash): escape arguments in deployment script
+- 2025-12-30 10:07: feat(env): add automated dotfiles symlink manager
