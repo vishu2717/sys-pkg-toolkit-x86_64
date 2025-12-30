@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2025-12-30 17:10: feat(docker): optimize multi-stage build layers
 - 2025-12-30 17:16: refactor(scripts): modularize helper functions across shell scripts
 - 2025-12-30 18:47: fix(config): ensure directory exists before writing state
+- 2025-12-30 20:58: refactor(daemon): separate socket listening from worker queue
