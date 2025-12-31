@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2025-12-31 14:19: fix(bash): escape arguments in deployment script
 - 2025-12-31 15:14: fix(config): ensure directory exists before writing state
 - 2025-12-31 15:40: refactor(config): migrate global settings to immutable dataclass
+- 2025-12-31 15:44: refactor(monitor): optimize sampling frequency and buffer size
