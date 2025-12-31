@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2025-12-30 20:58: refactor(daemon): separate socket listening from worker queue
 - 2025-12-30 21:13: refactor(daemon): separate socket listening from worker queue
 - 2025-12-31 14:19: fix(bash): escape arguments in deployment script
+- 2025-12-31 15:14: fix(config): ensure directory exists before writing state
