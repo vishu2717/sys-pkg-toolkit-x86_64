@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-01-01 16:12: feat(cli): add command-line argument parser for daemon
 - 2026-01-01 17:17: docs: add architecture specification for daemon supervisor
 - 2026-01-01 17:34: feat(config): add JSON and YAML configuration loader
+- 2026-01-01 22:22: test(cli): add unit test coverage for argument parsing
