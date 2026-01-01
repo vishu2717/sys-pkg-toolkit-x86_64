@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-01-01 12:20: feat(proc): add process supervisor with automatic restart
 - 2026-01-01 12:24: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-01-01 15:17: fix(cli): exit with non-zero status code on unknown command
+- 2026-01-01 16:12: feat(cli): add command-line argument parser for daemon
