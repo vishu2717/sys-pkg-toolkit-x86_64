@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2026-01-02 16:46: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-02 18:05: test(cli): add unit test coverage for argument parsing
 - 2026-01-02 20:05: feat(proc): add process supervisor with automatic restart
+- 2026-01-02 22:38: fix(proc): prevent zombie process reaping race condition
