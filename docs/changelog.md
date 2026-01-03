@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2026-01-02 18:05: test(cli): add unit test coverage for argument parsing
 - 2026-01-02 20:05: feat(proc): add process supervisor with automatic restart
 - 2026-01-02 22:38: fix(proc): prevent zombie process reaping race condition
+- 2026-01-03 14:18: docs: update system administration runbooks and troubleshooting
