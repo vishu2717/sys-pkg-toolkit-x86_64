@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2026-01-02 22:38: fix(proc): prevent zombie process reaping race condition
 - 2026-01-03 14:18: docs: update system administration runbooks and troubleshooting
 - 2026-01-03 14:59: refactor(scripts): modularize helper functions across shell scripts
+- 2026-01-03 17:46: fix(cli): exit with non-zero status code on unknown command
