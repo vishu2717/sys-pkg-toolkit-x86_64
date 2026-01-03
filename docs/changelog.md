@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2026-01-03 14:59: refactor(scripts): modularize helper functions across shell scripts
 - 2026-01-03 17:46: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-03 20:11: test(cli): add unit test coverage for argument parsing
+- 2026-01-03 21:03: feat(monitor): implement system resource tracking utility
