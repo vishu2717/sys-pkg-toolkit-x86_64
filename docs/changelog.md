@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2026-01-03 21:03: feat(monitor): implement system resource tracking utility
 - 2026-01-03 22:04: test(proc): assert exit codes under simulated failures
 - 2026-01-03 23:00: feat(env): add automated dotfiles symlink manager
+- 2026-01-05 10:17: fix(daemon): gracefully handle sigterm during log rotation
