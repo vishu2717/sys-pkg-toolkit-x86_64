@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-01-05 18:44: feat(security): add permission auditing script for local binaries
 - 2026-01-05 19:05: fix(config): ensure directory exists before writing state
 - 2026-01-05 19:06: fix(cli): exit with non-zero status code on unknown command
+- 2026-01-05 20:03: fix(monitor): resolve division by zero on idle cpu calculation
