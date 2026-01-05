@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2026-01-05 12:33: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-05 13:03: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-05 13:07: fix(bash): escape arguments in deployment script
+- 2026-01-05 13:14: fix(docker): specify non-root user in runtime container
