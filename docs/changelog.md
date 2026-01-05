@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2026-01-05 17:13: refactor(cli): simplify command dispatch loop
 - 2026-01-05 17:16: test(scripts): add bats verification for setup scripts
 - 2026-01-05 17:42: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-01-05 18:44: feat(security): add permission auditing script for local binaries
