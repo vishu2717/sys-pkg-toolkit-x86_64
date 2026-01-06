@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2026-01-06 10:58: fix(proc): prevent zombie process reaping race condition
 - 2026-01-06 13:21: refactor(cli): simplify command dispatch loop
 - 2026-01-06 17:20: fix(bash): escape arguments in deployment script
+- 2026-01-06 18:04: refactor(monitor): optimize sampling frequency and buffer size
