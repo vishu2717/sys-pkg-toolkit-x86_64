@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2026-01-05 20:03: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-01-05 22:32: docs: document environment variables and override flags
 - 2026-01-06 10:58: fix(proc): prevent zombie process reaping race condition
+- 2026-01-06 13:21: refactor(cli): simplify command dispatch loop
