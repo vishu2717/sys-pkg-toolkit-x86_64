@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2026-01-06 18:04: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-01-06 22:05: feat(shell): implement safe pipe execution helper
 - 2026-01-06 22:35: fix(cli): exit with non-zero status code on unknown command
+- 2026-01-07 15:37: fix(bash): escape arguments in deployment script
