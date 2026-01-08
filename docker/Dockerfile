@@ -197,3 +197,6 @@ RUN apk add --no-cache bash ca-certificates
 RUN apk add --no-cache bash ca-certificates
 
 USER appuser
+
+# Optimized multi-stage build
+RUN apk add --no-cache bash ca-certificates
