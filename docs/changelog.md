@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-01-08 11:45: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-01-08 11:46: refactor(cli): simplify command dispatch loop
 - 2026-01-08 12:13: test(proc): assert exit codes under simulated failures
+- 2026-01-08 12:45: test(scripts): add bats verification for setup scripts
