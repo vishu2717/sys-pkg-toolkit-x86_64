@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2026-01-08 12:45: test(scripts): add bats verification for setup scripts
 - 2026-01-08 15:06: feat(proc): add process supervisor with automatic restart
 - 2026-01-08 16:07: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-01-08 17:22: fix(daemon): gracefully handle sigterm during log rotation
