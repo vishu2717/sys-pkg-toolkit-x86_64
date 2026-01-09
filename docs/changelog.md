@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2026-01-09 16:45: docs: update changelog with recent utility enhancements
 - 2026-01-09 17:48: chore: update base container image to latest alpine
 - 2026-01-09 17:52: feat(shell): implement safe pipe execution helper
+- 2026-01-09 18:07: refactor(config): migrate global settings to immutable dataclass
