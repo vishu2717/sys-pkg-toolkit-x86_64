@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2026-01-09 13:03: fix(docker): specify non-root user in runtime container
 - 2026-01-09 13:48: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-09 15:53: fix(bash): escape arguments in deployment script
+- 2026-01-09 16:45: docs: update changelog with recent utility enhancements
