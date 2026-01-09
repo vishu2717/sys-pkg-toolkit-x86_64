@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-01-08 20:21: feat(env): add automated dotfiles symlink manager
 - 2026-01-08 20:38: test(cli): add unit test coverage for argument parsing
 - 2026-01-08 21:36: feat(sync): add rsync-based remote directory mirror utility
+- 2026-01-09 10:27: refactor(scripts): modularize helper functions across shell scripts
