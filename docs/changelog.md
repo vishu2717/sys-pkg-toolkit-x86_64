@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2026-01-09 10:27: refactor(scripts): modularize helper functions across shell scripts
 - 2026-01-09 12:51: feat(daemon): add background heartbeat and ping interval
 - 2026-01-09 13:03: fix(docker): specify non-root user in runtime container
+- 2026-01-09 13:48: feat(deploy): implement zero-downtime rolling reload
