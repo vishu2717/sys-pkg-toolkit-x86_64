@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2026-01-09 18:07: refactor(config): migrate global settings to immutable dataclass
 - 2026-01-09 23:01: refactor(cli): simplify command dispatch loop
 - 2026-01-10 14:11: test(scripts): add bats verification for setup scripts
+- 2026-01-10 19:05: docs: update system administration runbooks and troubleshooting
