@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2026-01-10 21:31: test(proc): assert exit codes under simulated failures
 - 2026-01-11 11:03: feat(metrics): track memory usage and cpu thread statistics
 - 2026-01-11 13:18: feat(cli): add command-line argument parser for daemon
+- 2026-01-11 18:20: test(cli): add unit test coverage for argument parsing
