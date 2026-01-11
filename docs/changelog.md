@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-01-10 19:05: docs: update system administration runbooks and troubleshooting
 - 2026-01-10 19:09: refactor(config): migrate global settings to immutable dataclass
 - 2026-01-10 21:31: test(proc): assert exit codes under simulated failures
+- 2026-01-11 11:03: feat(metrics): track memory usage and cpu thread statistics
