@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-01-11 13:18: feat(cli): add command-line argument parser for daemon
 - 2026-01-11 18:20: test(cli): add unit test coverage for argument parsing
 - 2026-01-11 20:17: refactor(config): migrate global settings to immutable dataclass
+- 2026-01-11 20:52: feat(sync): add rsync-based remote directory mirror utility
