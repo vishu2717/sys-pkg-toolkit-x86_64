@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2026-01-11 21:32: docs: update changelog with recent utility enhancements
 - 2026-01-11 22:36: docs: update changelog with recent utility enhancements
 - 2026-01-11 22:48: fix(cli): exit with non-zero status code on unknown command
+- 2026-01-11 22:55: docs: document environment variables and override flags
