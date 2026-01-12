@@ -300,3 +300,4 @@ All historical revisions and engineering milestones.
 - 2026-01-11 22:48: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-11 22:55: docs: document environment variables and override flags
 - 2026-01-12 12:29: chore: configure shellcheck and ruff linter hooks
+- 2026-01-12 14:29: feat(deploy): implement zero-downtime rolling reload
