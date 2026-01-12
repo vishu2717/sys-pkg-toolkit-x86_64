@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2026-01-12 16:15: feat(monitor): implement system resource tracking utility
 - 2026-01-12 16:31: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-01-12 16:43: perf: reduce process spawn latency using fork pool
+- 2026-01-12 17:39: feat(metrics): track memory usage and cpu thread statistics
