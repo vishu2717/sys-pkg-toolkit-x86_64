@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2026-01-12 17:39: feat(metrics): track memory usage and cpu thread statistics
 - 2026-01-12 20:29: docs: update changelog with recent utility enhancements
 - 2026-01-13 10:43: docs: update changelog with recent utility enhancements
+- 2026-01-13 11:48: feat(cli): add command-line argument parser for daemon
