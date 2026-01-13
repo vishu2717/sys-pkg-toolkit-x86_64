@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2026-01-13 13:26: feat(docker): optimize multi-stage build layers
 - 2026-01-13 15:38: feat(proc): add process supervisor with automatic restart
 - 2026-01-13 16:10: test(daemon): verify supervisor restarts crashed processes
+- 2026-01-13 16:45: docs: update changelog with recent utility enhancements
