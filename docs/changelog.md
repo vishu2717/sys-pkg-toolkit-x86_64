@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2026-01-12 20:29: docs: update changelog with recent utility enhancements
 - 2026-01-13 10:43: docs: update changelog with recent utility enhancements
 - 2026-01-13 11:48: feat(cli): add command-line argument parser for daemon
+- 2026-01-13 13:11: fix(proc): prevent zombie process reaping race condition
