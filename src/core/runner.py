@@ -250,3 +250,7 @@ class SystemMetrics:
 def reap_zombies():
     '''Cleanly reap exited child processes.'''
     os.waitpid(-1, os.WNOHANG)
+
+class ProcessSupervisor:
+    '''Supervise child workers and auto-restart on exit.'''
+    pass

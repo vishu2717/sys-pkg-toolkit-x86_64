@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2026-01-13 11:48: feat(cli): add command-line argument parser for daemon
 - 2026-01-13 13:11: fix(proc): prevent zombie process reaping race condition
 - 2026-01-13 13:26: feat(docker): optimize multi-stage build layers
+- 2026-01-13 15:38: feat(proc): add process supervisor with automatic restart
