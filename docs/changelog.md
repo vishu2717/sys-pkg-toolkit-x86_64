@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2026-01-14 13:13: feat(cli): add command-line argument parser for daemon
 - 2026-01-14 14:01: docs: update changelog with recent utility enhancements
 - 2026-01-14 16:34: chore: update base container image to latest alpine
+- 2026-01-14 20:42: feat(sync): add rsync-based remote directory mirror utility
