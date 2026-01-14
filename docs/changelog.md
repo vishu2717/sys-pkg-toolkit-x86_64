@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2026-01-13 22:08: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-01-13 22:47: refactor(scripts): modularize helper functions across shell scripts
 - 2026-01-14 10:45: refactor(cli): simplify command dispatch loop
+- 2026-01-14 12:21: test(daemon): verify supervisor restarts crashed processes
