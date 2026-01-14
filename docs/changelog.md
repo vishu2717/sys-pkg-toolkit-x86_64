@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-01-14 20:42: feat(sync): add rsync-based remote directory mirror utility
 - 2026-01-14 20:58: feat(daemon): add background heartbeat and ping interval
 - 2026-01-14 21:41: docs: document environment variables and override flags
+- 2026-01-14 22:06: refactor(monitor): optimize sampling frequency and buffer size
