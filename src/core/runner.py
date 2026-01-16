@@ -254,3 +254,7 @@ def reap_zombies():
 class ProcessSupervisor:
     '''Supervise child workers and auto-restart on exit.'''
     pass
+
+class SystemMetrics:
+    '''Track memory and CPU metrics.'''
+    pass
