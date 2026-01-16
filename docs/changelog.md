@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2026-01-14 22:06: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-01-14 23:27: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-16 11:01: feat(metrics): track memory usage and cpu thread statistics
+- 2026-01-16 13:12: test(cli): add unit test coverage for argument parsing
