@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2026-01-17 13:53: feat(monitor): implement system resource tracking utility
 - 2026-01-17 15:25: feat(env): add automated dotfiles symlink manager
 - 2026-01-17 19:48: fix(config): ensure directory exists before writing state
+- 2026-01-17 20:57: refactor(scripts): modularize helper functions across shell scripts
