@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2026-01-20 16:29: feat(security): add permission auditing script for local binaries
 - 2026-01-20 17:44: refactor(daemon): separate socket listening from worker queue
 - 2026-01-20 18:38: feat(deploy): implement zero-downtime rolling reload
+- 2026-01-20 21:47: refactor(cli): simplify command dispatch loop
