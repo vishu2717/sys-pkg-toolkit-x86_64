@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2026-01-19 14:24: refactor(config): migrate global settings to immutable dataclass
 - 2026-01-19 16:58: style: enforce consistent shell quoting and indentation
 - 2026-01-20 15:17: test(proc): assert exit codes under simulated failures
+- 2026-01-20 16:23: chore: configure shellcheck and ruff linter hooks
