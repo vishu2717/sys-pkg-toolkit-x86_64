@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2026-01-21 15:15: fix(config): ensure directory exists before writing state
 - 2026-01-21 17:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-01-21 21:09: feat(env): add automated dotfiles symlink manager
+- 2026-01-21 22:16: docs: add architecture specification for daemon supervisor
