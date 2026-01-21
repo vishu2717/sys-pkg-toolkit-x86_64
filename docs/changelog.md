@@ -346,3 +346,4 @@ All historical revisions and engineering milestones.
 - 2026-01-20 17:44: refactor(daemon): separate socket listening from worker queue
 - 2026-01-20 18:38: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-20 21:47: refactor(cli): simplify command dispatch loop
+- 2026-01-21 11:14: feat(shell): implement safe pipe execution helper
