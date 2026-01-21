@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-01-20 18:38: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-20 21:47: refactor(cli): simplify command dispatch loop
 - 2026-01-21 11:14: feat(shell): implement safe pipe execution helper
+- 2026-01-21 12:17: docs: update system administration runbooks and troubleshooting
