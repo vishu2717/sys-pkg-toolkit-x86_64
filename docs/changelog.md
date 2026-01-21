@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2026-01-21 17:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-01-21 21:09: feat(env): add automated dotfiles symlink manager
 - 2026-01-21 22:16: docs: add architecture specification for daemon supervisor
+- 2026-01-21 22:18: feat(proc): add process supervisor with automatic restart
