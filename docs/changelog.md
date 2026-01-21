@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2026-01-21 12:17: docs: update system administration runbooks and troubleshooting
 - 2026-01-21 13:54: test(proc): assert exit codes under simulated failures
 - 2026-01-21 15:15: fix(config): ensure directory exists before writing state
+- 2026-01-21 17:32: fix(daemon): gracefully handle sigterm during log rotation
