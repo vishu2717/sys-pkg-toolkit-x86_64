@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2026-01-24 10:59: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-01-24 19:21: docs: document environment variables and override flags
 - 2026-01-24 22:19: fix(bash): escape arguments in deployment script
+- 2026-01-24 22:28: docs: update changelog with recent utility enhancements
