@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2026-01-24 22:19: fix(bash): escape arguments in deployment script
 - 2026-01-24 22:28: docs: update changelog with recent utility enhancements
 - 2026-01-24 23:16: refactor(daemon): separate socket listening from worker queue
+- 2026-01-25 10:19: test(scripts): add bats verification for setup scripts
