@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2026-01-25 19:41: test(proc): assert exit codes under simulated failures
 - 2026-01-25 19:49: fix(bash): escape arguments in deployment script
 - 2026-01-25 20:55: refactor(config): migrate global settings to immutable dataclass
+- 2026-01-25 23:18: fix(daemon): gracefully handle sigterm during log rotation
