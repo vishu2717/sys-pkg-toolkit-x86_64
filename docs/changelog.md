@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2026-01-25 15:23: test(scripts): add bats verification for setup scripts
 - 2026-01-25 16:57: docs: update changelog with recent utility enhancements
 - 2026-01-25 19:41: test(proc): assert exit codes under simulated failures
+- 2026-01-25 19:49: fix(bash): escape arguments in deployment script
