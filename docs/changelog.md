@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2026-01-25 13:10: feat(env): add automated dotfiles symlink manager
 - 2026-01-25 14:01: feat(deploy): implement zero-downtime rolling reload
 - 2026-01-25 14:11: test(scripts): add bats verification for setup scripts
+- 2026-01-25 15:23: test(scripts): add bats verification for setup scripts
