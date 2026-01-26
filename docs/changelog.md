@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2026-01-25 19:49: fix(bash): escape arguments in deployment script
 - 2026-01-25 20:55: refactor(config): migrate global settings to immutable dataclass
 - 2026-01-25 23:18: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-01-26 10:48: feat(docker): optimize multi-stage build layers
