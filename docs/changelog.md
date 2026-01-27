@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2026-01-26 17:32: refactor(scripts): modularize helper functions across shell scripts
 - 2026-01-26 19:08: feat(sync): add rsync-based remote directory mirror utility
 - 2026-01-26 20:44: fix(cli): exit with non-zero status code on unknown command
+- 2026-01-27 19:55: fix(bash): escape arguments in deployment script
