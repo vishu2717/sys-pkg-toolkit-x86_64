@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2026-01-26 20:44: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-27 19:55: fix(bash): escape arguments in deployment script
 - 2026-01-27 21:56: test(proc): assert exit codes under simulated failures
+- 2026-01-28 17:37: refactor(daemon): separate socket listening from worker queue
