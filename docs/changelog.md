@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2026-01-28 18:46: feat(daemon): add background heartbeat and ping interval
 - 2026-01-28 19:10: feat(env): add automated dotfiles symlink manager
 - 2026-01-28 20:53: fix(docker): specify non-root user in runtime container
+- 2026-01-28 23:08: docs: document environment variables and override flags
