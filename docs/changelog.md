@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-01-28 23:15: feat(proc): add process supervisor with automatic restart
 - 2026-01-29 13:14: docs: update system administration runbooks and troubleshooting
 - 2026-01-29 13:42: feat(proc): add process supervisor with automatic restart
+- 2026-01-29 19:44: fix(monitor): resolve division by zero on idle cpu calculation
