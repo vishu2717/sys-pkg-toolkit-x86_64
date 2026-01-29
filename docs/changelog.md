@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-01-28 20:53: fix(docker): specify non-root user in runtime container
 - 2026-01-28 23:08: docs: document environment variables and override flags
 - 2026-01-28 23:15: feat(proc): add process supervisor with automatic restart
+- 2026-01-29 13:14: docs: update system administration runbooks and troubleshooting
