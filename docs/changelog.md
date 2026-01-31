@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2026-01-29 22:41: fix(config): ensure directory exists before writing state
 - 2026-01-31 11:08: fix(cli): exit with non-zero status code on unknown command
 - 2026-01-31 14:59: chore: update base container image to latest alpine
+- 2026-01-31 16:33: fix(config): ensure directory exists before writing state
