@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-01-31 23:18: feat(env): add automated dotfiles symlink manager
 - 2026-02-02 10:57: feat(env): add automated dotfiles symlink manager
 - 2026-02-02 17:21: feat(docker): optimize multi-stage build layers
+- 2026-02-02 18:48: refactor(cli): simplify command dispatch loop
