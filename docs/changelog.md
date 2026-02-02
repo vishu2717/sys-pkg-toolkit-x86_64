@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2026-01-31 16:33: fix(config): ensure directory exists before writing state
 - 2026-01-31 20:45: feat(metrics): track memory usage and cpu thread statistics
 - 2026-01-31 23:18: feat(env): add automated dotfiles symlink manager
+- 2026-02-02 10:57: feat(env): add automated dotfiles symlink manager
