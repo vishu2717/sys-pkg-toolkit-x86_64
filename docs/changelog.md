@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2026-02-03 13:56: feat(deploy): implement zero-downtime rolling reload
 - 2026-02-03 14:27: fix(bash): escape arguments in deployment script
 - 2026-02-03 17:13: test(proc): assert exit codes under simulated failures
+- 2026-02-03 21:50: fix(config): ensure directory exists before writing state
