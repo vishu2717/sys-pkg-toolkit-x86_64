@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2026-02-02 17:21: feat(docker): optimize multi-stage build layers
 - 2026-02-02 18:48: refactor(cli): simplify command dispatch loop
 - 2026-02-03 13:56: feat(deploy): implement zero-downtime rolling reload
+- 2026-02-03 14:27: fix(bash): escape arguments in deployment script
