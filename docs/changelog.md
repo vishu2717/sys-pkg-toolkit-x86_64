@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-02-03 14:27: fix(bash): escape arguments in deployment script
 - 2026-02-03 17:13: test(proc): assert exit codes under simulated failures
 - 2026-02-03 21:50: fix(config): ensure directory exists before writing state
+- 2026-02-04 11:17: feat(security): add permission auditing script for local binaries
