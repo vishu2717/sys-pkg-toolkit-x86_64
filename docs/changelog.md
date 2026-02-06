@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-02-04 11:17: feat(security): add permission auditing script for local binaries
 - 2026-02-04 16:15: feat(sync): add rsync-based remote directory mirror utility
 - 2026-02-06 16:34: test(scripts): add bats verification for setup scripts
+- 2026-02-06 18:54: test(scripts): add bats verification for setup scripts
