@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2026-02-03 21:50: fix(config): ensure directory exists before writing state
 - 2026-02-04 11:17: feat(security): add permission auditing script for local binaries
 - 2026-02-04 16:15: feat(sync): add rsync-based remote directory mirror utility
+- 2026-02-06 16:34: test(scripts): add bats verification for setup scripts
