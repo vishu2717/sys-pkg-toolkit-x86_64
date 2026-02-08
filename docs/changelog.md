@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2026-02-08 18:24: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-02-08 18:30: feat(cli): add command-line argument parser for daemon
 - 2026-02-08 18:46: fix(cli): exit with non-zero status code on unknown command
+- 2026-02-08 20:23: feat(deploy): implement zero-downtime rolling reload
