@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-02-08 11:00: fix(proc): prevent zombie process reaping race condition
 - 2026-02-08 12:41: fix(bash): escape arguments in deployment script
 - 2026-02-08 16:13: test(scripts): add bats verification for setup scripts
+- 2026-02-08 17:02: fix(docker): specify non-root user in runtime container
