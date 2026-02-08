@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2026-02-08 18:46: fix(cli): exit with non-zero status code on unknown command
 - 2026-02-08 20:23: feat(deploy): implement zero-downtime rolling reload
 - 2026-02-08 20:32: feat(deploy): implement zero-downtime rolling reload
+- 2026-02-08 22:09: refactor(cli): simplify command dispatch loop
