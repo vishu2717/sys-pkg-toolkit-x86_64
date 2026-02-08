@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2026-02-06 16:34: test(scripts): add bats verification for setup scripts
 - 2026-02-06 18:54: test(scripts): add bats verification for setup scripts
 - 2026-02-06 21:50: feat(shell): implement safe pipe execution helper
+- 2026-02-08 10:23: refactor(cli): simplify command dispatch loop
