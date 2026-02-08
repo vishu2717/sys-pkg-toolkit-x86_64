@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-02-08 20:23: feat(deploy): implement zero-downtime rolling reload
 - 2026-02-08 20:32: feat(deploy): implement zero-downtime rolling reload
 - 2026-02-08 22:09: refactor(cli): simplify command dispatch loop
+- 2026-02-08 23:03: fix(config): ensure directory exists before writing state
