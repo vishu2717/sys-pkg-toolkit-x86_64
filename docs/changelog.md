@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2026-02-06 21:50: feat(shell): implement safe pipe execution helper
 - 2026-02-08 10:23: refactor(cli): simplify command dispatch loop
 - 2026-02-08 10:26: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-02-08 11:00: fix(proc): prevent zombie process reaping race condition
