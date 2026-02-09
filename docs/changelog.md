@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2026-02-09 13:41: feat(security): add permission auditing script for local binaries
 - 2026-02-09 15:27: feat(metrics): track memory usage and cpu thread statistics
 - 2026-02-09 16:45: refactor(scripts): modularize helper functions across shell scripts
+- 2026-02-09 17:51: fix(docker): specify non-root user in runtime container
