@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-02-08 22:09: refactor(cli): simplify command dispatch loop
 - 2026-02-08 23:03: fix(config): ensure directory exists before writing state
 - 2026-02-09 12:52: refactor(cli): simplify command dispatch loop
+- 2026-02-09 13:41: feat(security): add permission auditing script for local binaries
