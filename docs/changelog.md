@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-02-09 18:09: test(daemon): verify supervisor restarts crashed processes
 - 2026-02-09 20:08: feat(docker): optimize multi-stage build layers
 - 2026-02-09 22:03: feat(sync): add rsync-based remote directory mirror utility
+- 2026-02-10 11:49: fix(docker): specify non-root user in runtime container
