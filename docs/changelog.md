@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2026-02-10 11:49: fix(docker): specify non-root user in runtime container
 - 2026-02-10 15:42: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-02-10 17:34: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-02-10 21:14: fix(cli): exit with non-zero status code on unknown command
