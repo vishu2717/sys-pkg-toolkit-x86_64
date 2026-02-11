@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2026-02-10 22:44: feat(cli): add command-line argument parser for daemon
 - 2026-02-11 10:13: test(proc): assert exit codes under simulated failures
 - 2026-02-11 13:20: docs: document environment variables and override flags
+- 2026-02-11 15:32: refactor(config): migrate global settings to immutable dataclass
