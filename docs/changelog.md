@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2026-02-10 21:14: fix(cli): exit with non-zero status code on unknown command
 - 2026-02-10 22:44: feat(cli): add command-line argument parser for daemon
 - 2026-02-11 10:13: test(proc): assert exit codes under simulated failures
+- 2026-02-11 13:20: docs: document environment variables and override flags
