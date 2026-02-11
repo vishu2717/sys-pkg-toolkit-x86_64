@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2026-02-11 17:52: refactor(daemon): separate socket listening from worker queue
 - 2026-02-11 19:38: feat(daemon): add background heartbeat and ping interval
 - 2026-02-11 20:09: feat(config): add JSON and YAML configuration loader
+- 2026-02-11 22:09: refactor(monitor): optimize sampling frequency and buffer size
