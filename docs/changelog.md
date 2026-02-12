@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2026-02-12 14:47: feat(daemon): add background heartbeat and ping interval
 - 2026-02-12 15:52: feat(proc): add process supervisor with automatic restart
 - 2026-02-12 16:52: test(cli): add unit test coverage for argument parsing
+- 2026-02-12 17:12: fix(config): ensure directory exists before writing state
