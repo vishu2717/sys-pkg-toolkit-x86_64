@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2026-02-12 18:27: docs: add architecture specification for daemon supervisor
 - 2026-02-12 18:43: fix(cli): exit with non-zero status code on unknown command
 - 2026-02-12 19:00: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-02-12 19:38: test(daemon): verify supervisor restarts crashed processes
