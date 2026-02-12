@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2026-02-12 10:25: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-02-12 10:52: feat(daemon): add background heartbeat and ping interval
 - 2026-02-12 11:23: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-02-12 13:31: refactor(cli): simplify command dispatch loop
