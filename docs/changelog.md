@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2026-02-12 20:25: test(daemon): verify supervisor restarts crashed processes
 - 2026-02-13 10:59: feat(cli): add command-line argument parser for daemon
 - 2026-02-13 11:10: fix(docker): specify non-root user in runtime container
+- 2026-02-13 12:17: fix(monitor): resolve division by zero on idle cpu calculation
