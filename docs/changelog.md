@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2026-02-13 11:10: fix(docker): specify non-root user in runtime container
 - 2026-02-13 12:17: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-02-13 12:44: fix(proc): prevent zombie process reaping race condition
+- 2026-02-13 14:18: refactor(config): migrate global settings to immutable dataclass
