@@ -238,3 +238,7 @@ def daemon_heartbeat():
 def daemon_heartbeat():
     '''Emit periodic heartbeat signal.'''
     return {'status': 'healthy', 'time': time.time()}
+
+def daemon_heartbeat():
+    '''Emit periodic heartbeat signal.'''
+    return {'status': 'healthy', 'time': time.time()}
