@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-02-12 19:38: test(daemon): verify supervisor restarts crashed processes
 - 2026-02-12 19:47: feat(sync): add rsync-based remote directory mirror utility
 - 2026-02-12 20:25: test(daemon): verify supervisor restarts crashed processes
+- 2026-02-13 10:59: feat(cli): add command-line argument parser for daemon
