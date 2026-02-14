@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2026-02-13 17:38: feat(sync): add rsync-based remote directory mirror utility
 - 2026-02-13 17:51: docs: update system administration runbooks and troubleshooting
 - 2026-02-13 23:02: test(cli): add unit test coverage for argument parsing
+- 2026-02-14 10:20: refactor(cli): simplify command dispatch loop
