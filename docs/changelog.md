@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2026-02-14 16:54: fix(proc): prevent zombie process reaping race condition
 - 2026-02-14 17:18: test(scripts): add bats verification for setup scripts
 - 2026-02-14 18:06: refactor(config): migrate global settings to immutable dataclass
+- 2026-02-14 22:50: docs: update system administration runbooks and troubleshooting
