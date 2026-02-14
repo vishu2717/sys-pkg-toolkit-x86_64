@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2026-02-14 11:25: feat(metrics): track memory usage and cpu thread statistics
 - 2026-02-14 12:14: feat(docker): optimize multi-stage build layers
 - 2026-02-14 15:18: fix(cli): exit with non-zero status code on unknown command
+- 2026-02-14 16:54: fix(proc): prevent zombie process reaping race condition
