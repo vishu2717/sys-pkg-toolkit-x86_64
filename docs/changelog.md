@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2026-02-15 16:59: refactor(daemon): separate socket listening from worker queue
 - 2026-02-15 18:10: fix(cli): exit with non-zero status code on unknown command
 - 2026-02-15 19:44: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-02-15 20:32: feat(cli): add command-line argument parser for daemon
