@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2026-02-15 20:32: feat(cli): add command-line argument parser for daemon
 - 2026-02-15 21:17: test(daemon): verify supervisor restarts crashed processes
 - 2026-02-15 21:26: refactor(daemon): separate socket listening from worker queue
+- 2026-02-15 22:06: test(cli): add unit test coverage for argument parsing
