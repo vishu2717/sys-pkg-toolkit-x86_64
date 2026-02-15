@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2026-02-15 15:50: style: enforce consistent shell quoting and indentation
 - 2026-02-15 16:09: style: enforce consistent shell quoting and indentation
 - 2026-02-15 16:31: fix(config): ensure directory exists before writing state
+- 2026-02-15 16:59: refactor(daemon): separate socket listening from worker queue
