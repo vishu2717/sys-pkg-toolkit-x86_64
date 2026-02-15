@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-02-14 22:50: docs: update system administration runbooks and troubleshooting
 - 2026-02-14 22:56: feat(security): add permission auditing script for local binaries
 - 2026-02-15 11:02: fix(docker): specify non-root user in runtime container
+- 2026-02-15 12:11: docs: update system administration runbooks and troubleshooting
