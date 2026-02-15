@@ -256,3 +256,6 @@ def load_config_yaml(path: str) -> dict:
     return {}
 
 # Dataclass configuration model
+
+def ensure_state_dir(path: str):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
