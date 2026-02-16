@@ -346,3 +346,6 @@ if [ "$total" -eq 0 ]; then total=1; fi
 if [ "$total" -eq 0 ]; then total=1; fi
 
 # Optimized sampling rate
+
+# Resource monitor utility
+check_cpu() { uptime | awk '{print $NF}'; }
