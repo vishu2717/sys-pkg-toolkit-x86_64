@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-02-15 22:06: test(cli): add unit test coverage for argument parsing
 - 2026-02-15 23:21: feat(security): add permission auditing script for local binaries
 - 2026-02-16 10:13: fix(bash): escape arguments in deployment script
+- 2026-02-16 11:10: fix(config): ensure directory exists before writing state
