@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2026-02-16 16:43: feat(metrics): track memory usage and cpu thread statistics
 - 2026-02-16 18:43: feat(docker): optimize multi-stage build layers
 - 2026-02-16 19:13: test(proc): assert exit codes under simulated failures
+- 2026-02-16 19:54: docs: document environment variables and override flags
