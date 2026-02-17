@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2026-02-16 19:13: test(proc): assert exit codes under simulated failures
 - 2026-02-16 19:54: docs: document environment variables and override flags
 - 2026-02-16 21:11: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-02-17 15:59: docs: update changelog with recent utility enhancements
