@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2026-02-17 16:05: feat(proc): add process supervisor with automatic restart
 - 2026-02-17 18:12: feat(proc): add process supervisor with automatic restart
 - 2026-02-17 20:40: feat(sync): add rsync-based remote directory mirror utility
+- 2026-02-17 23:22: test(daemon): verify supervisor restarts crashed processes
