@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2026-02-16 21:11: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-02-17 15:59: docs: update changelog with recent utility enhancements
 - 2026-02-17 16:05: feat(proc): add process supervisor with automatic restart
+- 2026-02-17 18:12: feat(proc): add process supervisor with automatic restart
