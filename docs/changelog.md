@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2026-02-18 20:14: feat(daemon): add background heartbeat and ping interval
 - 2026-02-18 20:44: feat(cli): add command-line argument parser for daemon
 - 2026-02-18 21:15: refactor(daemon): separate socket listening from worker queue
+- 2026-02-18 21:53: refactor(config): migrate global settings to immutable dataclass
