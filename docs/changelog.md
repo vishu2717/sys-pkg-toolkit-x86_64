@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2026-02-18 16:39: test(scripts): add bats verification for setup scripts
 - 2026-02-18 18:00: feat(monitor): implement system resource tracking utility
 - 2026-02-18 18:27: test(proc): assert exit codes under simulated failures
+- 2026-02-18 18:45: test(daemon): verify supervisor restarts crashed processes
