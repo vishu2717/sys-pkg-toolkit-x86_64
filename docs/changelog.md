@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2026-02-17 23:22: test(daemon): verify supervisor restarts crashed processes
 - 2026-02-18 12:42: feat(shell): implement safe pipe execution helper
 - 2026-02-18 14:50: feat(env): add automated dotfiles symlink manager
+- 2026-02-18 16:39: test(scripts): add bats verification for setup scripts
