@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2026-02-18 21:15: refactor(daemon): separate socket listening from worker queue
 - 2026-02-18 21:53: refactor(config): migrate global settings to immutable dataclass
 - 2026-02-18 23:18: feat(monitor): implement system resource tracking utility
+- 2026-02-20 20:58: feat(deploy): implement zero-downtime rolling reload
