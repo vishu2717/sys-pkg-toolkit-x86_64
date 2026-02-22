@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2026-02-22 12:37: test(proc): assert exit codes under simulated failures
 - 2026-02-22 12:42: feat(cli): add command-line argument parser for daemon
 - 2026-02-22 13:03: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-02-22 15:40: feat(sync): add rsync-based remote directory mirror utility
