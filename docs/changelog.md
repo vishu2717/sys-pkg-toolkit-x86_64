@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2026-02-18 23:18: feat(monitor): implement system resource tracking utility
 - 2026-02-20 20:58: feat(deploy): implement zero-downtime rolling reload
 - 2026-02-22 10:00: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-02-22 10:08: feat(cli): add command-line argument parser for daemon
