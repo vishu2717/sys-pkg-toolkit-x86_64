@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-02-22 10:08: feat(cli): add command-line argument parser for daemon
 - 2026-02-22 10:51: feat(security): add permission auditing script for local binaries
 - 2026-02-22 11:08: fix(cli): exit with non-zero status code on unknown command
+- 2026-02-22 12:37: test(proc): assert exit codes under simulated failures
