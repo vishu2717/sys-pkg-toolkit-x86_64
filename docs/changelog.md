@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2026-02-23 21:09: docs: update system administration runbooks and troubleshooting
 - 2026-02-23 22:43: test(cli): add unit test coverage for argument parsing
 - 2026-02-23 22:53: fix(cli): exit with non-zero status code on unknown command
+- 2026-02-23 23:04: feat(metrics): track memory usage and cpu thread statistics
