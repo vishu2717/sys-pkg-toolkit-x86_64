@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2026-02-23 19:50: refactor(scripts): modularize helper functions across shell scripts
 - 2026-02-23 20:18: fix(bash): escape arguments in deployment script
 - 2026-02-23 20:47: fix(config): ensure directory exists before writing state
+- 2026-02-23 21:09: docs: update system administration runbooks and troubleshooting
