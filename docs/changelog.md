@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2026-02-23 14:04: feat(security): add permission auditing script for local binaries
 - 2026-02-23 14:20: chore: update base container image to latest alpine
 - 2026-02-23 14:32: docs: document environment variables and override flags
+- 2026-02-23 15:03: feat(config): add JSON and YAML configuration loader
