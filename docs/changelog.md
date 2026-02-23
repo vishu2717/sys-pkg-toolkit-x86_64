@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2026-02-23 14:32: docs: document environment variables and override flags
 - 2026-02-23 15:03: feat(config): add JSON and YAML configuration loader
 - 2026-02-23 19:36: fix(proc): prevent zombie process reaping race condition
+- 2026-02-23 19:50: refactor(scripts): modularize helper functions across shell scripts
