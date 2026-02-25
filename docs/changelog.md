@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-02-25 21:41: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-02-25 22:44: fix(bash): escape arguments in deployment script
 - 2026-02-25 22:46: docs: update system administration runbooks and troubleshooting
+- 2026-02-25 22:57: style: enforce consistent shell quoting and indentation
