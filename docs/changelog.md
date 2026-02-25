@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2026-02-23 23:04: feat(metrics): track memory usage and cpu thread statistics
 - 2026-02-25 12:09: feat(config): add JSON and YAML configuration loader
 - 2026-02-25 13:32: fix(bash): escape arguments in deployment script
+- 2026-02-25 21:41: fix(daemon): gracefully handle sigterm during log rotation
