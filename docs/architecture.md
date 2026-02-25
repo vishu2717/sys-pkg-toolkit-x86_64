@@ -229,3 +229,6 @@ Supported environment variables and daemon override flags.
 
 ### Runbook & Troubleshooting
 Instructions for operational triage and cluster recovery.
+
+### Runbook & Troubleshooting
+Instructions for operational triage and cluster recovery.
