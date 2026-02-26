@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-02-26 14:18: fix(cli): exit with non-zero status code on unknown command
 - 2026-02-26 16:28: feat(proc): add process supervisor with automatic restart
 - 2026-02-26 18:44: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-02-26 19:30: fix(monitor): resolve division by zero on idle cpu calculation
