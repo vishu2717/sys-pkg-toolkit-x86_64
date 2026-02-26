@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2026-02-26 13:10: test(proc): assert exit codes under simulated failures
 - 2026-02-26 13:34: test(cli): add unit test coverage for argument parsing
 - 2026-02-26 14:18: fix(cli): exit with non-zero status code on unknown command
+- 2026-02-26 16:28: feat(proc): add process supervisor with automatic restart
