@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2026-02-25 22:57: style: enforce consistent shell quoting and indentation
 - 2026-02-26 10:12: feat(config): add JSON and YAML configuration loader
 - 2026-02-26 12:47: test(daemon): verify supervisor restarts crashed processes
+- 2026-02-26 13:10: test(proc): assert exit codes under simulated failures
