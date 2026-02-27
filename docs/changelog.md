@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2026-02-26 22:09: refactor(config): migrate global settings to immutable dataclass
 - 2026-02-27 11:06: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-02-27 12:55: feat(security): add permission auditing script for local binaries
+- 2026-02-27 15:15: test(cli): add unit test coverage for argument parsing
