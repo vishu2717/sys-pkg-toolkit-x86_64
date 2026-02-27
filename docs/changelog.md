@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2026-02-27 15:15: test(cli): add unit test coverage for argument parsing
 - 2026-02-27 16:25: feat(config): add JSON and YAML configuration loader
 - 2026-02-27 16:55: docs: add architecture specification for daemon supervisor
+- 2026-02-27 20:38: refactor(scripts): modularize helper functions across shell scripts
