@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2026-02-28 15:55: docs: add architecture specification for daemon supervisor
 - 2026-02-28 17:36: test(scripts): add bats verification for setup scripts
 - 2026-02-28 19:27: test(cli): add unit test coverage for argument parsing
+- 2026-02-28 20:41: feat(shell): implement safe pipe execution helper
