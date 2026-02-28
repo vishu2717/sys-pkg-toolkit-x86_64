@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2026-02-27 20:38: refactor(scripts): modularize helper functions across shell scripts
 - 2026-02-27 22:56: docs: update changelog with recent utility enhancements
 - 2026-02-28 10:51: test(cli): add unit test coverage for argument parsing
+- 2026-02-28 11:06: fix(proc): prevent zombie process reaping race condition
