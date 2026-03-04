@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2026-03-04 14:10: fix(docker): specify non-root user in runtime container
 - 2026-03-04 16:09: docs: document environment variables and override flags
 - 2026-03-04 16:16: fix(config): ensure directory exists before writing state
+- 2026-03-04 16:24: test(scripts): add bats verification for setup scripts
