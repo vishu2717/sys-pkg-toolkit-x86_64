@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2026-03-03 19:20: feat(config): add JSON and YAML configuration loader
 - 2026-03-04 11:18: feat(env): add automated dotfiles symlink manager
 - 2026-03-04 14:10: fix(docker): specify non-root user in runtime container
+- 2026-03-04 16:09: docs: document environment variables and override flags
