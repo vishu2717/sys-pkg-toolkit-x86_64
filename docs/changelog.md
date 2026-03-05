@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2026-03-04 16:24: test(scripts): add bats verification for setup scripts
 - 2026-03-04 18:02: feat(deploy): implement zero-downtime rolling reload
 - 2026-03-04 20:53: fix(config): ensure directory exists before writing state
+- 2026-03-05 11:36: feat(docker): optimize multi-stage build layers
