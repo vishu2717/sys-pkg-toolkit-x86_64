@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2026-03-06 18:03: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-03-06 19:51: test(proc): assert exit codes under simulated failures
 - 2026-03-06 20:29: fix(docker): specify non-root user in runtime container
+- 2026-03-06 21:03: refactor(config): migrate global settings to immutable dataclass
