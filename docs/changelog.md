@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2026-03-06 11:26: feat(proc): add process supervisor with automatic restart
 - 2026-03-06 14:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-03-06 15:45: test(cli): add unit test coverage for argument parsing
+- 2026-03-06 18:03: fix(monitor): resolve division by zero on idle cpu calculation
