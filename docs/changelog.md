@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2026-03-05 11:54: feat(metrics): track memory usage and cpu thread statistics
 - 2026-03-05 20:56: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-05 21:49: chore: configure shellcheck and ruff linter hooks
+- 2026-03-06 11:26: feat(proc): add process supervisor with automatic restart
