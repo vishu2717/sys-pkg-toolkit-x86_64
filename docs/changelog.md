@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2026-03-10 13:29: chore: configure shellcheck and ruff linter hooks
 - 2026-03-10 18:06: feat(cli): add command-line argument parser for daemon
 - 2026-03-10 18:13: fix(docker): specify non-root user in runtime container
+- 2026-03-10 21:51: docs: update changelog with recent utility enhancements
