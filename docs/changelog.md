@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2026-03-08 19:47: feat(daemon): add background heartbeat and ping interval
 - 2026-03-10 13:29: chore: configure shellcheck and ruff linter hooks
 - 2026-03-10 18:06: feat(cli): add command-line argument parser for daemon
+- 2026-03-10 18:13: fix(docker): specify non-root user in runtime container
