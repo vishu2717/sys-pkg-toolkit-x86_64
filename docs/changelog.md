@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2026-03-11 16:04: test(scripts): add bats verification for setup scripts
 - 2026-03-11 19:36: feat(docker): optimize multi-stage build layers
 - 2026-03-11 21:19: feat(shell): implement safe pipe execution helper
+- 2026-03-11 21:57: refactor(scripts): modularize helper functions across shell scripts
