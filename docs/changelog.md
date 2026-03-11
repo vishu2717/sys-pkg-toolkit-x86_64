@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2026-03-11 11:06: perf: reduce process spawn latency using fork pool
 - 2026-03-11 11:47: test(scripts): add bats verification for setup scripts
 - 2026-03-11 12:28: feat(monitor): implement system resource tracking utility
+- 2026-03-11 13:35: feat(proc): add process supervisor with automatic restart
