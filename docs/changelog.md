@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-03-12 11:42: fix(config): ensure directory exists before writing state
 - 2026-03-12 14:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-03-12 15:57: fix(proc): prevent zombie process reaping race condition
+- 2026-03-12 16:49: feat(monitor): implement system resource tracking utility
