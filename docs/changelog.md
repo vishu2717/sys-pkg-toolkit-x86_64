@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2026-03-12 23:28: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-13 10:05: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-13 13:40: feat(metrics): track memory usage and cpu thread statistics
+- 2026-03-14 11:48: test(scripts): add bats verification for setup scripts
