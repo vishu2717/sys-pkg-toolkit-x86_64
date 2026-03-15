@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-03-15 10:28: fix(bash): escape arguments in deployment script
 - 2026-03-15 18:56: docs: document environment variables and override flags
 - 2026-03-15 18:59: feat(deploy): implement zero-downtime rolling reload
+- 2026-03-15 22:26: feat(sync): add rsync-based remote directory mirror utility
