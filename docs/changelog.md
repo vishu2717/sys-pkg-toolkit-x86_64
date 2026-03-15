@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2026-03-14 11:48: test(scripts): add bats verification for setup scripts
 - 2026-03-14 20:46: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-03-15 10:13: test(scripts): add bats verification for setup scripts
+- 2026-03-15 10:28: fix(bash): escape arguments in deployment script
