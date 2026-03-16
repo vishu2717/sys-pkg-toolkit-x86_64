@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-03-16 10:46: test(scripts): add bats verification for setup scripts
 - 2026-03-16 14:25: test(cli): add unit test coverage for argument parsing
 - 2026-03-16 15:53: feat(env): add automated dotfiles symlink manager
+- 2026-03-16 18:17: fix(bash): escape arguments in deployment script
