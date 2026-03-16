@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-03-15 18:59: feat(deploy): implement zero-downtime rolling reload
 - 2026-03-15 22:26: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-15 22:45: refactor(scripts): modularize helper functions across shell scripts
+- 2026-03-16 10:46: test(scripts): add bats verification for setup scripts
