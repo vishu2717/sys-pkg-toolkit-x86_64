@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2026-03-16 15:53: feat(env): add automated dotfiles symlink manager
 - 2026-03-16 18:17: fix(bash): escape arguments in deployment script
 - 2026-03-16 20:19: feat(metrics): track memory usage and cpu thread statistics
+- 2026-03-16 23:01: docs: document environment variables and override flags
