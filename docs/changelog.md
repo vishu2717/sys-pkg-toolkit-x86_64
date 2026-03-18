@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-03-16 23:13: chore: configure shellcheck and ruff linter hooks
 - 2026-03-18 14:20: feat(env): add automated dotfiles symlink manager
 - 2026-03-18 17:06: feat(metrics): track memory usage and cpu thread statistics
+- 2026-03-18 17:19: refactor(scripts): modularize helper functions across shell scripts
