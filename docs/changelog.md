@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2026-03-19 20:43: refactor(config): migrate global settings to immutable dataclass
 - 2026-03-19 23:23: test(daemon): verify supervisor restarts crashed processes
 - 2026-03-20 11:33: docs: add architecture specification for daemon supervisor
+- 2026-03-20 13:40: feat(monitor): implement system resource tracking utility
