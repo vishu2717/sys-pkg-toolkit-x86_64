@@ -380,3 +380,4 @@ All historical revisions and engineering milestones.
 - 2026-03-20 14:45: feat(config): add JSON and YAML configuration loader
 - 2026-03-20 15:48: refactor(daemon): separate socket listening from worker queue
 - 2026-03-20 16:02: test(daemon): verify supervisor restarts crashed processes
+- 2026-03-20 16:04: fix(daemon): gracefully handle sigterm during log rotation
