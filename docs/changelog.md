@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2026-03-21 19:41: feat(daemon): add background heartbeat and ping interval
 - 2026-03-21 20:41: feat(env): add automated dotfiles symlink manager
 - 2026-03-21 21:02: feat(daemon): add background heartbeat and ping interval
+- 2026-03-21 21:52: refactor(scripts): modularize helper functions across shell scripts
