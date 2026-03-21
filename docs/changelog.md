@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2026-03-20 16:02: test(daemon): verify supervisor restarts crashed processes
 - 2026-03-20 16:04: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-03-20 19:40: docs: document environment variables and override flags
+- 2026-03-21 12:51: feat(security): add permission auditing script for local binaries
