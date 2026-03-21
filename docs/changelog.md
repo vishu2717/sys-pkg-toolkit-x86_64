@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-03-21 21:02: feat(daemon): add background heartbeat and ping interval
 - 2026-03-21 21:52: refactor(scripts): modularize helper functions across shell scripts
 - 2026-03-21 22:07: fix(config): ensure directory exists before writing state
+- 2026-03-21 22:37: fix(proc): prevent zombie process reaping race condition
