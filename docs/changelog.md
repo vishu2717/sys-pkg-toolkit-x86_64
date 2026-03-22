@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2026-03-21 23:12: feat(daemon): add background heartbeat and ping interval
 - 2026-03-22 10:22: feat(deploy): implement zero-downtime rolling reload
 - 2026-03-22 11:42: feat(proc): add process supervisor with automatic restart
+- 2026-03-22 13:03: fix(docker): specify non-root user in runtime container
