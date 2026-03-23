@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2026-03-22 22:53: feat(env): add automated dotfiles symlink manager
 - 2026-03-23 11:34: fix(docker): specify non-root user in runtime container
 - 2026-03-23 14:09: feat(proc): add process supervisor with automatic restart
+- 2026-03-23 14:33: refactor(cli): simplify command dispatch loop
