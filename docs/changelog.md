@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2026-03-22 17:23: fix(docker): specify non-root user in runtime container
 - 2026-03-22 19:18: refactor(config): migrate global settings to immutable dataclass
 - 2026-03-22 22:53: feat(env): add automated dotfiles symlink manager
+- 2026-03-23 11:34: fix(docker): specify non-root user in runtime container
