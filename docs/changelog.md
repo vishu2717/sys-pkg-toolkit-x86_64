@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-03-23 14:33: refactor(cli): simplify command dispatch loop
 - 2026-03-23 20:26: fix(cli): exit with non-zero status code on unknown command
 - 2026-03-24 10:55: feat(monitor): implement system resource tracking utility
+- 2026-03-24 12:08: refactor(config): migrate global settings to immutable dataclass
