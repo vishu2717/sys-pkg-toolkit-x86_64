@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2026-03-23 20:26: fix(cli): exit with non-zero status code on unknown command
 - 2026-03-24 10:55: feat(monitor): implement system resource tracking utility
 - 2026-03-24 12:08: refactor(config): migrate global settings to immutable dataclass
+- 2026-03-24 17:29: test(cli): add unit test coverage for argument parsing
