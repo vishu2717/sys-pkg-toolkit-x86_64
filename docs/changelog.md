@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2026-03-25 22:13: refactor(scripts): modularize helper functions across shell scripts
 - 2026-03-25 22:30: feat(env): add automated dotfiles symlink manager
 - 2026-03-25 22:39: fix(docker): specify non-root user in runtime container
+- 2026-03-25 22:58: feat(env): add automated dotfiles symlink manager
