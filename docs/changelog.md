@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2026-03-24 10:55: feat(monitor): implement system resource tracking utility
 - 2026-03-24 12:08: refactor(config): migrate global settings to immutable dataclass
 - 2026-03-24 17:29: test(cli): add unit test coverage for argument parsing
+- 2026-03-25 10:33: perf: reduce process spawn latency using fork pool
