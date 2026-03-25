@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-03-25 10:33: perf: reduce process spawn latency using fork pool
 - 2026-03-25 13:36: feat(metrics): track memory usage and cpu thread statistics
 - 2026-03-25 14:34: docs: add architecture specification for daemon supervisor
+- 2026-03-25 15:28: test(daemon): verify supervisor restarts crashed processes
