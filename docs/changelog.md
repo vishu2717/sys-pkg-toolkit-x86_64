@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-03-25 15:28: test(daemon): verify supervisor restarts crashed processes
 - 2026-03-25 19:11: fix(proc): prevent zombie process reaping race condition
 - 2026-03-25 22:13: refactor(scripts): modularize helper functions across shell scripts
+- 2026-03-25 22:30: feat(env): add automated dotfiles symlink manager
