@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2026-03-25 22:58: feat(env): add automated dotfiles symlink manager
 - 2026-03-25 23:12: feat(metrics): track memory usage and cpu thread statistics
 - 2026-03-26 10:14: fix(bash): escape arguments in deployment script
+- 2026-03-26 10:48: fix(daemon): gracefully handle sigterm during log rotation
