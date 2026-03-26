@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2026-03-26 15:58: feat(shell): implement safe pipe execution helper
 - 2026-03-26 16:31: refactor(cli): simplify command dispatch loop
 - 2026-03-26 17:55: refactor(daemon): separate socket listening from worker queue
+- 2026-03-26 21:00: refactor(config): migrate global settings to immutable dataclass
