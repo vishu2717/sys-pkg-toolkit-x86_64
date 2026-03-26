@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-03-26 10:14: fix(bash): escape arguments in deployment script
 - 2026-03-26 10:48: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-03-26 11:18: docs: document environment variables and override flags
+- 2026-03-26 15:09: docs: update changelog with recent utility enhancements
