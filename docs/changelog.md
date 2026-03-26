@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-03-26 21:00: refactor(config): migrate global settings to immutable dataclass
 - 2026-03-26 21:56: feat(cli): add command-line argument parser for daemon
 - 2026-03-26 22:05: feat(daemon): add background heartbeat and ping interval
+- 2026-03-26 23:04: refactor(monitor): optimize sampling frequency and buffer size
