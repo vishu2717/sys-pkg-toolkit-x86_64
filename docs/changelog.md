@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-03-27 13:49: refactor(cli): simplify command dispatch loop
 - 2026-03-27 14:33: test(proc): assert exit codes under simulated failures
 - 2026-03-27 17:12: perf: reduce process spawn latency using fork pool
+- 2026-03-27 21:04: feat(cli): add command-line argument parser for daemon
