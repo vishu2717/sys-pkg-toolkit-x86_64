@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-03-26 22:05: feat(daemon): add background heartbeat and ping interval
 - 2026-03-26 23:04: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-03-26 23:09: feat(shell): implement safe pipe execution helper
+- 2026-03-27 10:15: fix(proc): prevent zombie process reaping race condition
