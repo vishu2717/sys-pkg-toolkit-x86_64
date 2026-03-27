@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2026-03-27 12:30: test(cli): add unit test coverage for argument parsing
 - 2026-03-27 13:49: refactor(cli): simplify command dispatch loop
 - 2026-03-27 14:33: test(proc): assert exit codes under simulated failures
+- 2026-03-27 17:12: perf: reduce process spawn latency using fork pool
