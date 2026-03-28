@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2026-03-27 21:04: feat(cli): add command-line argument parser for daemon
 - 2026-03-28 10:46: fix(cli): exit with non-zero status code on unknown command
 - 2026-03-28 10:53: refactor(cli): simplify command dispatch loop
+- 2026-03-28 11:18: refactor(daemon): separate socket listening from worker queue
