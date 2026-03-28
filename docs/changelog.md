@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2026-03-28 11:18: refactor(daemon): separate socket listening from worker queue
 - 2026-03-28 11:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-03-28 12:09: feat(monitor): implement system resource tracking utility
+- 2026-03-28 15:49: refactor(monitor): optimize sampling frequency and buffer size
