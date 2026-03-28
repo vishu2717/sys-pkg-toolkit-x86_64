@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2026-03-28 15:49: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-03-28 18:37: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-28 18:59: feat(shell): implement safe pipe execution helper
+- 2026-03-28 20:42: feat(config): add JSON and YAML configuration loader
