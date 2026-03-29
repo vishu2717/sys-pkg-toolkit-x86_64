@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2026-03-29 11:14: feat(monitor): implement system resource tracking utility
 - 2026-03-29 12:16: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-03-29 13:36: docs: update changelog with recent utility enhancements
+- 2026-03-29 19:39: refactor(scripts): modularize helper functions across shell scripts
