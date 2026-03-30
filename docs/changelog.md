@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2026-03-30 21:47: feat(security): add permission auditing script for local binaries
 - 2026-03-30 22:33: fix(config): ensure directory exists before writing state
 - 2026-03-30 22:40: refactor(config): migrate global settings to immutable dataclass
+- 2026-03-30 23:17: feat(deploy): implement zero-downtime rolling reload
