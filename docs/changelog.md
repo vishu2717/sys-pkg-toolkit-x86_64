@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-03-30 22:40: refactor(config): migrate global settings to immutable dataclass
 - 2026-03-30 23:17: feat(deploy): implement zero-downtime rolling reload
 - 2026-03-30 23:19: test(cli): add unit test coverage for argument parsing
+- 2026-03-30 23:22: feat(shell): implement safe pipe execution helper
