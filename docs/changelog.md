@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2026-03-30 14:39: feat(metrics): track memory usage and cpu thread statistics
 - 2026-03-30 15:30: test(daemon): verify supervisor restarts crashed processes
 - 2026-03-30 19:18: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-03-30 20:03: feat(env): add automated dotfiles symlink manager
