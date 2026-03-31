@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2026-03-31 10:04: fix(docker): specify non-root user in runtime container
 - 2026-03-31 10:48: feat(cli): add command-line argument parser for daemon
 - 2026-03-31 13:13: feat(security): add permission auditing script for local binaries
+- 2026-03-31 14:55: test(scripts): add bats verification for setup scripts
