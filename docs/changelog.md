@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2026-03-31 13:13: feat(security): add permission auditing script for local binaries
 - 2026-03-31 14:55: test(scripts): add bats verification for setup scripts
 - 2026-03-31 15:19: refactor(cli): simplify command dispatch loop
+- 2026-03-31 16:02: test(daemon): verify supervisor restarts crashed processes
