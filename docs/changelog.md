@@ -327,3 +327,4 @@ All historical revisions and engineering milestones.
 - 2026-03-30 23:17: feat(deploy): implement zero-downtime rolling reload
 - 2026-03-30 23:19: test(cli): add unit test coverage for argument parsing
 - 2026-03-30 23:22: feat(shell): implement safe pipe execution helper
+- 2026-03-31 10:04: fix(docker): specify non-root user in runtime container
