@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2026-03-31 16:02: test(daemon): verify supervisor restarts crashed processes
 - 2026-03-31 18:55: feat(sync): add rsync-based remote directory mirror utility
 - 2026-03-31 20:32: feat(env): add automated dotfiles symlink manager
+- 2026-03-31 22:05: feat(shell): implement safe pipe execution helper
