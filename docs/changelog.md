@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-04-03 14:27: fix(proc): prevent zombie process reaping race condition
 - 2026-04-03 14:51: fix(docker): specify non-root user in runtime container
 - 2026-04-03 20:57: feat(deploy): implement zero-downtime rolling reload
+- 2026-04-03 22:09: docs: document environment variables and override flags
