@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2026-04-01 18:37: test(scripts): add bats verification for setup scripts
 - 2026-04-03 10:39: refactor(daemon): separate socket listening from worker queue
 - 2026-04-03 14:26: feat(metrics): track memory usage and cpu thread statistics
+- 2026-04-03 14:27: fix(proc): prevent zombie process reaping race condition
