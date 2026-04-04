@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2026-04-03 22:09: docs: document environment variables and override flags
 - 2026-04-03 23:02: fix(config): ensure directory exists before writing state
 - 2026-04-04 10:13: feat(sync): add rsync-based remote directory mirror utility
+- 2026-04-04 10:42: feat(env): add automated dotfiles symlink manager
