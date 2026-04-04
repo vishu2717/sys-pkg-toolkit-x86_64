@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2026-04-04 11:46: feat(sync): add rsync-based remote directory mirror utility
 - 2026-04-04 15:49: test(scripts): add bats verification for setup scripts
 - 2026-04-04 15:56: feat(monitor): implement system resource tracking utility
+- 2026-04-04 16:18: fix(bash): escape arguments in deployment script
