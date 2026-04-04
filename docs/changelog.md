@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2026-04-04 10:13: feat(sync): add rsync-based remote directory mirror utility
 - 2026-04-04 10:42: feat(env): add automated dotfiles symlink manager
 - 2026-04-04 11:43: fix(config): ensure directory exists before writing state
+- 2026-04-04 11:46: feat(sync): add rsync-based remote directory mirror utility
