@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-04-04 16:18: fix(bash): escape arguments in deployment script
 - 2026-04-04 17:47: feat(config): add JSON and YAML configuration loader
 - 2026-04-04 18:50: feat(daemon): add background heartbeat and ping interval
+- 2026-04-05 10:07: fix(daemon): gracefully handle sigterm during log rotation
