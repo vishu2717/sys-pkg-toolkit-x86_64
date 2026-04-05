@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2026-04-05 13:36: feat(docker): optimize multi-stage build layers
 - 2026-04-05 14:40: refactor(cli): simplify command dispatch loop
 - 2026-04-05 18:06: test(daemon): verify supervisor restarts crashed processes
+- 2026-04-05 20:31: refactor(monitor): optimize sampling frequency and buffer size
