@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-04-04 18:50: feat(daemon): add background heartbeat and ping interval
 - 2026-04-05 10:07: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-04-05 10:09: fix(config): ensure directory exists before writing state
+- 2026-04-05 13:35: feat(proc): add process supervisor with automatic restart
