@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2026-04-05 20:31: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-06 10:07: feat(daemon): add background heartbeat and ping interval
 - 2026-04-06 12:08: fix(proc): prevent zombie process reaping race condition
+- 2026-04-06 14:41: test(scripts): add bats verification for setup scripts
