@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2026-04-05 18:06: test(daemon): verify supervisor restarts crashed processes
 - 2026-04-05 20:31: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-06 10:07: feat(daemon): add background heartbeat and ping interval
+- 2026-04-06 12:08: fix(proc): prevent zombie process reaping race condition
