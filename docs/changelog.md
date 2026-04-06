@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2026-04-06 10:07: feat(daemon): add background heartbeat and ping interval
 - 2026-04-06 12:08: fix(proc): prevent zombie process reaping race condition
 - 2026-04-06 14:41: test(scripts): add bats verification for setup scripts
+- 2026-04-06 19:21: fix(monitor): resolve division by zero on idle cpu calculation
