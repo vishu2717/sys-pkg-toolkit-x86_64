@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2026-04-07 10:10: feat(security): add permission auditing script for local binaries
 - 2026-04-07 11:08: feat(sync): add rsync-based remote directory mirror utility
 - 2026-04-07 11:21: refactor(daemon): separate socket listening from worker queue
+- 2026-04-07 12:59: refactor(monitor): optimize sampling frequency and buffer size
