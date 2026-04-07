@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2026-04-07 18:18: feat(deploy): implement zero-downtime rolling reload
 - 2026-04-07 18:28: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-07 18:40: refactor(daemon): separate socket listening from worker queue
+- 2026-04-07 23:25: test(cli): add unit test coverage for argument parsing
