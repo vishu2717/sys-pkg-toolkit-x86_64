@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-04-06 12:08: fix(proc): prevent zombie process reaping race condition
 - 2026-04-06 14:41: test(scripts): add bats verification for setup scripts
 - 2026-04-06 19:21: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-04-07 10:10: feat(security): add permission auditing script for local binaries
