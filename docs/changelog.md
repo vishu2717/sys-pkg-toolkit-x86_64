@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2026-04-07 11:21: refactor(daemon): separate socket listening from worker queue
 - 2026-04-07 12:59: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-07 13:01: fix(cli): exit with non-zero status code on unknown command
+- 2026-04-07 14:30: feat(proc): add process supervisor with automatic restart
