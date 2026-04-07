@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2026-04-07 14:30: feat(proc): add process supervisor with automatic restart
 - 2026-04-07 15:29: fix(docker): specify non-root user in runtime container
 - 2026-04-07 16:00: fix(cli): exit with non-zero status code on unknown command
+- 2026-04-07 16:15: fix(monitor): resolve division by zero on idle cpu calculation
