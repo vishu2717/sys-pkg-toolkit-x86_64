@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2026-04-09 16:22: fix(config): ensure directory exists before writing state
 - 2026-04-09 19:33: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-09 21:08: chore: configure shellcheck and ruff linter hooks
+- 2026-04-09 21:52: feat(metrics): track memory usage and cpu thread statistics
