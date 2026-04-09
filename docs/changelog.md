@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2026-04-08 16:35: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-08 22:50: feat(security): add permission auditing script for local binaries
 - 2026-04-09 14:54: test(daemon): verify supervisor restarts crashed processes
+- 2026-04-09 16:22: fix(config): ensure directory exists before writing state
