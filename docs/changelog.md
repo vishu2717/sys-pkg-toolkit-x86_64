@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-04-10 12:12: refactor(cli): simplify command dispatch loop
 - 2026-04-10 16:25: feat(shell): implement safe pipe execution helper
 - 2026-04-10 16:55: test(cli): add unit test coverage for argument parsing
+- 2026-04-10 21:52: refactor(scripts): modularize helper functions across shell scripts
