@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-04-09 21:52: feat(metrics): track memory usage and cpu thread statistics
 - 2026-04-09 22:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-10 12:12: refactor(cli): simplify command dispatch loop
+- 2026-04-10 16:25: feat(shell): implement safe pipe execution helper
