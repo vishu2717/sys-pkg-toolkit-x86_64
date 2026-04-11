@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2026-04-11 16:01: test(daemon): verify supervisor restarts crashed processes
 - 2026-04-11 17:02: feat(cli): add command-line argument parser for daemon
 - 2026-04-11 18:26: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-04-11 19:07: fix(config): ensure directory exists before writing state
