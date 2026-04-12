@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2026-04-12 11:12: fix(docker): specify non-root user in runtime container
 - 2026-04-12 11:37: fix(proc): prevent zombie process reaping race condition
 - 2026-04-12 11:38: test(proc): assert exit codes under simulated failures
+- 2026-04-12 12:05: test(cli): add unit test coverage for argument parsing
