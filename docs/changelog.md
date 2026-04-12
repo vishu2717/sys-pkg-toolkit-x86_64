@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-04-12 15:45: fix(bash): escape arguments in deployment script
 - 2026-04-12 16:07: test(proc): assert exit codes under simulated failures
 - 2026-04-12 18:15: fix(cli): exit with non-zero status code on unknown command
+- 2026-04-12 19:08: test(cli): add unit test coverage for argument parsing
