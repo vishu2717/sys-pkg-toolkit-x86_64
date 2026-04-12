@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-04-12 12:05: test(cli): add unit test coverage for argument parsing
 - 2026-04-12 15:15: chore: update base container image to latest alpine
 - 2026-04-12 15:18: feat(daemon): add background heartbeat and ping interval
+- 2026-04-12 15:45: fix(bash): escape arguments in deployment script
