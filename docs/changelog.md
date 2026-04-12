@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-04-11 18:26: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-04-11 19:07: fix(config): ensure directory exists before writing state
 - 2026-04-12 11:12: fix(docker): specify non-root user in runtime container
+- 2026-04-12 11:37: fix(proc): prevent zombie process reaping race condition
