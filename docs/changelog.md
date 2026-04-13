@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2026-04-13 16:35: feat(security): add permission auditing script for local binaries
 - 2026-04-13 18:40: test(proc): assert exit codes under simulated failures
 - 2026-04-13 20:09: fix(bash): escape arguments in deployment script
+- 2026-04-13 23:10: refactor(daemon): separate socket listening from worker queue
