@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-04-12 23:13: feat(deploy): implement zero-downtime rolling reload
 - 2026-04-13 13:38: feat(proc): add process supervisor with automatic restart
 - 2026-04-13 13:45: feat(cli): add command-line argument parser for daemon
+- 2026-04-13 16:35: feat(security): add permission auditing script for local binaries
