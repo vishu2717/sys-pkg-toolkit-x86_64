@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2026-04-12 21:13: test(proc): assert exit codes under simulated failures
 - 2026-04-12 22:27: feat(env): add automated dotfiles symlink manager
 - 2026-04-12 23:13: feat(deploy): implement zero-downtime rolling reload
+- 2026-04-13 13:38: feat(proc): add process supervisor with automatic restart
