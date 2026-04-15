@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2026-04-13 23:10: refactor(daemon): separate socket listening from worker queue
 - 2026-04-13 23:17: refactor(scripts): modularize helper functions across shell scripts
 - 2026-04-15 15:11: docs: add architecture specification for daemon supervisor
+- 2026-04-15 15:31: feat(env): add automated dotfiles symlink manager
