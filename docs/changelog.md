@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2026-04-15 15:31: feat(env): add automated dotfiles symlink manager
 - 2026-04-15 16:03: feat(cli): add command-line argument parser for daemon
 - 2026-04-15 19:07: refactor(config): migrate global settings to immutable dataclass
+- 2026-04-15 19:34: fix(bash): escape arguments in deployment script
