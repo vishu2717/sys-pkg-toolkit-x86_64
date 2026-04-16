@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2026-04-15 23:18: test(scripts): add bats verification for setup scripts
 - 2026-04-16 17:15: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-04-16 18:10: refactor(config): migrate global settings to immutable dataclass
+- 2026-04-16 18:44: refactor(scripts): modularize helper functions across shell scripts
