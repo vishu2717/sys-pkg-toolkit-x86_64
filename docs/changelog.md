@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-04-15 20:13: fix(docker): specify non-root user in runtime container
 - 2026-04-15 20:36: test(proc): assert exit codes under simulated failures
 - 2026-04-15 23:18: test(scripts): add bats verification for setup scripts
+- 2026-04-16 17:15: fix(daemon): gracefully handle sigterm during log rotation
