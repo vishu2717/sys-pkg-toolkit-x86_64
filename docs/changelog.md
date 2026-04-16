@@ -299,3 +299,4 @@ All historical revisions and engineering milestones.
 - 2026-04-16 19:13: feat(shell): implement safe pipe execution helper
 - 2026-04-16 21:05: feat(daemon): add background heartbeat and ping interval
 - 2026-04-16 21:16: test(daemon): verify supervisor restarts crashed processes
+- 2026-04-16 22:59: test(daemon): verify supervisor restarts crashed processes
