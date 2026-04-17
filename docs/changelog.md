@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 19:20: fix(config): ensure directory exists before writing state
 - 2026-04-17 21:10: fix(docker): specify non-root user in runtime container
 - 2026-04-17 21:43: feat(docker): optimize multi-stage build layers
+- 2026-04-17 22:13: fix(bash): escape arguments in deployment script
