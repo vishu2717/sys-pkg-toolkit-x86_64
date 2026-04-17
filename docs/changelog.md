@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 10:35: fix(cli): exit with non-zero status code on unknown command
 - 2026-04-17 11:55: docs: update changelog with recent utility enhancements
 - 2026-04-17 13:01: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-04-17 13:57: feat(monitor): implement system resource tracking utility
