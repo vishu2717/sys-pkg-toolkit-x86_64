@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 18:11: fix(config): ensure directory exists before writing state
 - 2026-04-17 18:54: feat(deploy): implement zero-downtime rolling reload
 - 2026-04-17 19:20: fix(config): ensure directory exists before writing state
+- 2026-04-17 21:10: fix(docker): specify non-root user in runtime container
