@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 13:01: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-17 13:57: feat(monitor): implement system resource tracking utility
 - 2026-04-17 15:34: feat(config): add JSON and YAML configuration loader
+- 2026-04-17 15:51: refactor(config): migrate global settings to immutable dataclass
