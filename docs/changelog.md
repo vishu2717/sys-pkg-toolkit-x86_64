@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 15:34: feat(config): add JSON and YAML configuration loader
 - 2026-04-17 15:51: refactor(config): migrate global settings to immutable dataclass
 - 2026-04-17 18:11: fix(config): ensure directory exists before writing state
+- 2026-04-17 18:54: feat(deploy): implement zero-downtime rolling reload
