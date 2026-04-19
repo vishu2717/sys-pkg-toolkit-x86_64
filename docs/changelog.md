@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2026-04-17 21:10: fix(docker): specify non-root user in runtime container
 - 2026-04-17 21:43: feat(docker): optimize multi-stage build layers
 - 2026-04-17 22:13: fix(bash): escape arguments in deployment script
+- 2026-04-19 10:12: fix(bash): escape arguments in deployment script
