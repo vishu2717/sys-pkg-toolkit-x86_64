@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2026-04-19 14:38: test(proc): assert exit codes under simulated failures
 - 2026-04-19 15:48: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-19 21:50: fix(config): ensure directory exists before writing state
+- 2026-04-19 22:57: feat(security): add permission auditing script for local binaries
