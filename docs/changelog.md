@@ -316,3 +316,4 @@ All historical revisions and engineering milestones.
 - 2026-04-19 10:20: feat(proc): add process supervisor with automatic restart
 - 2026-04-19 14:38: test(proc): assert exit codes under simulated failures
 - 2026-04-19 15:48: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-04-19 21:50: fix(config): ensure directory exists before writing state
