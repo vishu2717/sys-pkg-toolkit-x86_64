@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2026-04-19 22:57: feat(security): add permission auditing script for local binaries
 - 2026-04-23 11:03: fix(config): ensure directory exists before writing state
 - 2026-04-23 12:28: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-04-23 18:18: feat(env): add automated dotfiles symlink manager
