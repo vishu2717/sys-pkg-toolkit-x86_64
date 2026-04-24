@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-04-23 22:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-24 11:01: fix(docker): specify non-root user in runtime container
 - 2026-04-24 13:27: feat(cli): add command-line argument parser for daemon
+- 2026-04-24 15:18: test(daemon): verify supervisor restarts crashed processes
