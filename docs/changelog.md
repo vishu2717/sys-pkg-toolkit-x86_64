@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2026-04-25 11:58: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-25 13:08: docs: update changelog with recent utility enhancements
 - 2026-04-25 13:19: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-04-25 17:19: test(daemon): verify supervisor restarts crashed processes
