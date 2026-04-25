@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2026-04-24 21:04: feat(sync): add rsync-based remote directory mirror utility
 - 2026-04-25 11:58: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-25 13:08: docs: update changelog with recent utility enhancements
+- 2026-04-25 13:19: fix(monitor): resolve division by zero on idle cpu calculation
