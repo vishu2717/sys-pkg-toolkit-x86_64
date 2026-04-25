@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2026-04-25 13:19: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-25 17:19: test(daemon): verify supervisor restarts crashed processes
 - 2026-04-25 20:07: refactor(config): migrate global settings to immutable dataclass
+- 2026-04-25 21:17: feat(monitor): implement system resource tracking utility
