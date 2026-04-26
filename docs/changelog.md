@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2026-04-26 20:15: docs: update changelog with recent utility enhancements
 - 2026-04-26 21:30: docs: update system administration runbooks and troubleshooting
 - 2026-04-26 21:58: feat(daemon): add background heartbeat and ping interval
+- 2026-04-26 23:04: perf: reduce process spawn latency using fork pool
