@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2026-04-28 19:51: chore: update base container image to latest alpine
 - 2026-04-28 21:07: feat(proc): add process supervisor with automatic restart
 - 2026-04-28 21:24: refactor(config): migrate global settings to immutable dataclass
+- 2026-04-28 21:32: refactor(monitor): optimize sampling frequency and buffer size
