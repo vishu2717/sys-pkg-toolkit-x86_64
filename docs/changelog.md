@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-04-27 21:14: refactor(cli): simplify command dispatch loop
 - 2026-04-27 22:27: feat(metrics): track memory usage and cpu thread statistics
 - 2026-04-27 23:25: chore: update base container image to latest alpine
+- 2026-04-28 10:34: test(scripts): add bats verification for setup scripts
