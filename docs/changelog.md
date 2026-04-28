@@ -359,3 +359,4 @@ All historical revisions and engineering milestones.
 - 2026-04-28 21:24: refactor(config): migrate global settings to immutable dataclass
 - 2026-04-28 21:32: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-04-28 21:38: refactor(cli): simplify command dispatch loop
+- 2026-04-28 23:22: feat(env): add automated dotfiles symlink manager
