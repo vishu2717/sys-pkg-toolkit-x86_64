@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2026-04-28 18:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-04-28 18:34: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-04-28 19:33: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-04-28 19:51: chore: update base container image to latest alpine
