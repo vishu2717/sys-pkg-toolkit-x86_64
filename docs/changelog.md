@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2026-04-28 11:27: test(proc): assert exit codes under simulated failures
 - 2026-04-28 11:35: test(scripts): add bats verification for setup scripts
 - 2026-04-28 14:20: feat(sync): add rsync-based remote directory mirror utility
+- 2026-04-28 18:28: fix(daemon): gracefully handle sigterm during log rotation
