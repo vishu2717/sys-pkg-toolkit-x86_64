@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2026-04-27 23:25: chore: update base container image to latest alpine
 - 2026-04-28 10:34: test(scripts): add bats verification for setup scripts
 - 2026-04-28 11:27: test(proc): assert exit codes under simulated failures
+- 2026-04-28 11:35: test(scripts): add bats verification for setup scripts
