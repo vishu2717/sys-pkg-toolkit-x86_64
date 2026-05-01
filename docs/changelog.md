@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-04-29 10:12: feat(proc): add process supervisor with automatic restart
 - 2026-04-29 12:21: feat(sync): add rsync-based remote directory mirror utility
 - 2026-04-29 18:06: test(cli): add unit test coverage for argument parsing
+- 2026-05-01 14:33: docs: update system administration runbooks and troubleshooting
