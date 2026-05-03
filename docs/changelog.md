@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2026-05-01 17:12: docs: update changelog with recent utility enhancements
 - 2026-05-01 17:21: feat(security): add permission auditing script for local binaries
 - 2026-05-01 18:33: feat(security): add permission auditing script for local binaries
+- 2026-05-03 10:20: feat(cli): add command-line argument parser for daemon
