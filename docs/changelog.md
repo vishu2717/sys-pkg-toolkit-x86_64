@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2026-05-03 17:22: test(proc): assert exit codes under simulated failures
 - 2026-05-04 16:32: refactor(config): migrate global settings to immutable dataclass
 - 2026-05-04 17:41: style: enforce consistent shell quoting and indentation
+- 2026-05-04 20:54: fix(daemon): gracefully handle sigterm during log rotation
