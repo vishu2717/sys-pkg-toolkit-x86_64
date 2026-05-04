@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-05-01 18:33: feat(security): add permission auditing script for local binaries
 - 2026-05-03 10:20: feat(cli): add command-line argument parser for daemon
 - 2026-05-03 17:22: test(proc): assert exit codes under simulated failures
+- 2026-05-04 16:32: refactor(config): migrate global settings to immutable dataclass
