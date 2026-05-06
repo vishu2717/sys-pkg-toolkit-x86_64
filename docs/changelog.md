@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2026-05-06 15:20: feat(security): add permission auditing script for local binaries
 - 2026-05-06 16:29: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-06 17:29: fix(cli): exit with non-zero status code on unknown command
+- 2026-05-06 22:05: feat(cli): add command-line argument parser for daemon
