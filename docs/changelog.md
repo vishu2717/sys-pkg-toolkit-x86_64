@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2026-05-06 10:58: fix(config): ensure directory exists before writing state
 - 2026-05-06 15:00: fix(bash): escape arguments in deployment script
 - 2026-05-06 15:20: feat(security): add permission auditing script for local binaries
+- 2026-05-06 16:29: refactor(monitor): optimize sampling frequency and buffer size
