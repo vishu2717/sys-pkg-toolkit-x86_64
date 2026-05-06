@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2026-05-04 22:19: test(scripts): add bats verification for setup scripts
 - 2026-05-04 23:23: feat(monitor): implement system resource tracking utility
 - 2026-05-06 10:58: fix(config): ensure directory exists before writing state
+- 2026-05-06 15:00: fix(bash): escape arguments in deployment script
