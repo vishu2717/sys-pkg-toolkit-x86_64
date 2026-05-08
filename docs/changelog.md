@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2026-05-08 10:08: test(scripts): add bats verification for setup scripts
 - 2026-05-08 10:56: fix(config): ensure directory exists before writing state
 - 2026-05-08 11:48: refactor(config): migrate global settings to immutable dataclass
+- 2026-05-08 13:15: test(daemon): verify supervisor restarts crashed processes
