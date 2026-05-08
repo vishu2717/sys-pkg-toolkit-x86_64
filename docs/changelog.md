@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2026-05-06 17:29: fix(cli): exit with non-zero status code on unknown command
 - 2026-05-06 22:05: feat(cli): add command-line argument parser for daemon
 - 2026-05-08 10:08: test(scripts): add bats verification for setup scripts
+- 2026-05-08 10:56: fix(config): ensure directory exists before writing state
