@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-05-08 20:54: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-08 21:04: refactor(daemon): separate socket listening from worker queue
 - 2026-05-08 21:13: feat(daemon): add background heartbeat and ping interval
+- 2026-05-08 22:56: refactor(cli): simplify command dispatch loop
