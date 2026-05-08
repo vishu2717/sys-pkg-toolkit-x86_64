@@ -395,3 +395,4 @@ All historical revisions and engineering milestones.
 - 2026-05-08 21:04: refactor(daemon): separate socket listening from worker queue
 - 2026-05-08 21:13: feat(daemon): add background heartbeat and ping interval
 - 2026-05-08 22:56: refactor(cli): simplify command dispatch loop
+- 2026-05-08 23:07: fix(cli): exit with non-zero status code on unknown command
