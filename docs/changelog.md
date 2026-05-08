@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2026-05-08 14:34: feat(docker): optimize multi-stage build layers
 - 2026-05-08 14:55: refactor(config): migrate global settings to immutable dataclass
 - 2026-05-08 16:49: refactor(scripts): modularize helper functions across shell scripts
+- 2026-05-08 17:26: fix(config): ensure directory exists before writing state
