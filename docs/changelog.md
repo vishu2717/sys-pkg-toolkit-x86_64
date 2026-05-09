@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-05-09 10:54: fix(cli): exit with non-zero status code on unknown command
 - 2026-05-09 11:20: fix(config): ensure directory exists before writing state
 - 2026-05-09 12:04: refactor(config): migrate global settings to immutable dataclass
+- 2026-05-09 14:45: feat(cli): add command-line argument parser for daemon
