@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2026-05-09 21:41: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-05-10 14:17: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-10 18:43: feat(deploy): implement zero-downtime rolling reload
+- 2026-05-10 21:38: docs: update system administration runbooks and troubleshooting
