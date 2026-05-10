@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2026-05-09 14:45: feat(cli): add command-line argument parser for daemon
 - 2026-05-09 21:41: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-05-10 14:17: feat(sync): add rsync-based remote directory mirror utility
+- 2026-05-10 18:43: feat(deploy): implement zero-downtime rolling reload
