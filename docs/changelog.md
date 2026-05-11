@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-05-11 18:37: feat(deploy): implement zero-downtime rolling reload
 - 2026-05-11 19:22: style: enforce consistent shell quoting and indentation
 - 2026-05-11 22:05: test(proc): assert exit codes under simulated failures
+- 2026-05-11 23:26: test(daemon): verify supervisor restarts crashed processes
