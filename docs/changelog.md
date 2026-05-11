@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-05-10 18:43: feat(deploy): implement zero-downtime rolling reload
 - 2026-05-10 21:38: docs: update system administration runbooks and troubleshooting
 - 2026-05-10 22:10: refactor(config): migrate global settings to immutable dataclass
+- 2026-05-11 15:28: feat(monitor): implement system resource tracking utility
