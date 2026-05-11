@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2026-05-10 22:10: refactor(config): migrate global settings to immutable dataclass
 - 2026-05-11 15:28: feat(monitor): implement system resource tracking utility
 - 2026-05-11 15:41: fix(cli): exit with non-zero status code on unknown command
+- 2026-05-11 18:37: feat(deploy): implement zero-downtime rolling reload
