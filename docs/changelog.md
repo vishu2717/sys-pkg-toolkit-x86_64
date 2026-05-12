@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2026-05-12 18:53: refactor(scripts): modularize helper functions across shell scripts
 - 2026-05-12 19:23: docs: document environment variables and override flags
 - 2026-05-12 21:14: refactor(cli): simplify command dispatch loop
+- 2026-05-12 21:52: docs: update system administration runbooks and troubleshooting
