@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2026-05-12 10:15: test(proc): assert exit codes under simulated failures
 - 2026-05-12 11:00: test(cli): add unit test coverage for argument parsing
 - 2026-05-12 14:48: refactor(config): migrate global settings to immutable dataclass
+- 2026-05-12 17:46: test(daemon): verify supervisor restarts crashed processes
