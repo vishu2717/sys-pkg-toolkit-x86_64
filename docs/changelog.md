@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-05-12 14:48: refactor(config): migrate global settings to immutable dataclass
 - 2026-05-12 17:46: test(daemon): verify supervisor restarts crashed processes
 - 2026-05-12 18:53: refactor(scripts): modularize helper functions across shell scripts
+- 2026-05-12 19:23: docs: document environment variables and override flags
