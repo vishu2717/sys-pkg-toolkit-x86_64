@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2026-05-12 23:10: test(cli): add unit test coverage for argument parsing
 - 2026-05-13 11:43: fix(docker): specify non-root user in runtime container
 - 2026-05-13 13:25: test(proc): assert exit codes under simulated failures
+- 2026-05-13 14:52: feat(proc): add process supervisor with automatic restart
