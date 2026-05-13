@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2026-05-12 21:52: docs: update system administration runbooks and troubleshooting
 - 2026-05-12 22:04: refactor(scripts): modularize helper functions across shell scripts
 - 2026-05-12 23:10: test(cli): add unit test coverage for argument parsing
+- 2026-05-13 11:43: fix(docker): specify non-root user in runtime container
