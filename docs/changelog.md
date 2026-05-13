@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-05-13 16:42: feat(monitor): implement system resource tracking utility
 - 2026-05-13 17:42: test(cli): add unit test coverage for argument parsing
 - 2026-05-13 20:45: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-05-13 20:59: fix(cli): exit with non-zero status code on unknown command
