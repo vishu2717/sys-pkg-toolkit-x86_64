@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-05-13 20:45: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-13 20:59: fix(cli): exit with non-zero status code on unknown command
 - 2026-05-13 23:06: feat(security): add permission auditing script for local binaries
+- 2026-05-14 11:21: test(scripts): add bats verification for setup scripts
