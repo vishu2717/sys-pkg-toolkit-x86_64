@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2026-05-13 23:06: feat(security): add permission auditing script for local binaries
 - 2026-05-14 11:21: test(scripts): add bats verification for setup scripts
 - 2026-05-14 12:29: refactor(daemon): separate socket listening from worker queue
+- 2026-05-14 16:11: docs: update system administration runbooks and troubleshooting
