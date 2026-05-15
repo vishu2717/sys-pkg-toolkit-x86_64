@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2026-05-14 16:11: docs: update system administration runbooks and troubleshooting
 - 2026-05-14 22:10: feat(shell): implement safe pipe execution helper
 - 2026-05-15 17:13: feat(config): add JSON and YAML configuration loader
+- 2026-05-15 17:51: fix(proc): prevent zombie process reaping race condition
