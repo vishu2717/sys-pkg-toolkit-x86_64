@@ -295,3 +295,4 @@ All historical revisions and engineering milestones.
 - 2026-05-14 22:10: feat(shell): implement safe pipe execution helper
 - 2026-05-15 17:13: feat(config): add JSON and YAML configuration loader
 - 2026-05-15 17:51: fix(proc): prevent zombie process reaping race condition
+- 2026-05-15 22:09: test(scripts): add bats verification for setup scripts
