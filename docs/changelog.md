@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2026-05-18 18:26: fix(docker): specify non-root user in runtime container
 - 2026-05-18 18:57: feat(docker): optimize multi-stage build layers
 - 2026-05-18 19:57: feat(config): add JSON and YAML configuration loader
+- 2026-05-18 22:01: feat(sync): add rsync-based remote directory mirror utility
