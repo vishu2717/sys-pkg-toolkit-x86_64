@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2026-05-17 18:42: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-17 20:59: refactor(cli): simplify command dispatch loop
 - 2026-05-18 10:49: fix(config): ensure directory exists before writing state
+- 2026-05-18 14:36: style: enforce consistent shell quoting and indentation
