@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2026-05-18 22:01: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-18 22:37: test(daemon): verify supervisor restarts crashed processes
 - 2026-05-19 16:47: feat(monitor): implement system resource tracking utility
+- 2026-05-19 18:05: docs: document environment variables and override flags
