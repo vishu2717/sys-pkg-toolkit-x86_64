@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2026-05-19 19:29: feat(monitor): implement system resource tracking utility
 - 2026-05-19 19:52: fix(cli): exit with non-zero status code on unknown command
 - 2026-05-19 21:17: feat(metrics): track memory usage and cpu thread statistics
+- 2026-05-19 22:39: feat(proc): add process supervisor with automatic restart
