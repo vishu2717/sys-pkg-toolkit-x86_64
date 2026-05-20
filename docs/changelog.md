@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2026-05-19 22:39: feat(proc): add process supervisor with automatic restart
 - 2026-05-20 14:31: feat(security): add permission auditing script for local binaries
 - 2026-05-20 15:17: fix(docker): specify non-root user in runtime container
+- 2026-05-20 16:19: test(scripts): add bats verification for setup scripts
