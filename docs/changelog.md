@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2026-05-20 19:58: docs: document environment variables and override flags
 - 2026-05-21 10:43: docs: document environment variables and override flags
 - 2026-05-21 14:34: feat(docker): optimize multi-stage build layers
+- 2026-05-21 17:54: docs: update system administration runbooks and troubleshooting
