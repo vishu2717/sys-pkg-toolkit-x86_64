@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-05-21 17:54: docs: update system administration runbooks and troubleshooting
 - 2026-05-21 18:11: fix(cli): exit with non-zero status code on unknown command
 - 2026-05-21 20:56: docs: update system administration runbooks and troubleshooting
+- 2026-05-21 21:37: feat(env): add automated dotfiles symlink manager
