@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2026-05-21 20:56: docs: update system administration runbooks and troubleshooting
 - 2026-05-21 21:37: feat(env): add automated dotfiles symlink manager
 - 2026-05-22 12:19: feat(docker): optimize multi-stage build layers
+- 2026-05-22 18:58: feat(metrics): track memory usage and cpu thread statistics
