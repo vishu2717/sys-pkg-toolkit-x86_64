@@ -333,3 +333,4 @@ All historical revisions and engineering milestones.
 - 2026-05-22 21:32: feat(docker): optimize multi-stage build layers
 - 2026-05-23 10:43: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-05-23 11:02: test(proc): assert exit codes under simulated failures
+- 2026-05-23 12:56: refactor(cli): simplify command dispatch loop
