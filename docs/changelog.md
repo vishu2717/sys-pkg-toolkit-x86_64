@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2026-05-22 18:58: feat(metrics): track memory usage and cpu thread statistics
 - 2026-05-22 20:36: test(cli): add unit test coverage for argument parsing
 - 2026-05-22 21:32: feat(docker): optimize multi-stage build layers
+- 2026-05-23 10:43: fix(daemon): gracefully handle sigterm during log rotation
