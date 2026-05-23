@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2026-05-23 11:02: test(proc): assert exit codes under simulated failures
 - 2026-05-23 12:56: refactor(cli): simplify command dispatch loop
 - 2026-05-23 16:23: refactor(cli): simplify command dispatch loop
+- 2026-05-23 19:24: fix(config): ensure directory exists before writing state
