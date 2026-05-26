@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2026-05-25 11:01: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-05-25 16:53: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-26 10:46: feat(daemon): add background heartbeat and ping interval
+- 2026-05-26 10:51: refactor(cli): simplify command dispatch loop
