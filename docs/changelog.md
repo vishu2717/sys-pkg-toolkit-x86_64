@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2026-05-26 18:30: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-26 18:41: feat(proc): add process supervisor with automatic restart
 - 2026-05-26 20:00: feat(metrics): track memory usage and cpu thread statistics
+- 2026-05-26 22:29: fix(proc): prevent zombie process reaping race condition
