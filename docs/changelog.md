@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2026-05-26 10:51: refactor(cli): simplify command dispatch loop
 - 2026-05-26 12:34: feat(deploy): implement zero-downtime rolling reload
 - 2026-05-26 12:52: feat(proc): add process supervisor with automatic restart
+- 2026-05-26 13:19: feat(docker): optimize multi-stage build layers
