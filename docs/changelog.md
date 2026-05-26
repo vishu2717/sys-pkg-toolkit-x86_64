@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2026-05-25 16:53: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-26 10:46: feat(daemon): add background heartbeat and ping interval
 - 2026-05-26 10:51: refactor(cli): simplify command dispatch loop
+- 2026-05-26 12:34: feat(deploy): implement zero-downtime rolling reload
