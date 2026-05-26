@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-05-26 13:19: feat(docker): optimize multi-stage build layers
 - 2026-05-26 13:54: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-26 14:02: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-05-26 14:41: feat(deploy): implement zero-downtime rolling reload
