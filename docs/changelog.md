@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2026-05-28 20:18: refactor(scripts): modularize helper functions across shell scripts
 - 2026-05-28 22:10: test(cli): add unit test coverage for argument parsing
 - 2026-05-28 22:52: fix(config): ensure directory exists before writing state
+- 2026-05-28 23:24: fix(config): ensure directory exists before writing state
