@@ -357,3 +357,4 @@ All historical revisions and engineering milestones.
 - 2026-05-28 10:44: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-28 11:34: test(cli): add unit test coverage for argument parsing
 - 2026-05-28 13:31: fix(bash): escape arguments in deployment script
+- 2026-05-28 15:53: feat(shell): implement safe pipe execution helper
