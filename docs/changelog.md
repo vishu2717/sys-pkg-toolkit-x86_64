@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-05-28 15:53: feat(shell): implement safe pipe execution helper
 - 2026-05-28 16:55: docs: add architecture specification for daemon supervisor
 - 2026-05-28 16:56: feat(deploy): implement zero-downtime rolling reload
+- 2026-05-28 17:58: feat(env): add automated dotfiles symlink manager
