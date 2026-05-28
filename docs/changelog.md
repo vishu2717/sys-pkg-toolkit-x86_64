@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-05-28 17:58: feat(env): add automated dotfiles symlink manager
 - 2026-05-28 18:10: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-28 20:18: refactor(scripts): modularize helper functions across shell scripts
+- 2026-05-28 22:10: test(cli): add unit test coverage for argument parsing
