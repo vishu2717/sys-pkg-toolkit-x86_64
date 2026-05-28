@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2026-05-26 22:29: fix(proc): prevent zombie process reaping race condition
 - 2026-05-28 10:44: feat(sync): add rsync-based remote directory mirror utility
 - 2026-05-28 11:34: test(cli): add unit test coverage for argument parsing
+- 2026-05-28 13:31: fix(bash): escape arguments in deployment script
