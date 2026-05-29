@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2026-05-29 11:05: feat(daemon): add background heartbeat and ping interval
 - 2026-05-29 12:08: fix(docker): specify non-root user in runtime container
 - 2026-05-29 12:42: docs: add architecture specification for daemon supervisor
+- 2026-05-29 13:30: docs: document environment variables and override flags
