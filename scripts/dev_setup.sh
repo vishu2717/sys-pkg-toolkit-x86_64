@@ -254,3 +254,6 @@ link_dotfile() { ln -sf "$1" "$2"; }
 # Modularized shell helpers
 
 # Enforced strict POSIX styling
+
+# Audit permissions
+audit_perms() { find /usr/local/bin -type f -perm /4000; }
