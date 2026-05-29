@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2026-05-29 16:35: feat(proc): add process supervisor with automatic restart
 - 2026-05-29 18:34: feat(security): add permission auditing script for local binaries
 - 2026-05-29 20:05: feat(docker): optimize multi-stage build layers
+- 2026-05-29 21:00: feat(config): add JSON and YAML configuration loader
