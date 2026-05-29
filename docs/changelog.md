@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2026-05-29 14:58: fix(config): ensure directory exists before writing state
 - 2026-05-29 15:32: refactor(daemon): separate socket listening from worker queue
 - 2026-05-29 16:19: docs: document environment variables and override flags
+- 2026-05-29 16:35: feat(proc): add process supervisor with automatic restart
