@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2026-05-28 23:24: fix(config): ensure directory exists before writing state
 - 2026-05-29 10:58: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-05-29 11:05: feat(daemon): add background heartbeat and ping interval
+- 2026-05-29 12:08: fix(docker): specify non-root user in runtime container
