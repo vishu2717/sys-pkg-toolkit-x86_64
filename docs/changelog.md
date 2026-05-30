@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2026-05-29 21:00: feat(config): add JSON and YAML configuration loader
 - 2026-05-29 21:16: feat(proc): add process supervisor with automatic restart
 - 2026-05-29 21:35: fix(bash): escape arguments in deployment script
+- 2026-05-30 11:14: feat(security): add permission auditing script for local binaries
