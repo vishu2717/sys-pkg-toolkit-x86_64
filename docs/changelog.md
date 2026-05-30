@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2026-05-30 11:22: feat(config): add JSON and YAML configuration loader
 - 2026-05-30 11:40: feat(monitor): implement system resource tracking utility
 - 2026-05-30 12:13: fix(proc): prevent zombie process reaping race condition
+- 2026-05-30 12:52: refactor(daemon): separate socket listening from worker queue
