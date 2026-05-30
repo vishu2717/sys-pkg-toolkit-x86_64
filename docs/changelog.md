@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2026-05-30 14:00: docs: add architecture specification for daemon supervisor
 - 2026-05-30 14:41: refactor(cli): simplify command dispatch loop
 - 2026-05-30 15:59: fix(config): ensure directory exists before writing state
+- 2026-05-30 18:20: feat(monitor): implement system resource tracking utility
