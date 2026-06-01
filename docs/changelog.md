@@ -393,3 +393,4 @@ All historical revisions and engineering milestones.
 - 2026-05-30 18:20: feat(monitor): implement system resource tracking utility
 - 2026-05-30 19:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-05-30 23:10: feat(shell): implement safe pipe execution helper
+- 2026-06-01 10:38: refactor(daemon): separate socket listening from worker queue
