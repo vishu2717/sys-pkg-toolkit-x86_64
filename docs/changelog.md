@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-06-01 13:59: docs: update changelog with recent utility enhancements
 - 2026-06-01 15:28: fix(proc): prevent zombie process reaping race condition
 - 2026-06-01 16:39: refactor(scripts): modularize helper functions across shell scripts
+- 2026-06-01 20:55: feat(proc): add process supervisor with automatic restart
