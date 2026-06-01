@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2026-06-01 10:38: refactor(daemon): separate socket listening from worker queue
 - 2026-06-01 11:44: docs: document environment variables and override flags
 - 2026-06-01 12:59: docs: add architecture specification for daemon supervisor
+- 2026-06-01 13:59: docs: update changelog with recent utility enhancements
