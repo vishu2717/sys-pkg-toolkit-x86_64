@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 11:33: fix(config): ensure directory exists before writing state
 - 2026-06-02 11:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-06-02 14:02: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-06-02 16:05: fix(bash): escape arguments in deployment script
