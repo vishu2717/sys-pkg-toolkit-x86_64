@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 19:29: feat(proc): add process supervisor with automatic restart
 - 2026-06-02 19:48: fix(bash): escape arguments in deployment script
 - 2026-06-02 20:58: feat(monitor): implement system resource tracking utility
+- 2026-06-02 21:22: test(scripts): add bats verification for setup scripts
