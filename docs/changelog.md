@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 20:58: feat(monitor): implement system resource tracking utility
 - 2026-06-02 21:22: test(scripts): add bats verification for setup scripts
 - 2026-06-02 22:47: fix(bash): escape arguments in deployment script
+- 2026-06-02 23:10: test(cli): add unit test coverage for argument parsing
