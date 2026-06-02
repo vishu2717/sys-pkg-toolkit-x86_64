@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 17:00: fix(proc): prevent zombie process reaping race condition
 - 2026-06-02 17:34: test(cli): add unit test coverage for argument parsing
 - 2026-06-02 17:50: fix(bash): escape arguments in deployment script
+- 2026-06-02 19:29: feat(proc): add process supervisor with automatic restart
