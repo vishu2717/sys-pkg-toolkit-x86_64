@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 21:22: test(scripts): add bats verification for setup scripts
 - 2026-06-02 22:47: fix(bash): escape arguments in deployment script
 - 2026-06-02 23:10: test(cli): add unit test coverage for argument parsing
+- 2026-06-02 23:13: perf: reduce process spawn latency using fork pool
