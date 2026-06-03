@@ -278,3 +278,4 @@ All historical revisions and engineering milestones.
 - 2026-06-02 23:13: perf: reduce process spawn latency using fork pool
 - 2026-06-03 16:22: refactor(cli): simplify command dispatch loop
 - 2026-06-03 17:31: feat(shell): implement safe pipe execution helper
+- 2026-06-03 20:08: test(cli): add unit test coverage for argument parsing
