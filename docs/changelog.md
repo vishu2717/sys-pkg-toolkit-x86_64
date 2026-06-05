@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2026-06-04 22:01: style: enforce consistent shell quoting and indentation
 - 2026-06-05 14:11: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-06-05 16:09: docs: add architecture specification for daemon supervisor
+- 2026-06-05 16:22: refactor(cli): simplify command dispatch loop
