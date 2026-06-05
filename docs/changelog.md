@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-06-05 16:09: docs: add architecture specification for daemon supervisor
 - 2026-06-05 16:22: refactor(cli): simplify command dispatch loop
 - 2026-06-05 17:48: feat(config): add JSON and YAML configuration loader
+- 2026-06-05 19:36: fix(monitor): resolve division by zero on idle cpu calculation
