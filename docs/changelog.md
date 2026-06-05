@@ -292,3 +292,4 @@ All historical revisions and engineering milestones.
 - 2026-06-04 19:39: refactor(scripts): modularize helper functions across shell scripts
 - 2026-06-04 20:24: docs: add architecture specification for daemon supervisor
 - 2026-06-04 22:01: style: enforce consistent shell quoting and indentation
+- 2026-06-05 14:11: refactor(monitor): optimize sampling frequency and buffer size
