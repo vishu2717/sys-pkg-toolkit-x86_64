@@ -303,3 +303,4 @@ All historical revisions and engineering milestones.
 - 2026-06-06 12:06: fix(proc): prevent zombie process reaping race condition
 - 2026-06-06 15:16: feat(metrics): track memory usage and cpu thread statistics
 - 2026-06-06 15:29: test(proc): assert exit codes under simulated failures
+- 2026-06-06 19:36: feat(daemon): add background heartbeat and ping interval
