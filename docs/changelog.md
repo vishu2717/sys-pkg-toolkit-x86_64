@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2026-06-05 22:54: feat(monitor): implement system resource tracking utility
 - 2026-06-05 22:59: feat(config): add JSON and YAML configuration loader
 - 2026-06-06 12:06: fix(proc): prevent zombie process reaping race condition
+- 2026-06-06 15:16: feat(metrics): track memory usage and cpu thread statistics
