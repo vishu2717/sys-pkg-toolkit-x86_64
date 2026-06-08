@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2026-06-06 22:20: feat(deploy): implement zero-downtime rolling reload
 - 2026-06-08 17:54: fix(bash): escape arguments in deployment script
 - 2026-06-08 18:37: feat(deploy): implement zero-downtime rolling reload
+- 2026-06-08 18:56: chore: configure shellcheck and ruff linter hooks
