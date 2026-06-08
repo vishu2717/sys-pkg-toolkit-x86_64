@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2026-06-08 18:37: feat(deploy): implement zero-downtime rolling reload
 - 2026-06-08 18:56: chore: configure shellcheck and ruff linter hooks
 - 2026-06-08 21:01: chore: configure shellcheck and ruff linter hooks
+- 2026-06-08 22:57: feat(cli): add command-line argument parser for daemon
