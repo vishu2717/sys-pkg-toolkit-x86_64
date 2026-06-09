@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2026-06-08 21:01: chore: configure shellcheck and ruff linter hooks
 - 2026-06-08 22:57: feat(cli): add command-line argument parser for daemon
 - 2026-06-09 11:41: feat(shell): implement safe pipe execution helper
+- 2026-06-09 14:10: feat(sync): add rsync-based remote directory mirror utility
