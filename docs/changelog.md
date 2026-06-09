@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2026-06-09 11:41: feat(shell): implement safe pipe execution helper
 - 2026-06-09 14:10: feat(sync): add rsync-based remote directory mirror utility
 - 2026-06-09 16:05: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-06-09 16:46: feat(cli): add command-line argument parser for daemon
