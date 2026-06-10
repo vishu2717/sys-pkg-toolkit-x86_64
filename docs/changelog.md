@@ -322,3 +322,4 @@ All historical revisions and engineering milestones.
 - 2026-06-09 22:15: refactor(config): migrate global settings to immutable dataclass
 - 2026-06-10 10:59: feat(daemon): add background heartbeat and ping interval
 - 2026-06-10 14:29: fix(bash): escape arguments in deployment script
+- 2026-06-10 15:35: docs: update changelog with recent utility enhancements
