@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-06-10 16:42: fix(proc): prevent zombie process reaping race condition
 - 2026-06-10 20:38: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-06-10 22:04: feat(security): add permission auditing script for local binaries
+- 2026-06-10 22:43: chore: update base container image to latest alpine
