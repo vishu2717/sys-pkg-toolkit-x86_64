@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2026-06-10 22:43: chore: update base container image to latest alpine
 - 2026-06-11 13:08: docs: update system administration runbooks and troubleshooting
 - 2026-06-11 18:00: test(daemon): verify supervisor restarts crashed processes
+- 2026-06-11 19:21: fix(docker): specify non-root user in runtime container
