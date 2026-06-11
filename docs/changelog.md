@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2026-06-11 13:08: docs: update system administration runbooks and troubleshooting
 - 2026-06-11 18:00: test(daemon): verify supervisor restarts crashed processes
 - 2026-06-11 19:21: fix(docker): specify non-root user in runtime container
+- 2026-06-11 21:04: fix(monitor): resolve division by zero on idle cpu calculation
