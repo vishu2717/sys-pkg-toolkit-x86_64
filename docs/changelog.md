@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2026-06-12 14:58: test(daemon): verify supervisor restarts crashed processes
 - 2026-06-12 16:10: fix(docker): specify non-root user in runtime container
 - 2026-06-12 18:25: refactor(config): migrate global settings to immutable dataclass
+- 2026-06-12 19:59: test(cli): add unit test coverage for argument parsing
