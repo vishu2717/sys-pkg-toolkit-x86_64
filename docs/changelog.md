@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2026-06-12 11:03: docs: document environment variables and override flags
 - 2026-06-12 12:55: refactor(cli): simplify command dispatch loop
 - 2026-06-12 13:08: test(proc): assert exit codes under simulated failures
+- 2026-06-12 13:39: feat(docker): optimize multi-stage build layers
