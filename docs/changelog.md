@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2026-06-12 18:25: refactor(config): migrate global settings to immutable dataclass
 - 2026-06-12 19:59: test(cli): add unit test coverage for argument parsing
 - 2026-06-12 20:22: docs: document environment variables and override flags
+- 2026-06-12 21:29: feat(daemon): add background heartbeat and ping interval
