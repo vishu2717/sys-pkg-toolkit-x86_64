@@ -300,3 +300,5 @@ def parse_cli_args():
 # Simplified command router logic
 
 # Simplified command router logic
+
+# Simplified command router logic
