@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2026-06-12 21:29: feat(daemon): add background heartbeat and ping interval
 - 2026-06-12 21:38: feat(metrics): track memory usage and cpu thread statistics
 - 2026-06-13 12:14: refactor(cli): simplify command dispatch loop
+- 2026-06-13 15:26: feat(cli): add command-line argument parser for daemon
