@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2026-06-15 14:18: docs: update system administration runbooks and troubleshooting
 - 2026-06-15 14:44: fix(proc): prevent zombie process reaping race condition
 - 2026-06-15 15:17: feat(monitor): implement system resource tracking utility
+- 2026-06-15 17:22: refactor(config): migrate global settings to immutable dataclass
