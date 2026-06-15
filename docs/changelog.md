@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2026-06-13 20:24: feat(shell): implement safe pipe execution helper
 - 2026-06-13 21:57: test(scripts): add bats verification for setup scripts
 - 2026-06-15 10:31: feat(shell): implement safe pipe execution helper
+- 2026-06-15 11:43: feat(env): add automated dotfiles symlink manager
