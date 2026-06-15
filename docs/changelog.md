@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-06-15 19:35: feat(docker): optimize multi-stage build layers
 - 2026-06-15 20:50: feat(metrics): track memory usage and cpu thread statistics
 - 2026-06-15 23:21: feat(metrics): track memory usage and cpu thread statistics
+- 2026-06-15 23:23: test(cli): add unit test coverage for argument parsing
