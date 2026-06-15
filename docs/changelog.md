@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2026-06-15 15:17: feat(monitor): implement system resource tracking utility
 - 2026-06-15 17:22: refactor(config): migrate global settings to immutable dataclass
 - 2026-06-15 19:35: feat(docker): optimize multi-stage build layers
+- 2026-06-15 20:50: feat(metrics): track memory usage and cpu thread statistics
