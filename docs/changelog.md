@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2026-06-16 16:44: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-06-16 16:58: fix(bash): escape arguments in deployment script
 - 2026-06-16 17:52: chore: update base container image to latest alpine
+- 2026-06-16 18:38: feat(daemon): add background heartbeat and ping interval
