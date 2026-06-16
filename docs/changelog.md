@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-06-15 23:21: feat(metrics): track memory usage and cpu thread statistics
 - 2026-06-15 23:23: test(cli): add unit test coverage for argument parsing
 - 2026-06-16 11:23: refactor(daemon): separate socket listening from worker queue
+- 2026-06-16 12:46: feat(deploy): implement zero-downtime rolling reload
