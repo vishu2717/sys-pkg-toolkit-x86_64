@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-06-16 17:52: chore: update base container image to latest alpine
 - 2026-06-16 18:38: feat(daemon): add background heartbeat and ping interval
 - 2026-06-16 18:43: feat(shell): implement safe pipe execution helper
+- 2026-06-16 20:33: docs: update system administration runbooks and troubleshooting
