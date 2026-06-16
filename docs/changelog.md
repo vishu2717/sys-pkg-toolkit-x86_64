@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2026-06-16 20:41: fix(cli): exit with non-zero status code on unknown command
 - 2026-06-16 20:47: feat(monitor): implement system resource tracking utility
 - 2026-06-16 21:08: feat(docker): optimize multi-stage build layers
+- 2026-06-16 21:16: docs: add architecture specification for daemon supervisor
