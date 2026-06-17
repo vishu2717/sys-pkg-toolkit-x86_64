@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2026-06-17 15:06: feat(monitor): implement system resource tracking utility
 - 2026-06-17 17:32: fix(config): ensure directory exists before writing state
 - 2026-06-17 22:47: feat(monitor): implement system resource tracking utility
+- 2026-06-17 23:23: test(daemon): verify supervisor restarts crashed processes
