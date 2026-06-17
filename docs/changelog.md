@@ -382,3 +382,4 @@ All historical revisions and engineering milestones.
 - 2026-06-17 14:23: feat(proc): add process supervisor with automatic restart
 - 2026-06-17 14:32: docs: add architecture specification for daemon supervisor
 - 2026-06-17 15:06: feat(monitor): implement system resource tracking utility
+- 2026-06-17 17:32: fix(config): ensure directory exists before writing state
