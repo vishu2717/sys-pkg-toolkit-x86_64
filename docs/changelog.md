@@ -377,3 +377,4 @@ All historical revisions and engineering milestones.
 - 2026-06-16 22:21: docs: update system administration runbooks and troubleshooting
 - 2026-06-17 11:26: refactor(scripts): modularize helper functions across shell scripts
 - 2026-06-17 11:35: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-06-17 13:15: fix(config): ensure directory exists before writing state
