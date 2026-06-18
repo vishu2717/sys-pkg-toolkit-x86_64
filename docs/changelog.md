@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2026-06-18 14:10: feat(docker): optimize multi-stage build layers
 - 2026-06-18 14:17: feat(deploy): implement zero-downtime rolling reload
 - 2026-06-18 15:24: refactor(daemon): separate socket listening from worker queue
+- 2026-06-18 21:37: docs: add architecture specification for daemon supervisor
