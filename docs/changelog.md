@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-06-19 12:28: refactor(scripts): modularize helper functions across shell scripts
 - 2026-06-19 13:07: feat(config): add JSON and YAML configuration loader
 - 2026-06-19 13:51: fix(config): ensure directory exists before writing state
+- 2026-06-19 14:19: feat(proc): add process supervisor with automatic restart
