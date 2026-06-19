@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2026-06-19 13:51: fix(config): ensure directory exists before writing state
 - 2026-06-19 14:19: feat(proc): add process supervisor with automatic restart
 - 2026-06-19 15:04: feat(env): add automated dotfiles symlink manager
+- 2026-06-19 15:58: refactor(scripts): modularize helper functions across shell scripts
