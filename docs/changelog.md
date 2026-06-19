@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-06-19 16:10: docs: update changelog with recent utility enhancements
 - 2026-06-19 18:30: feat(daemon): add background heartbeat and ping interval
 - 2026-06-19 19:32: refactor(config): migrate global settings to immutable dataclass
+- 2026-06-19 21:10: fix(proc): prevent zombie process reaping race condition
