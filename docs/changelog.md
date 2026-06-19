@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-06-18 22:42: fix(docker): specify non-root user in runtime container
 - 2026-06-18 23:02: chore: update base container image to latest alpine
 - 2026-06-19 10:53: feat(metrics): track memory usage and cpu thread statistics
+- 2026-06-19 11:44: feat(proc): add process supervisor with automatic restart
