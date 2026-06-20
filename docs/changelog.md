@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2026-06-20 15:25: feat(shell): implement safe pipe execution helper
 - 2026-06-20 18:42: style: enforce consistent shell quoting and indentation
 - 2026-06-20 20:54: test(scripts): add bats verification for setup scripts
+- 2026-06-20 21:38: feat(security): add permission auditing script for local binaries
