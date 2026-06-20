@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2026-06-19 23:17: test(scripts): add bats verification for setup scripts
 - 2026-06-19 23:20: fix(config): ensure directory exists before writing state
 - 2026-06-20 12:17: fix(config): ensure directory exists before writing state
+- 2026-06-20 13:20: chore: update base container image to latest alpine
