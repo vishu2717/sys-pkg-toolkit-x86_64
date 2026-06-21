@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2026-06-20 21:38: feat(security): add permission auditing script for local binaries
 - 2026-06-21 12:12: docs: update changelog with recent utility enhancements
 - 2026-06-21 12:43: fix(docker): specify non-root user in runtime container
+- 2026-06-21 13:19: feat(env): add automated dotfiles symlink manager
