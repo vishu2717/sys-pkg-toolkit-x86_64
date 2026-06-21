@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-06-21 12:43: fix(docker): specify non-root user in runtime container
 - 2026-06-21 13:19: feat(env): add automated dotfiles symlink manager
 - 2026-06-21 14:54: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-06-21 17:04: feat(cli): add command-line argument parser for daemon
