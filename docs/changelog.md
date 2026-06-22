@@ -282,3 +282,4 @@ All historical revisions and engineering milestones.
 - 2026-06-21 17:04: feat(cli): add command-line argument parser for daemon
 - 2026-06-21 18:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-06-21 19:31: feat(config): add JSON and YAML configuration loader
+- 2026-06-22 15:32: refactor(scripts): modularize helper functions across shell scripts
