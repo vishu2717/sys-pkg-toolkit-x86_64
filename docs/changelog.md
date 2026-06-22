@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2026-06-21 18:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-06-21 19:31: feat(config): add JSON and YAML configuration loader
 - 2026-06-22 15:32: refactor(scripts): modularize helper functions across shell scripts
+- 2026-06-22 17:20: test(cli): add unit test coverage for argument parsing
