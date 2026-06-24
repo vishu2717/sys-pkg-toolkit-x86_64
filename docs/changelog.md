@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-06-22 19:13: docs: document environment variables and override flags
 - 2026-06-22 22:07: test(proc): assert exit codes under simulated failures
 - 2026-06-24 13:12: fix(bash): escape arguments in deployment script
+- 2026-06-24 16:09: feat(env): add automated dotfiles symlink manager
