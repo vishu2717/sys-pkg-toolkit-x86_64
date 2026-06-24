@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2026-06-22 17:20: test(cli): add unit test coverage for argument parsing
 - 2026-06-22 19:13: docs: document environment variables and override flags
 - 2026-06-22 22:07: test(proc): assert exit codes under simulated failures
+- 2026-06-24 13:12: fix(bash): escape arguments in deployment script
