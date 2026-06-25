@@ -290,3 +290,4 @@ All historical revisions and engineering milestones.
 - 2026-06-24 16:09: feat(env): add automated dotfiles symlink manager
 - 2026-06-24 18:28: test(scripts): add bats verification for setup scripts
 - 2026-06-25 12:16: refactor(daemon): separate socket listening from worker queue
+- 2026-06-25 14:58: fix(docker): specify non-root user in runtime container
