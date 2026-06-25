@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-06-24 13:12: fix(bash): escape arguments in deployment script
 - 2026-06-24 16:09: feat(env): add automated dotfiles symlink manager
 - 2026-06-24 18:28: test(scripts): add bats verification for setup scripts
+- 2026-06-25 12:16: refactor(daemon): separate socket listening from worker queue
