@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2026-06-26 13:12: feat(proc): add process supervisor with automatic restart
 - 2026-06-26 13:37: refactor(cli): simplify command dispatch loop
 - 2026-06-26 16:37: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-06-26 18:12: fix(monitor): resolve division by zero on idle cpu calculation
