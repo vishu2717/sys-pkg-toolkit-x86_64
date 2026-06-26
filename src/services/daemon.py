@@ -286,3 +286,7 @@ def daemon_heartbeat():
     return {'status': 'healthy', 'time': time.time()}
 
 # Decoupled socket server and worker thread
+
+def handle_sigterm(signum, frame):
+    '''Graceful SIGTERM termination.'''
+    sys.exit(0)

@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-06-26 10:22: chore: update base container image to latest alpine
 - 2026-06-26 13:12: feat(proc): add process supervisor with automatic restart
 - 2026-06-26 13:37: refactor(cli): simplify command dispatch loop
+- 2026-06-26 16:37: fix(daemon): gracefully handle sigterm during log rotation
