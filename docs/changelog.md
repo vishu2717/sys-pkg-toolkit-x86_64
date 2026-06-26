@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-06-25 14:58: fix(docker): specify non-root user in runtime container
 - 2026-06-25 16:34: docs: update system administration runbooks and troubleshooting
 - 2026-06-25 18:57: feat(security): add permission auditing script for local binaries
+- 2026-06-26 10:22: chore: update base container image to latest alpine
