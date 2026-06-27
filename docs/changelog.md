@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2026-06-27 10:53: fix(config): ensure directory exists before writing state
 - 2026-06-27 12:26: fix(docker): specify non-root user in runtime container
 - 2026-06-27 13:50: test(cli): add unit test coverage for argument parsing
+- 2026-06-27 14:55: chore: update base container image to latest alpine
