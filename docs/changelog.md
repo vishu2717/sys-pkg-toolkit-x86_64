@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2026-06-27 16:54: test(daemon): verify supervisor restarts crashed processes
 - 2026-06-27 17:59: chore: update base container image to latest alpine
 - 2026-06-27 18:28: feat(proc): add process supervisor with automatic restart
+- 2026-06-27 19:40: refactor(daemon): separate socket listening from worker queue
