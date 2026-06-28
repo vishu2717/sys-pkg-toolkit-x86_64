@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2026-06-27 19:40: refactor(daemon): separate socket listening from worker queue
 - 2026-06-27 20:50: feat(daemon): add background heartbeat and ping interval
 - 2026-06-28 10:56: refactor(config): migrate global settings to immutable dataclass
+- 2026-06-28 14:57: feat(sync): add rsync-based remote directory mirror utility
