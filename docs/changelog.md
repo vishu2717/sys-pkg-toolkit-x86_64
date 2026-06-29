@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2026-06-29 11:37: test(cli): add unit test coverage for argument parsing
 - 2026-06-29 17:03: fix(bash): escape arguments in deployment script
 - 2026-06-29 17:10: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-06-29 21:11: fix(cli): exit with non-zero status code on unknown command
