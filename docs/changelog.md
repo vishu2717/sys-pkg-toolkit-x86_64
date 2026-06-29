@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2026-06-28 19:48: feat(docker): optimize multi-stage build layers
 - 2026-06-28 20:19: fix(bash): escape arguments in deployment script
 - 2026-06-29 10:39: fix(cli): exit with non-zero status code on unknown command
+- 2026-06-29 11:37: test(cli): add unit test coverage for argument parsing
