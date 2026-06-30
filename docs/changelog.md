@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2026-06-29 17:03: fix(bash): escape arguments in deployment script
 - 2026-06-29 17:10: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-06-29 21:11: fix(cli): exit with non-zero status code on unknown command
+- 2026-06-30 12:51: feat(cli): add command-line argument parser for daemon
