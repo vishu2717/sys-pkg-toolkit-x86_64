@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-06-30 21:08: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-06-30 22:32: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-06-30 23:11: feat(monitor): implement system resource tracking utility
+- 2026-07-01 12:46: test(proc): assert exit codes under simulated failures
