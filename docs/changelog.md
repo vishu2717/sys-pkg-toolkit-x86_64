@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2026-07-01 12:46: test(proc): assert exit codes under simulated failures
 - 2026-07-01 15:10: feat(docker): optimize multi-stage build layers
 - 2026-07-01 20:16: feat(daemon): add background heartbeat and ping interval
+- 2026-07-01 22:32: refactor(daemon): separate socket listening from worker queue
