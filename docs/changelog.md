@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2026-07-04 13:45: feat(monitor): implement system resource tracking utility
 - 2026-07-04 17:06: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-07-04 20:24: test(cli): add unit test coverage for argument parsing
+- 2026-07-04 20:31: test(proc): assert exit codes under simulated failures
