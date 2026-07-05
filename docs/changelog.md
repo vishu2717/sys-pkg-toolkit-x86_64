@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2026-07-05 16:54: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-07-05 18:31: docs: add architecture specification for daemon supervisor
 - 2026-07-05 20:08: feat(proc): add process supervisor with automatic restart
+- 2026-07-05 23:05: fix(monitor): resolve division by zero on idle cpu calculation
