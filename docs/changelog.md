@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2026-07-04 20:24: test(cli): add unit test coverage for argument parsing
 - 2026-07-04 20:31: test(proc): assert exit codes under simulated failures
 - 2026-07-04 21:25: docs: document environment variables and override flags
+- 2026-07-05 13:08: refactor(monitor): optimize sampling frequency and buffer size
