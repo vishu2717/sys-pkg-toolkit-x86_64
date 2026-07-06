@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2026-07-05 23:18: test(cli): add unit test coverage for argument parsing
 - 2026-07-06 11:52: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-07-06 12:49: fix(cli): exit with non-zero status code on unknown command
+- 2026-07-06 17:41: feat(security): add permission auditing script for local binaries
