@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2026-07-06 17:41: feat(security): add permission auditing script for local binaries
 - 2026-07-06 18:23: refactor(cli): simplify command dispatch loop
 - 2026-07-06 22:49: test(daemon): verify supervisor restarts crashed processes
+- 2026-07-08 12:23: feat(daemon): add background heartbeat and ping interval
