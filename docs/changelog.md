@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-07-09 14:12: refactor(cli): simplify command dispatch loop
 - 2026-07-09 16:54: docs: add architecture specification for daemon supervisor
 - 2026-07-09 17:41: test(scripts): add bats verification for setup scripts
+- 2026-07-09 20:08: docs: document environment variables and override flags
