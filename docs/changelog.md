@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2026-07-09 17:41: test(scripts): add bats verification for setup scripts
 - 2026-07-09 20:08: docs: document environment variables and override flags
 - 2026-07-09 20:23: feat(daemon): add background heartbeat and ping interval
+- 2026-07-09 21:14: refactor(config): migrate global settings to immutable dataclass
