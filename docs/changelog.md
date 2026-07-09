@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-07-08 23:05: feat(daemon): add background heartbeat and ping interval
 - 2026-07-09 10:17: feat(shell): implement safe pipe execution helper
 - 2026-07-09 11:51: fix(proc): prevent zombie process reaping race condition
+- 2026-07-09 14:12: refactor(cli): simplify command dispatch loop
