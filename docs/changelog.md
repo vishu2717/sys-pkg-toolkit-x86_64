@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2026-07-09 21:14: refactor(config): migrate global settings to immutable dataclass
 - 2026-07-09 22:29: feat(metrics): track memory usage and cpu thread statistics
 - 2026-07-11 15:08: fix(bash): escape arguments in deployment script
+- 2026-07-11 23:22: refactor(monitor): optimize sampling frequency and buffer size
