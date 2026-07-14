@@ -370,3 +370,4 @@ All historical revisions and engineering milestones.
 - 2026-07-11 15:08: fix(bash): escape arguments in deployment script
 - 2026-07-11 23:22: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-07-14 16:15: feat(env): add automated dotfiles symlink manager
+- 2026-07-14 18:26: feat(config): add JSON and YAML configuration loader
