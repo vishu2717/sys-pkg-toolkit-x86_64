@@ -375,3 +375,4 @@ All historical revisions and engineering milestones.
 - 2026-07-15 17:28: test(daemon): verify supervisor restarts crashed processes
 - 2026-07-15 18:00: docs: document environment variables and override flags
 - 2026-07-15 20:31: fix(docker): specify non-root user in runtime container
+- 2026-07-15 20:36: test(daemon): verify supervisor restarts crashed processes
