@@ -373,3 +373,4 @@ All historical revisions and engineering milestones.
 - 2026-07-14 18:26: feat(config): add JSON and YAML configuration loader
 - 2026-07-14 21:47: feat(monitor): implement system resource tracking utility
 - 2026-07-15 17:28: test(daemon): verify supervisor restarts crashed processes
+- 2026-07-15 18:00: docs: document environment variables and override flags
