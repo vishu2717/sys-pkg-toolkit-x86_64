@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2026-07-18 15:59: feat(env): add automated dotfiles symlink manager
 - 2026-07-18 17:06: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-07-18 20:17: refactor(config): migrate global settings to immutable dataclass
+- 2026-07-18 21:35: refactor(config): migrate global settings to immutable dataclass
