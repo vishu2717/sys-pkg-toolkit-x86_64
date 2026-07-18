@@ -381,3 +381,4 @@ All historical revisions and engineering milestones.
 - 2026-07-17 13:55: refactor(cli): simplify command dispatch loop
 - 2026-07-17 19:39: refactor(scripts): modularize helper functions across shell scripts
 - 2026-07-18 10:12: test(cli): add unit test coverage for argument parsing
+- 2026-07-18 10:22: test(scripts): add bats verification for setup scripts
