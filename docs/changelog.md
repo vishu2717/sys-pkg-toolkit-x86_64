@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-07-19 18:44: feat(monitor): implement system resource tracking utility
 - 2026-07-19 22:30: perf: reduce process spawn latency using fork pool
 - 2026-07-19 22:35: feat(monitor): implement system resource tracking utility
+- 2026-07-19 22:46: fix(docker): specify non-root user in runtime container
