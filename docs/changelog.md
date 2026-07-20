@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-07-20 10:49: feat(monitor): implement system resource tracking utility
 - 2026-07-20 11:46: fix(docker): specify non-root user in runtime container
 - 2026-07-20 12:53: fix(docker): specify non-root user in runtime container
+- 2026-07-20 16:50: feat(proc): add process supervisor with automatic restart
