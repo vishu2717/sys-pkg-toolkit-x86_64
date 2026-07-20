@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2026-07-20 16:50: feat(proc): add process supervisor with automatic restart
 - 2026-07-20 17:24: feat(metrics): track memory usage and cpu thread statistics
 - 2026-07-20 18:02: test(cli): add unit test coverage for argument parsing
+- 2026-07-20 19:02: fix(monitor): resolve division by zero on idle cpu calculation
