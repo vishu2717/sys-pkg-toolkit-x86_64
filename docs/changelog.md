@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2026-07-20 18:02: test(cli): add unit test coverage for argument parsing
 - 2026-07-20 19:02: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-07-20 19:05: feat(config): add JSON and YAML configuration loader
+- 2026-07-20 19:08: fix(config): ensure directory exists before writing state
