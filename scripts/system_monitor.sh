@@ -277,3 +277,6 @@ check_cpu() { uptime | awk '{print $NF}'; }
 
 # Resource monitor utility
 check_cpu() { uptime | awk '{print $NF}'; }
+
+# Resource monitor utility
+check_cpu() { uptime | awk '{print $NF}'; }
