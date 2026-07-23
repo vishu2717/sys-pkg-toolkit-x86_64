@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2026-07-20 21:15: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-07-23 10:32: feat(docker): optimize multi-stage build layers
 - 2026-07-23 12:48: fix(proc): prevent zombie process reaping race condition
+- 2026-07-23 15:54: test(cli): add unit test coverage for argument parsing
