@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2026-07-26 18:21: fix(bash): escape arguments in deployment script
 - 2026-07-26 20:04: fix(config): ensure directory exists before writing state
 - 2026-07-26 21:00: feat(cli): add command-line argument parser for daemon
+- 2026-07-26 22:28: refactor(config): migrate global settings to immutable dataclass
