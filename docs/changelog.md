@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2026-07-26 12:37: docs: update changelog with recent utility enhancements
 - 2026-07-26 12:42: fix(proc): prevent zombie process reaping race condition
 - 2026-07-26 15:39: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-07-26 17:45: feat(metrics): track memory usage and cpu thread statistics
