@@ -276,3 +276,4 @@ All historical revisions and engineering milestones.
 - 2026-07-24 20:43: fix(config): ensure directory exists before writing state
 - 2026-07-25 15:24: feat(config): add JSON and YAML configuration loader
 - 2026-07-25 17:23: docs: update system administration runbooks and troubleshooting
+- 2026-07-26 10:13: docs: update changelog with recent utility enhancements
