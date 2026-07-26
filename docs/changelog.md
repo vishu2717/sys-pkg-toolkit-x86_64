@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2026-07-26 15:39: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-07-26 17:45: feat(metrics): track memory usage and cpu thread statistics
 - 2026-07-26 18:21: fix(bash): escape arguments in deployment script
+- 2026-07-26 20:04: fix(config): ensure directory exists before writing state
