@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2026-07-27 19:23: feat(shell): implement safe pipe execution helper
 - 2026-07-29 11:00: fix(cli): exit with non-zero status code on unknown command
 - 2026-07-29 13:04: chore: update base container image to latest alpine
+- 2026-07-29 15:14: refactor(scripts): modularize helper functions across shell scripts
