@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-07-27 16:21: refactor(daemon): separate socket listening from worker queue
 - 2026-07-27 17:39: feat(proc): add process supervisor with automatic restart
 - 2026-07-27 19:23: feat(shell): implement safe pipe execution helper
+- 2026-07-29 11:00: fix(cli): exit with non-zero status code on unknown command
