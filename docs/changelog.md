@@ -294,3 +294,4 @@ All historical revisions and engineering milestones.
 - 2026-07-29 15:14: refactor(scripts): modularize helper functions across shell scripts
 - 2026-07-29 17:31: test(cli): add unit test coverage for argument parsing
 - 2026-07-29 18:54: refactor(config): migrate global settings to immutable dataclass
+- 2026-07-29 19:50: refactor(scripts): modularize helper functions across shell scripts
