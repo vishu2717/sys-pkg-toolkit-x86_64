@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2026-07-29 19:50: refactor(scripts): modularize helper functions across shell scripts
 - 2026-07-30 16:00: fix(cli): exit with non-zero status code on unknown command
 - 2026-07-31 11:47: fix(bash): escape arguments in deployment script
+- 2026-07-31 13:58: refactor(scripts): modularize helper functions across shell scripts
