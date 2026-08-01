@@ -307,3 +307,4 @@ All historical revisions and engineering milestones.
 - 2026-08-01 13:58: fix(docker): specify non-root user in runtime container
 - 2026-08-01 14:06: fix(config): ensure directory exists before writing state
 - 2026-08-01 14:53: fix(cli): exit with non-zero status code on unknown command
+- 2026-08-01 17:07: docs: update system administration runbooks and troubleshooting
