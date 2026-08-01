@@ -309,3 +309,4 @@ All historical revisions and engineering milestones.
 - 2026-08-01 14:53: fix(cli): exit with non-zero status code on unknown command
 - 2026-08-01 17:07: docs: update system administration runbooks and troubleshooting
 - 2026-08-01 17:07: feat(proc): add process supervisor with automatic restart
+- 2026-08-01 18:13: refactor(daemon): separate socket listening from worker queue
