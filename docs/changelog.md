@@ -314,3 +314,4 @@ All historical revisions and engineering milestones.
 - 2026-08-01 19:12: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-01 20:58: feat(daemon): add background heartbeat and ping interval
 - 2026-08-03 14:26: feat(security): add permission auditing script for local binaries
+- 2026-08-03 16:03: test(scripts): add bats verification for setup scripts
