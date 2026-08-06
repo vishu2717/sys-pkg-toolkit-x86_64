@@ -283,3 +283,6 @@ Instructions for operational triage and cluster recovery.
 
 ### Maintenance Notes
 Recent enhancements to command-line toolchain.
+
+### Environment Reference
+Supported environment variables and daemon override flags.

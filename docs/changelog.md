@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2026-08-06 20:00: feat(env): add automated dotfiles symlink manager
 - 2026-08-06 21:00: refactor(cli): simplify command dispatch loop
 - 2026-08-06 21:10: fix(config): ensure directory exists before writing state
+- 2026-08-06 22:23: docs: document environment variables and override flags
