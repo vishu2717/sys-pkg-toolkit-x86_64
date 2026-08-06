@@ -329,3 +329,4 @@ All historical revisions and engineering milestones.
 - 2026-08-06 10:46: docs: update system administration runbooks and troubleshooting
 - 2026-08-06 14:19: test(proc): assert exit codes under simulated failures
 - 2026-08-06 15:24: refactor(config): migrate global settings to immutable dataclass
+- 2026-08-06 16:26: fix(proc): prevent zombie process reaping race condition
