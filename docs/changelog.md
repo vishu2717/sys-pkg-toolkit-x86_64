@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-08-05 16:40: feat(cli): add command-line argument parser for daemon
 - 2026-08-06 10:24: feat(cli): add command-line argument parser for daemon
 - 2026-08-06 10:35: fix(cli): exit with non-zero status code on unknown command
+- 2026-08-06 10:46: docs: update system administration runbooks and troubleshooting
