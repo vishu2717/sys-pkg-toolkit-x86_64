@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2026-08-06 15:24: refactor(config): migrate global settings to immutable dataclass
 - 2026-08-06 16:26: fix(proc): prevent zombie process reaping race condition
 - 2026-08-06 16:55: feat(shell): implement safe pipe execution helper
+- 2026-08-06 17:21: refactor(scripts): modularize helper functions across shell scripts
