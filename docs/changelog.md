@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2026-08-04 15:20: docs: document environment variables and override flags
 - 2026-08-05 10:00: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-05 16:40: feat(cli): add command-line argument parser for daemon
+- 2026-08-06 10:24: feat(cli): add command-line argument parser for daemon
