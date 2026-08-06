@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2026-08-06 17:28: docs: update changelog with recent utility enhancements
 - 2026-08-06 19:19: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-08-06 20:00: feat(env): add automated dotfiles symlink manager
+- 2026-08-06 21:00: refactor(cli): simplify command dispatch loop
