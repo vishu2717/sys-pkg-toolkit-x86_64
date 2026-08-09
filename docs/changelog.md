@@ -339,3 +339,4 @@ All historical revisions and engineering milestones.
 - 2026-08-06 21:10: fix(config): ensure directory exists before writing state
 - 2026-08-06 22:23: docs: document environment variables and override flags
 - 2026-08-09 14:21: perf: reduce process spawn latency using fork pool
+- 2026-08-09 15:55: feat(deploy): implement zero-downtime rolling reload
