@@ -341,3 +341,4 @@ All historical revisions and engineering milestones.
 - 2026-08-09 14:21: perf: reduce process spawn latency using fork pool
 - 2026-08-09 15:55: feat(deploy): implement zero-downtime rolling reload
 - 2026-08-09 18:26: fix(proc): prevent zombie process reaping race condition
+- 2026-08-09 20:49: refactor(cli): simplify command dispatch loop
