@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2026-08-09 20:49: refactor(cli): simplify command dispatch loop
 - 2026-08-10 11:02: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-10 12:51: feat(monitor): implement system resource tracking utility
+- 2026-08-10 15:50: docs: add architecture specification for daemon supervisor
