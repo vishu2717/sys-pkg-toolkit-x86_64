@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2026-08-10 19:01: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-10 19:55: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-10 21:27: docs: update system administration runbooks and troubleshooting
+- 2026-08-10 21:56: feat(sync): add rsync-based remote directory mirror utility
