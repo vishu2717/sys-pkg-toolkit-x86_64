@@ -349,3 +349,4 @@ All historical revisions and engineering milestones.
 - 2026-08-10 17:19: feat(docker): optimize multi-stage build layers
 - 2026-08-10 17:42: fix(cli): exit with non-zero status code on unknown command
 - 2026-08-10 19:01: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-08-10 19:55: fix(daemon): gracefully handle sigterm during log rotation
