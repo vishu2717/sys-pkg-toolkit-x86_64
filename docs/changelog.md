@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-08-12 10:04: test(proc): assert exit codes under simulated failures
 - 2026-08-12 14:28: feat(security): add permission auditing script for local binaries
 - 2026-08-12 17:11: test(daemon): verify supervisor restarts crashed processes
+- 2026-08-12 17:38: docs: document environment variables and override flags
