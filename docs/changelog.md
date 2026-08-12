@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2026-08-11 13:34: test(scripts): add bats verification for setup scripts
 - 2026-08-11 20:28: fix(cli): exit with non-zero status code on unknown command
 - 2026-08-12 10:04: test(proc): assert exit codes under simulated failures
+- 2026-08-12 14:28: feat(security): add permission auditing script for local binaries
