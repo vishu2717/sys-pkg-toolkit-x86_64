@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2026-08-13 15:47: fix(proc): prevent zombie process reaping race condition
 - 2026-08-13 17:56: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-08-13 21:16: feat(metrics): track memory usage and cpu thread statistics
+- 2026-08-13 23:21: fix(cli): exit with non-zero status code on unknown command
