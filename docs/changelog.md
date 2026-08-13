@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-08-13 11:41: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-13 12:39: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-08-13 15:47: fix(proc): prevent zombie process reaping race condition
+- 2026-08-13 17:56: refactor(monitor): optimize sampling frequency and buffer size
