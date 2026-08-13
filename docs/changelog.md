@@ -361,3 +361,4 @@ All historical revisions and engineering milestones.
 - 2026-08-12 17:38: docs: document environment variables and override flags
 - 2026-08-12 17:56: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-13 11:41: test(daemon): verify supervisor restarts crashed processes
+- 2026-08-13 12:39: fix(monitor): resolve division by zero on idle cpu calculation
