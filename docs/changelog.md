@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-08-15 12:51: feat(metrics): track memory usage and cpu thread statistics
 - 2026-08-15 18:29: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-15 20:34: feat(daemon): add background heartbeat and ping interval
+- 2026-08-15 22:49: docs: document environment variables and override flags
