@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2026-08-16 14:33: feat(monitor): implement system resource tracking utility
 - 2026-08-16 15:29: feat(deploy): implement zero-downtime rolling reload
 - 2026-08-16 16:48: feat(proc): add process supervisor with automatic restart
+- 2026-08-16 17:22: chore: configure shellcheck and ruff linter hooks
