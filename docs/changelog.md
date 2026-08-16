@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2026-08-16 16:48: feat(proc): add process supervisor with automatic restart
 - 2026-08-16 17:22: chore: configure shellcheck and ruff linter hooks
 - 2026-08-16 17:27: fix(cli): exit with non-zero status code on unknown command
+- 2026-08-16 17:31: refactor(monitor): optimize sampling frequency and buffer size
