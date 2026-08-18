@@ -384,3 +384,4 @@ All historical revisions and engineering milestones.
 - 2026-08-16 22:31: refactor(scripts): modularize helper functions across shell scripts
 - 2026-08-18 10:16: feat(cli): add command-line argument parser for daemon
 - 2026-08-18 11:15: feat(deploy): implement zero-downtime rolling reload
+- 2026-08-18 11:36: test(scripts): add bats verification for setup scripts
