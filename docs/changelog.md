@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-08-18 17:32: feat(metrics): track memory usage and cpu thread statistics
 - 2026-08-18 18:58: feat(security): add permission auditing script for local binaries
 - 2026-08-18 19:35: test(daemon): verify supervisor restarts crashed processes
+- 2026-08-18 20:53: test(cli): add unit test coverage for argument parsing
