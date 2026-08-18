@@ -390,3 +390,4 @@ All historical revisions and engineering milestones.
 - 2026-08-18 14:48: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-08-18 15:34: refactor(daemon): separate socket listening from worker queue
 - 2026-08-18 16:23: test(cli): add unit test coverage for argument parsing
+- 2026-08-18 17:15: docs: update changelog with recent utility enhancements
