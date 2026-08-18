@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2026-08-18 20:53: test(cli): add unit test coverage for argument parsing
 - 2026-08-18 21:09: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-08-18 23:00: test(proc): assert exit codes under simulated failures
+- 2026-08-18 23:28: test(scripts): add bats verification for setup scripts
