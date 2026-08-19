@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2026-08-18 23:28: test(scripts): add bats verification for setup scripts
 - 2026-08-19 10:47: refactor(config): migrate global settings to immutable dataclass
 - 2026-08-19 14:36: feat(proc): add process supervisor with automatic restart
+- 2026-08-19 15:06: feat(security): add permission auditing script for local binaries
