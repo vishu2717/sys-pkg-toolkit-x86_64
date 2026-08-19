@@ -261,3 +261,4 @@ All historical revisions and engineering milestones.
 - 2026-08-19 14:36: feat(proc): add process supervisor with automatic restart
 - 2026-08-19 15:06: feat(security): add permission auditing script for local binaries
 - 2026-08-19 15:54: test(cli): add unit test coverage for argument parsing
+- 2026-08-19 15:56: docs: update changelog with recent utility enhancements
