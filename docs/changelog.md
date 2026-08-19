@@ -262,3 +262,4 @@ All historical revisions and engineering milestones.
 - 2026-08-19 15:06: feat(security): add permission auditing script for local binaries
 - 2026-08-19 15:54: test(cli): add unit test coverage for argument parsing
 - 2026-08-19 15:56: docs: update changelog with recent utility enhancements
+- 2026-08-19 18:02: feat(sync): add rsync-based remote directory mirror utility
