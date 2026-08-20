@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 18:07: fix(proc): prevent zombie process reaping race condition
 - 2026-08-20 18:59: test(cli): add unit test coverage for argument parsing
 - 2026-08-20 19:26: feat(security): add permission auditing script for local binaries
+- 2026-08-20 19:42: docs: update system administration runbooks and troubleshooting
