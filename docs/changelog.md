@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 18:59: test(cli): add unit test coverage for argument parsing
 - 2026-08-20 19:26: feat(security): add permission auditing script for local binaries
 - 2026-08-20 19:42: docs: update system administration runbooks and troubleshooting
+- 2026-08-20 20:22: fix(monitor): resolve division by zero on idle cpu calculation
