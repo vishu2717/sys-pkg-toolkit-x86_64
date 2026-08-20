@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 19:42: docs: update system administration runbooks and troubleshooting
 - 2026-08-20 20:22: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-08-20 22:54: fix(bash): escape arguments in deployment script
+- 2026-08-20 23:00: feat(proc): add process supervisor with automatic restart
