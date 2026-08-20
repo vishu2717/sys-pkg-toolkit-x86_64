@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 14:32: feat(monitor): implement system resource tracking utility
 - 2026-08-20 15:06: refactor(config): migrate global settings to immutable dataclass
 - 2026-08-20 17:46: feat(security): add permission auditing script for local binaries
+- 2026-08-20 18:01: docs: document environment variables and override flags
