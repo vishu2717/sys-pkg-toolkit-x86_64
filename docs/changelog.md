@@ -270,3 +270,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 17:46: feat(security): add permission auditing script for local binaries
 - 2026-08-20 18:01: docs: document environment variables and override flags
 - 2026-08-20 18:07: fix(proc): prevent zombie process reaping race condition
+- 2026-08-20 18:59: test(cli): add unit test coverage for argument parsing
