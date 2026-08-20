@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 13:16: feat(metrics): track memory usage and cpu thread statistics
 - 2026-08-20 14:32: feat(monitor): implement system resource tracking utility
 - 2026-08-20 15:06: refactor(config): migrate global settings to immutable dataclass
+- 2026-08-20 17:46: feat(security): add permission auditing script for local binaries
