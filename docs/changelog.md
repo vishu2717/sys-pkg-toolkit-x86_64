@@ -277,3 +277,4 @@ All historical revisions and engineering milestones.
 - 2026-08-20 22:54: fix(bash): escape arguments in deployment script
 - 2026-08-20 23:00: feat(proc): add process supervisor with automatic restart
 - 2026-08-21 10:44: refactor(daemon): separate socket listening from worker queue
+- 2026-08-21 14:48: refactor(scripts): modularize helper functions across shell scripts
