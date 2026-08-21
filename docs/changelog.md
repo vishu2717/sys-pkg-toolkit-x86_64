@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2026-08-21 16:11: test(scripts): add bats verification for setup scripts
 - 2026-08-21 17:58: fix(config): ensure directory exists before writing state
 - 2026-08-21 21:15: feat(deploy): implement zero-downtime rolling reload
+- 2026-08-21 22:29: fix(cli): exit with non-zero status code on unknown command
