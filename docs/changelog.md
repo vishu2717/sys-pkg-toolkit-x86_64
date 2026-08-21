@@ -280,3 +280,4 @@ All historical revisions and engineering milestones.
 - 2026-08-21 14:48: refactor(scripts): modularize helper functions across shell scripts
 - 2026-08-21 16:11: test(scripts): add bats verification for setup scripts
 - 2026-08-21 17:58: fix(config): ensure directory exists before writing state
+- 2026-08-21 21:15: feat(deploy): implement zero-downtime rolling reload
