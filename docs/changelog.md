@@ -287,3 +287,4 @@ All historical revisions and engineering milestones.
 - 2026-08-23 16:47: refactor(config): migrate global settings to immutable dataclass
 - 2026-08-23 18:22: docs: update changelog with recent utility enhancements
 - 2026-08-23 18:42: feat(env): add automated dotfiles symlink manager
+- 2026-08-23 20:30: fix(docker): specify non-root user in runtime container
