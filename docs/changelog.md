@@ -285,3 +285,4 @@ All historical revisions and engineering milestones.
 - 2026-08-23 14:02: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-23 16:13: feat(daemon): add background heartbeat and ping interval
 - 2026-08-23 16:47: refactor(config): migrate global settings to immutable dataclass
+- 2026-08-23 18:22: docs: update changelog with recent utility enhancements
