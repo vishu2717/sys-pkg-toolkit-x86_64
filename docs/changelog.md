@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2026-08-21 22:29: fix(cli): exit with non-zero status code on unknown command
 - 2026-08-23 14:02: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-23 16:13: feat(daemon): add background heartbeat and ping interval
+- 2026-08-23 16:47: refactor(config): migrate global settings to immutable dataclass
