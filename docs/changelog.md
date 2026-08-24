@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 12:11: test(scripts): add bats verification for setup scripts
 - 2026-08-24 12:11: fix(cli): exit with non-zero status code on unknown command
 - 2026-08-24 12:59: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-08-24 13:14: feat(metrics): track memory usage and cpu thread statistics
