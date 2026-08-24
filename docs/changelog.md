@@ -297,3 +297,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 14:12: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-24 14:52: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-24 15:50: feat(shell): implement safe pipe execution helper
+- 2026-08-24 18:26: feat(env): add automated dotfiles symlink manager
