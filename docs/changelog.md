@@ -302,3 +302,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 19:37: feat(config): add JSON and YAML configuration loader
 - 2026-08-24 20:05: feat(sync): add rsync-based remote directory mirror utility
 - 2026-08-24 21:12: fix(bash): escape arguments in deployment script
+- 2026-08-24 21:18: feat(security): add permission auditing script for local binaries
