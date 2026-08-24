@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 21:12: fix(bash): escape arguments in deployment script
 - 2026-08-24 21:18: feat(security): add permission auditing script for local binaries
 - 2026-08-24 21:45: refactor(scripts): modularize helper functions across shell scripts
+- 2026-08-24 22:40: test(cli): add unit test coverage for argument parsing
