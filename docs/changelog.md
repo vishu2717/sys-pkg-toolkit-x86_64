@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 22:51: refactor(config): migrate global settings to immutable dataclass
 - 2026-08-25 12:36: perf: reduce process spawn latency using fork pool
 - 2026-08-25 13:37: feat(deploy): implement zero-downtime rolling reload
+- 2026-08-25 17:19: refactor(daemon): separate socket listening from worker queue
