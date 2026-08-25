@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2026-08-25 13:37: feat(deploy): implement zero-downtime rolling reload
 - 2026-08-25 17:19: refactor(daemon): separate socket listening from worker queue
 - 2026-08-25 21:07: fix(docker): specify non-root user in runtime container
+- 2026-08-25 21:42: docs: add architecture specification for daemon supervisor
