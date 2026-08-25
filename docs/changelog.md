@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2026-08-24 21:45: refactor(scripts): modularize helper functions across shell scripts
 - 2026-08-24 22:40: test(cli): add unit test coverage for argument parsing
 - 2026-08-24 22:51: refactor(config): migrate global settings to immutable dataclass
+- 2026-08-25 12:36: perf: reduce process spawn latency using fork pool
