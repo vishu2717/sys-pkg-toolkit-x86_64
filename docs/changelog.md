@@ -317,3 +317,4 @@ All historical revisions and engineering milestones.
 - 2026-08-25 23:19: feat(monitor): implement system resource tracking utility
 - 2026-08-26 11:48: feat(daemon): add background heartbeat and ping interval
 - 2026-08-26 15:28: feat(cli): add command-line argument parser for daemon
+- 2026-08-26 15:52: fix(cli): exit with non-zero status code on unknown command
