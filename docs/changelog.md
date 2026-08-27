@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 13:18: refactor(daemon): separate socket listening from worker queue
 - 2026-08-27 14:53: fix(proc): prevent zombie process reaping race condition
 - 2026-08-27 15:31: feat(daemon): add background heartbeat and ping interval
+- 2026-08-27 17:08: fix(docker): specify non-root user in runtime container
