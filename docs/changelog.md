@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 22:56: fix(docker): specify non-root user in runtime container
 - 2026-08-27 22:58: refactor(cli): simplify command dispatch loop
 - 2026-08-27 23:02: fix(docker): specify non-root user in runtime container
+- 2026-08-27 23:25: feat(sync): add rsync-based remote directory mirror utility
