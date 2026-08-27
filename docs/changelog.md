@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 20:20: refactor(cli): simplify command dispatch loop
 - 2026-08-27 22:53: feat(config): add JSON and YAML configuration loader
 - 2026-08-27 22:56: fix(docker): specify non-root user in runtime container
+- 2026-08-27 22:58: refactor(cli): simplify command dispatch loop
