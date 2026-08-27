@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 17:08: fix(docker): specify non-root user in runtime container
 - 2026-08-27 17:15: feat(monitor): implement system resource tracking utility
 - 2026-08-27 19:34: feat(docker): optimize multi-stage build layers
+- 2026-08-27 19:51: fix(config): ensure directory exists before writing state
