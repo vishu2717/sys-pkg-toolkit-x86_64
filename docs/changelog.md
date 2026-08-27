@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 19:34: feat(docker): optimize multi-stage build layers
 - 2026-08-27 19:51: fix(config): ensure directory exists before writing state
 - 2026-08-27 20:20: refactor(cli): simplify command dispatch loop
+- 2026-08-27 22:53: feat(config): add JSON and YAML configuration loader
