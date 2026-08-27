@@ -324,3 +324,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 11:29: feat(env): add automated dotfiles symlink manager
 - 2026-08-27 13:18: refactor(daemon): separate socket listening from worker queue
 - 2026-08-27 14:53: fix(proc): prevent zombie process reaping race condition
+- 2026-08-27 15:31: feat(daemon): add background heartbeat and ping interval
