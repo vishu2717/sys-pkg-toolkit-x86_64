@@ -323,3 +323,4 @@ All historical revisions and engineering milestones.
 - 2026-08-26 22:08: test(cli): add unit test coverage for argument parsing
 - 2026-08-27 11:29: feat(env): add automated dotfiles symlink manager
 - 2026-08-27 13:18: refactor(daemon): separate socket listening from worker queue
+- 2026-08-27 14:53: fix(proc): prevent zombie process reaping race condition
