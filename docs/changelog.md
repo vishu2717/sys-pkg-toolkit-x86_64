@@ -342,3 +342,4 @@ All historical revisions and engineering milestones.
 - 2026-08-28 16:33: feat(deploy): implement zero-downtime rolling reload
 - 2026-08-28 17:00: feat(metrics): track memory usage and cpu thread statistics
 - 2026-08-28 17:36: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-08-28 18:18: feat(config): add JSON and YAML configuration loader
