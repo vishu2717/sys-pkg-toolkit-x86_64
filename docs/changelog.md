@@ -344,3 +344,4 @@ All historical revisions and engineering milestones.
 - 2026-08-28 17:36: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-08-28 18:18: feat(config): add JSON and YAML configuration loader
 - 2026-08-28 19:50: feat(config): add JSON and YAML configuration loader
+- 2026-08-28 20:10: refactor(scripts): modularize helper functions across shell scripts
