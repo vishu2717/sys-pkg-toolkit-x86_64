@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2026-08-28 10:29: docs: add architecture specification for daemon supervisor
 - 2026-08-28 11:57: feat(proc): add process supervisor with automatic restart
 - 2026-08-28 13:17: test(daemon): verify supervisor restarts crashed processes
+- 2026-08-28 15:04: refactor(cli): simplify command dispatch loop
