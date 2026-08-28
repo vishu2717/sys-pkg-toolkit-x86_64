@@ -340,3 +340,4 @@ All historical revisions and engineering milestones.
 - 2026-08-28 13:17: test(daemon): verify supervisor restarts crashed processes
 - 2026-08-28 15:04: refactor(cli): simplify command dispatch loop
 - 2026-08-28 16:33: feat(deploy): implement zero-downtime rolling reload
+- 2026-08-28 17:00: feat(metrics): track memory usage and cpu thread statistics
