@@ -337,3 +337,4 @@ All historical revisions and engineering milestones.
 - 2026-08-27 23:25: feat(sync): add rsync-based remote directory mirror utility
 - 2026-08-28 10:29: docs: add architecture specification for daemon supervisor
 - 2026-08-28 11:57: feat(proc): add process supervisor with automatic restart
+- 2026-08-28 13:17: test(daemon): verify supervisor restarts crashed processes
