@@ -347,3 +347,4 @@ All historical revisions and engineering milestones.
 - 2026-08-28 20:10: refactor(scripts): modularize helper functions across shell scripts
 - 2026-08-29 16:38: feat(monitor): implement system resource tracking utility
 - 2026-08-29 20:37: feat(sync): add rsync-based remote directory mirror utility
+- 2026-08-30 12:49: fix(proc): prevent zombie process reaping race condition
