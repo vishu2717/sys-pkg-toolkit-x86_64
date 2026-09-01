@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2026-08-30 22:23: fix(bash): escape arguments in deployment script
 - 2026-08-31 16:52: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-08-31 19:32: fix(docker): specify non-root user in runtime container
+- 2026-09-01 19:09: fix(cli): exit with non-zero status code on unknown command
