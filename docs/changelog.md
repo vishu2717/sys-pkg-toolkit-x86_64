@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2026-09-02 18:45: test(proc): assert exit codes under simulated failures
 - 2026-09-02 18:58: feat(daemon): add background heartbeat and ping interval
 - 2026-09-02 20:02: feat(metrics): track memory usage and cpu thread statistics
+- 2026-09-02 21:53: feat(shell): implement safe pipe execution helper
