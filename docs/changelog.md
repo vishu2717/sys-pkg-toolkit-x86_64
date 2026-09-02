@@ -365,3 +365,4 @@ All historical revisions and engineering milestones.
 - 2026-09-02 18:02: fix(config): ensure directory exists before writing state
 - 2026-09-02 18:45: test(proc): assert exit codes under simulated failures
 - 2026-09-02 18:58: feat(daemon): add background heartbeat and ping interval
+- 2026-09-02 20:02: feat(metrics): track memory usage and cpu thread statistics
