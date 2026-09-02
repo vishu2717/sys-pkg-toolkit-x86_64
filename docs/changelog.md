@@ -363,3 +363,4 @@ All historical revisions and engineering milestones.
 - 2026-09-02 13:28: fix(bash): escape arguments in deployment script
 - 2026-09-02 14:57: test(cli): add unit test coverage for argument parsing
 - 2026-09-02 18:02: fix(config): ensure directory exists before writing state
+- 2026-09-02 18:45: test(proc): assert exit codes under simulated failures
