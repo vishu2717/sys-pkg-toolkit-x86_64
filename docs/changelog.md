@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-09-01 19:09: fix(cli): exit with non-zero status code on unknown command
 - 2026-09-01 23:00: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-09-01 23:27: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-09-02 12:01: test(proc): assert exit codes under simulated failures
