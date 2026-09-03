@@ -368,3 +368,4 @@ All historical revisions and engineering milestones.
 - 2026-09-02 20:02: feat(metrics): track memory usage and cpu thread statistics
 - 2026-09-02 21:53: feat(shell): implement safe pipe execution helper
 - 2026-09-03 13:39: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-03 15:01: feat(deploy): implement zero-downtime rolling reload
