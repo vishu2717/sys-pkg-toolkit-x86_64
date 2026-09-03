@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2026-09-03 19:21: docs: document environment variables and override flags
 - 2026-09-03 19:37: refactor(scripts): modularize helper functions across shell scripts
 - 2026-09-03 20:27: feat(shell): implement safe pipe execution helper
+- 2026-09-03 22:36: refactor(daemon): separate socket listening from worker queue
