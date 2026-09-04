@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2026-09-03 20:27: feat(shell): implement safe pipe execution helper
 - 2026-09-03 22:36: refactor(daemon): separate socket listening from worker queue
 - 2026-09-03 23:26: test(daemon): verify supervisor restarts crashed processes
+- 2026-09-04 10:23: feat(config): add JSON and YAML configuration loader
