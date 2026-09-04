@@ -376,3 +376,4 @@ All historical revisions and engineering milestones.
 - 2026-09-03 23:26: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-04 10:23: feat(config): add JSON and YAML configuration loader
 - 2026-09-04 10:28: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-04 11:12: fix(bash): escape arguments in deployment script
