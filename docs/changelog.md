@@ -379,3 +379,4 @@ All historical revisions and engineering milestones.
 - 2026-09-04 11:12: fix(bash): escape arguments in deployment script
 - 2026-09-04 12:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-09-04 19:01: refactor(monitor): optimize sampling frequency and buffer size
+- 2026-09-04 19:12: feat(proc): add process supervisor with automatic restart
