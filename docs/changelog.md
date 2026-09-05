@@ -385,3 +385,4 @@ All historical revisions and engineering milestones.
 - 2026-09-04 23:02: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-09-05 11:49: fix(proc): prevent zombie process reaping race condition
 - 2026-09-05 14:33: feat(monitor): implement system resource tracking utility
+- 2026-09-05 14:36: feat(deploy): implement zero-downtime rolling reload
