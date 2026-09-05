@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2026-09-05 11:49: fix(proc): prevent zombie process reaping race condition
 - 2026-09-05 14:33: feat(monitor): implement system resource tracking utility
 - 2026-09-05 14:36: feat(deploy): implement zero-downtime rolling reload
+- 2026-09-05 17:47: feat(security): add permission auditing script for local binaries
