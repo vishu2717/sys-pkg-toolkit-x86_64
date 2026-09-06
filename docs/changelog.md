@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-09-05 23:06: feat(proc): add process supervisor with automatic restart
 - 2026-09-06 12:55: test(scripts): add bats verification for setup scripts
 - 2026-09-06 15:26: refactor(cli): simplify command dispatch loop
+- 2026-09-06 17:48: test(daemon): verify supervisor restarts crashed processes
