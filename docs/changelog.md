@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2026-09-06 17:48: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-06 20:09: feat(monitor): implement system resource tracking utility
 - 2026-09-06 20:20: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-06 22:41: feat(config): add JSON and YAML configuration loader
