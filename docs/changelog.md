@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-09-06 20:20: refactor(scripts): modularize helper functions across shell scripts
 - 2026-09-06 22:41: feat(config): add JSON and YAML configuration loader
 - 2026-09-08 11:29: fix(proc): prevent zombie process reaping race condition
+- 2026-09-08 14:14: fix(daemon): gracefully handle sigterm during log rotation
