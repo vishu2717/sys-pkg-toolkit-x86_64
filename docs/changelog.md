@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2026-09-08 11:29: fix(proc): prevent zombie process reaping race condition
 - 2026-09-08 14:14: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-09-08 16:41: feat(metrics): track memory usage and cpu thread statistics
+- 2026-09-08 17:38: fix(docker): specify non-root user in runtime container
