@@ -264,3 +264,4 @@ All historical revisions and engineering milestones.
 - 2026-09-08 21:37: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-09-08 21:40: feat(shell): implement safe pipe execution helper
 - 2026-09-09 16:06: docs: add architecture specification for daemon supervisor
+- 2026-09-09 19:21: test(cli): add unit test coverage for argument parsing
