@@ -266,3 +266,4 @@ All historical revisions and engineering milestones.
 - 2026-09-09 16:06: docs: add architecture specification for daemon supervisor
 - 2026-09-09 19:21: test(cli): add unit test coverage for argument parsing
 - 2026-09-09 23:07: feat(deploy): implement zero-downtime rolling reload
+- 2026-09-10 12:15: feat(sync): add rsync-based remote directory mirror utility
