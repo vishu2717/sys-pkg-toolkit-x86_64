@@ -268,3 +268,4 @@ All historical revisions and engineering milestones.
 - 2026-09-09 23:07: feat(deploy): implement zero-downtime rolling reload
 - 2026-09-10 12:15: feat(sync): add rsync-based remote directory mirror utility
 - 2026-09-10 15:00: test(daemon): verify supervisor restarts crashed processes
+- 2026-09-10 16:28: feat(metrics): track memory usage and cpu thread statistics
