@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-09-10 12:15: feat(sync): add rsync-based remote directory mirror utility
 - 2026-09-10 15:00: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-10 16:28: feat(metrics): track memory usage and cpu thread statistics
+- 2026-09-10 17:14: feat(cli): add command-line argument parser for daemon
