@@ -271,3 +271,4 @@ All historical revisions and engineering milestones.
 - 2026-09-10 16:28: feat(metrics): track memory usage and cpu thread statistics
 - 2026-09-10 17:14: feat(cli): add command-line argument parser for daemon
 - 2026-09-10 22:07: test(daemon): verify supervisor restarts crashed processes
+- 2026-09-11 11:46: fix(monitor): resolve division by zero on idle cpu calculation
