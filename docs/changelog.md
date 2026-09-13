@@ -272,3 +272,4 @@ All historical revisions and engineering milestones.
 - 2026-09-10 17:14: feat(cli): add command-line argument parser for daemon
 - 2026-09-10 22:07: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-11 11:46: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-13 13:27: docs: update system administration runbooks and troubleshooting
