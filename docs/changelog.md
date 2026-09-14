@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-09-13 13:27: docs: update system administration runbooks and troubleshooting
 - 2026-09-13 14:40: fix(docker): specify non-root user in runtime container
 - 2026-09-14 10:23: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-14 11:28: test(proc): assert exit codes under simulated failures
