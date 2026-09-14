@@ -274,3 +274,4 @@ All historical revisions and engineering milestones.
 - 2026-09-11 11:46: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-09-13 13:27: docs: update system administration runbooks and troubleshooting
 - 2026-09-13 14:40: fix(docker): specify non-root user in runtime container
+- 2026-09-14 10:23: fix(daemon): gracefully handle sigterm during log rotation
