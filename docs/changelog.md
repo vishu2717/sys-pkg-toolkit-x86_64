@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2026-09-15 10:24: test(proc): assert exit codes under simulated failures
 - 2026-09-15 11:15: docs: update system administration runbooks and troubleshooting
 - 2026-09-15 20:37: fix(config): ensure directory exists before writing state
+- 2026-09-15 21:04: test(daemon): verify supervisor restarts crashed processes
