@@ -283,3 +283,4 @@ All historical revisions and engineering milestones.
 - 2026-09-15 20:37: fix(config): ensure directory exists before writing state
 - 2026-09-15 21:04: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-15 23:11: feat(shell): implement safe pipe execution helper
+- 2026-09-16 17:45: test(scripts): add bats verification for setup scripts
