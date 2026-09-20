@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-09-20 11:37: test(daemon): verify supervisor restarts crashed processes
 - 2026-09-20 13:06: docs: document environment variables and override flags
 - 2026-09-20 13:38: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-20 14:54: feat(docker): optimize multi-stage build layers
