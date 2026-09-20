@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-09-20 14:54: feat(docker): optimize multi-stage build layers
 - 2026-09-20 15:00: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-09-20 15:54: feat(docker): optimize multi-stage build layers
+- 2026-09-20 16:55: test(proc): assert exit codes under simulated failures
