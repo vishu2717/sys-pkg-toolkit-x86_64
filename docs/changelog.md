@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2026-09-18 18:02: feat(docker): optimize multi-stage build layers
 - 2026-09-20 10:04: feat(security): add permission auditing script for local binaries
 - 2026-09-20 11:37: test(daemon): verify supervisor restarts crashed processes
+- 2026-09-20 13:06: docs: document environment variables and override flags
