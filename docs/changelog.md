@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2026-09-20 19:24: feat(docker): optimize multi-stage build layers
 - 2026-09-20 20:08: test(scripts): add bats verification for setup scripts
 - 2026-09-20 20:17: test(scripts): add bats verification for setup scripts
+- 2026-09-20 20:20: refactor(scripts): modularize helper functions across shell scripts
