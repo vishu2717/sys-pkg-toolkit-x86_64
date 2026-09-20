@@ -289,3 +289,4 @@ All historical revisions and engineering milestones.
 - 2026-09-18 14:45: feat(shell): implement safe pipe execution helper
 - 2026-09-18 15:27: feat(daemon): add background heartbeat and ping interval
 - 2026-09-18 18:02: feat(docker): optimize multi-stage build layers
+- 2026-09-20 10:04: feat(security): add permission auditing script for local binaries
