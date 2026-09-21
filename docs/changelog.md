@@ -305,3 +305,4 @@ All historical revisions and engineering milestones.
 - 2026-09-20 20:25: fix(config): ensure directory exists before writing state
 - 2026-09-20 20:58: fix(config): ensure directory exists before writing state
 - 2026-09-20 23:17: feat(daemon): add background heartbeat and ping interval
+- 2026-09-21 10:02: feat(deploy): implement zero-downtime rolling reload
