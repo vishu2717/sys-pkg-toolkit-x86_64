@@ -308,3 +308,4 @@ All historical revisions and engineering milestones.
 - 2026-09-21 10:02: feat(deploy): implement zero-downtime rolling reload
 - 2026-09-21 13:30: docs: update changelog with recent utility enhancements
 - 2026-09-21 14:57: fix(daemon): gracefully handle sigterm during log rotation
+- 2026-09-21 16:56: refactor(daemon): separate socket listening from worker queue
