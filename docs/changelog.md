@@ -312,3 +312,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 10:33: refactor(config): migrate global settings to immutable dataclass
 - 2026-09-24 10:57: test(scripts): add bats verification for setup scripts
 - 2026-09-24 11:16: test(cli): add unit test coverage for argument parsing
+- 2026-09-24 11:18: fix(proc): prevent zombie process reaping race condition
