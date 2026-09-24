@@ -318,3 +318,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 11:53: fix(bash): escape arguments in deployment script
 - 2026-09-24 13:00: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-09-24 14:10: refactor(scripts): modularize helper functions across shell scripts
+- 2026-09-24 14:36: test(cli): add unit test coverage for argument parsing
