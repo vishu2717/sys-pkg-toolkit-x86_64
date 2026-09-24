@@ -315,3 +315,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 11:18: fix(proc): prevent zombie process reaping race condition
 - 2026-09-24 11:31: test(proc): assert exit codes under simulated failures
 - 2026-09-24 11:33: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-24 11:53: fix(bash): escape arguments in deployment script
