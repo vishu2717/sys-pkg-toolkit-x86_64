@@ -320,3 +320,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 14:10: refactor(scripts): modularize helper functions across shell scripts
 - 2026-09-24 14:36: test(cli): add unit test coverage for argument parsing
 - 2026-09-24 17:09: feat(daemon): add background heartbeat and ping interval
+- 2026-09-24 19:02: test(proc): assert exit codes under simulated failures
