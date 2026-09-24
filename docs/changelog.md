@@ -311,3 +311,4 @@ All historical revisions and engineering milestones.
 - 2026-09-21 16:56: refactor(daemon): separate socket listening from worker queue
 - 2026-09-24 10:33: refactor(config): migrate global settings to immutable dataclass
 - 2026-09-24 10:57: test(scripts): add bats verification for setup scripts
+- 2026-09-24 11:16: test(cli): add unit test coverage for argument parsing
