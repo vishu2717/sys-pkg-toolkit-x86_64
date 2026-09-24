@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 10:57: test(scripts): add bats verification for setup scripts
 - 2026-09-24 11:16: test(cli): add unit test coverage for argument parsing
 - 2026-09-24 11:18: fix(proc): prevent zombie process reaping race condition
+- 2026-09-24 11:31: test(proc): assert exit codes under simulated failures
