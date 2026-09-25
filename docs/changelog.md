@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2026-09-25 14:14: fix(bash): escape arguments in deployment script
 - 2026-09-25 14:32: fix(config): ensure directory exists before writing state
 - 2026-09-25 14:49: feat(docker): optimize multi-stage build layers
+- 2026-09-25 15:30: fix(docker): specify non-root user in runtime container
