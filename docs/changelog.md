@@ -332,3 +332,4 @@ All historical revisions and engineering milestones.
 - 2026-09-25 16:35: refactor(config): migrate global settings to immutable dataclass
 - 2026-09-25 20:23: test(proc): assert exit codes under simulated failures
 - 2026-09-25 20:49: feat(docker): optimize multi-stage build layers
+- 2026-09-25 21:38: chore: configure shellcheck and ruff linter hooks
