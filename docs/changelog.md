@@ -325,3 +325,4 @@ All historical revisions and engineering milestones.
 - 2026-09-24 20:47: fix(proc): prevent zombie process reaping race condition
 - 2026-09-24 22:28: chore: update base container image to latest alpine
 - 2026-09-25 12:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-25 14:14: fix(bash): escape arguments in deployment script
