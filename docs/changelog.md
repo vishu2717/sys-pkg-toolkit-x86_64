@@ -331,3 +331,4 @@ All historical revisions and engineering milestones.
 - 2026-09-25 15:30: fix(docker): specify non-root user in runtime container
 - 2026-09-25 16:35: refactor(config): migrate global settings to immutable dataclass
 - 2026-09-25 20:23: test(proc): assert exit codes under simulated failures
+- 2026-09-25 20:49: feat(docker): optimize multi-stage build layers
