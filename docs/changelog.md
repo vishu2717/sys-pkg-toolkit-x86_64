@@ -334,3 +334,4 @@ All historical revisions and engineering milestones.
 - 2026-09-25 20:49: feat(docker): optimize multi-stage build layers
 - 2026-09-25 21:38: chore: configure shellcheck and ruff linter hooks
 - 2026-09-25 23:05: refactor(config): migrate global settings to immutable dataclass
+- 2026-09-27 10:27: docs: update changelog with recent utility enhancements
