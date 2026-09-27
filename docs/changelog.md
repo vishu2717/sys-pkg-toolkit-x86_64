@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2026-09-27 12:00: fix(cli): exit with non-zero status code on unknown command
 - 2026-09-27 13:00: feat(config): add JSON and YAML configuration loader
 - 2026-09-27 14:09: feat(deploy): implement zero-downtime rolling reload
+- 2026-09-27 21:25: fix(cli): exit with non-zero status code on unknown command
