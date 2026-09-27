@@ -336,3 +336,4 @@ All historical revisions and engineering milestones.
 - 2026-09-25 23:05: refactor(config): migrate global settings to immutable dataclass
 - 2026-09-27 10:27: docs: update changelog with recent utility enhancements
 - 2026-09-27 12:00: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-27 13:00: feat(config): add JSON and YAML configuration loader
