@@ -348,3 +348,4 @@ All historical revisions and engineering milestones.
 - 2026-09-28 16:44: docs: update changelog with recent utility enhancements
 - 2026-09-28 17:44: feat(config): add JSON and YAML configuration loader
 - 2026-09-28 17:51: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-09-28 19:02: fix(docker): specify non-root user in runtime container
