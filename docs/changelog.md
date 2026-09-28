@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2026-09-28 11:31: fix(cli): exit with non-zero status code on unknown command
 - 2026-09-28 12:01: refactor(scripts): modularize helper functions across shell scripts
 - 2026-09-28 12:22: fix(proc): prevent zombie process reaping race condition
+- 2026-09-28 13:51: fix(cli): exit with non-zero status code on unknown command
