@@ -353,3 +353,4 @@ All historical revisions and engineering milestones.
 - 2026-09-28 19:59: docs: document environment variables and override flags
 - 2026-09-28 21:23: feat(metrics): track memory usage and cpu thread statistics
 - 2026-09-28 21:25: test(proc): assert exit codes under simulated failures
+- 2026-09-28 22:13: perf: reduce process spawn latency using fork pool
