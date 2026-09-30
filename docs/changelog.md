@@ -356,3 +356,4 @@ All historical revisions and engineering milestones.
 - 2026-09-28 22:13: perf: reduce process spawn latency using fork pool
 - 2026-09-28 22:40: feat(config): add JSON and YAML configuration loader
 - 2026-09-30 11:09: fix(cli): exit with non-zero status code on unknown command
+- 2026-09-30 13:16: docs: update changelog with recent utility enhancements
