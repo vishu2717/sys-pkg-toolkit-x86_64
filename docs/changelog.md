@@ -355,3 +355,4 @@ All historical revisions and engineering milestones.
 - 2026-09-28 21:25: test(proc): assert exit codes under simulated failures
 - 2026-09-28 22:13: perf: reduce process spawn latency using fork pool
 - 2026-09-28 22:40: feat(config): add JSON and YAML configuration loader
+- 2026-09-30 11:09: fix(cli): exit with non-zero status code on unknown command
