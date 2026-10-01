@@ -367,3 +367,4 @@ All historical revisions and engineering milestones.
 - 2026-10-01 13:31: feat(shell): implement safe pipe execution helper
 - 2026-10-01 14:32: feat(sync): add rsync-based remote directory mirror utility
 - 2026-10-01 17:19: feat(config): add JSON and YAML configuration loader
+- 2026-10-01 18:59: refactor(daemon): separate socket listening from worker queue
