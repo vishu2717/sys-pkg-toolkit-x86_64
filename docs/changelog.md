@@ -362,3 +362,4 @@ All historical revisions and engineering milestones.
 - 2026-09-30 18:35: docs: update system administration runbooks and troubleshooting
 - 2026-09-30 20:28: refactor(daemon): separate socket listening from worker queue
 - 2026-10-01 12:35: fix(bash): escape arguments in deployment script
+- 2026-10-01 13:16: feat(metrics): track memory usage and cpu thread statistics
