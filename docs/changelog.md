@@ -369,3 +369,4 @@ All historical revisions and engineering milestones.
 - 2026-10-01 17:19: feat(config): add JSON and YAML configuration loader
 - 2026-10-01 18:59: refactor(daemon): separate socket listening from worker queue
 - 2026-10-01 21:52: perf: reduce process spawn latency using fork pool
+- 2026-10-02 11:38: docs: update changelog with recent utility enhancements
