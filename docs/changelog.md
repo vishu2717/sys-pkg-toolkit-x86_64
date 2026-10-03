@@ -372,3 +372,4 @@ All historical revisions and engineering milestones.
 - 2026-10-02 11:38: docs: update changelog with recent utility enhancements
 - 2026-10-03 12:06: feat(security): add permission auditing script for local binaries
 - 2026-10-03 16:05: feat(metrics): track memory usage and cpu thread statistics
+- 2026-10-03 16:15: fix(monitor): resolve division by zero on idle cpu calculation
