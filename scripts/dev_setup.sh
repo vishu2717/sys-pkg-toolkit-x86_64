@@ -229,3 +229,6 @@ audit_perms() { find /usr/local/bin -type f -perm /4000; }
 # Modularized shell helpers
 
 # Modularized shell helpers
+
+# Audit permissions
+audit_perms() { find /usr/local/bin -type f -perm /4000; }
