@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2026-10-04 13:42: feat(shell): implement safe pipe execution helper
 - 2026-10-04 19:08: fix(docker): specify non-root user in runtime container
 - 2026-10-04 22:01: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-06 16:16: feat(metrics): track memory usage and cpu thread statistics
