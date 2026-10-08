@@ -383,3 +383,4 @@ All historical revisions and engineering milestones.
 - 2026-10-06 19:20: refactor(scripts): modularize helper functions across shell scripts
 - 2026-10-06 20:19: docs: update system administration runbooks and troubleshooting
 - 2026-10-08 10:44: fix(docker): specify non-root user in runtime container
+- 2026-10-08 17:00: feat(shell): implement safe pipe execution helper
