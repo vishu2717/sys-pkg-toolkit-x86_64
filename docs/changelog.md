@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2026-10-09 10:30: fix(docker): specify non-root user in runtime container
 - 2026-10-09 15:11: test(proc): assert exit codes under simulated failures
 - 2026-10-09 16:33: refactor(daemon): separate socket listening from worker queue
+- 2026-10-09 19:10: test(proc): assert exit codes under simulated failures
