@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2026-10-08 19:58: fix(proc): prevent zombie process reaping race condition
 - 2026-10-08 23:08: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-09 10:30: fix(docker): specify non-root user in runtime container
+- 2026-10-09 15:11: test(proc): assert exit codes under simulated failures
