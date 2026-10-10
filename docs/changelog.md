@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2026-10-10 14:39: style: enforce consistent shell quoting and indentation
 - 2026-10-10 15:06: refactor(monitor): optimize sampling frequency and buffer size
 - 2026-10-10 19:02: fix(proc): prevent zombie process reaping race condition
+- 2026-10-10 19:12: fix(monitor): resolve division by zero on idle cpu calculation
