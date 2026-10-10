@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-10-09 19:10: test(proc): assert exit codes under simulated failures
 - 2026-10-09 20:28: refactor(daemon): separate socket listening from worker queue
 - 2026-10-09 23:02: feat(config): add JSON and YAML configuration loader
+- 2026-10-10 11:29: docs: document environment variables and override flags
