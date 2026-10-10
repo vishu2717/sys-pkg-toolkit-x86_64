@@ -394,3 +394,4 @@ All historical revisions and engineering milestones.
 - 2026-10-09 23:02: feat(config): add JSON and YAML configuration loader
 - 2026-10-10 11:29: docs: document environment variables and override flags
 - 2026-10-10 14:39: style: enforce consistent shell quoting and indentation
+- 2026-10-10 15:06: refactor(monitor): optimize sampling frequency and buffer size
