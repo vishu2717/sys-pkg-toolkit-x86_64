@@ -265,3 +265,4 @@ All historical revisions and engineering milestones.
 - 2026-10-11 14:26: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-11 15:44: feat(env): add automated dotfiles symlink manager
 - 2026-10-11 16:27: refactor(daemon): separate socket listening from worker queue
+- 2026-10-11 17:38: fix(config): ensure directory exists before writing state
