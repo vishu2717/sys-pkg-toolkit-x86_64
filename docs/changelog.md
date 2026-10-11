@@ -269,3 +269,4 @@ All historical revisions and engineering milestones.
 - 2026-10-11 18:00: fix(bash): escape arguments in deployment script
 - 2026-10-11 20:17: fix(proc): prevent zombie process reaping race condition
 - 2026-10-11 20:31: feat(deploy): implement zero-downtime rolling reload
+- 2026-10-11 23:08: fix(cli): exit with non-zero status code on unknown command
