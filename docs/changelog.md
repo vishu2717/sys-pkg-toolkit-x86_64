@@ -259,3 +259,4 @@ All historical revisions and engineering milestones.
 - 2026-10-10 23:04: test(daemon): verify supervisor restarts crashed processes
 - 2026-10-11 10:31: fix(proc): prevent zombie process reaping race condition
 - 2026-10-11 10:33: fix(docker): specify non-root user in runtime container
+- 2026-10-11 13:14: docs: update system administration runbooks and troubleshooting
