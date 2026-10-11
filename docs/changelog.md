@@ -263,3 +263,4 @@ All historical revisions and engineering milestones.
 - 2026-10-11 13:35: fix(bash): escape arguments in deployment script
 - 2026-10-11 14:06: feat(cli): add command-line argument parser for daemon
 - 2026-10-11 14:26: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-11 15:44: feat(env): add automated dotfiles symlink manager
