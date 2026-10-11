@@ -267,3 +267,4 @@ All historical revisions and engineering milestones.
 - 2026-10-11 16:27: refactor(daemon): separate socket listening from worker queue
 - 2026-10-11 17:38: fix(config): ensure directory exists before writing state
 - 2026-10-11 18:00: fix(bash): escape arguments in deployment script
+- 2026-10-11 20:17: fix(proc): prevent zombie process reaping race condition
