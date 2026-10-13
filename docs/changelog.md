@@ -273,3 +273,4 @@ All historical revisions and engineering milestones.
 - 2026-10-12 12:28: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-10-12 17:22: feat(daemon): add background heartbeat and ping interval
 - 2026-10-12 17:33: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-13 10:30: feat(docker): optimize multi-stage build layers
