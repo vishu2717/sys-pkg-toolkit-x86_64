@@ -281,3 +281,4 @@ All historical revisions and engineering milestones.
 - 2026-10-13 14:34: feat(sync): add rsync-based remote directory mirror utility
 - 2026-10-13 16:02: refactor(daemon): separate socket listening from worker queue
 - 2026-10-13 20:23: feat(daemon): add background heartbeat and ping interval
+- 2026-10-13 20:33: test(scripts): add bats verification for setup scripts
