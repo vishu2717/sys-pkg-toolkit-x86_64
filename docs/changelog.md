@@ -275,3 +275,4 @@ All historical revisions and engineering milestones.
 - 2026-10-12 17:33: refactor(scripts): modularize helper functions across shell scripts
 - 2026-10-13 10:30: feat(docker): optimize multi-stage build layers
 - 2026-10-13 11:20: test(proc): assert exit codes under simulated failures
+- 2026-10-13 11:36: feat(cli): add command-line argument parser for daemon
