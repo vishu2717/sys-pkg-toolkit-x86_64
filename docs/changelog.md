@@ -279,3 +279,4 @@ All historical revisions and engineering milestones.
 - 2026-10-13 12:02: feat(security): add permission auditing script for local binaries
 - 2026-10-13 12:38: test(daemon): verify supervisor restarts crashed processes
 - 2026-10-13 14:34: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-13 16:02: refactor(daemon): separate socket listening from worker queue
