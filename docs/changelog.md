@@ -288,3 +288,4 @@ All historical revisions and engineering milestones.
 - 2026-10-14 13:40: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-14 14:22: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-10-14 16:15: feat(security): add permission auditing script for local binaries
+- 2026-10-14 18:06: fix(cli): exit with non-zero status code on unknown command
