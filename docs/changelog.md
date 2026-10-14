@@ -284,3 +284,4 @@ All historical revisions and engineering milestones.
 - 2026-10-13 20:33: test(scripts): add bats verification for setup scripts
 - 2026-10-13 20:43: test(cli): add unit test coverage for argument parsing
 - 2026-10-13 21:53: fix(docker): specify non-root user in runtime container
+- 2026-10-14 12:36: refactor(cli): simplify command dispatch loop
