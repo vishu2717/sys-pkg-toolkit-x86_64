@@ -286,3 +286,4 @@ All historical revisions and engineering milestones.
 - 2026-10-13 21:53: fix(docker): specify non-root user in runtime container
 - 2026-10-14 12:36: refactor(cli): simplify command dispatch loop
 - 2026-10-14 13:40: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-14 14:22: fix(daemon): gracefully handle sigterm during log rotation
