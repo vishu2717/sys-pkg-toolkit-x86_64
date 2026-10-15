@@ -291,3 +291,4 @@ All historical revisions and engineering milestones.
 - 2026-10-14 18:06: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-14 19:41: feat(cli): add command-line argument parser for daemon
 - 2026-10-14 20:11: docs: add architecture specification for daemon supervisor
+- 2026-10-15 11:37: fix(docker): specify non-root user in runtime container
