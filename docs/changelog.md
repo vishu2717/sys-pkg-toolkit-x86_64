@@ -296,3 +296,4 @@ All historical revisions and engineering milestones.
 - 2026-10-15 16:13: fix(proc): prevent zombie process reaping race condition
 - 2026-10-15 18:18: fix(proc): prevent zombie process reaping race condition
 - 2026-10-15 20:26: fix(config): ensure directory exists before writing state
+- 2026-10-15 21:08: test(proc): assert exit codes under simulated failures
