@@ -293,3 +293,4 @@ All historical revisions and engineering milestones.
 - 2026-10-14 20:11: docs: add architecture specification for daemon supervisor
 - 2026-10-15 11:37: fix(docker): specify non-root user in runtime container
 - 2026-10-15 15:17: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-15 16:13: fix(proc): prevent zombie process reaping race condition
