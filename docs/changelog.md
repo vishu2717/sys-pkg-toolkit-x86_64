@@ -298,3 +298,4 @@ All historical revisions and engineering milestones.
 - 2026-10-15 20:26: fix(config): ensure directory exists before writing state
 - 2026-10-15 21:08: test(proc): assert exit codes under simulated failures
 - 2026-10-17 12:03: feat(sync): add rsync-based remote directory mirror utility
+- 2026-10-17 12:46: fix(proc): prevent zombie process reaping race condition
