@@ -301,3 +301,4 @@ All historical revisions and engineering milestones.
 - 2026-10-17 12:46: fix(proc): prevent zombie process reaping race condition
 - 2026-10-17 16:08: refactor(config): migrate global settings to immutable dataclass
 - 2026-10-17 16:29: refactor(config): migrate global settings to immutable dataclass
+- 2026-10-17 16:31: feat(metrics): track memory usage and cpu thread statistics
