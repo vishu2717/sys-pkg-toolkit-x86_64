@@ -306,3 +306,4 @@ All historical revisions and engineering milestones.
 - 2026-10-17 19:09: test(daemon): verify supervisor restarts crashed processes
 - 2026-10-18 13:20: test(scripts): add bats verification for setup scripts
 - 2026-10-18 14:26: feat(shell): implement safe pipe execution helper
+- 2026-10-18 17:13: refactor(scripts): modularize helper functions across shell scripts
