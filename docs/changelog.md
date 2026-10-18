@@ -310,3 +310,4 @@ All historical revisions and engineering milestones.
 - 2026-10-18 18:03: fix(bash): escape arguments in deployment script
 - 2026-10-18 19:25: feat(daemon): add background heartbeat and ping interval
 - 2026-10-18 20:04: test(cli): add unit test coverage for argument parsing
+- 2026-10-18 20:54: refactor(config): migrate global settings to immutable dataclass
