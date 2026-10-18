@@ -304,3 +304,4 @@ All historical revisions and engineering milestones.
 - 2026-10-17 16:31: feat(metrics): track memory usage and cpu thread statistics
 - 2026-10-17 18:54: perf: reduce process spawn latency using fork pool
 - 2026-10-17 19:09: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-18 13:20: test(scripts): add bats verification for setup scripts
