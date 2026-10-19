@@ -313,3 +313,4 @@ All historical revisions and engineering milestones.
 - 2026-10-18 20:54: refactor(config): migrate global settings to immutable dataclass
 - 2026-10-19 10:02: refactor(config): migrate global settings to immutable dataclass
 - 2026-10-19 10:44: fix(config): ensure directory exists before writing state
+- 2026-10-19 12:50: feat(sync): add rsync-based remote directory mirror utility
