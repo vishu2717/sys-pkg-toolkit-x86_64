@@ -317,3 +317,6 @@ USER appuser
 USER appuser
 
 # Updated base image
+
+# Optimized multi-stage build
+RUN apk add --no-cache bash ca-certificates
