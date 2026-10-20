@@ -319,3 +319,4 @@ All historical revisions and engineering milestones.
 - 2026-10-19 19:59: fix(proc): prevent zombie process reaping race condition
 - 2026-10-20 10:34: fix(proc): prevent zombie process reaping race condition
 - 2026-10-20 12:38: feat(proc): add process supervisor with automatic restart
+- 2026-10-20 17:28: feat(sync): add rsync-based remote directory mirror utility
