@@ -326,3 +326,4 @@ All historical revisions and engineering milestones.
 - 2026-10-20 21:40: feat(config): add JSON and YAML configuration loader
 - 2026-10-20 22:22: feat(env): add automated dotfiles symlink manager
 - 2026-10-21 15:30: test(proc): assert exit codes under simulated failures
+- 2026-10-21 18:30: style: enforce consistent shell quoting and indentation
