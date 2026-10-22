@@ -330,3 +330,4 @@ All historical revisions and engineering milestones.
 - 2026-10-21 21:52: docs: update system administration runbooks and troubleshooting
 - 2026-10-22 10:47: test(scripts): add bats verification for setup scripts
 - 2026-10-22 11:10: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-10-22 13:03: feat(env): add automated dotfiles symlink manager
