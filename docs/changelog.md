@@ -328,3 +328,4 @@ All historical revisions and engineering milestones.
 - 2026-10-21 15:30: test(proc): assert exit codes under simulated failures
 - 2026-10-21 18:30: style: enforce consistent shell quoting and indentation
 - 2026-10-21 21:52: docs: update system administration runbooks and troubleshooting
+- 2026-10-22 10:47: test(scripts): add bats verification for setup scripts
