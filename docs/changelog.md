@@ -335,3 +335,4 @@ All historical revisions and engineering milestones.
 - 2026-10-22 18:48: feat(config): add JSON and YAML configuration loader
 - 2026-10-22 19:22: refactor(scripts): modularize helper functions across shell scripts
 - 2026-10-22 19:59: test(daemon): verify supervisor restarts crashed processes
+- 2026-10-24 10:44: docs: update system administration runbooks and troubleshooting
