@@ -338,3 +338,4 @@ All historical revisions and engineering milestones.
 - 2026-10-24 10:44: docs: update system administration runbooks and troubleshooting
 - 2026-10-24 16:12: fix(daemon): gracefully handle sigterm during log rotation
 - 2026-10-24 22:16: refactor(scripts): modularize helper functions across shell scripts
+- 2026-10-25 10:04: refactor(monitor): optimize sampling frequency and buffer size
