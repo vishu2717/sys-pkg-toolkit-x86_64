@@ -343,3 +343,4 @@ All historical revisions and engineering milestones.
 - 2026-10-25 20:51: feat(daemon): add background heartbeat and ping interval
 - 2026-10-25 21:09: feat(daemon): add background heartbeat and ping interval
 - 2026-10-25 21:12: fix(docker): specify non-root user in runtime container
+- 2026-10-26 12:46: feat(security): add permission auditing script for local binaries
