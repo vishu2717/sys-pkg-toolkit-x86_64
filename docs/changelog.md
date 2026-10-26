@@ -345,3 +345,4 @@ All historical revisions and engineering milestones.
 - 2026-10-25 21:12: fix(docker): specify non-root user in runtime container
 - 2026-10-26 12:46: feat(security): add permission auditing script for local binaries
 - 2026-10-26 13:44: refactor(cli): simplify command dispatch loop
+- 2026-10-26 15:41: feat(config): add JSON and YAML configuration loader
