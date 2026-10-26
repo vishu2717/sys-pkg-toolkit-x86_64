@@ -350,3 +350,4 @@ All historical revisions and engineering milestones.
 - 2026-10-26 19:22: test(scripts): add bats verification for setup scripts
 - 2026-10-26 20:16: feat(docker): optimize multi-stage build layers
 - 2026-10-26 23:07: feat(env): add automated dotfiles symlink manager
+- 2026-10-26 23:28: docs: update changelog with recent utility enhancements
