@@ -360,3 +360,4 @@ All historical revisions and engineering milestones.
 - 2026-10-28 17:33: refactor(daemon): separate socket listening from worker queue
 - 2026-10-28 21:49: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-28 21:50: docs: document environment variables and override flags
+- 2026-10-28 22:03: fix(bash): escape arguments in deployment script
