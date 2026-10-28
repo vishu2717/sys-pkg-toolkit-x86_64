@@ -352,3 +352,4 @@ All historical revisions and engineering milestones.
 - 2026-10-26 23:07: feat(env): add automated dotfiles symlink manager
 - 2026-10-26 23:28: docs: update changelog with recent utility enhancements
 - 2026-10-28 10:06: feat(deploy): implement zero-downtime rolling reload
+- 2026-10-28 10:12: test(cli): add unit test coverage for argument parsing
