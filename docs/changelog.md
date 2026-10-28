@@ -351,3 +351,4 @@ All historical revisions and engineering milestones.
 - 2026-10-26 20:16: feat(docker): optimize multi-stage build layers
 - 2026-10-26 23:07: feat(env): add automated dotfiles symlink manager
 - 2026-10-26 23:28: docs: update changelog with recent utility enhancements
+- 2026-10-28 10:06: feat(deploy): implement zero-downtime rolling reload
