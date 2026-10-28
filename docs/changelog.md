@@ -358,3 +358,4 @@ All historical revisions and engineering milestones.
 - 2026-10-28 14:35: feat(env): add automated dotfiles symlink manager
 - 2026-10-28 16:03: perf: reduce process spawn latency using fork pool
 - 2026-10-28 17:33: refactor(daemon): separate socket listening from worker queue
+- 2026-10-28 21:49: fix(cli): exit with non-zero status code on unknown command
