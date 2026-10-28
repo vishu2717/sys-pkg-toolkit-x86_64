@@ -354,3 +354,4 @@ All historical revisions and engineering milestones.
 - 2026-10-28 10:06: feat(deploy): implement zero-downtime rolling reload
 - 2026-10-28 10:12: test(cli): add unit test coverage for argument parsing
 - 2026-10-28 11:09: test(proc): assert exit codes under simulated failures
+- 2026-10-28 11:10: test(daemon): verify supervisor restarts crashed processes
