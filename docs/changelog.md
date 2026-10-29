@@ -364,3 +364,4 @@ All historical revisions and engineering milestones.
 - 2026-10-28 22:44: refactor(scripts): modularize helper functions across shell scripts
 - 2026-10-29 15:04: feat(env): add automated dotfiles symlink manager
 - 2026-10-29 16:44: refactor(daemon): separate socket listening from worker queue
+- 2026-10-29 19:51: refactor(cli): simplify command dispatch loop
