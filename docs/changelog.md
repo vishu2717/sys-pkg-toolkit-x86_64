@@ -371,3 +371,4 @@ All historical revisions and engineering milestones.
 - 2026-10-31 13:02: chore: configure shellcheck and ruff linter hooks
 - 2026-10-31 13:14: fix(cli): exit with non-zero status code on unknown command
 - 2026-10-31 16:57: chore: update base container image to latest alpine
+- 2026-10-31 17:46: fix(monitor): resolve division by zero on idle cpu calculation
