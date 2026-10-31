@@ -366,3 +366,4 @@ All historical revisions and engineering milestones.
 - 2026-10-29 16:44: refactor(daemon): separate socket listening from worker queue
 - 2026-10-29 19:51: refactor(cli): simplify command dispatch loop
 - 2026-10-29 21:17: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 11:23: feat(config): add JSON and YAML configuration loader
