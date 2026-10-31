@@ -374,3 +374,4 @@ All historical revisions and engineering milestones.
 - 2026-10-31 17:46: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-10-31 18:15: fix(config): ensure directory exists before writing state
 - 2026-10-31 20:38: fix(cli): exit with non-zero status code on unknown command
+- 2026-10-31 21:09: refactor(scripts): modularize helper functions across shell scripts
