@@ -378,3 +378,4 @@ All historical revisions and engineering milestones.
 - 2026-10-31 21:20: feat(security): add permission auditing script for local binaries
 - 2026-10-31 23:03: feat(daemon): add background heartbeat and ping interval
 - 2026-11-01 10:53: test(proc): assert exit codes under simulated failures
+- 2026-11-01 12:57: feat(cli): add command-line argument parser for daemon
