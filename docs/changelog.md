@@ -387,3 +387,4 @@ All historical revisions and engineering milestones.
 - 2026-11-02 13:37: feat(sync): add rsync-based remote directory mirror utility
 - 2026-11-02 14:51: refactor(config): migrate global settings to immutable dataclass
 - 2026-11-02 16:03: feat(deploy): implement zero-downtime rolling reload
+- 2026-11-02 20:55: perf: reduce process spawn latency using fork pool
