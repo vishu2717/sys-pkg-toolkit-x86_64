@@ -386,3 +386,4 @@ All historical revisions and engineering milestones.
 - 2026-11-01 23:05: feat(metrics): track memory usage and cpu thread statistics
 - 2026-11-02 13:37: feat(sync): add rsync-based remote directory mirror utility
 - 2026-11-02 14:51: refactor(config): migrate global settings to immutable dataclass
+- 2026-11-02 16:03: feat(deploy): implement zero-downtime rolling reload
