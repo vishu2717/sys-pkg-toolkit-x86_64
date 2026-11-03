@@ -389,3 +389,4 @@ All historical revisions and engineering milestones.
 - 2026-11-02 16:03: feat(deploy): implement zero-downtime rolling reload
 - 2026-11-02 20:55: perf: reduce process spawn latency using fork pool
 - 2026-11-03 16:40: test(scripts): add bats verification for setup scripts
+- 2026-11-03 17:41: fix(docker): specify non-root user in runtime container
