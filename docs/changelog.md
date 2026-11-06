@@ -260,3 +260,4 @@ All historical revisions and engineering milestones.
 - 2026-11-06 19:16: fix(monitor): resolve division by zero on idle cpu calculation
 - 2026-11-06 20:02: refactor(daemon): separate socket listening from worker queue
 - 2026-11-06 21:04: feat(sync): add rsync-based remote directory mirror utility
+- 2026-11-06 22:50: fix(daemon): gracefully handle sigterm during log rotation
