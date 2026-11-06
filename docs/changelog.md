@@ -397,3 +397,4 @@ All historical revisions and engineering milestones.
 - 2026-11-06 12:37: feat(sync): add rsync-based remote directory mirror utility
 - 2026-11-06 12:46: feat(monitor): implement system resource tracking utility
 - 2026-11-06 18:07: test(proc): assert exit codes under simulated failures
+- 2026-11-06 18:39: fix(cli): exit with non-zero status code on unknown command
