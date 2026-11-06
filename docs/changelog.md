@@ -396,3 +396,4 @@ All historical revisions and engineering milestones.
 - 2026-11-06 11:52: feat(config): add JSON and YAML configuration loader
 - 2026-11-06 12:37: feat(sync): add rsync-based remote directory mirror utility
 - 2026-11-06 12:46: feat(monitor): implement system resource tracking utility
+- 2026-11-06 18:07: test(proc): assert exit codes under simulated failures
