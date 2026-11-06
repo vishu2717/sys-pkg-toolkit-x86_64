@@ -392,3 +392,4 @@ All historical revisions and engineering milestones.
 - 2026-11-03 17:41: fix(docker): specify non-root user in runtime container
 - 2026-11-03 20:01: docs: add architecture specification for daemon supervisor
 - 2026-11-03 21:31: feat(metrics): track memory usage and cpu thread statistics
+- 2026-11-06 10:02: feat(docker): optimize multi-stage build layers
