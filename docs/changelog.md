@@ -258,3 +258,4 @@ All historical revisions and engineering milestones.
 - 2026-11-06 18:07: test(proc): assert exit codes under simulated failures
 - 2026-11-06 18:39: fix(cli): exit with non-zero status code on unknown command
 - 2026-11-06 19:16: fix(monitor): resolve division by zero on idle cpu calculation
+- 2026-11-06 20:02: refactor(daemon): separate socket listening from worker queue
